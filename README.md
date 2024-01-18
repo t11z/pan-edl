@@ -1,4 +1,4 @@
-# pan-edl
+# Palo Alto Networks External Dynamic Lists
 [![Hourly update](https://github.com/t11z/pan-edl/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/t11z/pan-edl/actions/workflows/main.yml)
 
 External Dynamic Lists that can be consumed by Palo Alto Networks firewalls
