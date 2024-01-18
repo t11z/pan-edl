@@ -21,7 +21,8 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git pull origin main --rebase
+        git fetch origin main
+        git rebase origin/main
         git add debian-mirrors/debian-mirrors.txt
         git commit -m "Update Debian Mirror list" -a || echo "No changes to commit"
         git push
@@ -42,7 +43,8 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git pull origin main --rebase
+        git fetch origin main
+        git rebase origin/main
         git add ubuntu-mirrors/ubuntu-mirrors.txt
         git commit -m "Update Ubuntu Mirror list" -a || echo "No changes to commit"
         git push
