@@ -12,13 +12,15 @@ tables = soup.find_all('table')
 domains = []
 
 for table in tables:
-    links = table.find_all('a')
-    for link in links:
-        href = link.get('href')
-        if href:
-            domain = urlparse(href).netloc
-            domains.append(domain)
+  links = table.find_all('a')
+  for link in links:
+    href = link.get('href')
+    if href:
+      domain = urlparse(href).netloc
+      if domain:
+        domains.append(domain)
+                
 unique_domains = list(set(domains))
 with open('debian-mirrors/debian-mirrors.txt', 'w') as file:
-    for domain in unique_domains:
-        file.write(domain + '/\n')
+  for domain in unique_domains:
+    file.write(domain + '/\n')
