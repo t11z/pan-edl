@@ -17,7 +17,8 @@ for table in tables:
         href = link.get('href')
         if href:
             domain = urlparse(href).netloc
-            domains.append(domain)
+            if domain:
+                domains.append(domain)
 
 unique_domains = list(set(domains))
 with open('ubuntu-mirrors/ubuntu-mirrors.txt', 'w') as file:
