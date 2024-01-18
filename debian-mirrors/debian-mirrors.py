@@ -19,6 +19,6 @@ for table in tables:
             domain = urlparse(href).netloc
             domains.append(domain)
 unique_domains = list(set(domains))
-with open('debian-mirrors.txt', 'w') as file:
+with open('debian-mirrors/debian-mirrors.txt', 'w') as file:
     for domain in unique_domains:
         file.write(domain + '/\n')
