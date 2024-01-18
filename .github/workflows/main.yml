@@ -21,8 +21,9 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git fetch origin main
-        git rebase origin/main
+        git stash
+        git pull origin main
+        git stash pop
         git add debian-mirrors/debian-mirrors.txt
         git commit -m "Update Debian Mirror list" -a || echo "No changes to commit"
         git push
