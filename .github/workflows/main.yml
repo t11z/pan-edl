@@ -48,6 +48,6 @@ jobs:
       run: python ubuntu-mirrors/ubuntu-mirrors.py
     - name: Commit and push if changes
       run: |
-        git add debian-mirrors/ubuntu-mirrors.txt
+        git add ubuntu-mirrors/ubuntu-mirrors.txt
         git commit -m "Update Ubuntu Mirror list" -a || echo "No changes to commit"
         git push origin main
