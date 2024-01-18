@@ -15,18 +15,19 @@ jobs:
         python-version: '3.8'
     - name: Install dependencies
       run: pip install requests beautifulsoup4
-    - name: Run Python script and generate domains.txt
-      run: python debian-mirrors/debian-mirrors.py
-    - name: Commit and push if changes
+    - name: Pull latest changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git stash
         git pull origin main
-        git stash pop
+    - name: Run fetcher script and generate EDL
+      run: python debian-mirrors/debian-mirrors.py
+    - name: Commit and push if changes
+      run: |
         git add debian-mirrors/debian-mirrors.txt
         git commit -m "Update Debian Mirror list" -a || echo "No changes to commit"
-        git push origin main --force
+        git push origin main
+
         
   ubuntu-mirrors:
     runs-on: ubuntu-latest
@@ -38,14 +39,15 @@ jobs:
         python-version: '3.8'
     - name: Install dependencies
       run: pip install requests beautifulsoup4
-    - name: Run Python script and generate domains.txt
-      run: python ubuntu-mirrors/ubuntu-mirrors.py
-    - name: Commit and push if changes
+    - name: Pull latest changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git fetch origin main
-        git rebase origin/main
-        git add ubuntu-mirrors/ubuntu-mirrors.txt
+        git pull origin main
+    - name: Run fetcher script and generate EDL
+      run: python ubuntu-mirrors/ubuntu-mirrors.py
+    - name: Commit and push if changes
+      run: |
+        git add debian-mirrors/ubuntu-mirrors.txt
         git commit -m "Update Ubuntu Mirror list" -a || echo "No changes to commit"
-        git push
+        git push origin main
