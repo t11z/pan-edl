@@ -16,6 +16,8 @@ else:
         tables = soup.find_all('table')
 
         domains = []
+        domains.append("deb.debian.org")
+        domains.append("security.debian.org")
 
         for table in tables:
             links = table.find_all('a')
@@ -26,7 +28,7 @@ else:
                     if domain:
                         domains.append(domain)
 
-        unique_domains = list(set(domains))
+        unique_domains = sort(list(set(domains)))
 
         if unique_domains:
             with open('debian-mirrors/debian-mirrors.txt', 'w') as file:
