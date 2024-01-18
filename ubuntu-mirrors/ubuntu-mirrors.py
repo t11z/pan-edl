@@ -26,7 +26,7 @@ else:
                     if domain:
                         domains.append(domain)
 
-        unique_domains = list(set(domains))
+        unique_domains = sort(list(set(domains)))
 
         if unique_domains:
             with open('ubuntu-mirrors/ubuntu-mirrors.txt', 'w') as file:
