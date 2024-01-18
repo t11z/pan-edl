@@ -1,0 +1,45 @@
+name: Hourly update
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs at the start of every hour
+
+jobs:
+  debian-mirrors:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.8'
+    - name: Install dependencies
+      run: pip install requests beautifulsoup4
+    - name: Run Python script and generate domains.txt
+      run: python debian-mirrors/debian-mirrors.py
+    - name: Commit and push if changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add debian-mirrors.txt
+        git commit -m "Update Debian Mirror list" -a || echo "No changes to commit"
+        git push
+        
+  ubuntu-mirrors:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.8'
+    - name: Install dependencies
+      run: pip install requests beautifulsoup4
+    - name: Run Python script and generate domains.txt
+      run: python ubuntu-mirrors/ubuntu-mirrors.py
+    - name: Commit and push if changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add ubuntu-mirrors.txt
+        git commit -m "Update Ubuntu Mirror list" -a || echo "No changes to commit"
+        git push
