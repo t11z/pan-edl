@@ -28,6 +28,6 @@ for table in tables:
 
 # Remove duplicates and print the list of domains
 unique_domains = list(set(domains))
-with open('debian-mirrors.txt', 'w') as file:
+with open('ubuntu-mirrors.txt', 'w') as file:
     for domain in unique_domains:
         file.write(domain + '/\n')
