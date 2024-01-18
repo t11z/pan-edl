@@ -12,13 +12,13 @@ tables = soup.find_all('table', attrs={'id': 'mirrors_list'})
 domains = []
 
 for table in tables:
-    links = table.find_all('a')
-    for link in links:
-        href = link.get('href')
-        if href:
-            domain = urlparse(href).netloc
-            if domain:
-                domains.append(domain)
+  links = table.find_all('a')
+  for link in links:
+    href = link.get('href')
+    if href:
+      domain = urlparse(href).netloc
+      if domain:
+        domains.append(domain)
 
 unique_domains = list(set(domains))
 with open('ubuntu-mirrors/ubuntu-mirrors.txt', 'w') as file:
