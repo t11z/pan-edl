@@ -28,7 +28,8 @@ else:
                     if domain:
                         domains.append(domain)
 
-        unique_domains = sort(list(set(domains)))
+        unique_domains = list(set(domains))
+        unique_domains.sort()
 
         if unique_domains:
             with open('debian-mirrors/debian-mirrors.txt', 'w') as file:
