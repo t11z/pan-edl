@@ -42,6 +42,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
+        git pull origin main --rebase
         git add ubuntu-mirrors.txt
         git commit -m "Update Ubuntu Mirror list" -a || echo "No changes to commit"
         git push
