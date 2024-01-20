@@ -299,6 +299,7 @@ mirror.scaleuptech.com/
 mirror.se.altushost.com/
 mirror.servaxnet.com/
 mirror.server.net/
+mirror.serverion.com/
 mirror.serverius.net/
 mirror.serverloft.eu/
 mirror.sg.gs/
@@ -515,6 +516,7 @@ ubuntu.byteiran.com/
 ubuntu.c3sl.ufpr.br/
 ubuntu.cica.es/
 ubuntu.colocall.net/
+ubuntu.cs.nctu.edu.tw/
 ubuntu.cs.utah.edu/
 ubuntu.dts.mg/
 ubuntu.ethz.ch/
