@@ -185,6 +185,7 @@ mirror.digitaloceans.dev/
 mirror.digitalpacific.com.au/
 mirror.dkm.cz/
 mirror.docker.ru/
+mirror.dogado.de/
 mirror.easyname.at/
 mirror.efect.ro/
 mirror.elice.io/
