@@ -327,6 +327,7 @@ nyc.mirrors.clouvider.net/
 opensource.nchc.org.tw/
 ossmirror.mycloud.services/
 packages.hs-regensburg.de/
+pkg.adfinis.com/
 plug-mirror.rcac.purdue.edu/
 pubmirror.plutex.de/
 repo.ialab.dsu.edu/
