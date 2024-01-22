@@ -282,6 +282,7 @@ mirror.plusserver.com/
 mirror.poliwangi.ac.id/
 mirror.previder.nl/
 mirror.ps.kz/
+mirror.pulsant.com/
 mirror.rabisu.com/
 mirror.rasanegar.com/
 mirror.rcg.sfu.ca/
