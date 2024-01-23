@@ -290,7 +290,6 @@ mirrors.bloomu.edu/
 mirrors.coreix.net/
 mirrors.dotsrc.org/
 mirrors.glesys.net/
-mirrors.hit.edu.cn/
 mirrors.hostico.ro/
 mirrors.hostiserver.com/
 mirrors.huaweicloud.com/
