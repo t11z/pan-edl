@@ -194,7 +194,6 @@ mirror.espol.edu.ec/
 mirror.eu-fr.kamatera.com/
 mirror.eu-lo.kamatera.com/
 mirror.eu.kamatera.com/
-mirror.fairway.ne.jp/
 mirror.faizuladib.com/
 mirror.faraso.org/
 mirror.fcix.net/
@@ -552,7 +551,6 @@ ubuntu.mirror.rain.co.za/
 ubuntu.mirror.root.lu/
 ubuntu.mirror.serverloft.de/
 ubuntu.mirror.serversaustralia.com.au/
-ubuntu.mirror.shastacoe.net/
 ubuntu.mirror.su.se/
 ubuntu.mirror.true.nl/
 ubuntu.mirror.tudos.de/
