@@ -301,7 +301,6 @@ mirror.server.net/
 mirror.serverion.com/
 mirror.serverius.net/
 mirror.serverloft.eu/
-mirror.sg.gs/
 mirror.sh.com.tr/
 mirror.siena.edu/
 mirror.sitsa.com.ar/
