@@ -233,6 +233,7 @@ mirror.lagoon.nc/
 mirror.lchost.net/
 mirror.linux.org.au/
 mirror.linux.ro/
+mirror.litnet.lt/
 mirror.marwan.ma/
 mirror.mephi.ru/
 mirror.mirohost.net/
