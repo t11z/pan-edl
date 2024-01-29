@@ -179,7 +179,6 @@ mirror.datamossa.io/
 mirror.dc.uz/
 mirror.de.leaseweb.net/
 mirror.deace.id/
-mirror.dewabiz.com/
 mirror.dhakacom.com/
 mirror.digitaloceans.dev/
 mirror.digitalpacific.com.au/
@@ -393,6 +392,7 @@ mirrors.hosterion.ro/
 mirrors.hostico.ro/
 mirrors.hostiserver.com/
 mirrors.huaweicloud.com/
+mirrors.idcloudhost.com/
 mirrors.iitd.ac.in/
 mirrors.ipserverone.com/
 mirrors.ircam.fr/
