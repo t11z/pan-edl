@@ -178,6 +178,7 @@ mirror.datamossa.io/
 mirror.dc.uz/
 mirror.de.leaseweb.net/
 mirror.deace.id/
+mirror.dewabiz.com/
 mirror.dhakacom.com/
 mirror.digitaloceans.dev/
 mirror.digitalpacific.com.au/
@@ -531,7 +532,6 @@ ubuntu.hostiran.ir/
 ubuntu.hysing.is/
 ubuntu.ip-connect.vn.ua/
 ubuntu.ipacct.com/
-ubuntu.itsbrasil.net/
 ubuntu.koyanet.lv/
 ubuntu.lafibre.info/
 ubuntu.lagis.at/
@@ -554,6 +554,7 @@ ubuntu.mirror.rain.co.za/
 ubuntu.mirror.root.lu/
 ubuntu.mirror.serverloft.de/
 ubuntu.mirror.serversaustralia.com.au/
+ubuntu.mirror.shastacoe.net/
 ubuntu.mirror.su.se/
 ubuntu.mirror.true.nl/
 ubuntu.mirror.tudos.de/
