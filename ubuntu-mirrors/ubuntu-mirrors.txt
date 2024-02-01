@@ -267,6 +267,7 @@ mirror.nl.altushost.com/
 mirror.nl.datapacket.com/
 mirror.nl.leaseweb.net/
 mirror.nodesdirect.com/
+mirror.nwlab.tk/
 mirror.nyist.edu.cn/
 mirror.one.com/
 mirror.onevip.mk/
@@ -501,7 +502,6 @@ suro.ubaya.ac.id/
 suse.uni-leipzig.de/
 tux.rainside.sk/
 tw1.mirror.blendbyte.net/
-ubuntu-arch.linux.edu.lv/
 ubuntu-archive.interhost.co.il/
 ubuntu-archive.locaweb.com.br/
 ubuntu-archive.mirror.net.in/
