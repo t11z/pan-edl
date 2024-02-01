@@ -214,7 +214,6 @@ mirror.fsmg.org.nz/
 mirror.gitoyen.net/
 mirror.gsl.icu/
 mirror.hnd.cl/
-mirror.hostafrica.co.za/
 mirror.hoster.kz/
 mirror.hyperdedic.ru/
 mirror.i3d.net/
