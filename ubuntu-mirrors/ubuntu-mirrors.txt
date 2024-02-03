@@ -233,7 +233,6 @@ mirror.kapteyan.com.tr/
 mirror.kkg.berlin/
 mirror.kku.ac.th/
 mirror.library.ucy.ac.cy/
-mirror.limda.net/
 mirror.linux-ia64.org/
 mirror.logol.ru/
 mirror.lstn.net/
