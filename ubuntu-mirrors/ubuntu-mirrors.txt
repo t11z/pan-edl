@@ -70,7 +70,6 @@ ftp.otenet.gr/
 ftp.psnc.pl/
 ftp.psu.ac.th/
 ftp.riken.jp/
-ftp.rnl.tecnico.ulisboa.pt/
 ftp.rrzn.uni-hannover.de/
 ftp.rz.tu-bs.de/
 ftp.sh.cvut.cz/
