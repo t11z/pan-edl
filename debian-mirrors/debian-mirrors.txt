@@ -45,7 +45,6 @@ debian.mirror.iweb.ca/
 debian.mirror.liquidtelecom.com/
 debian.mirror.lrz.de/
 debian.mirror.root.lu/
-debian.mirror.serversaustralia.com.au/
 debian.mirror.su.se/
 debian.mirror.uk.sargasso.net/
 debian.mirror.vu.lt/
