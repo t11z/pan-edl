@@ -145,7 +145,6 @@ mirror.bahnhof.net/
 mirror.bg.host.ag/
 mirror.bizflycloud.vn/
 mirror.biznetgio.com/
-mirror.bjtu.edu.cn/
 mirror.brightridge.com/
 mirror.bytemark.co.uk/
 mirror.ca-tr.kamatera.com/
