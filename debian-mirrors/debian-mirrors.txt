@@ -264,7 +264,6 @@ mirror.uepg.br/
 mirror.ufro.cl/
 mirror.ukrnames.com/
 mirror.unair.ac.id/
-mirror.united-gameserver.de/
 mirror.units.it/
 mirror.us.leaseweb.net/
 mirror.us.oneandone.net/
