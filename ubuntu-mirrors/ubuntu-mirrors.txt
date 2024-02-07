@@ -175,7 +175,6 @@ mirror.datamossa.io/
 mirror.dc.uz/
 mirror.de.leaseweb.net/
 mirror.deace.id/
-mirror.dhakacom.com/
 mirror.digitaloceans.dev/
 mirror.digitalpacific.com.au/
 mirror.dkm.cz/
@@ -509,6 +508,7 @@ ubuntu.anexia.at/
 ubuntu.bardia.tech/
 ubuntu.byteiran.com/
 ubuntu.c3sl.ufpr.br/
+ubuntu.ccns.ncku.edu.tw/
 ubuntu.cica.es/
 ubuntu.colocall.net/
 ubuntu.cs.nctu.edu.tw/
