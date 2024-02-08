@@ -313,6 +313,7 @@ mirror.tedra.es/
 mirror.telepoint.bg/
 mirror.thaidns.co.th/
 mirror.timeweb.ru/
+mirror.timkevin.us/
 mirror.transip.net/
 mirror.truenetwork.ru/
 mirror.ubuntu.ikoula.com/
@@ -523,7 +524,6 @@ ubuntu.ethz.ch/
 ubuntu.grad.hr/
 ubuntu.grena.ge/
 ubuntu.grn.cat/
-ubuntu.hbcse.tifr.res.in/
 ubuntu.hi.no/
 ubuntu.hostiran.ir/
 ubuntu.hysing.is/
