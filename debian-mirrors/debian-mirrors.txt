@@ -251,7 +251,6 @@ mirror.rustytel.net/
 mirror.seedvps.com/
 mirror.siena.edu/
 mirror.sinavps.ch/
-mirror.sitsa.com.ar/
 mirror.siwoo.org/
 mirror.sjtu.edu.cn/
 mirror.sov.uk.goscomb.net/
@@ -269,7 +268,6 @@ mirror.vinehost.net/
 mirror.vpsnet.com/
 mirror.wtnet.de/
 mirror.xtom.com.hk/
-mirror.yuki.net.uk/
 mirror.zetup.net/
 mirror01-pcl-ott1.accuris.ca/
 mirror1.infomaniak.com/
@@ -298,6 +296,7 @@ mirrors.powernet.com.ru/
 mirrors.ptisp.pt/
 mirrors.rackhosting.com/
 mirrors.tuna.tsinghua.edu.cn/
+mirrors.ucr.ac.cr/
 mirrors.up.pt/
 mirrors.ustc.edu.cn/
 mirrors.vcea.wsu.edu/
