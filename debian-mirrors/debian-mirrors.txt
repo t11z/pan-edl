@@ -1,5 +1,4 @@
 alcateia.ufscar.br/
-apt.tetaneutral.net/
 artfiles.org/
 atl.mirrors.clouvider.net/
 de.mirrors.clouvider.net/
