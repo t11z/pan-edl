@@ -64,6 +64,7 @@ debian.polytech-lille.fr/
 debian.proxad.net/
 debian.redimadrid.es/
 debian.redlibre.cl/
+debian.redparra.com/
 debian.repo.cure.edu.uy/
 debian.saix.net/
 debian.sil.at/
@@ -285,7 +286,6 @@ mirrors.glesys.net/
 mirrors.hostico.ro/
 mirrors.hostiserver.com/
 mirrors.huaweicloud.com/
-mirrors.iitd.ac.in/
 mirrors.ircam.fr/
 mirrors.jlu.edu.cn/
 mirrors.lug.mtu.edu/
