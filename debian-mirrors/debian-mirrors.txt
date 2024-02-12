@@ -98,7 +98,6 @@ ftp.byfly.by/
 ftp.caliu.cat/
 ftp.ch.debian.org/
 ftp.cica.es/
-ftp.cl.debian.org/
 ftp.cn.debian.org/
 ftp.cvut.cz/
 ftp.cz.debian.org/
@@ -211,14 +210,12 @@ mirror.eu.oneandone.net/
 mirror.fsmg.org.nz/
 mirror.gitoyen.net/
 mirror.gsl.icu/
-mirror.hnd.cl/
 mirror.hoster.kz/
 mirror.hyperdedic.ru/
 mirror.i3d.net/
 mirror.ibcp.fr/
 mirror.informatik.tu-freiberg.de/
 mirror.init7.net/
-mirror.insacom.cl/
 mirror.ipb.de/
 mirror.it.ubc.ca/
 mirror.it4i.cz/
