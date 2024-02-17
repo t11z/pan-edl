@@ -209,6 +209,7 @@ mirror.eu.oneandone.net/
 mirror.fsmg.org.nz/
 mirror.gitoyen.net/
 mirror.gsl.icu/
+mirror.hnd.cl/
 mirror.hoster.kz/
 mirror.hyperdedic.ru/
 mirror.i3d.net/
