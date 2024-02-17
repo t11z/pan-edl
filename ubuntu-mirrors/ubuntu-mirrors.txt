@@ -347,7 +347,6 @@ mirror.vorboss.net/
 mirror.vpgrp.io/
 mirror.vpsnet.com/
 mirror.webworld.ie/
-mirror.wiru.co.za/
 mirror.wtnet.de/
 mirror.xeonbd.com/
 mirror.xtom.com.hk/
@@ -411,7 +410,6 @@ mirrors.mivocloud.com/
 mirrors.namecheap.com/
 mirrors.nav.ro/
 mirrors.neterra.net/
-mirrors.nhanhoa.com/
 mirrors.nic.funet.fi/
 mirrors.nipa.cloud/
 mirrors.nxtgen.com/
