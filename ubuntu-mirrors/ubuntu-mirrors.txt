@@ -358,6 +358,7 @@ mirror.zetup.net/
 mirror01-pcl-ott1.accuris.ca/
 mirror01.idc.hinet.net/
 mirror1.ku.ac.th/
+mirror1.sox.rs/
 mirror1.totbb.net/
 mirror2.tuxinator.org/
 mirrors-ubuntu.behostings.com/
