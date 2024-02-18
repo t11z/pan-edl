@@ -291,6 +291,7 @@ mirrors.nav.ro/
 mirrors.netix.net/
 mirrors.neusoft.edu.cn/
 mirrors.nic.cz/
+mirrors.ocf.berkeley.edu/
 mirrors.powernet.com.ru/
 mirrors.ptisp.pt/
 mirrors.rackhosting.com/
