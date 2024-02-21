@@ -290,7 +290,6 @@ mirror.root.lu/
 mirror.rustytel.net/
 mirror.sabay.com.kh/
 mirror.scaleuptech.com/
-mirror.se.altushost.com/
 mirror.servaxnet.com/
 mirror.server.net/
 mirror.serverion.com/
