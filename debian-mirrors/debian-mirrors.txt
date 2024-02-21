@@ -298,7 +298,6 @@ mirrors.powernet.com.ru/
 mirrors.ptisp.pt/
 mirrors.rackhosting.com/
 mirrors.tuna.tsinghua.edu.cn/
-mirrors.ucr.ac.cr/
 mirrors.up.pt/
 mirrors.ustc.edu.cn/
 mirrors.vcea.wsu.edu/
