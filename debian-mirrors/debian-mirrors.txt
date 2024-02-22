@@ -251,6 +251,7 @@ mirror.ps.kz/
 mirror.realcompute.io/
 mirror.rustytel.net/
 mirror.seedvps.com/
+mirror.sg.gs/
 mirror.siena.edu/
 mirror.sinavps.ch/
 mirror.siwoo.org/
