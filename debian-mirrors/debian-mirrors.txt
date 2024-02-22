@@ -113,6 +113,7 @@ ftp.fau.de/
 ftp.fi.debian.org/
 ftp.fr.debian.org/
 ftp.gwdg.de/
+ftp.halifax.rwth-aachen.de/
 ftp.hk.debian.org/
 ftp.hosteurope.de/
 ftp.hr.debian.org/
@@ -168,6 +169,7 @@ ftp.univ-pau.fr/
 ftp.us.debian.org/
 ftp.wrz.de/
 ftp.zcu.cz/
+ftp2.de.debian.org/
 ftpmirror1.infania.net/
 giano.com.dist.unige.it/
 is.mirror.flokinet.net/
