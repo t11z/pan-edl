@@ -525,7 +525,6 @@ ubuntu.grn.cat/
 ubuntu.hi.no/
 ubuntu.hostiran.ir/
 ubuntu.hysing.is/
-ubuntu.ip-connect.vn.ua/
 ubuntu.ipacct.com/
 ubuntu.koyanet.lv/
 ubuntu.lafibre.info/
@@ -564,6 +563,7 @@ ubuntu.mirrors.theom.nz/
 ubuntu.mirrors.uk2.net/
 ubuntu.mti.mt.gov.br/
 ubuntu.netforce.hosting/
+ubuntu.ntc.net.np/
 ubuntu.org.ua/
 ubuntu.osuosl.org/
 ubuntu.otenet.gr/
