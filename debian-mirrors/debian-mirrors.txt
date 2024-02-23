@@ -42,6 +42,7 @@ debian.mirror.iphh.net/
 debian.mirror.iweb.ca/
 debian.mirror.liquidtelecom.com/
 debian.mirror.lrz.de/
+debian.mirror.rafal.ca/
 debian.mirror.root.lu/
 debian.mirror.su.se/
 debian.mirror.uk.sargasso.net/
@@ -94,6 +95,7 @@ ftp.bme.hu/
 ftp.br.debian.org/
 ftp.by.debian.org/
 ftp.byfly.by/
+ftp.ca.debian.org/
 ftp.caliu.cat/
 ftp.ch.debian.org/
 ftp.cica.es/
