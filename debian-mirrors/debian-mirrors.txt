@@ -262,7 +262,6 @@ mirror.sjtu.edu.cn/
 mirror.sov.uk.goscomb.net/
 mirror.steadfast.net/
 mirror.telepoint.bg/
-mirror.uepg.br/
 mirror.ufro.cl/
 mirror.ukrnames.com/
 mirror.unair.ac.id/
