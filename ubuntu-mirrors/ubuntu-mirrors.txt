@@ -54,7 +54,6 @@ ftp.iitm.ac.in/
 ftp.jaist.ac.jp/
 ftp.kaist.ac.kr/
 ftp.kddilabs.jp/
-ftp.klid.dk/
 ftp.lanet.kr/
 ftp.linux.cz/
 ftp.linux.org.tr/
@@ -393,7 +392,6 @@ mirrors.hosterion.ro/
 mirrors.hostico.ro/
 mirrors.hostiserver.com/
 mirrors.huaweicloud.com/
-mirrors.idcloudhost.com/
 mirrors.iitd.ac.in/
 mirrors.ipserverone.com/
 mirrors.ircam.fr/
