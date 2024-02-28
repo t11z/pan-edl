@@ -13,6 +13,8 @@ External Dynamic Lists that can be consumed by Palo Alto Networks firewalls
 6. Choose an EDL from the list below, add it to the input box and click on "OK"
 7. Commit your configuration
 
+**Important**: The firewall will only download the list, if you use it in our rulebase. If the list is not used in the rulebase, it is expected behavior that the list remains empty.
+
 | List name | Description | EDL Type | EDL URL |
 | --- | --- | --- | --- |
 | Debian Mirrors | List of all official Debian repository mirrors | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/debian-mirrors/debian-mirrors.txt |
