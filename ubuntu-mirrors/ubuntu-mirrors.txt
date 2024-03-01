@@ -428,6 +428,7 @@ mirrors.sonic.net/
 mirrors.sth.sze.hu/
 mirrors.storpool.com/
 mirrors.syringanetworks.net/
+mirrors.tino.org/
 mirrors.tripadvisor.com/
 mirrors.tscak.com/
 mirrors.tuna.tsinghua.edu.cn/
