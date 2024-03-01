@@ -259,7 +259,6 @@ mirror.siena.edu/
 mirror.sinavps.ch/
 mirror.siwoo.org/
 mirror.sjtu.edu.cn/
-mirror.sov.uk.goscomb.net/
 mirror.steadfast.net/
 mirror.telepoint.bg/
 mirror.ufro.cl/
