@@ -352,7 +352,6 @@ mirror.wtnet.de/
 mirror.xeonbd.com/
 mirror.xtom.com.hk/
 mirror.yandex.ru/
-mirror.ygn.mmix.net.mm/
 mirror.yuki.net.uk/
 mirror.zetup.net/
 mirror01.idc.hinet.net/
