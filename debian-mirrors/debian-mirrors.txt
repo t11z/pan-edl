@@ -76,6 +76,7 @@ debian.univ-tlse2.fr/
 debian.unnoba.edu.ar/
 debian.uvigo.es/
 debian.volia.net/
+debian.xtdv.net/
 debianmirror.una.ac.cr/
 depot-debian.univ-reunion.fr/
 fastmirror.pp.ua/
@@ -291,7 +292,6 @@ mirrors.jlu.edu.cn/
 mirrors.lug.mtu.edu/
 mirrors.namecheap.com/
 mirrors.nav.ro/
-mirrors.netix.net/
 mirrors.neusoft.edu.cn/
 mirrors.nic.cz/
 mirrors.nxthost.com/
