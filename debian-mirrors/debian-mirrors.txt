@@ -16,7 +16,6 @@ debian.carnet.hr/
 debian.cc.lehigh.edu/
 debian.charite.de/
 debian.cs.binghamton.edu/
-debian.cs.nycu.edu.tw/
 debian.csail.mit.edu/
 debian.csie.ntu.edu.tw/
 debian.dynamica.it/
