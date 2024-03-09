@@ -28,6 +28,7 @@ debian.inf.tu-dresden.de/
 debian.inhost.pro/
 debian.intergenia.de/
 debian.interhost.co.il/
+debian.ipacct.com/
 debian.iskon.hr/
 debian.koyanet.lv/
 debian.lagis.at/
@@ -195,7 +196,6 @@ mirror.asergo.com/
 mirror.bizflycloud.vn/
 mirror.clarkson.edu/
 mirror.cloudhosting.lv/
-mirror.coganng.com/
 mirror.cogentco.com/
 mirror.corbina.net/
 mirror.cov.ukservers.com/
