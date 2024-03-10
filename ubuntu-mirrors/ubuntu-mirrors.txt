@@ -434,6 +434,7 @@ mirrors.rit.edu/
 mirrors.sarak.as/
 mirrors.sohu.com/
 mirrors.sonic.net/
+mirrors.sth.sze.hu/
 mirrors.storpool.com/
 mirrors.syringanetworks.net/
 mirrors.tino.org/
