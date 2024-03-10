@@ -75,7 +75,6 @@ debian.univ-tlse2.fr/
 debian.unnoba.edu.ar/
 debian.uvigo.es/
 debian.volia.net/
-debian.xtdv.net/
 debianmirror.una.ac.cr/
 depot-debian.univ-reunion.fr/
 fastmirror.pp.ua/
