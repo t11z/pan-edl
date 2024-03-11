@@ -524,6 +524,7 @@ ubuntu.c3sl.ufpr.br/
 ubuntu.ccns.ncku.edu.tw/
 ubuntu.cica.es/
 ubuntu.colocall.net/
+ubuntu.cs.nctu.edu.tw/
 ubuntu.cs.utah.edu/
 ubuntu.dts.mg/
 ubuntu.ethz.ch/
