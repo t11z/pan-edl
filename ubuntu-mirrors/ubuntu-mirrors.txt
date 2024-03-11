@@ -10,7 +10,6 @@ archive.ubuntumirror.dei.uc.pt/
 artfiles.org/
 atl.mirrors.clouvider.net/
 aze.archive.ubuntu.com/
-babylon.cs.uh.edu/
 buaya.klas.or.id/
 cdn.0ms.dev/
 cdn.repo.cloudeka.id/
