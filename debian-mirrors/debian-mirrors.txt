@@ -67,7 +67,6 @@ debian.unnoba.edu.ar/
 debian.uvigo.es/
 debian.volia.net/
 debianmirror.una.ac.cr/
-fastmirror.pp.ua/
 free.hands.com/
 ftp-stud.hs-esslingen.de/
 ftp.acc.umu.se/
@@ -221,7 +220,6 @@ mirror.onevip.mk/
 mirror.overthewire.com.au/
 mirror.ox.ac.uk/
 mirror.plusserver.com/
-mirror.poliwangi.ac.id/
 mirror.positive-internet.com/
 mirror.ps.kz/
 mirror.realcompute.io/
