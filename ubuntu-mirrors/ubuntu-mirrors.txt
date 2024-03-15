@@ -189,6 +189,7 @@ mirror.easyname.at/
 mirror.efect.ro/
 mirror.elice.io/
 mirror.enzu.com/
+mirror.esecuredata.com/
 mirror.espol.edu.ec/
 mirror.eu-fr.kamatera.com/
 mirror.eu-lo.kamatera.com/
