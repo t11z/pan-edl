@@ -1,5 +1,6 @@
 alcateia.ufscar.br/
 apt.tetaneutral.net/
+archive.debian.petiak.ir/
 artfiles.org/
 atl.mirrors.clouvider.net/
 de.mirrors.clouvider.net/
@@ -109,7 +110,6 @@ ftp.is.debian.org/
 ftp.it.debian.org/
 ftp.jp.debian.org/
 ftp.kaist.ac.kr/
-ftp.kddilabs.jp/
 ftp.kr.debian.org/
 ftp.lanet.kr/
 ftp.linux.it/
