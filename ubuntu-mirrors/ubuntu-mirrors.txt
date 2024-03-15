@@ -180,6 +180,7 @@ mirror.dc.uz/
 mirror.de.leaseweb.net/
 mirror.deace.id/
 mirror.dhakacom.com/
+mirror.digitaloceans.dev/
 mirror.digitalpacific.com.au/
 mirror.dkm.cz/
 mirror.docker.ru/
@@ -537,7 +538,6 @@ ubuntu.koyanet.lv/
 ubuntu.lafibre.info/
 ubuntu.lagis.at/
 ubuntu.lagoon.nc/
-ubuntu.letscloud.io/
 ubuntu.macarne.com/
 ubuntu.man.lodz.pl/
 ubuntu.mirror.ac.za/
