@@ -233,6 +233,7 @@ mirror.siwoo.org/
 mirror.sjtu.edu.cn/
 mirror.steadfast.net/
 mirror.telepoint.bg/
+mirror.truenetwork.ru/
 mirror.ufro.cl/
 mirror.ukrnames.com/
 mirror.unair.ac.id/
