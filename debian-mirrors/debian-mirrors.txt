@@ -265,6 +265,7 @@ mirrors.iitd.ac.in/
 mirrors.jlu.edu.cn/
 mirrors.lug.mtu.edu/
 mirrors.nav.ro/
+mirrors.netix.net/
 mirrors.neusoft.edu.cn/
 mirrors.nic.cz/
 mirrors.nxthost.com/
