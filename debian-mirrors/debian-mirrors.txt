@@ -220,6 +220,7 @@ mirror.onevip.mk/
 mirror.overthewire.com.au/
 mirror.ox.ac.uk/
 mirror.plusserver.com/
+mirror.poliwangi.ac.id/
 mirror.positive-internet.com/
 mirror.ps.kz/
 mirror.realcompute.io/
