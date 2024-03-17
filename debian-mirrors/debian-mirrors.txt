@@ -255,6 +255,7 @@ mirrors.accretive-networks.net/
 mirrors.asnet.am/
 mirrors.bfsu.edu.cn/
 mirrors.bkns.vn/
+mirrors.bloomu.edu/
 mirrors.coreix.net/
 mirrors.dotsrc.org/
 mirrors.glesys.net/
