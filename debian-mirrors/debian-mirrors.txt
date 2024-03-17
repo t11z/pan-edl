@@ -66,6 +66,7 @@ debian.uchicago.edu/
 debian.unnoba.edu.ar/
 debian.uvigo.es/
 debian.volia.net/
+debian.xtdv.net/
 debianmirror.una.ac.cr/
 free.hands.com/
 ftp-stud.hs-esslingen.de/
