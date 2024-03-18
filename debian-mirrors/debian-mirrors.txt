@@ -13,6 +13,7 @@ debian.a1.bg/
 debian.anexia.at/
 debian.apt-mirror.de/
 debian.c3sl.ufpr.br/
+debian.carnet.hr/
 debian.cc.lehigh.edu/
 debian.charite.de/
 debian.cs.binghamton.edu/
@@ -105,6 +106,7 @@ ftp.gwdg.de/
 ftp.halifax.rwth-aachen.de/
 ftp.hk.debian.org/
 ftp.hosteurope.de/
+ftp.hr.debian.org/
 ftp.icm.edu.pl/
 ftp.is.co.za/
 ftp.is.debian.org/
