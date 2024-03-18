@@ -402,7 +402,6 @@ mirrors.huaweicloud.com/
 mirrors.iitd.ac.in/
 mirrors.ipserverone.com/
 mirrors.ircam.fr/
-mirrors.isu.net.sa/
 mirrors.iu13.net/
 mirrors.jlu.edu.cn/
 mirrors.jxust.edu.cn/
