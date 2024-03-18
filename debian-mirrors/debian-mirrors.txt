@@ -266,6 +266,7 @@ mirrors.hostico.ro/
 mirrors.hostiserver.com/
 mirrors.huaweicloud.com/
 mirrors.iitd.ac.in/
+mirrors.ircam.fr/
 mirrors.jlu.edu.cn/
 mirrors.lug.mtu.edu/
 mirrors.nav.ro/
