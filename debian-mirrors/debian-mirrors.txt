@@ -251,6 +251,7 @@ mirror.us.oneandone.net/
 mirror.vinehost.net/
 mirror.vpsnet.com/
 mirror.wtnet.de/
+mirror.xeonbd.com/
 mirror.xtom.com.hk/
 mirror.zetup.net/
 mirror01-pcl-ott1.accuris.ca/
