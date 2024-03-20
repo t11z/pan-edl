@@ -56,6 +56,7 @@ debian.obspm.fr/
 debian.osuosl.org/
 debian.otenet.gr/
 debian.polytech-lille.fr/
+debian.proxad.net/
 debian.redimadrid.es/
 debian.redlibre.cl/
 debian.redparra.com/
@@ -67,6 +68,7 @@ debian.superhosting.cz/
 debian.telecoms.bg/
 debian.tu-bs.de/
 debian.uchicago.edu/
+debian.uevora.pt/
 debian.unnoba.edu.ar/
 debian.uvigo.es/
 debian.volia.net/
@@ -105,6 +107,7 @@ ftp.eq.uc.pt/
 ftp.es.debian.org/
 ftp.fau.de/
 ftp.fi.debian.org/
+ftp.fr.debian.org/
 ftp.gwdg.de/
 ftp.halifax.rwth-aachen.de/
 ftp.hk.debian.org/
@@ -127,8 +130,10 @@ ftp.nara.wide.ad.jp/
 ftp.nc.debian.org/
 ftp.nl.debian.org/
 ftp.nz.debian.org/
+ftp.pl.debian.org/
 ftp.plusline.net/
 ftp.psn.ru/
+ftp.pt.debian.org/
 ftp.riken.jp/
 ftp.rnl.tecnico.ulisboa.pt/
 ftp.ru.debian.org/
@@ -136,6 +141,7 @@ ftp.se.debian.org/
 ftp.sh.cvut.cz/
 ftp.si.debian.org/
 ftp.sk.debian.org/
+ftp.task.gda.pl/
 ftp.ticklers.org/
 ftp.tku.edu.tw/
 ftp.tr.debian.org/
@@ -242,6 +248,7 @@ mirror.siwoo.org/
 mirror.sjtu.edu.cn/
 mirror.steadfast.net/
 mirror.telepoint.bg/
+mirror.timkevin.us/
 mirror.truenetwork.ru/
 mirror.ufro.cl/
 mirror.ukrnames.com/
