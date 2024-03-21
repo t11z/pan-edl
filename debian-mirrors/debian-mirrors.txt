@@ -134,6 +134,7 @@ ftp.nz.debian.org/
 ftp.pl.debian.org/
 ftp.plusline.net/
 ftp.psn.ru/
+ftp.psnc.pl/
 ftp.pt.debian.org/
 ftp.riken.jp/
 ftp.rnl.tecnico.ulisboa.pt/
