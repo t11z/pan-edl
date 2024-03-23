@@ -461,6 +461,7 @@ mirrors.zju.edu.cn/
 mirrror.0xem.ma/
 mr.heru.id/
 muug.ca/
+my.mirrors.thegigabit.com/
 nl.archive.ubuntu.com/
 nl.mirrors.clouvider.net/
 nl3.archive.ubuntu.com/
