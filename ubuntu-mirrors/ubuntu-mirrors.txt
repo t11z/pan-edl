@@ -1,5 +1,6 @@
 archive.g4t1.pro/
 archive.linux.duke.edu/
+archive.ubuntu.apiversa.com/
 archive.ubuntu.com/
 archive.ubuntu.csg.uzh.ch/
 archive.ubuntu.mirror.ba/
