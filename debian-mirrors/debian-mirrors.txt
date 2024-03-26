@@ -17,6 +17,7 @@ debian.carnet.hr/
 debian.cc.lehigh.edu/
 debian.charite.de/
 debian.cs.binghamton.edu/
+debian.cs.nycu.edu.tw/
 debian.csail.mit.edu/
 debian.csie.ntu.edu.tw/
 debian.dynamica.it/
@@ -32,6 +33,7 @@ debian.koyanet.lv/
 debian.lagis.at/
 debian.lth.se/
 debian.ludost.net/
+debian.mirror.ac.ke/
 debian.mirror.constant.com/
 debian.mirror.digitalpacific.com.au/
 debian.mirror.garr.it/
