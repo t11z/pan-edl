@@ -209,6 +209,7 @@ mirror.fsmg.org.nz/
 mirror.funkfreundelandshut.de/
 mirror.gi.co.id/
 mirror.greennet.gl/
+mirror.group.one/
 mirror.gsl.icu/
 mirror.hep.gg/
 mirror.hnd.cl/
@@ -246,6 +247,7 @@ mirror.leitecastro.com/
 mirror.linux-ia64.org/
 mirror.liquidrp.de/
 mirror.logol.ru/
+mirror.lon.macarne.com/
 mirror.lstn.net/
 mirror.lyrahosting.com/
 mirror.lzu.edu.cn/
@@ -324,6 +326,7 @@ mirror.timeweb.ru/
 mirror.timkevin.us/
 mirror.transip.net/
 mirror.truenetwork.ru/
+mirror.twds.com.tw/
 mirror.ubuntu.ikoula.com/
 mirror.ubuntu.serverforge.org/
 mirror.uchile.cl/
@@ -474,6 +477,7 @@ opensource.xtdv.net/
 osmirror.rug.nl/
 ossmirror.mycloud.services/
 packages.oth-regensburg.de/
+pkg.adfinis-on-exoscale.ch/
 pkg.adfinis.com/
 plug-mirror.rcac.purdue.edu/
 pubmirrors.dal.corespace.com/
