@@ -239,6 +239,7 @@ mirror.nyist.edu.cn/
 mirror.one.com/
 mirror.onevip.mk/
 mirror.overthewire.com.au/
+mirror.ox.ac.uk/
 mirror.plusserver.com/
 mirror.poliwangi.ac.id/
 mirror.positive-internet.com/
@@ -298,6 +299,7 @@ mirrors.powernet.com.ru/
 mirrors.ptisp.pt/
 mirrors.rackhosting.com/
 mirrors.tuna.tsinghua.edu.cn/
+mirrors.ucr.ac.cr/
 mirrors.up.pt/
 mirrors.ustc.edu.cn/
 mirrors.vcea.wsu.edu/
