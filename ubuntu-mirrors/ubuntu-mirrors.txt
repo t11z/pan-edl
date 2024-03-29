@@ -272,7 +272,6 @@ mirror.nforce.com/
 mirror.niif.hu/
 mirror.nishi.network/
 mirror.nitc.ac.in/
-mirror.nju.edu.cn/
 mirror.nl.altushost.com/
 mirror.nl.datapacket.com/
 mirror.nl.leaseweb.net/
