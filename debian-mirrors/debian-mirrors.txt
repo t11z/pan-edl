@@ -44,6 +44,7 @@ debian.mirror.liquidtelecom.com/
 debian.mirror.lrz.de/
 debian.mirror.rafal.ca/
 debian.mirror.root.lu/
+debian.mirror.serversaustralia.com.au/
 debian.mirror.su.se/
 debian.mirror.uk.sargasso.net/
 debian.mirror.vu.lt/
@@ -181,6 +182,7 @@ mirror.23m.com/
 mirror.aarnet.edu.au/
 mirror.alwyzon.net/
 mirror.amaze.com.au/
+mirror.aminidc.com/
 mirror.applebred.net/
 mirror.as35701.net/
 mirror.as43289.net/
