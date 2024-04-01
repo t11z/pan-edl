@@ -202,6 +202,7 @@ mirror.dst.ca/
 mirror.duocast.net/
 mirror.estone.ca/
 mirror.eu.oneandone.net/
+mirror.fra.macarne.com/
 mirror.fsmg.org.nz/
 mirror.gitoyen.net/
 mirror.gsl.icu/
@@ -226,6 +227,7 @@ mirror.limda.net/
 mirror.linux.org.au/
 mirror.linux.ro/
 mirror.litnet.lt/
+mirror.lon.macarne.com/
 mirror.lzu.edu.cn/
 mirror.mephi.ru/
 mirror.metanet.ch/
