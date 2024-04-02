@@ -32,6 +32,7 @@ debian.ipacct.com/
 debian.iskon.hr/
 debian.koyanet.lv/
 debian.lagis.at/
+debian.linux.n0c.ca/
 debian.lth.se/
 debian.ludost.net/
 debian.mirror.ac.ke/
@@ -236,6 +237,7 @@ mirror.metanet.ch/
 mirror.mirohost.net/
 mirror.mythic-beasts.com/
 mirror.netzwerge.de/
+mirror.nforce.com/
 mirror.nju.edu.cn/
 mirror.nl.datapacket.com/
 mirror.nl.leaseweb.net/
