@@ -216,6 +216,7 @@ mirror.informatik.tu-freiberg.de/
 mirror.init7.net/
 mirror.insacom.cl/
 mirror.ipb.de/
+mirror.iranserver.com/
 mirror.it.ubc.ca/
 mirror.it4i.cz/
 mirror.iway.ch/
@@ -329,6 +330,7 @@ repo.ialab.dsu.edu/
 repo.ifca.es/
 repo.jing.rocks/
 repo.jztkft.hu/
+repository.su/
 ro.mirror.flokinet.net/
 security.debian.org/
 softlibre.unizar.es/
