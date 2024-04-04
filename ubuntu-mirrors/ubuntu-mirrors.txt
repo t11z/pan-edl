@@ -599,6 +599,7 @@ ubuntu.web.trex.fi/
 ubuntu.zero.com.ar/
 ubuntutym.u-toyama.ac.jp/
 ucho.ignum.cz/
+ucmirror.canterbury.ac.nz/
 uk.mirrors.clouvider.net/
 www-ftp.lip6.fr/
 www.club.cc.cmu.edu/
