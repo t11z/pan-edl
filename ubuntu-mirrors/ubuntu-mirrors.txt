@@ -390,7 +390,6 @@ mirrors.cmich.edu/
 mirrors.cn99.com/
 mirrors.codec-cluster.org/
 mirrors.coreix.net/
-mirrors.cqu.edu.cn/
 mirrors.dc.clear.net.ar/
 mirrors.dotsrc.org/
 mirrors.egr.msu.edu/
