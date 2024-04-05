@@ -320,7 +320,6 @@ mirrors.xtom.de/
 mirrors.xtom.ee/
 mirrors.xtom.jp/
 mirrors.xtom.nl/
-mirrors.zju.edu.cn/
 mirrorservice.org/
 mr.heru.id/
 nl.mirrors.clouvider.net/
