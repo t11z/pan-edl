@@ -79,6 +79,7 @@ debian.volia.net/
 debian.xtdv.net/
 debianmirror.una.ac.cr/
 dennou-k.gfd-dennou.org/
+drmirror.physi.uni-heidelberg.de/
 elmirror.cl/
 free.hands.com/
 ftp-stud.hs-esslingen.de/
