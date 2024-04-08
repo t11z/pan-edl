@@ -113,6 +113,7 @@ is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
 jp.mirror.coganng.com/
+kambing.uu.sg/
 kartolo.sby.datautama.net.id/
 kebo.pens.ac.id/
 kozyatagi.mirror.guzel.net.tr/
@@ -144,6 +145,7 @@ mirror.as.kamatera.com/
 mirror.as29550.net/
 mirror.as43289.net/
 mirror.asergo.com/
+mirror.ayande.cloud/
 mirror.bacloud.com/
 mirror.bahnhof.net/
 mirror.bg.host.ag/
