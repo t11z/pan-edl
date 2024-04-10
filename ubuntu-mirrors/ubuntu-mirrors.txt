@@ -105,6 +105,7 @@ ftpserv.tudelft.nl/
 giano.com.dist.unige.it/
 glua.ua.pt/
 gpl.savoirfairelinux.net/
+hk.mirrors.thegigabit.com/
 in.mirror.coganng.com/
 ir.archive.ubuntu.com/
 ir.ubuntu.sindad.cloud/
@@ -191,6 +192,7 @@ mirror.efect.ro/
 mirror.elice.io/
 mirror.enzu.com/
 mirror.esecuredata.com/
+mirror.espol.edu.ec/
 mirror.eu-fr.kamatera.com/
 mirror.eu-lo.kamatera.com/
 mirror.eu.kamatera.com/
@@ -602,6 +604,7 @@ ucho.ignum.cz/
 ucmirror.canterbury.ac.nz/
 uk.mirrors.clouvider.net/
 www-ftp.lip6.fr/
+www.club.cc.cmu.edu/
 www.ftp.ne.jp/
 www.gtlib.gatech.edu/
 www.mirrorservice.org/
