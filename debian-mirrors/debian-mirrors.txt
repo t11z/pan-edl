@@ -80,6 +80,7 @@ debian.xtdv.net/
 debianmirror.una.ac.cr/
 dennou-k.gfd-dennou.org/
 dennou-q.gfd-dennou.org/
+depot-debian.univ-reunion.fr/
 drmirror.physi.uni-heidelberg.de/
 elmirror.cl/
 free.hands.com/
