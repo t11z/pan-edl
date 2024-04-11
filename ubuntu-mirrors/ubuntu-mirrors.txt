@@ -146,7 +146,6 @@ mirror.as29550.net/
 mirror.as43289.net/
 mirror.asergo.com/
 mirror.bacloud.com/
-mirror.bahnhof.net/
 mirror.bg.host.ag/
 mirror.bharatdatacenter.com/
 mirror.bizflycloud.vn/
@@ -183,6 +182,7 @@ mirror.datamossa.io/
 mirror.dc.uz/
 mirror.de.leaseweb.net/
 mirror.deace.id/
+mirror.dhakacom.com/
 mirror.digitaloceans.dev/
 mirror.digitalpacific.com.au/
 mirror.dkm.cz/
