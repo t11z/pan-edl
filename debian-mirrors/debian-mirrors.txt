@@ -191,6 +191,7 @@ mirror.as35701.net/
 mirror.as43289.net/
 mirror.asergo.com/
 mirror.bizflycloud.vn/
+mirror.bjtu.edu.cn/
 mirror.clarkson.edu/
 mirror.cloudhosting.lv/
 mirror.cogentco.com/
