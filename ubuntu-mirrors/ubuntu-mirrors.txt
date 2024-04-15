@@ -245,6 +245,7 @@ mirror.kkg.berlin/
 mirror.kku.ac.th/
 mirror.leitecastro.com/
 mirror.library.ucy.ac.cy/
+mirror.linux-ia64.org/
 mirror.liquidrp.de/
 mirror.logol.ru/
 mirror.lon.macarne.com/
