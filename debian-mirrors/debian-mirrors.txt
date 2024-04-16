@@ -203,6 +203,7 @@ mirror.csclub.uwaterloo.ca/
 mirror.dal.nexril.net/
 mirror.datacenter.by/
 mirror.de.leaseweb.net/
+mirror.djvg.sg/
 mirror.dkm.cz/
 mirror.docker.ru/
 mirror.dogado.de/
