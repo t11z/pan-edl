@@ -1,3 +1,4 @@
+0ms.dev/
 archive.g4t1.pro/
 archive.linux.duke.edu/
 archive.ubuntu.apiversa.com/
@@ -541,7 +542,6 @@ ubuntu.grn.cat/
 ubuntu.hi.no/
 ubuntu.hostiran.ir/
 ubuntu.hysing.is/
-ubuntu.ip-connect.vn.ua/
 ubuntu.ipacct.com/
 ubuntu.koyanet.lv/
 ubuntu.lafibre.info/
