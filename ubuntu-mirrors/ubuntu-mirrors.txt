@@ -229,7 +229,6 @@ mirror.il.kamatera.com/
 mirror.infomaniak.ch/
 mirror.informatik.tu-freiberg.de/
 mirror.init7.net/
-mirror.internet.asn.au/
 mirror.internode.on.net/
 mirror.ipb.de/
 mirror.iranserver.com/
@@ -409,7 +408,6 @@ mirrors.ircam.fr/
 mirrors.isu.net.sa/
 mirrors.iu13.net/
 mirrors.jlu.edu.cn/
-mirrors.jxust.edu.cn/
 mirrors.layerbridge.com/
 mirrors.layeronline.com/
 mirrors.liquidweb.com/
