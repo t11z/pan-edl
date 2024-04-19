@@ -227,6 +227,7 @@ mirror.il.kamatera.com/
 mirror.infomaniak.ch/
 mirror.informatik.tu-freiberg.de/
 mirror.init7.net/
+mirror.internet.asn.au/
 mirror.internode.on.net/
 mirror.ipb.de/
 mirror.iranserver.com/
@@ -375,6 +376,7 @@ mirrors-ubuntu.behostings.com/
 mirrors.accretive-networks.net/
 mirrors.advancedhosters.com/
 mirrors.aliyun.com/
+mirrors.arpnetworks.com/
 mirrors.asnet.am/
 mirrors.atlas.net.co/
 mirrors.bangmod.cloud/
