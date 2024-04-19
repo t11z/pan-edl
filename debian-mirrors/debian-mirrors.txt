@@ -274,7 +274,6 @@ mirror.steadfast.net/
 mirror.telepoint.bg/
 mirror.timkevin.us/
 mirror.truenetwork.ru/
-mirror.ufro.cl/
 mirror.ukrnames.com/
 mirror.unair.ac.id/
 mirror.united-gameserver.de/
