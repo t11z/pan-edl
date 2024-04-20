@@ -438,7 +438,6 @@ mirrors.powernet.com.ru/
 mirrors.psu.ac.th/
 mirrors.ptisp.pt/
 mirrors.rit.edu/
-mirrors.sarak.as/
 mirrors.sohu.com/
 mirrors.sonic.net/
 mirrors.sth.sze.hu/
