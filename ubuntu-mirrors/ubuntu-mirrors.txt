@@ -1,7 +1,6 @@
 0ms.dev/
 archive.g4t1.pro/
 archive.linux.duke.edu/
-archive.ubuntu.apiversa.com/
 archive.ubuntu.com/
 archive.ubuntu.csg.uzh.ch/
 archive.ubuntu.mirror.ba/
@@ -493,7 +492,6 @@ repo.iut.ac.ir/
 repo.jing.rocks/
 repo.jztkft.hu/
 repo.miserver.it.umich.edu/
-repo.ugm.ac.id/
 repo.usk.ac.id/
 repos.del.extreme-ix.org/
 repos.eggycrew.com/
