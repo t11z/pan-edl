@@ -23,7 +23,6 @@ de.mirrors.clouvider.net/
 debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
 download.nus.edu.sg/
-download.nust.na/
 drmirror.physi.uni-heidelberg.de/
 edgeuno-bog2.mm.fcix.net/
 elmirror.cl/
@@ -265,7 +264,6 @@ mirror.netcologne.de/
 mirror.netsite.dk/
 mirror.netspace.net.au/
 mirror.netzwerge.de/
-mirror.nevacloud.com/
 mirror.nforce.com/
 mirror.niif.hu/
 mirror.nishi.network/
