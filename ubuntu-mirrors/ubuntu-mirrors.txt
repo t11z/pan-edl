@@ -224,6 +224,7 @@ mirror.il.kamatera.com/
 mirror.infomaniak.ch/
 mirror.informatik.tu-freiberg.de/
 mirror.init7.net/
+mirror.internet.asn.au/
 mirror.internode.on.net/
 mirror.ipb.de/
 mirror.iranserver.com/
