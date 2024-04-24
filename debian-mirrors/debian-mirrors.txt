@@ -11,6 +11,7 @@ debian-mirror.sakura.ne.jp/
 debian.a1.bg/
 debian.anexia.at/
 debian.apt-mirror.de/
+debian.balt.net/
 debian.c3sl.ufpr.br/
 debian.carnet.hr/
 debian.cc.lehigh.edu/
@@ -35,7 +36,6 @@ debian.lagis.at/
 debian.linux.n0c.ca/
 debian.lth.se/
 debian.ludost.net/
-debian.mirror.ac.ke/
 debian.mirror.constant.com/
 debian.mirror.digitalpacific.com.au/
 debian.mirror.garr.it/
@@ -94,8 +94,6 @@ ftp.belnet.be/
 ftp.bg.debian.org/
 ftp.bme.hu/
 ftp.br.debian.org/
-ftp.by.debian.org/
-ftp.byfly.by/
 ftp.ca.debian.org/
 ftp.caliu.cat/
 ftp.ch.debian.org/
@@ -202,7 +200,6 @@ mirror.corbina.net/
 mirror.cov.ukservers.com/
 mirror.csclub.uwaterloo.ca/
 mirror.dal.nexril.net/
-mirror.datacenter.by/
 mirror.de.leaseweb.net/
 mirror.djvg.sg/
 mirror.dkm.cz/
