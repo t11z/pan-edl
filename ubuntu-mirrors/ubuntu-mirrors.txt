@@ -398,6 +398,7 @@ mirrors.gbnetwork.com/
 mirrors.gethosted.online/
 mirrors.gigenet.com/
 mirrors.hosterion.ro/
+mirrors.hostico.ro/
 mirrors.hostiserver.com/
 mirrors.huaweicloud.com/
 mirrors.iitd.ac.in/
