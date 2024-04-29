@@ -36,6 +36,7 @@ debian.lagis.at/
 debian.linux.n0c.ca/
 debian.lth.se/
 debian.ludost.net/
+debian.mirror.ac.ke/
 debian.mirror.constant.com/
 debian.mirror.digitalpacific.com.au/
 debian.mirror.garr.it/
@@ -75,7 +76,6 @@ debian.unnoba.edu.ar/
 debian.uvigo.es/
 debian.volia.net/
 debian.web.trex.fi/
-debian.xtdv.net/
 debianmirror.una.ac.cr/
 dennou-k.gfd-dennou.org/
 dennou-q.gfd-dennou.org/
