@@ -54,7 +54,6 @@ debian.mirrors.uk2.net/
 debian.mithril.re/
 debian.mnet.bg/
 debian.mur.at/
-debian.nautile.nc/
 debian.netcologne.de/
 debian.netforce.hosting/
 debian.obspm.fr/
@@ -133,7 +132,6 @@ ftp.lip6.fr/
 ftp.lt.debian.org/
 ftp.md.debian.org/
 ftp.nara.wide.ad.jp/
-ftp.nc.debian.org/
 ftp.nl.debian.org/
 ftp.no.debian.org/
 ftp.nz.debian.org/
