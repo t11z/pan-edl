@@ -196,6 +196,7 @@ mirror.cogentco.com/
 mirror.corbina.net/
 mirror.cov.ukservers.com/
 mirror.csclub.uwaterloo.ca/
+mirror.cse.iitk.ac.in/
 mirror.dal.nexril.net/
 mirror.de.leaseweb.net/
 mirror.djvg.sg/
