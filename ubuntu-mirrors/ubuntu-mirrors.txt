@@ -593,7 +593,6 @@ ubuntu.shatel.ir/
 ubuntu.task.gda.pl/
 ubuntu.turhost.com/
 ubuntu.tuxuri.com/
-ubuntu.ucr.ac.cr/
 ubuntu.uib.no/
 ubuntu.unc.edu.ar/
 ubuntu.uni-klu.ac.at/
