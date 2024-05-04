@@ -426,6 +426,7 @@ mirrors.neterra.net/
 mirrors.nhanhoa.com/
 mirrors.nic.funet.fi/
 mirrors.nipa.cloud/
+mirrors.njupt.edu.cn/
 mirrors.nxtgen.com/
 mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
