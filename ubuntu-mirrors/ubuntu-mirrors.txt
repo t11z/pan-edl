@@ -417,6 +417,7 @@ mirrors.layeronline.com/
 mirrors.liquidweb.com/
 mirrors.lug.mtu.edu/
 mirrors.maine.edu/
+mirrors.melbourne.co.uk/
 mirrors.mit.edu/
 mirrors.mivocloud.com/
 mirrors.namecheap.com/
