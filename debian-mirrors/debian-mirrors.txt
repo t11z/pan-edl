@@ -236,7 +236,6 @@ mirror.lon.macarne.com/
 mirror.lzu.edu.cn/
 mirror.marwan.ma/
 mirror.mephi.ru/
-mirror.metanet.ch/
 mirror.mirohost.net/
 mirror.mythic-beasts.com/
 mirror.netzwerge.de/
