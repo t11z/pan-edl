@@ -19,7 +19,6 @@ cdn.ubuntu.repo.cloudeka.id/
 cesium.di.uminho.pt/
 cz.archive.ubuntu.com/
 dafi.inf.um.es/
-dal.mirrors.clouvider.net/
 de.mirrors.clouvider.net/
 deb-mirror.habari.co.tz/
 debian.charite.de/
