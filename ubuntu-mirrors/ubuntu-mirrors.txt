@@ -519,12 +519,10 @@ tw1.mirror.blendbyte.net/
 ubuntu-arch.linux.edu.lv/
 ubuntu-archive.interhost.co.il/
 ubuntu-archive.locaweb.com.br/
-ubuntu-archive.mirror.net.in/
 ubuntu-archive.mirror.serveriai.lt/
 ubuntu-mirror.cloud.mu/
 ubuntu-mirror.kimiahost.com/
 ubuntu-mirror.magnetic-it.com/
-ubuntu-ports.mirror.net.in/
 ubuntu.anexia.at/
 ubuntu.bardia.tech/
 ubuntu.byteiran.com/
