@@ -352,6 +352,7 @@ mirror.vcu.edu/
 mirror.verinomi.com/
 mirror.vietnix.vn/
 mirror.viettelcloud.vn/
+mirror.vinehost.net/
 mirror.virtury.com/
 mirror.vnet.sk/
 mirror.vorboss.net/
@@ -526,7 +527,6 @@ ubuntu-mirror.cloud.mu/
 ubuntu-mirror.kimiahost.com/
 ubuntu-mirror.magnetic-it.com/
 ubuntu.anexia.at/
-ubuntu.bardia.tech/
 ubuntu.byteiran.com/
 ubuntu.c3sl.ufpr.br/
 ubuntu.ccns.ncku.edu.tw/
