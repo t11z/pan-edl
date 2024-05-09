@@ -59,6 +59,7 @@ debian.netforce.hosting/
 debian.obspm.fr/
 debian.osuosl.org/
 debian.otenet.gr/
+debian.parspack.com/
 debian.polytech-lille.fr/
 debian.proxad.net/
 debian.redimadrid.es/
