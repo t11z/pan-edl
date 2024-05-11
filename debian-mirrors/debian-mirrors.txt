@@ -150,6 +150,7 @@ ftp.ru.debian.org/
 ftp.se.debian.org/
 ftp.si.debian.org/
 ftp.sk.debian.org/
+ftp.stw-bonn.de/
 ftp.task.gda.pl/
 ftp.ticklers.org/
 ftp.tr.debian.org/
