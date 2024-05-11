@@ -44,7 +44,6 @@ ftp.daum.net/
 ftp.energotel.sk/
 ftp.fau.de/
 ftp.fu-berlin.de/
-ftp.gtlib.gatech.edu/
 ftp.halifax.rwth-aachen.de/
 ftp.heanet.ie/
 ftp.hosteurope.de/
@@ -499,7 +498,6 @@ repo.usk.ac.id/
 repos.del.extreme-ix.org/
 repos.eggycrew.com/
 repos.interior.edu.uy/
-rsync.gtlib.gatech.edu/
 rsync.icm.edu.pl/
 rsync.kddilabs.jp/
 rsync.mirrors.theom.nz/
@@ -610,5 +608,4 @@ uk.mirrors.clouvider.net/
 www-ftp.lip6.fr/
 www.club.cc.cmu.edu/
 www.ftp.ne.jp/
-www.gtlib.gatech.edu/
 www.mirrorservice.org/
