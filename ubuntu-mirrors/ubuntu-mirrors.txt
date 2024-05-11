@@ -381,7 +381,6 @@ mirrors.arpnetworks.com/
 mirrors.asnet.am/
 mirrors.atlas.net.co/
 mirrors.bangmod.cloud/
-mirrors.bfsu.edu.cn/
 mirrors.bkns.vn/
 mirrors.bloomu.edu/
 mirrors.bupt.edu.cn/
@@ -412,7 +411,6 @@ mirrors.iu13.net/
 mirrors.jcut.edu.cn/
 mirrors.jlu.edu.cn/
 mirrors.jxust.edu.cn/
-mirrors.layerbridge.com/
 mirrors.layeronline.com/
 mirrors.liquidweb.com/
 mirrors.lug.mtu.edu/
