@@ -173,7 +173,6 @@ ftp.us.debian.org/
 ftp.wrz.de/
 ftp.zcu.cz/
 ftp2.de.debian.org/
-ftpmirror1.infania.net/
 giano.com.dist.unige.it/
 is.mirror.flokinet.net/
 kartolo.sby.datautama.net.id/
