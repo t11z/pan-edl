@@ -356,6 +356,7 @@ mirror.vorboss.net/
 mirror.vpgrp.io/
 mirror.vpsnet.com/
 mirror.webworld.ie/
+mirror.wiru.co.za/
 mirror.wtnet.de/
 mirror.xeonbd.com/
 mirror.xtom.com.hk/
