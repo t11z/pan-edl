@@ -23,7 +23,6 @@ debian.csie.ncku.edu.tw/
 debian.csie.ntu.edu.tw/
 debian.dynamica.it/
 debian.ethz.ch/
-debian.gnu.gen.tr/
 debian.grena.ge/
 debian.grn.cat/
 debian.hostiran.ir/
@@ -199,7 +198,6 @@ mirror.coganng.com/
 mirror.cogentco.com/
 mirror.corbina.net/
 mirror.cov.ukservers.com/
-mirror.csclub.uwaterloo.ca/
 mirror.cse.iitk.ac.in/
 mirror.dal.nexril.net/
 mirror.de.leaseweb.net/
