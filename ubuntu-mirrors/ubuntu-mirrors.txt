@@ -21,6 +21,7 @@ cz.archive.ubuntu.com/
 dafi.inf.um.es/
 dal.mirrors.clouvider.net/
 de.mirrors.clouvider.net/
+deb-mirror.habari.co.tz/
 debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
 download.nus.edu.sg/
@@ -358,7 +359,6 @@ mirror.vnet.sk/
 mirror.vorboss.net/
 mirror.vpgrp.io/
 mirror.vpsnet.com/
-mirror.wiru.co.za/
 mirror.wtnet.de/
 mirror.xeonbd.com/
 mirror.xtom.com.hk/
