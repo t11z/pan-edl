@@ -147,7 +147,6 @@ mirror.asergo.com/
 mirror.bacloud.com/
 mirror.bahnhof.net/
 mirror.bg.host.ag/
-mirror.bharatdatacenter.com/
 mirror.bizflycloud.vn/
 mirror.biznetgio.com/
 mirror.bjtu.edu.cn/
