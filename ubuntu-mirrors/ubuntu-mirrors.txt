@@ -395,6 +395,7 @@ mirrors.dotsrc.org/
 mirrors.egr.msu.edu/
 mirrors.evoluso.com/
 mirrors.gbnetwork.com/
+mirrors.gethosted.online/
 mirrors.gigenet.com/
 mirrors.hosterion.ro/
 mirrors.hostico.ro/
