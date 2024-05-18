@@ -349,7 +349,6 @@ mirror.us-tx.kamatera.com/
 mirror.us.leaseweb.net/
 mirror.vcu.edu/
 mirror.verinomi.com/
-mirror.vietnix.vn/
 mirror.viettelcloud.vn/
 mirror.vinehost.net/
 mirror.virtury.com/
