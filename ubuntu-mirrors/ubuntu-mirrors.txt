@@ -260,7 +260,6 @@ mirror.math.ucdavis.edu/
 mirror.metrocast.net/
 mirror.mia.velocihost.net/
 mirror.mirohost.net/
-mirror.morgan.kr/
 mirror.mrjester.net/
 mirror.mythic-beasts.com/
 mirror.neftm.ru/
@@ -281,7 +280,6 @@ mirror.nl.datapacket.com/
 mirror.nl.leaseweb.net/
 mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
-mirror.nyist.edu.cn/
 mirror.one.com/
 mirror.onevip.mk/
 mirror.ossplanet.net/
@@ -500,7 +498,6 @@ repos.eggycrew.com/
 repos.interior.edu.uy/
 rsync.icm.edu.pl/
 rsync.kddilabs.jp/
-rsync.mirrors.theom.nz/
 rsync.mirrors.ustc.edu.cn/
 rsync.mirrorservice.org/
 rsync.ubuntu.nautile.nc/
@@ -573,7 +570,6 @@ ubuntu.mirrors.omnilance.com/
 ubuntu.mirrors.orange.ro/
 ubuntu.mirrors.ovh.net/
 ubuntu.mirrors.pair.com/
-ubuntu.mirrors.theom.nz/
 ubuntu.mirrors.uk2.net/
 ubuntu.mti.mt.gov.br/
 ubuntu.netforce.hosting/
