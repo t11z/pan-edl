@@ -259,6 +259,7 @@ mirror.math.ucdavis.edu/
 mirror.metrocast.net/
 mirror.mia.velocihost.net/
 mirror.mirohost.net/
+mirror.morgan.kr/
 mirror.mrjester.net/
 mirror.mythic-beasts.com/
 mirror.neftm.ru/
@@ -280,6 +281,7 @@ mirror.nl.leaseweb.net/
 mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
 mirror.nwlab.tk/
+mirror.nyist.edu.cn/
 mirror.one.com/
 mirror.onevip.mk/
 mirror.ossplanet.net/
