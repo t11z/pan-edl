@@ -162,7 +162,6 @@ ftp.udc.es/
 ftp.uio.no/
 ftp.uk.debian.org/
 ftp.uni-bayreuth.de/
-ftp.uni-hannover.de/
 ftp.uni-kl.de/
 ftp.uni-mainz.de/
 ftp.uni-sofia.bg/
@@ -212,7 +211,6 @@ mirror.gsl.icu/
 mirror.hnd.cl/
 mirror.hoster.kz/
 mirror.hyperdedic.ru/
-mirror.i3d.net/
 mirror.ibcp.fr/
 mirror.informatik.tu-freiberg.de/
 mirror.init7.net/
