@@ -223,7 +223,6 @@ mirror.johnnybegood.fr/
 mirror.keystealth.org/
 mirror.kku.ac.th/
 mirror.lchost.net/
-mirror.limda.net/
 mirror.linux.org.au/
 mirror.linux.ro/
 mirror.litnet.lt/
