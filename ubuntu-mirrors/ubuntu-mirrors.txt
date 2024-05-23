@@ -72,7 +72,6 @@ ftp.psnc.pl/
 ftp.psu.ac.th/
 ftp.riken.jp/
 ftp.rnl.tecnico.ulisboa.pt/
-ftp.rrzn.uni-hannover.de/
 ftp.rz.tu-bs.de/
 ftp.sh.cvut.cz/
 ftp.sjtu.edu.cn/
@@ -299,7 +298,6 @@ mirror.rcg.sfu.ca/
 mirror.realcompute.io/
 mirror.reenigne.net/
 mirror.renu.ac.ug/
-mirror.repository.id/
 mirror.retentionrange.co.bw/
 mirror.rise.ph/
 mirror.root.lu/
