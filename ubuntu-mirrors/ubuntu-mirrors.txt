@@ -197,7 +197,6 @@ mirror.eu-fr.kamatera.com/
 mirror.eu-lo.kamatera.com/
 mirror.eu.kamatera.com/
 mirror.fairway.ne.jp/
-mirror.faizuladib.com/
 mirror.faraso.org/
 mirror.fcix.net/
 mirror.flokinet.net/
@@ -465,7 +464,6 @@ mirrors.zju.edu.cn/
 mirrror.0xem.ma/
 muug.ca/
 my.mirrors.thegigabit.com/
-net.0ms.dev/
 nl.archive.ubuntu.com/
 nl.mirrors.clouvider.net/
 nl3.archive.ubuntu.com/
