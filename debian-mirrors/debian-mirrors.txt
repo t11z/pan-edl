@@ -186,7 +186,6 @@ mirror.aminidc.com/
 mirror.applebred.net/
 mirror.as35701.net/
 mirror.as43289.net/
-mirror.asergo.com/
 mirror.bizflycloud.vn/
 mirror.cloudhosting.lv/
 mirror.coganng.com/
