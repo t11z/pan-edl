@@ -453,6 +453,7 @@ mirrors.ustc.edu.cn/
 mirrors.vcea.wsu.edu/
 mirrors.vhost.vn/
 mirrors.wikimedia.org/
+mirrors.xjtu.edu.cn/
 mirrors.xmission.com/
 mirrors.xtom.com/
 mirrors.xtom.de/
@@ -461,6 +462,7 @@ mirrors.xtom.nl/
 mirrors.yun-idc.com/
 mirrors.zju.edu.cn/
 mirrror.0xem.ma/
+mr.heru.id/
 muug.ca/
 my.mirrors.thegigabit.com/
 nl.archive.ubuntu.com/
