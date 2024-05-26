@@ -4,7 +4,6 @@ archive.ubuntu.com/
 archive.ubuntu.csg.uzh.ch/
 archive.ubuntu.mirror.ba/
 archive.ubuntu.mirror.rafal.ca/
-archive.ubuntu.moon127.net/
 archive.ubuntu.nautile.nc/
 archive.ubuntu.petiak.ir/
 archive.ubuntumirror.dei.uc.pt/
@@ -261,6 +260,7 @@ mirror.mrjester.net/
 mirror.mythic-beasts.com/
 mirror.neftm.ru/
 mirror.neolabs.kz/
+mirror.nerdmilio.com/
 mirror.netcologne.de/
 mirror.netsite.dk/
 mirror.netspace.net.au/
