@@ -292,6 +292,7 @@ mirror.plusserver.com/
 mirror.poliwangi.ac.id/
 mirror.previder.nl/
 mirror.ps.kz/
+mirror.rabisu.com/
 mirror.rcg.sfu.ca/
 mirror.realcompute.io/
 mirror.reenigne.net/
@@ -534,7 +535,6 @@ ubuntu.grad.hr/
 ubuntu.grena.ge/
 ubuntu.grn.cat/
 ubuntu.hi.no/
-ubuntu.hostiran.ir/
 ubuntu.hysing.is/
 ubuntu.ip-connect.vn.ua/
 ubuntu.ipacct.com/
