@@ -324,6 +324,7 @@ mirror.timeweb.ru/
 mirror.timkevin.us/
 mirror.transip.net/
 mirror.truenetwork.ru/
+mirror.twds.com.tw/
 mirror.ubuntu.ikoula.com/
 mirror.ubuntu.serverforge.org/
 mirror.uchile.cl/
@@ -442,6 +443,7 @@ mirrors.storpool.com/
 mirrors.syringanetworks.net/
 mirrors.tino.org/
 mirrors.tripadvisor.com/
+mirrors.tscak.com/
 mirrors.tuna.tsinghua.edu.cn/
 mirrors.ukfast.co.uk/
 mirrors.united.cd/
