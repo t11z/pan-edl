@@ -63,6 +63,7 @@ debian.parspack.com/
 debian.polytech-lille.fr/
 debian.proxad.net/
 debian.redimadrid.es/
+debian.redlibre.cl/
 debian.redparra.com/
 debian.repo.cure.edu.uy/
 debian.saix.net/
