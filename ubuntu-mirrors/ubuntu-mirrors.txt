@@ -517,12 +517,10 @@ tw1.mirror.blendbyte.net/
 ubuntu-arch.linux.edu.lv/
 ubuntu-archive.interhost.co.il/
 ubuntu-archive.locaweb.com.br/
-ubuntu-archive.mirror.net.in/
 ubuntu-archive.mirror.serveriai.lt/
 ubuntu-mirror.cloud.mu/
 ubuntu-mirror.kimiahost.com/
 ubuntu-mirror.magnetic-it.com/
-ubuntu-ports.mirror.net.in/
 ubuntu.anexia.at/
 ubuntu.byteiran.com/
 ubuntu.c3sl.ufpr.br/
@@ -536,6 +534,7 @@ ubuntu.grad.hr/
 ubuntu.grena.ge/
 ubuntu.grn.cat/
 ubuntu.hi.no/
+ubuntu.hostiran.ir/
 ubuntu.hysing.is/
 ubuntu.ip-connect.vn.ua/
 ubuntu.ipacct.com/
