@@ -570,6 +570,7 @@ ubuntu.mirrors.orange.ro/
 ubuntu.mirrors.ovh.net/
 ubuntu.mirrors.pair.com/
 ubuntu.mirrors.uk2.net/
+ubuntu.mobinhost.com/
 ubuntu.mti.mt.gov.br/
 ubuntu.netforce.hosting/
 ubuntu.ntc.net.np/
@@ -580,6 +581,7 @@ ubuntu.pars.host/
 ubuntu.phoenixnap.com/
 ubuntu.positive-internet.com/
 ubuntu.repo.cure.edu.uy/
+ubuntu.sabahost.net/
 ubuntu.securedservers.com/
 ubuntu.shatel.ir/
 ubuntu.task.gda.pl/
