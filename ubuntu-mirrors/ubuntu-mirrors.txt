@@ -296,7 +296,6 @@ mirror.rabisu.com/
 mirror.rcg.sfu.ca/
 mirror.realcompute.io/
 mirror.reenigne.net/
-mirror.repository.id/
 mirror.retentionrange.co.bw/
 mirror.rise.ph/
 mirror.root.lu/
