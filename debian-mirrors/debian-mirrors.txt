@@ -199,6 +199,7 @@ mirror.corbina.net/
 mirror.cov.ukservers.com/
 mirror.cse.iitk.ac.in/
 mirror.dal.nexril.net/
+mirror.datacenter.by/
 mirror.de.leaseweb.net/
 mirror.djvg.sg/
 mirror.dkm.cz/
