@@ -233,8 +233,6 @@ mirror.iranserver.com/
 mirror.isoc.org.il/
 mirror.it.ubc.ca/
 mirror.it4i.cz/
-mirror.its-tps.fr/
-mirror.its-tps.fr:10000/
 mirror.its.dal.ca/
 mirror.johnnybegood.fr/
 mirror.kakao.com/
