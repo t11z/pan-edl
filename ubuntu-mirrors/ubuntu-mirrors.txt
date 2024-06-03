@@ -73,7 +73,6 @@ ftp.riken.jp/
 ftp.rnl.tecnico.ulisboa.pt/
 ftp.rz.tu-bs.de/
 ftp.sh.cvut.cz/
-ftp.sjtu.edu.cn/
 ftp.snt.utwente.nl/
 ftp.stw-bonn.de/
 ftp.tc.edu.tw/
@@ -522,6 +521,7 @@ ubuntu-mirror.magnetic-it.com/
 ubuntu.anexia.at/
 ubuntu.byteiran.com/
 ubuntu.c3sl.ufpr.br/
+ubuntu.ccns.ncku.edu.tw/
 ubuntu.cica.es/
 ubuntu.cs.nctu.edu.tw/
 ubuntu.cs.utah.edu/
