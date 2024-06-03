@@ -19,6 +19,7 @@ debian.charite.de/
 debian.cs.binghamton.edu/
 debian.cs.nycu.edu.tw/
 debian.csail.mit.edu/
+debian.csie.ncku.edu.tw/
 debian.csie.ntu.edu.tw/
 debian.dynamica.it/
 debian.ethz.ch/
@@ -234,7 +235,6 @@ mirror.linux.org.au/
 mirror.linux.ro/
 mirror.litnet.lt/
 mirror.lon.macarne.com/
-mirror.lzu.edu.cn/
 mirror.marwan.ma/
 mirror.mephi.ru/
 mirror.mirohost.net/
