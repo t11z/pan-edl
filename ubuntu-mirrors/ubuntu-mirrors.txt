@@ -293,6 +293,7 @@ mirror.rabisu.com/
 mirror.rcg.sfu.ca/
 mirror.realcompute.io/
 mirror.reenigne.net/
+mirror.renu.ac.ug/
 mirror.repository.id/
 mirror.retentionrange.co.bw/
 mirror.rise.ph/
@@ -388,7 +389,6 @@ mirrors.cloud.tencent.com/
 mirrors.cmich.edu/
 mirrors.cn99.com/
 mirrors.coreix.net/
-mirrors.cqu.edu.cn/
 mirrors.dc.clear.net.ar/
 mirrors.dotsrc.org/
 mirrors.egr.msu.edu/
