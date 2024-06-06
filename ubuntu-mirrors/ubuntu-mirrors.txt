@@ -72,6 +72,7 @@ ftp.riken.jp/
 ftp.rnl.tecnico.ulisboa.pt/
 ftp.rz.tu-bs.de/
 ftp.sh.cvut.cz/
+ftp.sjtu.edu.cn/
 ftp.snt.utwente.nl/
 ftp.stw-bonn.de/
 ftp.tc.edu.tw/
@@ -177,6 +178,7 @@ mirror.datacenter.mn/
 mirror.datamossa.io/
 mirror.de.leaseweb.net/
 mirror.deace.id/
+mirror.dhakacom.com/
 mirror.digitaloceans.dev/
 mirror.digitalpacific.com.au/
 mirror.dkm.cz/
@@ -541,6 +543,7 @@ ubuntu.koyanet.lv/
 ubuntu.lafibre.info/
 ubuntu.lagis.at/
 ubuntu.lagoon.nc/
+ubuntu.letscloud.io/
 ubuntu.linux.n0c.ca/
 ubuntu.macarne.com/
 ubuntu.man.lodz.pl/
