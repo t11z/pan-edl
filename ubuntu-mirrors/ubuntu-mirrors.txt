@@ -420,7 +420,6 @@ mirrors.mit.edu/
 mirrors.mivocloud.com/
 mirrors.namecheap.com/
 mirrors.nav.ro/
-mirrors.neterra.net/
 mirrors.nhanhoa.com/
 mirrors.nic.funet.fi/
 mirrors.nipa.cloud/
