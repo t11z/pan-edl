@@ -74,6 +74,7 @@ debian.telecoms.bg/
 debian.tu-bs.de/
 debian.uevora.pt/
 debian.univ-tlse2.fr/
+debian.unnoba.edu.ar/
 debian.uvigo.es/
 debian.volia.net/
 debian.web.trex.fi/
@@ -234,6 +235,7 @@ mirror.linux.org.au/
 mirror.linux.ro/
 mirror.litnet.lt/
 mirror.lon.macarne.com/
+mirror.lzu.edu.cn/
 mirror.marwan.ma/
 mirror.mephi.ru/
 mirror.mirohost.net/
@@ -269,6 +271,7 @@ mirror.united-gameserver.de/
 mirror.units.it/
 mirror.us.leaseweb.net/
 mirror.us.oneandone.net/
+mirror.vinehost.net/
 mirror.vpsnet.com/
 mirror.wtnet.de/
 mirror.xeonbd.com/
