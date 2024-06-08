@@ -241,6 +241,7 @@ mirror.mephi.ru/
 mirror.mirohost.net/
 mirror.mythic-beasts.com/
 mirror.netzwerge.de/
+mirror.nforce.com/
 mirror.nju.edu.cn/
 mirror.nl.datapacket.com/
 mirror.nl.leaseweb.net/
