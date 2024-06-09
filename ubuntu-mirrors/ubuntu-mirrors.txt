@@ -157,6 +157,7 @@ mirror.cedia.org.ec/
 mirror.cepatcloud.id/
 mirror.chmuri.net/
 mirror.citrahost.com/
+mirror.clarkson.edu/
 mirror.clearsky.vn/
 mirror.cloudhosting.lv/
 mirror.cloudxchange.id/
