@@ -121,6 +121,7 @@ linux.domainesia.com/
 linux.yz.yamagata-u.ac.jp/
 linuxmirrors.ir/
 lug.mines.edu/
+mir.linux.kg/
 miroir.univ-lorraine.fr/
 mirror-hk.koddos.net/
 mirror-mk.interspace.com/
@@ -420,6 +421,7 @@ mirrors.mit.edu/
 mirrors.mivocloud.com/
 mirrors.namecheap.com/
 mirrors.nav.ro/
+mirrors.neterra.net/
 mirrors.nhanhoa.com/
 mirrors.nic.funet.fi/
 mirrors.nipa.cloud/
