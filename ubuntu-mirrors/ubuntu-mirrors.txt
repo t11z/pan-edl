@@ -451,7 +451,6 @@ mirrors.up.pt/
 mirrors.upr.edu/
 mirrors.us.kernel.org/
 mirrors.usinternet.com/
-mirrors.ustc.edu.cn/
 mirrors.vcea.wsu.edu/
 mirrors.vhost.vn/
 mirrors.wikimedia.org/
@@ -499,7 +498,6 @@ repos.interior.edu.uy/
 rsync.gtlib.gatech.edu/
 rsync.icm.edu.pl/
 rsync.kddilabs.jp/
-rsync.mirrors.ustc.edu.cn/
 rsync.mirrorservice.org/
 rsync.ubuntu.nautile.nc/
 rsync.udc.es/
