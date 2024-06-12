@@ -256,7 +256,6 @@ mirror.math.ucdavis.edu/
 mirror.metrocast.net/
 mirror.mia.velocihost.net/
 mirror.mirohost.net/
-mirror.morgan.kr/
 mirror.mrjester.net/
 mirror.mythic-beasts.com/
 mirror.neftm.ru/
@@ -592,7 +591,6 @@ ubuntu.tuxuri.com/
 ubuntu.ucr.ac.cr/
 ubuntu.uib.no/
 ubuntu.unc.edu.ar/
-ubuntu.uni-klu.ac.at/
 ubuntu.univ-nantes.fr/
 ubuntu.univ-reims.fr/
 ubuntu.uvigo.es/
