@@ -452,7 +452,6 @@ mirrors.upr.edu/
 mirrors.us.kernel.org/
 mirrors.usinternet.com/
 mirrors.vcea.wsu.edu/
-mirrors.vhost.vn/
 mirrors.wikimedia.org/
 mirrors.xjtu.edu.cn/
 mirrors.xmission.com/
@@ -504,7 +503,6 @@ rsync.ubuntu.nautile.nc/
 rsync.udc.es/
 rsync.uni-bayreuth.de/
 rsync.yuki.net.uk/
-sby.mirror.bignet.id/
 sft.if.usp.br/
 sft.if.usp.br:/
 softlibre.unizar.es/
