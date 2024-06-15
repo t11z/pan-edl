@@ -316,7 +316,6 @@ mirror.steadfastnet.com/
 mirror.t-home.mk/
 mirror.team-cymru.com/
 mirror.team-cymru.org/
-mirror.tedra.es/
 mirror.telepoint.bg/
 mirror.thaidns.co.th/
 mirror.timeweb.ru/
