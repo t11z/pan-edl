@@ -263,7 +263,6 @@ mirror.sabay.com.kh/
 mirror.seedvps.com/
 mirror.sg.gs/
 mirror.sinavps.ch/
-mirror.sitsa.com.ar/
 mirror.siwoo.org/
 mirror.sjtu.edu.cn/
 mirror.steadfast.net/
