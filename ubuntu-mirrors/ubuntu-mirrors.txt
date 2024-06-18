@@ -467,7 +467,6 @@ nl.mirrors.clouvider.net/
 nl3.archive.ubuntu.com/
 no.archive.ubuntu.com/
 no.mirrors.blix.com/
-ntc.net.np/
 nyc.mirrors.clouvider.net/
 opensource.xtdv.net/
 osmirror.rug.nl/
