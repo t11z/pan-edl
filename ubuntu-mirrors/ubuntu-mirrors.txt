@@ -134,7 +134,6 @@ mirror.aktkn.sg/
 mirror.alastyr.com/
 mirror.alwyzon.net/
 mirror.aminidc.com/
-mirror.amscloud.co.id/
 mirror.anigil.com/
 mirror.aptus.co.tz/
 mirror.arizona.edu/
