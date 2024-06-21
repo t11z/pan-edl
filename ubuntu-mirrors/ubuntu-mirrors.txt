@@ -12,6 +12,7 @@ artfiles.org/
 atl.mirrors.clouvider.net/
 aze.archive.ubuntu.com/
 babylon.cs.uh.edu/
+buaya.klas.or.id/
 cdn.repo.cloudeka.id/
 cdn.ubuntu.repo.cloudeka.id/
 cesium.di.uminho.pt/
@@ -103,7 +104,6 @@ ftpserv.tudelft.nl/
 giano.com.dist.unige.it/
 glua.ua.pt/
 gpl.savoirfairelinux.net/
-hk.mirrors.thegigabit.com/
 in.mirror.coganng.com/
 ir.archive.ubuntu.com/
 ir.ubuntu.sindad.cloud/
@@ -134,6 +134,7 @@ mirror.aktkn.sg/
 mirror.alastyr.com/
 mirror.alwyzon.net/
 mirror.aminidc.com/
+mirror.amscloud.co.id/
 mirror.anigil.com/
 mirror.aptus.co.tz/
 mirror.arizona.edu/
@@ -483,7 +484,6 @@ repo.jing.rocks/
 repo.jztkft.hu/
 repo.miserver.it.umich.edu/
 repo.ugm.ac.id/
-repo.usk.ac.id/
 repos.del.extreme-ix.org/
 repos.eggycrew.com/
 repos.interior.edu.uy/
