@@ -303,6 +303,7 @@ mirror.servaxnet.com/
 mirror.serverion.com/
 mirror.serverloft.eu/
 mirror.sg.gs/
+mirror.sh.com.tr/
 mirror.siena.edu/
 mirror.sitsa.com.ar/
 mirror.siwoo.org/
