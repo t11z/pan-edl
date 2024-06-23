@@ -127,7 +127,6 @@ ftp.hr.debian.org/
 ftp.is.co.za/
 ftp.is.debian.org/
 ftp.it.debian.org/
-ftp.jaist.ac.jp/
 ftp.jp.debian.org/
 ftp.kaist.ac.kr/
 ftp.kddilabs.jp/
