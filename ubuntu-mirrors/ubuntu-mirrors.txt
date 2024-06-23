@@ -12,7 +12,6 @@ artfiles.org/
 atl.mirrors.clouvider.net/
 aze.archive.ubuntu.com/
 babylon.cs.uh.edu/
-buaya.klas.or.id/
 cdn.repo.cloudeka.id/
 cdn.ubuntu.repo.cloudeka.id/
 cesium.di.uminho.pt/
@@ -415,7 +414,6 @@ mirrors.nhanhoa.com/
 mirrors.nic.funet.fi/
 mirrors.nipa.cloud/
 mirrors.nivacloud.net/
-mirrors.njupt.edu.cn/
 mirrors.nxtgen.com/
 mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
