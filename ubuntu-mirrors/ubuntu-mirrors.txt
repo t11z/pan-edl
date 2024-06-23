@@ -111,6 +111,7 @@ jp.mirror.coganng.com/
 kambing.uu.sg/
 kartolo.sby.datautama.net.id/
 kebo.pens.ac.id/
+kebo.vlsm.org/
 kozyatagi.mirror.guzel.net.tr/
 la.mirrors.clouvider.net/
 labs.eif.urjc.es/
