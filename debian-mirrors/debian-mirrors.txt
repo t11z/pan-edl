@@ -233,6 +233,7 @@ mirror.johnnybegood.fr/
 mirror.kku.ac.th/
 mirror.lagoon.nc/
 mirror.lchost.net/
+mirror.limda.net/
 mirror.linux.org.au/
 mirror.linux.ro/
 mirror.litnet.lt/
