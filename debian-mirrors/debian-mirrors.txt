@@ -263,7 +263,6 @@ mirror.sabay.com.kh/
 mirror.sg.gs/
 mirror.sinavps.ch/
 mirror.siwoo.org/
-mirror.sjtu.edu.cn/
 mirror.steadfast.net/
 mirror.telepoint.bg/
 mirror.timkevin.us/
@@ -316,6 +315,7 @@ mirrors.ucr.ac.cr/
 mirrors.ustc.edu.cn/
 mirrors.vcea.wsu.edu/
 mirrors.wikimedia.org/
+mirrors.xtom.au/
 mirrors.xtom.com/
 mirrors.xtom.de/
 mirrors.xtom.ee/
