@@ -382,7 +382,6 @@ mirrors.cloud.tencent.com/
 mirrors.cmich.edu/
 mirrors.cn99.com/
 mirrors.coreix.net/
-mirrors.cqu.edu.cn/
 mirrors.dc.clear.net.ar/
 mirrors.dotsrc.org/
 mirrors.ecvps.com/
@@ -585,7 +584,6 @@ ubuntu.uvigo.es/
 ubuntu.vargonen.com/
 ubuntu.volia.net/
 ubuntu.web.trex.fi/
-ubuntu.zero.com.ar/
 ubuntutym.u-toyama.ac.jp/
 ucho.ignum.cz/
 ucmirror.canterbury.ac.nz/
