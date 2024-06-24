@@ -53,6 +53,7 @@ ftp.iitm.ac.in/
 ftp.jaist.ac.jp/
 ftp.kaist.ac.kr/
 ftp.kddilabs.jp/
+ftp.klid.dk/
 ftp.lanet.kr/
 ftp.linux.cz/
 ftp.linux.org.tr/
@@ -241,6 +242,7 @@ mirror.kku.ac.th/
 mirror.leitecastro.com/
 mirror.library.ucy.ac.cy/
 mirror.linux-ia64.org/
+mirror.linux.ncsu.edu/
 mirror.liquidrp.de/
 mirror.logol.ru/
 mirror.lon.macarne.com/
@@ -312,6 +314,7 @@ mirror.steadfastnet.com/
 mirror.t-home.mk/
 mirror.team-cymru.com/
 mirror.team-cymru.org/
+mirror.team-host.ru/
 mirror.telepoint.bg/
 mirror.thaidns.co.th/
 mirror.timeweb.ru/
@@ -495,6 +498,7 @@ rsync.uni-bayreuth.de/
 rsync.yuki.net.uk/
 sft.if.usp.br/
 sft.if.usp.br:/
+sg-mirrors.vhost.vn/
 softlibre.unizar.es/
 suro.ubaya.ac.id/
 suse.uni-leipzig.de/
