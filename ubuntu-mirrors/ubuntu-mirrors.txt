@@ -157,9 +157,7 @@ mirror.cepatcloud.id/
 mirror.chmuri.net/
 mirror.citrahost.com/
 mirror.clarkson.edu/
-mirror.clearsky.vn/
 mirror.cloudhosting.lv/
-mirror.cloudxchange.id/
 mirror.coganng.com/
 mirror.cogentco.com/
 mirror.corbina.net/
