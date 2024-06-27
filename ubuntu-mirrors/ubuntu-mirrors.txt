@@ -12,7 +12,6 @@ artfiles.org/
 atl.mirrors.clouvider.net/
 aze.archive.ubuntu.com/
 babylon.cs.uh.edu/
-buaya.klas.or.id/
 cdn.repo.cloudeka.id/
 cdn.ubuntu.repo.cloudeka.id/
 cesium.di.uminho.pt/
@@ -552,7 +551,6 @@ ubuntu.mirror.su.se/
 ubuntu.mirror.true.nl/
 ubuntu.mirror.tudos.de/
 ubuntu.mirror.vu.lt/
-ubuntu.mirror.wearetriple.com/
 ubuntu.mirrors.linux.ro/
 ubuntu.mirrors.omnilance.com/
 ubuntu.mirrors.orange.ro/
