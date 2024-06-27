@@ -591,6 +591,7 @@ ubuntutym.u-toyama.ac.jp/
 ucho.ignum.cz/
 ucmirror.canterbury.ac.nz/
 uk.mirrors.clouvider.net/
+vn-mirrors.vhost.vn/
 www-ftp.lip6.fr/
 www.club.cc.cmu.edu/
 www.ftp.ne.jp/
