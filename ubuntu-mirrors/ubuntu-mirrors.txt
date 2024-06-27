@@ -57,10 +57,8 @@ ftp.kddilabs.jp/
 ftp.klid.dk/
 ftp.lanet.kr/
 ftp.linux.cz/
-ftp.linux.org.tr/
 ftp.linux.ro/
 ftp.lip6.fr/
-ftp.litnet.lt/
 ftp.lysator.liu.se/
 ftp.mirrorservice.org/
 ftp.muug.ca/
