@@ -58,6 +58,7 @@ ftp.linux.cz/
 ftp.linux.ro/
 ftp.lip6.fr/
 ftp.lysator.liu.se/
+ftp.mirror.tw/
 ftp.mirrorservice.org/
 ftp.muug.ca/
 ftp.nluug.nl/
