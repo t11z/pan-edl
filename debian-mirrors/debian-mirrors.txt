@@ -234,7 +234,6 @@ mirror.lchost.net/
 mirror.limda.net/
 mirror.linux.org.au/
 mirror.linux.ro/
-mirror.litnet.lt/
 mirror.lon.macarne.com/
 mirror.lzu.edu.cn/
 mirror.marwan.ma/
