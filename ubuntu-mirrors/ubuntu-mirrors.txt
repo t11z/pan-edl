@@ -112,7 +112,6 @@ kartolo.sby.datautama.net.id/
 kebo.pens.ac.id/
 kebo.vlsm.org/
 kozyatagi.mirror.guzel.net.tr/
-la.mirrors.clouvider.net/
 labs.eif.urjc.es/
 linux.domainesia.com/
 linux.yz.yamagata-u.ac.jp/
@@ -460,7 +459,6 @@ nl.archive.ubuntu.com/
 nl3.archive.ubuntu.com/
 no.archive.ubuntu.com/
 no.mirrors.blix.com/
-nyc.mirrors.clouvider.net/
 opensource.xtdv.net/
 osmirror.rug.nl/
 ossmirror.mycloud.services/
