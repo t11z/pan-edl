@@ -18,6 +18,7 @@ cesium.di.uminho.pt/
 cz.archive.ubuntu.com/
 dafi.inf.um.es/
 dal.mirrors.clouvider.net/
+de.mirrors.clouvider.net/
 deb-mirror.habari.co.tz/
 debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
@@ -547,6 +548,7 @@ ubuntu.mirror.su.se/
 ubuntu.mirror.true.nl/
 ubuntu.mirror.tudos.de/
 ubuntu.mirror.vu.lt/
+ubuntu.mirror.wearetriple.com/
 ubuntu.mirrors.linux.ro/
 ubuntu.mirrors.omnilance.com/
 ubuntu.mirrors.orange.ro/
