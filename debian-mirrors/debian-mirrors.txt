@@ -147,7 +147,6 @@ ftp.psn.ru/
 ftp.psnc.pl/
 ftp.pt.debian.org/
 ftp.riken.jp/
-ftp.rnl.tecnico.ulisboa.pt/
 ftp.ru.debian.org/
 ftp.se.debian.org/
 ftp.si.debian.org/
@@ -279,7 +278,6 @@ mirror.wtnet.de/
 mirror.xeonbd.com/
 mirror.xtom.com.hk/
 mirror.yuki.net.uk/
-mirror.zetup.net/
 mirror01-pcl-ott1.accuris.ca/
 mirror1.infomaniak.com/
 mirror2.infomaniak.com/
@@ -321,7 +319,6 @@ mirrors.zju.edu.cn/
 mirrorservice.org/
 mr.heru.id/
 nl.mirrors.clouvider.net/
-nyc.mirrors.clouvider.net/
 opensource.nchc.org.tw/
 ossmirror.mycloud.services/
 packages.hs-regensburg.de/
