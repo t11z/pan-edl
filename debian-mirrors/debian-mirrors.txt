@@ -285,7 +285,6 @@ mirror2.infomaniak.com/
 mirrors.accretive-networks.net/
 mirrors.asnet.am/
 mirrors.bkns.vn/
-mirrors.bloomu.edu/
 mirrors.coreix.net/
 mirrors.dotsrc.org/
 mirrors.glesys.net/
