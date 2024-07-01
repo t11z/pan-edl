@@ -1,7 +1,6 @@
 apt.tetaneutral.net/
 archive.debian.petiak.ir/
 artfiles.org/
-de.mirrors.clouvider.net/
 deb-mir1.naitways.net/
 deb.bbxnet.sk/
 deb.debian.org/
