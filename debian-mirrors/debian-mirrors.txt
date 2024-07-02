@@ -181,7 +181,6 @@ giano.com.dist.unige.it/
 is.mirror.flokinet.net/
 kartolo.sby.datautama.net.id/
 kebo.pens.ac.id/
-la.mirrors.clouvider.net/
 merlin.fit.vutbr.cz/
 miroir.univ-lorraine.fr/
 mirror-mk.interspace.com/
