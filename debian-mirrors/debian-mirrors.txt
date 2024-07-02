@@ -316,7 +316,6 @@ mirrors.xtom.nl/
 mirrors.zju.edu.cn/
 mirrorservice.org/
 mr.heru.id/
-nl.mirrors.clouvider.net/
 opensource.nchc.org.tw/
 ossmirror.mycloud.services/
 packages.hs-regensburg.de/
