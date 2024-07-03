@@ -22,7 +22,6 @@ debian.csie.ntu.edu.tw/
 debian.dynamica.it/
 debian.ethz.ch/
 debian.grena.ge/
-debian.grn.cat/
 debian.hostiran.ir/
 debian.inf.tu-dresden.de/
 debian.intergenia.de/
@@ -266,7 +265,6 @@ mirror.truenetwork.ru/
 mirror.uepg.br/
 mirror.ufro.cl/
 mirror.ukrnames.com/
-mirror.unair.ac.id/
 mirror.united-gameserver.de/
 mirror.units.it/
 mirror.us.leaseweb.net/
