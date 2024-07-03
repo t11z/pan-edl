@@ -151,7 +151,6 @@ mirror.cepatcloud.id/
 mirror.chmuri.net/
 mirror.citrahost.com/
 mirror.clarkson.edu/
-mirror.clearsky.vn/
 mirror.cloudhosting.lv/
 mirror.coganng.com/
 mirror.cogentco.com/
@@ -568,7 +567,6 @@ ubuntu.tuxuri.com/
 ubuntu.ucr.ac.cr/
 ubuntu.uib.no/
 ubuntu.unc.edu.ar/
-ubuntu.uni-klu.ac.at/
 ubuntu.univ-nantes.fr/
 ubuntu.univ-reims.fr/
 ubuntu.uvigo.es/
