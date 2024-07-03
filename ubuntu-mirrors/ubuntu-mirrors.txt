@@ -57,6 +57,7 @@ ftp.lanet.kr/
 ftp.linux.cz/
 ftp.linux.ro/
 ftp.lip6.fr/
+ftp.litnet.lt/
 ftp.lysator.liu.se/
 ftp.mirror.tw/
 ftp.mirrorservice.org/
@@ -111,6 +112,7 @@ kartolo.sby.datautama.net.id/
 kebo.pens.ac.id/
 kebo.vlsm.org/
 kozyatagi.mirror.guzel.net.tr/
+la.mirrors.clouvider.net/
 labs.eif.urjc.es/
 linux.domainesia.com/
 linux.yz.yamagata-u.ac.jp/
