@@ -428,7 +428,6 @@ mirrors.sarak.as/
 mirrors.sohu.com/
 mirrors.sonic.net/
 mirrors.storpool.com/
-mirrors.syringanetworks.net/
 mirrors.tino.org/
 mirrors.tscak.com/
 mirrors.tuna.tsinghua.edu.cn/
@@ -492,7 +491,6 @@ softlibre.unizar.es/
 suro.ubaya.ac.id/
 suse.uni-leipzig.de/
 tux.rainside.sk/
-tw1.mirror.blendbyte.net/
 ubuntu-arch.linux.edu.lv/
 ubuntu-archive.interhost.co.il/
 ubuntu-archive.locaweb.com.br/
