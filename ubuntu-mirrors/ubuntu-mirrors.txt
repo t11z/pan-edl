@@ -486,6 +486,7 @@ rsync.ubuntu.nautile.nc/
 rsync.udc.es/
 rsync.uni-bayreuth.de/
 rsync.yuki.net.uk/
+sby.mirror.bignet.id/
 sft.if.usp.br/
 sft.if.usp.br:/
 sg-mirrors.vhost.vn/
