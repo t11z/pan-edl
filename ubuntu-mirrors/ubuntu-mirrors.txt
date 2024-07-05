@@ -162,6 +162,7 @@ mirror.creoline.net/
 mirror.cs.jmu.edu/
 mirror.cs.pitt.edu/
 mirror.csclub.uwaterloo.ca/
+mirror.cse.iitk.ac.in/
 mirror.d.umn.edu/
 mirror.dal.nexril.net/
 mirror.daniel-jost.net/
@@ -397,7 +398,6 @@ mirrors.isu.net.sa/
 mirrors.iu13.net/
 mirrors.jcut.edu.cn/
 mirrors.jlu.edu.cn/
-mirrors.jxust.edu.cn/
 mirrors.layeronline.com/
 mirrors.liquidweb.com/
 mirrors.lug.mtu.edu/
