@@ -153,7 +153,6 @@ mirror.cedia.org.ec/
 mirror.chmuri.net/
 mirror.citrahost.com/
 mirror.clarkson.edu/
-mirror.clearsky.vn/
 mirror.cloudhosting.lv/
 mirror.coganng.com/
 mirror.cogentco.com/
@@ -289,6 +288,7 @@ mirror.rcg.sfu.ca/
 mirror.realcompute.io/
 mirror.reenigne.net/
 mirror.renu.ac.ug/
+mirror.repository.id/
 mirror.retentionrange.co.bw/
 mirror.rise.ph/
 mirror.root.lu/
