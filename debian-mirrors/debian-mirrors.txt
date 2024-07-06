@@ -193,7 +193,6 @@ mirror.as35701.net/
 mirror.as43289.net/
 mirror.bizflycloud.vn/
 mirror.cloudhosting.lv/
-mirror.coganng.com/
 mirror.cogentco.com/
 mirror.corbina.net/
 mirror.cov.ukservers.com/
@@ -254,14 +253,11 @@ mirror.positive-internet.com/
 mirror.ps.kz/
 mirror.realcompute.io/
 mirror.rustytel.net/
-mirror.sabay.com.kh/
-mirror.sg.gs/
 mirror.siena.edu/
 mirror.sinavps.ch/
 mirror.siwoo.org/
 mirror.steadfast.net/
 mirror.telepoint.bg/
-mirror.timkevin.us/
 mirror.truenetwork.ru/
 mirror.uepg.br/
 mirror.ufro.cl/
@@ -307,11 +303,6 @@ mirrors.ustc.edu.cn/
 mirrors.vcea.wsu.edu/
 mirrors.wikimedia.org/
 mirrors.xtom.au/
-mirrors.xtom.com/
-mirrors.xtom.de/
-mirrors.xtom.ee/
-mirrors.xtom.jp/
-mirrors.xtom.nl/
 mirrors.zju.edu.cn/
 mirrorservice.org/
 mr.heru.id/
