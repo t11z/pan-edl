@@ -199,7 +199,6 @@ mirror.gi.co.id/
 mirror.greennet.gl/
 mirror.group.one/
 mirror.gsl.icu/
-mirror.hep.gg/
 mirror.herza.id/
 mirror.hnd.cl/
 mirror.hoobly.com/
