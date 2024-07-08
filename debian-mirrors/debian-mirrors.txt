@@ -279,7 +279,6 @@ mirror1.infomaniak.com/
 mirror2.infomaniak.com/
 mirrors.accretive-networks.net/
 mirrors.asnet.am/
-mirrors.bkns.vn/
 mirrors.coreix.net/
 mirrors.dotsrc.org/
 mirrors.glesys.net/
