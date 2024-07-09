@@ -153,6 +153,7 @@ mirror.cepatcloud.id/
 mirror.chmuri.net/
 mirror.citrahost.com/
 mirror.clarkson.edu/
+mirror.clearsky.vn/
 mirror.cloudhosting.lv/
 mirror.coganng.com/
 mirror.cogentco.com/
@@ -490,8 +491,6 @@ rsync.udc.es/
 rsync.uni-bayreuth.de/
 rsync.yuki.net.uk/
 sby.mirror.bignet.id/
-sft.if.usp.br/
-sft.if.usp.br:/
 sg-mirrors.vhost.vn/
 softlibre.unizar.es/
 suro.ubaya.ac.id/
