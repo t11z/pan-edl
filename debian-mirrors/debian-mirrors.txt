@@ -194,6 +194,7 @@ mirror.applebred.net/
 mirror.as35701.net/
 mirror.as43289.net/
 mirror.bizflycloud.vn/
+mirror.clarkson.edu/
 mirror.cloudhosting.lv/
 mirror.cogentco.com/
 mirror.corbina.net/
