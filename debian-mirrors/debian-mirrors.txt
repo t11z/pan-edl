@@ -259,6 +259,7 @@ mirror.realcompute.io/
 mirror.rustytel.net/
 mirror.sinavps.ch/
 mirror.siwoo.org/
+mirror.sjtu.edu.cn/
 mirror.steadfast.net/
 mirror.telepoint.bg/
 mirror.truenetwork.ru/
