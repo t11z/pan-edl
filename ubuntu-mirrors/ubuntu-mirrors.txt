@@ -201,6 +201,7 @@ mirror.gi.co.id/
 mirror.greennet.gl/
 mirror.group.one/
 mirror.gsl.icu/
+mirror.hep.gg/
 mirror.herza.id/
 mirror.hnd.cl/
 mirror.hoobly.com/
@@ -492,6 +493,8 @@ rsync.udc.es/
 rsync.uni-bayreuth.de/
 rsync.yuki.net.uk/
 sby.mirror.bignet.id/
+sft.if.usp.br/
+sft.if.usp.br:/
 sg-mirrors.vhost.vn/
 softlibre.unizar.es/
 suro.ubaya.ac.id/
