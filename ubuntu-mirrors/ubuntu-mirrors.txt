@@ -82,8 +82,6 @@ ftp.tu-ilmenau.de/
 ftp.tudelft.nl/
 ftp.tw.debian.org/
 ftp.u-picardie.fr/
-ftp.ubuntu-tw.net/
-ftp.ubuntu-tw.org/
 ftp.udc.es/
 ftp.udx.icscoe.jp/
 ftp.uni-bayreuth.de/
@@ -396,7 +394,6 @@ mirrors.hosterion.ro/
 mirrors.hostico.ro/
 mirrors.hostiserver.com/
 mirrors.huaweicloud.com/
-mirrors.hust.edu.cn/
 mirrors.iitd.ac.in/
 mirrors.ipserverone.com/
 mirrors.ircam.fr/
@@ -503,6 +500,7 @@ softlibre.unizar.es/
 suro.ubaya.ac.id/
 suse.uni-leipzig.de/
 tux.rainside.sk/
+tw1.mirror.blendbyte.net/
 ubuntu-arch.linux.edu.lv/
 ubuntu-archive.interhost.co.il/
 ubuntu-archive.locaweb.com.br/
