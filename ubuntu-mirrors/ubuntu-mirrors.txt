@@ -454,7 +454,6 @@ mirrors.yun-idc.com/
 mirrors.zju.edu.cn/
 mr.heru.id/
 muug.ca/
-my.mirrors.thegigabit.com/
 nl.archive.ubuntu.com/
 nl.mirrors.clouvider.net/
 nl3.archive.ubuntu.com/
@@ -547,6 +546,7 @@ ubuntu.mirror.root.lu/
 ubuntu.mirror.serversaustralia.com.au/
 ubuntu.mirror.shastacoe.net/
 ubuntu.mirror.su.se/
+ubuntu.mirror.thegigabit.com/
 ubuntu.mirror.true.nl/
 ubuntu.mirror.tudos.de/
 ubuntu.mirror.vu.lt/
