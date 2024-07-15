@@ -16,6 +16,8 @@ else:
         tables = soup.find_all('table', attrs={'id': 'mirrors_list'})
 
         domains = []
+        domains.append("archive.ubuntu.com")
+        domains.append("security.ubuntu.com")
 
         for table in tables:
             links = table.find_all('a')
