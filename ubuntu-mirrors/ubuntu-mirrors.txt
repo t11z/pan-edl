@@ -344,6 +344,7 @@ mirror.veesp.com/
 mirror.verinomi.com/
 mirror.viettelcloud.vn/
 mirror.vinehost.net/
+mirror.virtarix.com/
 mirror.virtury.com/
 mirror.vnet.sk/
 mirror.vorboss.net/
@@ -456,6 +457,7 @@ mirrors.zju.edu.cn/
 mr.heru.id/
 muug.ca/
 nl.archive.ubuntu.com/
+nl.mirror.flokinet.net/
 nl.mirrors.clouvider.net/
 nl3.archive.ubuntu.com/
 no.archive.ubuntu.com/
