@@ -511,6 +511,7 @@ ubuntu-mirror.magnetic-it.com/
 ubuntu.anexia.at/
 ubuntu.byteiran.com/
 ubuntu.c3sl.ufpr.br/
+ubuntu.ccns.ncku.edu.tw/
 ubuntu.cica.es/
 ubuntu.cs.nctu.edu.tw/
 ubuntu.cs.utah.edu/
