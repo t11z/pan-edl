@@ -227,7 +227,6 @@ mirror.johnnybegood.fr/
 mirror.lagoon.nc/
 mirror.lchost.net/
 mirror.librelabucm.org/
-mirror.limda.net/
 mirror.linux.org.au/
 mirror.linux.ro/
 mirror.lon.macarne.com/
@@ -270,7 +269,6 @@ mirror.us.oneandone.net/
 mirror.vinehost.net/
 mirror.vpsnet.com/
 mirror.wtnet.de/
-mirror.xeonbd.com/
 mirror.xtom.com.hk/
 mirror.yuki.net.uk/
 mirror.zetup.net/
