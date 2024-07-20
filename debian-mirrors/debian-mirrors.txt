@@ -267,6 +267,7 @@ mirror.units.it/
 mirror.us.leaseweb.net/
 mirror.us.oneandone.net/
 mirror.vinehost.net/
+mirror.vpgrp.io/
 mirror.vpsnet.com/
 mirror.wtnet.de/
 mirror.xtom.com.hk/
