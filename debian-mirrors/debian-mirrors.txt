@@ -291,6 +291,7 @@ mirrors.lug.mtu.edu/
 mirrors.namecheap.com/
 mirrors.nav.ro/
 mirrors.nic.cz/
+mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
 mirrors.powernet.com.ru/
 mirrors.ptisp.pt/
