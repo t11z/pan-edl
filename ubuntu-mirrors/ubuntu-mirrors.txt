@@ -352,6 +352,7 @@ mirror.vpgrp.io/
 mirror.vpsnet.com/
 mirror.webworld.ie/
 mirror.wtnet.de/
+mirror.xeonbd.com/
 mirror.xtom.com.hk/
 mirror.yandex.ru/
 mirror.yer.az/
