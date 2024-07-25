@@ -114,6 +114,7 @@ kebo.pens.ac.id/
 kebo.vlsm.org/
 kozyatagi.mirror.guzel.net.tr/
 la.mirrors.clouvider.net/
+labs.eif.urjc.es/
 linux.domainesia.com/
 linux.yz.yamagata-u.ac.jp/
 lug.mines.edu/
