@@ -386,6 +386,7 @@ mirrors.cn99.com/
 mirrors.coreix.net/
 mirrors.cqu.edu.cn/
 mirrors.dc.clear.net.ar/
+mirrors.dgut.edu.cn/
 mirrors.dotsrc.org/
 mirrors.egr.msu.edu/
 mirrors.evoluso.com/
