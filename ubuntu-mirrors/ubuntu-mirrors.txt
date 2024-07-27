@@ -18,6 +18,7 @@ cz.archive.ubuntu.com/
 dafi.inf.um.es/
 dal.mirrors.clouvider.net/
 de.mirrors.clouvider.net/
+deb-mirror.habari.co.tz/
 debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
 download.nus.edu.sg/
@@ -162,7 +163,6 @@ mirror.corbina.net/
 mirror.cov.ukservers.com/
 mirror.creoline.net/
 mirror.cs.jmu.edu/
-mirror.cs.pitt.edu/
 mirror.csclub.uwaterloo.ca/
 mirror.cse.iitk.ac.in/
 mirror.d.umn.edu/
@@ -404,6 +404,7 @@ mirrors.isu.net.sa/
 mirrors.iu13.net/
 mirrors.jcut.edu.cn/
 mirrors.jlu.edu.cn/
+mirrors.jxust.edu.cn/
 mirrors.layeronline.com/
 mirrors.liquidweb.com/
 mirrors.lug.mtu.edu/
