@@ -571,6 +571,7 @@ ubuntu.pars.host/
 ubuntu.phoenixnap.com/
 ubuntu.positive-internet.com/
 ubuntu.repo.cure.edu.uy/
+ubuntu.sabahost.net/
 ubuntu.securedservers.com/
 ubuntu.shatel.ir/
 ubuntu.task.gda.pl/
