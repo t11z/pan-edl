@@ -306,6 +306,7 @@ mirrors.ustc.edu.cn/
 mirrors.vcea.wsu.edu/
 mirrors.wikimedia.org/
 mirrors.xtom.au/
+mirrors.xtom.nl/
 mirrors.zju.edu.cn/
 mirrorservice.org/
 mr.heru.id/
