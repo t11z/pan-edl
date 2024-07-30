@@ -197,6 +197,7 @@ mirror.fra.macarne.com/
 mirror.freethought-internet.co.uk/
 mirror.fsmg.org.nz/
 mirror.funkfreundelandshut.de/
+mirror.geekonweb.fr/
 mirror.gi.co.id/
 mirror.greennet.gl/
 mirror.group.one/
@@ -298,6 +299,7 @@ mirror.rustytel.net/
 mirror.sabay.com.kh/
 mirror.scaleuptech.com/
 mirror.servaxnet.com/
+mirror.server.net/
 mirror.serverion.com/
 mirror.serverloft.eu/
 mirror.sg.gs/
@@ -374,6 +376,7 @@ mirrors.bangmod.cloud/
 mirrors.bfsu.edu.cn/
 mirrors.bkns.vn/
 mirrors.bloomu.edu/
+mirrors.bmcc.edu/
 mirrors.bupt.edu.cn/
 mirrors.c0urier.net/
 mirrors.cat.pdx.edu/
@@ -575,6 +578,7 @@ ubuntu.sabahost.net/
 ubuntu.securedservers.com/
 ubuntu.shatel.ir/
 ubuntu.task.gda.pl/
+ubuntu.tokyo.macarne.com/
 ubuntu.turhost.com/
 ubuntu.tuxuri.com/
 ubuntu.ucr.ac.cr/
