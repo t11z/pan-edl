@@ -199,6 +199,7 @@ mirror.coganng.com/
 mirror.cogentco.com/
 mirror.corbina.net/
 mirror.cov.ukservers.com/
+mirror.csclub.uwaterloo.ca/
 mirror.cse.iitk.ac.in/
 mirror.dal.nexril.net/
 mirror.datacenter.by/
@@ -281,6 +282,7 @@ mirror1.infomaniak.com/
 mirror2.infomaniak.com/
 mirrors.163.com/
 mirrors.accretive-networks.net/
+mirrors.advancedhosters.com/
 mirrors.asnet.am/
 mirrors.bfsu.edu.cn/
 mirrors.coreix.net/
