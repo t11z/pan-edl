@@ -256,6 +256,7 @@ mirror.mirohost.net/
 mirror.morgan.kr/
 mirror.mrjester.net/
 mirror.mythic-beasts.com/
+mirror.neftm.ru/
 mirror.neolabs.kz/
 mirror.nerdmilio.com/
 mirror.netcologne.de/
