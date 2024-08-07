@@ -83,11 +83,11 @@ jobs:
         git config --local user.name "GitHub Action"
         git pull origin main
     - name: Generate hash before changes
-      run: sha256sum docker-domains/docker-domains > before.txt
+      run: sha256sum docker-domains/docker-domains.txt > before.txt
     - name: Run fetcher script and generate EDL
       run: python docker-domains/docker-domains.py
     - name: Generate hash after changes
-      run: sha256sum docker-domains/docker-domains > after.txt
+      run: sha256sum docker-domains/docker-domains.txt > after.txt
     - name: Commit and push if changes
       run: |
         if cmp -s before.txt after.txt; then
