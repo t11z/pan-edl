@@ -181,6 +181,7 @@ is.mirror.flokinet.net/
 kartolo.sby.datautama.net.id/
 kebo.pens.ac.id/
 la.mirrors.clouvider.net/
+lidsol.fi-b.unam.mx/
 merlin.fit.vutbr.cz/
 miroir.univ-lorraine.fr/
 mirror-mk.interspace.com/
@@ -264,6 +265,7 @@ mirror.sjtu.edu.cn/
 mirror.steadfast.net/
 mirror.telepoint.bg/
 mirror.truenetwork.ru/
+mirror.twds.com.tw/
 mirror.uepg.br/
 mirror.ufro.cl/
 mirror.unair.ac.id/
