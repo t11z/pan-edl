@@ -66,3 +66,34 @@ jobs:
           git commit -m "Update Ubuntu Mirror list" -a
           git push origin main || echo "Push failed, retrying..." && git pull --rebase origin main && git push origin main
         fi
+
+  docker-domains:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.8'
+    - name: Install dependencies
+      run: pip install requests beautifulsoup4
+    - name: Pull latest changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git pull origin main
+    - name: Generate hash before changes
+      run: sha256sum docker-domains/docker-domains > before.txt
+    - name: Run fetcher script and generate EDL
+      run: python docker-domains/docker-domains.py
+    - name: Generate hash after changes
+      run: sha256sum docker-domains/docker-domains > after.txt
+    - name: Commit and push if changes
+      run: |
+        if cmp -s before.txt after.txt; then
+          echo "No changes to commit"
+        else
+          git add docker-domains/docker-domains.txt
+          git commit -m "Update Docker Domain list" -a
+          git push origin main || echo "Push failed, retrying..." && git pull --rebase origin main && git push origin main
+        fi
