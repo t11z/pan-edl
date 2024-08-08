@@ -256,6 +256,7 @@ mirror.pmf.kg.ac.rs/
 mirror.poliwangi.ac.id/
 mirror.positive-internet.com/
 mirror.ps.kz/
+mirror.raiolanetworks.com/
 mirror.realcompute.io/
 mirror.rustytel.net/
 mirror.sg.gs/
@@ -321,6 +322,7 @@ mirrors.zju.edu.cn/
 mirrorservice.org/
 mr.heru.id/
 nl.mirrors.clouvider.net/
+nyc.mirrors.clouvider.net/
 opensource.nchc.org.tw/
 ossmirror.mycloud.services/
 packages.hs-regensburg.de/
