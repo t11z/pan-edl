@@ -277,6 +277,7 @@ mirror.units.it/
 mirror.us.leaseweb.net/
 mirror.us.oneandone.net/
 mirror.vinehost.net/
+mirror.vorboss.net/
 mirror.vpgrp.io/
 mirror.vpsnet.com/
 mirror.wtnet.de/
