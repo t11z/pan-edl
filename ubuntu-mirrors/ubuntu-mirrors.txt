@@ -204,7 +204,6 @@ mirror.gsl.icu/
 mirror.hep.gg/
 mirror.herza.id/
 mirror.hnd.cl/
-mirror.hoobly.com/
 mirror.hostafrica.co.za/
 mirror.hoster.kz/
 mirror.hostingviet.vn/
@@ -454,7 +453,6 @@ mirrors.xmission.com/
 mirrors.xtom.com/
 mirrors.xtom.de/
 mirrors.xtom.ee/
-mirrors.xtom.nl/
 mirrors.yun-idc.com/
 mirrors.zju.edu.cn/
 mirrror.0xem.ma/
