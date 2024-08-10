@@ -520,7 +520,6 @@ ubuntu.ccns.ncku.edu.tw/
 ubuntu.cica.es/
 ubuntu.cs.nctu.edu.tw/
 ubuntu.cs.utah.edu/
-ubuntu.dts.mg/
 ubuntu.ethz.ch/
 ubuntu.grad.hr/
 ubuntu.grena.ge/
@@ -566,7 +565,6 @@ ubuntu.mirrors.ovh.net/
 ubuntu.mirrors.pair.com/
 ubuntu.mirrors.uk2.net/
 ubuntu.mobinhost.com/
-ubuntu.mti.mt.gov.br/
 ubuntu.netforce.hosting/
 ubuntu.ntc.net.np/
 ubuntu.org.ua/
