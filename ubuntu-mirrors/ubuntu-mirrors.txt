@@ -58,7 +58,6 @@ ftp.linux.ro/
 ftp.lip6.fr/
 ftp.litnet.lt/
 ftp.lysator.liu.se/
-ftp.mirror.tw/
 ftp.mirrorservice.org/
 ftp.muug.ca/
 ftp.nluug.nl/
@@ -431,7 +430,6 @@ mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
 mirrors.psu.ac.th/
 mirrors.ptisp.pt/
-mirrors.rit.edu/
 mirrors.sarak.as/
 mirrors.sdu.edu.cn/
 mirrors.sohu.com/
