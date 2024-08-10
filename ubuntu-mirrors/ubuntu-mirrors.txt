@@ -451,6 +451,7 @@ mirrors.xmission.com/
 mirrors.xtom.com/
 mirrors.xtom.de/
 mirrors.xtom.ee/
+mirrors.xtom.nl/
 mirrors.yun-idc.com/
 mirrors.zju.edu.cn/
 mr.heru.id/
