@@ -118,7 +118,6 @@ linux.yz.yamagata-u.ac.jp/
 lug.mines.edu/
 mir.linux.kg/
 miroir.univ-lorraine.fr/
-mirror-hk.koddos.net/
 mirror-mk.interspace.com/
 mirror.0-1.cloud/
 mirror.23m.com/
@@ -342,7 +341,6 @@ mirror.verinomi.com/
 mirror.viettelcloud.vn/
 mirror.vinehost.net/
 mirror.virtarix.com/
-mirror.virtury.com/
 mirror.vnet.sk/
 mirror.vorboss.net/
 mirror.vpgrp.io/
@@ -426,6 +424,7 @@ mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
 mirrors.psu.ac.th/
 mirrors.ptisp.pt/
+mirrors.rit.edu/
 mirrors.sarak.as/
 mirrors.sdu.edu.cn/
 mirrors.sohu.com/
