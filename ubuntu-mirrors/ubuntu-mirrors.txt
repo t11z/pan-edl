@@ -195,7 +195,6 @@ mirror.fra.macarne.com/
 mirror.freethought-internet.co.uk/
 mirror.fsmg.org.nz/
 mirror.funkfreundelandshut.de/
-mirror.geekonweb.fr/
 mirror.gi.co.id/
 mirror.greennet.gl/
 mirror.group.one/
