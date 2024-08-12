@@ -184,6 +184,7 @@ kartolo.sby.datautama.net.id/
 kebo.pens.ac.id/
 la.mirrors.clouvider.net/
 lidsol.fi-b.unam.mx/
+linuxsoft.cern.ch/
 merlin.fit.vutbr.cz/
 miroir.univ-lorraine.fr/
 mirror-mk.interspace.com/
