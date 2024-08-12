@@ -7,6 +7,7 @@ cdn.segment.com/
 cdn.wootric.com/
 desktop.docker.com/
 docker-pinata-support.s3.amazonaws.com/
+download.docker.com/
 hub.docker.com/
 login.docker.com/
 notify.bugsnag.com/
