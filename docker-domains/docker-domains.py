@@ -17,6 +17,7 @@ else:
         table = h2.find_next_sibling('table')
 
         domains = []
+        domains.append("download.docker.com")
 
         if table:
             links = table.find_all('a')
