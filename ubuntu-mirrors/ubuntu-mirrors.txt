@@ -417,6 +417,7 @@ mirrors.nipa.cloud/
 mirrors.nivacloud.net/
 mirrors.nxtgen.com/
 mirrors.nxthost.com/
+mirrors.ocf.berkeley.edu/
 mirrors.opensource.is/
 mirrors.pardisco.co/
 mirrors.piconets.webwerks.in/
