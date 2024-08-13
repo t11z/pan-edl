@@ -375,7 +375,6 @@ mirrors.bfsu.edu.cn/
 mirrors.bkns.vn/
 mirrors.bloomu.edu/
 mirrors.bmcc.edu/
-mirrors.bupt.edu.cn/
 mirrors.c0urier.net/
 mirrors.cat.pdx.edu/
 mirrors.chroot.ro/
