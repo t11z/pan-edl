@@ -6,6 +6,7 @@ de.mirrors.clouvider.net/
 deb-mir1.naitways.net/
 deb.bbxnet.sk/
 deb.debian.org/
+deb.mirror.cywg.as400442.net/
 debian-archive.trafficmanager.net/
 debian-mirror.sakura.ne.jp/
 debian.a1.bg/
@@ -231,6 +232,7 @@ mirror.it.ubc.ca/
 mirror.it4i.cz/
 mirror.iway.ch/
 mirror.johnnybegood.fr/
+mirror.keystealth.org/
 mirror.lagoon.nc/
 mirror.lchost.net/
 mirror.linux.org.au/
