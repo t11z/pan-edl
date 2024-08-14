@@ -188,7 +188,6 @@ mirror.espol.edu.ec/
 mirror.eu-fr.kamatera.com/
 mirror.eu-lo.kamatera.com/
 mirror.eu.kamatera.com/
-mirror.exid.us/
 mirror.faizuladib.com/
 mirror.faraso.org/
 mirror.fcix.net/
