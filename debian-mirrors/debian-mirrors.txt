@@ -265,7 +265,6 @@ mirror.positive-internet.com/
 mirror.ps.kz/
 mirror.raiolanetworks.com/
 mirror.realcompute.io/
-mirror.rustytel.net/
 mirror.sabay.com.kh/
 mirror.sg.gs/
 mirror.sinavps.ch/
@@ -312,6 +311,7 @@ mirrors.lug.mtu.edu/
 mirrors.namecheap.com/
 mirrors.nav.ro/
 mirrors.nic.cz/
+mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
 mirrors.powernet.com.ru/
 mirrors.ptisp.pt/
