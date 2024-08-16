@@ -73,6 +73,7 @@ debian.sil.at/
 debian.snt.utwente.nl/
 debian.superhosting.cz/
 debian.telecoms.bg/
+debian.tu-bs.de/
 debian.uchicago.edu/
 debian.uevora.pt/
 debian.univ-tlse2.fr/
