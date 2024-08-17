@@ -24,7 +24,6 @@ debian.csie.ncku.edu.tw/
 debian.csie.ntu.edu.tw/
 debian.dynamica.it/
 debian.ethz.ch/
-debian.gnu.gen.tr/
 debian.grena.ge/
 debian.hostiran.ir/
 debian.inf.tu-dresden.de/
