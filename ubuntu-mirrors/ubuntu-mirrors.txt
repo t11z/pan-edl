@@ -205,7 +205,6 @@ mirror.gsl.icu/
 mirror.hep.gg/
 mirror.herza.id/
 mirror.hnd.cl/
-mirror.hoobly.com/
 mirror.hostafrica.co.za/
 mirror.hoster.kz/
 mirror.hostingviet.vn/
