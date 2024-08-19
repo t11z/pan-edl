@@ -531,7 +531,6 @@ ubuntu.itsbrasil.net/
 ubuntu.koyanet.lv/
 ubuntu.lafibre.info/
 ubuntu.lagis.at/
-ubuntu.lagoon.nc/
 ubuntu.letscloud.io/
 ubuntu.linux.n0c.ca/
 ubuntu.macarne.com/
@@ -579,7 +578,6 @@ ubuntu.securedservers.com/
 ubuntu.shatel.ir/
 ubuntu.task.gda.pl/
 ubuntu.tokyo.macarne.com/
-ubuntu.turhost.com/
 ubuntu.tuxuri.com/
 ubuntu.ucr.ac.cr/
 ubuntu.uib.no/
