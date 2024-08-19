@@ -11,7 +11,6 @@ artfiles.org/
 atl.mirrors.clouvider.net/
 aze.archive.ubuntu.com/
 babylon.cs.uh.edu/
-buaya.klas.or.id/
 cdn.repo.cloudeka.id/
 cdn.ubuntu.repo.cloudeka.id/
 cesium.di.uminho.pt/
