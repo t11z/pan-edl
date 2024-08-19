@@ -296,6 +296,7 @@ mirrors.accretive-networks.net/
 mirrors.advancedhosters.com/
 mirrors.asnet.am/
 mirrors.bfsu.edu.cn/
+mirrors.bloomu.edu/
 mirrors.coreix.net/
 mirrors.dotsrc.org/
 mirrors.glesys.net/
