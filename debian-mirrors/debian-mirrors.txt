@@ -79,6 +79,7 @@ debian.unnoba.edu.ar/
 debian.uvigo.es/
 debian.volia.net/
 debian.web.trex.fi/
+debian.xtdv.net/
 debianmirror.una.ac.cr/
 dennou-k.gfd-dennou.org/
 dennou-q.gfd-dennou.org/
