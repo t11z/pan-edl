@@ -24,6 +24,7 @@ debian.csie.ntu.edu.tw/
 debian.dynamica.it/
 debian.ethz.ch/
 debian.grena.ge/
+debian.grn.cat/
 debian.hostiran.ir/
 debian.inf.tu-dresden.de/
 debian.intergenia.de/
@@ -263,6 +264,7 @@ mirror.positive-internet.com/
 mirror.ps.kz/
 mirror.raiolanetworks.com/
 mirror.realcompute.io/
+mirror.rustytel.net/
 mirror.sabay.com.kh/
 mirror.sg.gs/
 mirror.sinavps.ch/
