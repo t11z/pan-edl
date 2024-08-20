@@ -235,7 +235,6 @@ mirror.it4i.cz/
 mirror.iway.ch/
 mirror.johnnybegood.fr/
 mirror.keystealth.org/
-mirror.lagoon.nc/
 mirror.lchost.net/
 mirror.linux.org.au/
 mirror.linux.ro/
