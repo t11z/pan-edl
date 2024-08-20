@@ -570,6 +570,7 @@ ubuntu.osuosl.org/
 ubuntu.otenet.gr/
 ubuntu.pars.host/
 ubuntu.phoenixnap.com/
+ubuntu.pishgaman.net/
 ubuntu.positive-internet.com/
 ubuntu.repo.cure.edu.uy/
 ubuntu.sabahost.net/
