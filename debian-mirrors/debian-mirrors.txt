@@ -315,6 +315,7 @@ mirrors.nav.ro/
 mirrors.nic.cz/
 mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
+mirrors.pardisco.co/
 mirrors.powernet.com.ru/
 mirrors.ptisp.pt/
 mirrors.qvq.net.cn/
