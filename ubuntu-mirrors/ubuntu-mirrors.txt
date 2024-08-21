@@ -540,6 +540,7 @@ ubuntu.mirror.ac.za/
 ubuntu.mirror.constant.com/
 ubuntu.mirror.digitalpacific.com.au/
 ubuntu.mirror.frontiernet.net/
+ubuntu.mirror.garr.it/
 ubuntu.mirror.gnc.am/
 ubuntu.mirror.intermax.nl/
 ubuntu.mirror.letscloud.io/
