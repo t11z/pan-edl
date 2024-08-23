@@ -237,7 +237,6 @@ mirror.kapteyan.com.tr/
 mirror.kkg.berlin/
 mirror.kku.ac.th/
 mirror.leitecastro.com/
-mirror.library.ucy.ac.cy/
 mirror.limda.net/
 mirror.linux-ia64.org/
 mirror.linux.ncsu.edu/
@@ -550,7 +549,6 @@ ubuntu.mirror.rafal.ca/
 ubuntu.mirror.rain.co.za/
 ubuntu.mirror.root.lu/
 ubuntu.mirror.serversaustralia.com.au/
-ubuntu.mirror.shastacoe.net/
 ubuntu.mirror.su.se/
 ubuntu.mirror.thegigabit.com/
 ubuntu.mirror.true.nl/
