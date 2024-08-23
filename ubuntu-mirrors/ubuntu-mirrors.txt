@@ -128,6 +128,7 @@ mirror.23m.com/
 mirror.2degrees.nz/
 mirror.5i.fi/
 mirror.aarnet.edu.au/
+mirror.aktkn.sg/
 mirror.alastyr.com/
 mirror.alwyzon.net/
 mirror.aminidc.com/
@@ -136,6 +137,7 @@ mirror.anigil.com/
 mirror.aptus.co.tz/
 mirror.arizona.edu/
 mirror.as.kamatera.com/
+mirror.as24220.net/
 mirror.as29550.net/
 mirror.as43289.net/
 mirror.bacloud.com/
@@ -203,7 +205,6 @@ mirror.gsl.icu/
 mirror.hep.gg/
 mirror.herza.id/
 mirror.hnd.cl/
-mirror.hoobly.com/
 mirror.hostafrica.co.za/
 mirror.hoster.kz/
 mirror.hostingviet.vn/
