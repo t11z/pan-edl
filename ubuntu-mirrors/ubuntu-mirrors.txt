@@ -511,7 +511,6 @@ ubuntu-archive.interhost.co.il/
 ubuntu-archive.locaweb.com.br/
 ubuntu-archive.mirror.serveriai.lt/
 ubuntu-mirror.kimiahost.com/
-ubuntu-mirror.magnetic-it.com/
 ubuntu.anexia.at/
 ubuntu.byteiran.com/
 ubuntu.c3sl.ufpr.br/
