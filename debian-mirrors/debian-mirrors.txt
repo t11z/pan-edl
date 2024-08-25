@@ -352,6 +352,5 @@ security.debian.org/
 softlibre.unizar.es/
 tw1.mirror.blendbyte.net/
 uk.mirrors.clouvider.net/
-ukdebian.mirror.anlx.net/
 ulises.hostalia.com/
 www.nic.funet.fi/
