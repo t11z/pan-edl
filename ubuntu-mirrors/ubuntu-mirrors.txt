@@ -237,6 +237,7 @@ mirror.kapteyan.com.tr/
 mirror.kkg.berlin/
 mirror.kku.ac.th/
 mirror.leitecastro.com/
+mirror.library.ucy.ac.cy/
 mirror.limda.net/
 mirror.linux-ia64.org/
 mirror.linux.ncsu.edu/
