@@ -286,6 +286,7 @@ mirror.vorboss.net/
 mirror.vpgrp.io/
 mirror.vpsnet.com/
 mirror.wtnet.de/
+mirror.xeonbd.com/
 mirror.xtom.com.hk/
 mirror.yuki.net.uk/
 mirror.zetup.net/
