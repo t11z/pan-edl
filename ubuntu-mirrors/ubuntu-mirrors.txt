@@ -227,6 +227,7 @@ mirror.ipb.de/
 mirror.iranserver.com/
 mirror.isoc.org.il/
 mirror.it.ubc.ca/
+mirror.it4i.cz/
 mirror.its-tps.fr/
 mirror.its-tps.fr:10000/
 mirror.its.dal.ca/
@@ -291,6 +292,7 @@ mirror.realcompute.io/
 mirror.reenigne.net/
 mirror.renu.ac.ug/
 mirror.repository.id/
+mirror.retentionrange.co.bw/
 mirror.rise.ph/
 mirror.root.lu/
 mirror.rustytel.net/
@@ -590,7 +592,6 @@ ubuntu.vargonen.com/
 ubuntu.volia.net/
 ubuntu.web.trex.fi/
 ubuntu.zero.com.ar/
-ubuntutym.u-toyama.ac.jp/
 ucho.ignum.cz/
 ucmirror.canterbury.ac.nz/
 uk.mirrors.clouvider.net/
