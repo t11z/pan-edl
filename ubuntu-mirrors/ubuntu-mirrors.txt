@@ -243,7 +243,6 @@ mirror.linux-ia64.org/
 mirror.linux.ncsu.edu/
 mirror.liquidrp.de/
 mirror.logol.ru/
-mirror.lon.macarne.com/
 mirror.lstn.net/
 mirror.lyrahosting.com/
 mirror.marwan.ma/
