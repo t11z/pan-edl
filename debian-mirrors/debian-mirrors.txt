@@ -251,6 +251,7 @@ mirror.netzwerge.de/
 mirror.nju.edu.cn/
 mirror.nl.datapacket.com/
 mirror.nl.leaseweb.net/
+mirror.nl.mirhosting.net/
 mirror.nyist.edu.cn/
 mirror.one.com/
 mirror.onevip.mk/
@@ -299,6 +300,7 @@ mirrors.advancedhosters.com/
 mirrors.asnet.am/
 mirrors.bfsu.edu.cn/
 mirrors.bloomu.edu/
+mirrors.cat.pdx.edu/
 mirrors.coreix.net/
 mirrors.dotsrc.org/
 mirrors.glesys.net/
