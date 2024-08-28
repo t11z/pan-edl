@@ -212,6 +212,7 @@ mirror.cse.iitk.ac.in/
 mirror.dal.nexril.net/
 mirror.datacenter.by/
 mirror.de.leaseweb.net/
+mirror.debian.ikoula.com/
 mirror.djvg.sg/
 mirror.dkm.cz/
 mirror.docker.ru/
@@ -282,6 +283,7 @@ mirror.united-gameserver.de/
 mirror.units.it/
 mirror.us.leaseweb.net/
 mirror.us.oneandone.net/
+mirror.veesp.com/
 mirror.vinehost.net/
 mirror.vorboss.net/
 mirror.vpgrp.io/
@@ -335,10 +337,12 @@ mirrors.xtom.nl/
 mirrors.zju.edu.cn/
 mirrorservice.org/
 mr.heru.id/
+nl.mirror.flokinet.net/
 nl.mirrors.clouvider.net/
 nyc.mirrors.clouvider.net/
 ossmirror.mycloud.services/
 packages.hs-regensburg.de/
+pkg.adfinis-on-exoscale.ch/
 plug-mirror.rcac.purdue.edu/
 pubmirror.plutex.de/
 repo.ialab.dsu.edu/
