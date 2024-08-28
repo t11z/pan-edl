@@ -235,6 +235,7 @@ mirror.insacom.cl/
 mirror.ipb.de/
 mirror.iranserver.com/
 mirror.it.ubc.ca/
+mirror.it4i.cz/
 mirror.iway.ch/
 mirror.johnnybegood.fr/
 mirror.keystealth.org/
@@ -326,6 +327,7 @@ mirrors.qvq.net.cn/
 mirrors.rackhosting.com/
 mirrors.tuna.tsinghua.edu.cn/
 mirrors.ucr.ac.cr/
+mirrors.upr.edu/
 mirrors.ustc.edu.cn/
 mirrors.vcea.wsu.edu/
 mirrors.wikimedia.org/
