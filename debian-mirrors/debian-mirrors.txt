@@ -87,7 +87,6 @@ dennou-q.gfd-dennou.org/
 depot-debian.univ-reunion.fr/
 drmirror.physi.uni-heidelberg.de/
 elmirror.cl/
-fastmirror.pp.ua/
 free.hands.com/
 ftp-stud.hs-esslingen.de/
 ftp.acc.umu.se/
@@ -192,6 +191,7 @@ linuxsoft.cern.ch/
 merlin.fit.vutbr.cz/
 miroir.univ-lorraine.fr/
 mirror-mk.interspace.com/
+mirror.0x626b.com/
 mirror.23m.com/
 mirror.aarnet.edu.au/
 mirror.alwyzon.net/
@@ -244,7 +244,6 @@ mirror.limda.net/
 mirror.linux.org.au/
 mirror.linux.ro/
 mirror.litnet.lt/
-mirror.lon.macarne.com/
 mirror.lzu.edu.cn/
 mirror.marwan.ma/
 mirror.mephi.ru/
