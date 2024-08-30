@@ -87,7 +87,6 @@ dennou-q.gfd-dennou.org/
 depot-debian.univ-reunion.fr/
 drmirror.physi.uni-heidelberg.de/
 elmirror.cl/
-fastmirror.pp.ua/
 free.hands.com/
 ftp-stud.hs-esslingen.de/
 ftp.acc.umu.se/
@@ -240,6 +239,7 @@ mirror.it4i.cz/
 mirror.iway.ch/
 mirror.johnnybegood.fr/
 mirror.keystealth.org/
+mirror.kpfu.ru/
 mirror.lchost.net/
 mirror.limda.net/
 mirror.linux.org.au/
