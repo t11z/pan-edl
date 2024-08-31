@@ -202,6 +202,7 @@ mirror.applebred.net/
 mirror.as35701.net/
 mirror.as43289.net/
 mirror.bizflycloud.vn/
+mirror.blue3.com.br/
 mirror.braindrainlan.nu/
 mirror.clarkson.edu/
 mirror.cloudhosting.lv/
