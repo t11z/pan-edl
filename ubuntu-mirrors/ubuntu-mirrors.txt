@@ -109,7 +109,6 @@ is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
 jp.mirror.coganng.com/
-kambing.uu.sg/
 kartolo.sby.datautama.net.id/
 kebo.pens.ac.id/
 kebo.vlsm.org/
