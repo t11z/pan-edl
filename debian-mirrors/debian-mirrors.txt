@@ -322,6 +322,7 @@ mirrors.jlu.edu.cn/
 mirrors.lug.mtu.edu/
 mirrors.namecheap.com/
 mirrors.nav.ro/
+mirrors.neusoft.edu.cn/
 mirrors.nic.cz/
 mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
