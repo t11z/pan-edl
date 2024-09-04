@@ -1,3 +1,4 @@
+alcateia.ufscar.br/
 apt.tetaneutral.net/
 archive.debian.petiak.ir/
 artfiles.org/
