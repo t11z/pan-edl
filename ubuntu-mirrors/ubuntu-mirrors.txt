@@ -300,6 +300,7 @@ mirror.sabay.com.kh/
 mirror.scaleuptech.com/
 mirror.servaxnet.com/
 mirror.server.net/
+mirror.serverion.com/
 mirror.serverloft.eu/
 mirror.sg.gs/
 mirror.sh.com.tr/
@@ -580,7 +581,6 @@ ubuntu.tuxuri.com/
 ubuntu.ucr.ac.cr/
 ubuntu.uib.no/
 ubuntu.unc.edu.ar/
-ubuntu.uni-klu.ac.at/
 ubuntu.univ-nantes.fr/
 ubuntu.univ-reims.fr/
 ubuntu.uvigo.es/
