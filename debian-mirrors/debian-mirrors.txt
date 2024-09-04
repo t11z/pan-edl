@@ -255,6 +255,7 @@ mirror.mephi.ru/
 mirror.metanet.ch/
 mirror.mirohost.net/
 mirror.mythic-beasts.com/
+mirror.neftm.ru/
 mirror.netzwerge.de/
 mirror.nju.edu.cn/
 mirror.nl.datapacket.com/
@@ -309,6 +310,7 @@ mirrors.advancedhosters.com/
 mirrors.asnet.am/
 mirrors.bfsu.edu.cn/
 mirrors.bloomu.edu/
+mirrors.bmcc.edu/
 mirrors.cat.pdx.edu/
 mirrors.coreix.net/
 mirrors.dotsrc.org/
