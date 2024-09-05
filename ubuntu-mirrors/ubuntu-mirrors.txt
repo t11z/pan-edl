@@ -128,6 +128,7 @@ mirror.23m.com/
 mirror.2degrees.nz/
 mirror.5i.fi/
 mirror.aarnet.edu.au/
+mirror.aktkn.sg/
 mirror.alastyr.com/
 mirror.alwyzon.net/
 mirror.aminidc.com/
@@ -233,6 +234,7 @@ mirror.its.dal.ca/
 mirror.johnnybegood.fr/
 mirror.kakao.com/
 mirror.kamp.de/
+mirror.kapteyan.com.tr/
 mirror.kkg.berlin/
 mirror.kku.ac.th/
 mirror.leitecastro.com/
