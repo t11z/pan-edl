@@ -514,6 +514,7 @@ ubuntu-mirror.cloud.mu/
 ubuntu-mirror.kimiahost.com/
 ubuntu-mirror.snu.edu.in/
 ubuntu.anexia.at/
+ubuntu.byteiran.com/
 ubuntu.c3sl.ufpr.br/
 ubuntu.ccns.ncku.edu.tw/
 ubuntu.cica.es/
