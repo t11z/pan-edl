@@ -144,7 +144,6 @@ ftp.md.debian.org/
 ftp.nara.wide.ad.jp/
 ftp.nc.debian.org/
 ftp.nl.debian.org/
-ftp.no.debian.org/
 ftp.nz.debian.org/
 ftp.pl.debian.org/
 ftp.plusline.net/
@@ -168,7 +167,6 @@ ftp.tu-graz.ac.at/
 ftp.u-picardie.fr/
 ftp.u-strasbg.fr/
 ftp.udc.es/
-ftp.uio.no/
 ftp.uk.debian.org/
 ftp.uni-bayreuth.de/
 ftp.uni-hannover.de/
