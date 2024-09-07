@@ -462,6 +462,7 @@ muug.ca/
 nl.archive.ubuntu.com/
 nl.mirror.flokinet.net/
 nl.mirrors.clouvider.net/
+nl3.archive.ubuntu.com/
 no.archive.ubuntu.com/
 no.mirrors.blix.com/
 nyc.mirrors.clouvider.net/
