@@ -542,6 +542,7 @@ ubuntu.mirror.constant.com/
 ubuntu.mirror.digitalpacific.com.au/
 ubuntu.mirror.frontiernet.net/
 ubuntu.mirror.garr.it/
+ubuntu.mirror.gnc.am/
 ubuntu.mirror.intermax.nl/
 ubuntu.mirror.letscloud.io/
 ubuntu.mirror.linux.ro/
@@ -581,6 +582,7 @@ ubuntu.tuxuri.com/
 ubuntu.ucr.ac.cr/
 ubuntu.uib.no/
 ubuntu.unc.edu.ar/
+ubuntu.uni-klu.ac.at/
 ubuntu.univ-nantes.fr/
 ubuntu.univ-reims.fr/
 ubuntu.uvigo.es/
