@@ -45,6 +45,7 @@ ftp.gtlib.gatech.edu/
 ftp.halifax.rwth-aachen.de/
 ftp.heanet.ie/
 ftp.hosteurope.de/
+ftp.icm.edu.pl/
 ftp.iinet.net.au/
 ftp.iitm.ac.in/
 ftp.jaist.ac.jp/
@@ -489,6 +490,7 @@ repos.del.extreme-ix.org/
 repos.eggycrew.com/
 repos.interior.edu.uy/
 rsync.gtlib.gatech.edu/
+rsync.icm.edu.pl/
 rsync.kddilabs.jp/
 rsync.mirrorservice.org/
 rsync.ubuntu.nautile.nc/
