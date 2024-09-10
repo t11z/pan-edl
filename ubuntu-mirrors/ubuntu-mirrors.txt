@@ -293,6 +293,7 @@ mirror.realcompute.io/
 mirror.reenigne.net/
 mirror.renu.ac.ug/
 mirror.repository.id/
+mirror.retentionrange.co.bw/
 mirror.rise.ph/
 mirror.root.lu/
 mirror.rustytel.net/
@@ -432,6 +433,7 @@ mirrors.powernet.com.ru/
 mirrors.psu.ac.th/
 mirrors.ptisp.pt/
 mirrors.rit.edu/
+mirrors.sarak.as/
 mirrors.sdu.edu.cn/
 mirrors.sohu.com/
 mirrors.sonic.net/
@@ -592,7 +594,6 @@ ubuntu.vargonen.com/
 ubuntu.volia.net/
 ubuntu.web.trex.fi/
 ubuntu.zero.com.ar/
-ubuntutym.u-toyama.ac.jp/
 ucho.ignum.cz/
 ucmirror.canterbury.ac.nz/
 uk.mirrors.clouvider.net/
