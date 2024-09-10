@@ -1,10 +1,8 @@
 api.dso.docker.com/
 api.segment.io/
-api.wootric.com/
 auth.docker.io/
 cdn.auth0.com/
 cdn.segment.com/
-cdn.wootric.com/
 desktop.docker.com/
 docker-pinata-support.s3.amazonaws.com/
 download.docker.com/
