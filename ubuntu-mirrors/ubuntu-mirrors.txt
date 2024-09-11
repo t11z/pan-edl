@@ -58,7 +58,6 @@ ftp.linux.ro/
 ftp.lip6.fr/
 ftp.litnet.lt/
 ftp.lysator.liu.se/
-ftp.mirror.tw/
 ftp.mirrorservice.org/
 ftp.muug.ca/
 ftp.nluug.nl/
@@ -121,7 +120,6 @@ linuxmirrors.ir/
 lug.mines.edu/
 mir.linux.kg/
 miroir.univ-lorraine.fr/
-mirror-hk.koddos.net/
 mirror-mk.interspace.com/
 mirror.0-1.cloud/
 mirror.0xem.ma/
