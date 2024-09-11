@@ -17,6 +17,7 @@ else:
 
         domains = []
         domains.append("archive.ubuntu.com")
+        domains.append("*.archive.ubuntu.com")
         domains.append("security.ubuntu.com")
 
         for table in tables:
