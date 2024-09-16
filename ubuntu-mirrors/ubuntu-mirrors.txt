@@ -570,6 +570,7 @@ ubuntu.mobinhost.com/
 ubuntu.mti.mt.gov.br/
 ubuntu.netforce.hosting/
 ubuntu.ntc.net.np/
+ubuntu.org.ua/
 ubuntu.osuosl.org/
 ubuntu.otenet.gr/
 ubuntu.pars.host/
