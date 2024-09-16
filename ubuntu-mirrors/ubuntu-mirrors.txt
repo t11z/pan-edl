@@ -569,6 +569,7 @@ ubuntu.mirrors.uk2.net/
 ubuntu.mobinhost.com/
 ubuntu.mti.mt.gov.br/
 ubuntu.netforce.hosting/
+ubuntu.ntc.net.np/
 ubuntu.osuosl.org/
 ubuntu.otenet.gr/
 ubuntu.pars.host/
@@ -593,6 +594,7 @@ ubuntu.vargonen.com/
 ubuntu.volia.net/
 ubuntu.web.trex.fi/
 ubuntu.zero.com.ar/
+ubuntutym.u-toyama.ac.jp/
 ucho.ignum.cz/
 ucmirror.canterbury.ac.nz/
 uk.mirrors.clouvider.net/
