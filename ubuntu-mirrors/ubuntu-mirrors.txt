@@ -461,6 +461,7 @@ mirrors.xtom.nl/
 mirrors.yun-idc.com/
 mirrors.zju.edu.cn/
 mirrror.0xem.ma/
+mr.heru.id/
 muug.ca/
 nl.archive.ubuntu.com/
 nl.mirror.flokinet.net/
