@@ -308,7 +308,6 @@ mirrors.advancedhosters.com/
 mirrors.asnet.am/
 mirrors.bfsu.edu.cn/
 mirrors.bloomu.edu/
-mirrors.bmcc.edu/
 mirrors.cat.pdx.edu/
 mirrors.coreix.net/
 mirrors.dotsrc.org/
