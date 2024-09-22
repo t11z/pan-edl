@@ -104,6 +104,7 @@ gpl.savoirfairelinux.net/
 hk.mirrors.thegigabit.com/
 in.mirror.coganng.com/
 ir.archive.ubuntu.com/
+ir.ubuntu.sindad.cloud/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
@@ -119,7 +120,6 @@ linux.domainesia.com/
 linux.yz.yamagata-u.ac.jp/
 linuxmirrors.ir/
 lug.mines.edu/
-mir.linux.kg/
 miroir.univ-lorraine.fr/
 mirror-hk.koddos.net/
 mirror-mk.interspace.com/
