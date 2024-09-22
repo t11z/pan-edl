@@ -308,6 +308,7 @@ mirrors.advancedhosters.com/
 mirrors.asnet.am/
 mirrors.bfsu.edu.cn/
 mirrors.bloomu.edu/
+mirrors.bmcc.edu/
 mirrors.cat.pdx.edu/
 mirrors.coreix.net/
 mirrors.dotsrc.org/
@@ -332,7 +333,6 @@ mirrors.qvq.net.cn/
 mirrors.rackhosting.com/
 mirrors.tuna.tsinghua.edu.cn/
 mirrors.ucr.ac.cr/
-mirrors.up.pt/
 mirrors.upr.edu/
 mirrors.ustc.edu.cn/
 mirrors.vcea.wsu.edu/
