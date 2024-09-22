@@ -255,6 +255,7 @@ mirror.mirohost.net/
 mirror.mythic-beasts.com/
 mirror.neftm.ru/
 mirror.netzwerge.de/
+mirror.nforce.com/
 mirror.nju.edu.cn/
 mirror.nl.datapacket.com/
 mirror.nl.leaseweb.net/
@@ -355,7 +356,6 @@ packages.hs-regensburg.de/
 pkg.adfinis-on-exoscale.ch/
 plug-mirror.rcac.purdue.edu/
 pubmirror.plutex.de/
-repo.ialab.dsu.edu/
 repo.ifca.es/
 repo.jing.rocks/
 repo.jztkft.hu/
