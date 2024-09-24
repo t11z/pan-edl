@@ -120,6 +120,7 @@ linux.domainesia.com/
 linux.yz.yamagata-u.ac.jp/
 linuxmirrors.ir/
 lug.mines.edu/
+mir.linux.kg/
 miroir.univ-lorraine.fr/
 mirror-hk.koddos.net/
 mirror-mk.interspace.com/
