@@ -283,7 +283,6 @@ mirror.telepoint.bg/
 mirror.truenetwork.ru/
 mirror.twds.com.tw/
 mirror.uepg.br/
-mirror.ufro.cl/
 mirror.unair.ac.id/
 mirror.united-gameserver.de/
 mirror.units.it/
