@@ -178,6 +178,7 @@ mirror.datamossa.io/
 mirror.de.leaseweb.net/
 mirror.deace.id/
 mirror.dewabiz.com/
+mirror.digitaloceans.dev/
 mirror.digitalpacific.com.au/
 mirror.dkm.cz/
 mirror.docker.ru/
@@ -373,7 +374,6 @@ mirrors-ubuntu.behostings.com/
 mirrors.accretive-networks.net/
 mirrors.advancedhosters.com/
 mirrors.aliyun.com/
-mirrors.arpnetworks.com/
 mirrors.asnet.am/
 mirrors.atlas.net.co/
 mirrors.bangmod.cloud/
