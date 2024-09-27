@@ -375,6 +375,7 @@ mirrors-ubuntu.behostings.com/
 mirrors.accretive-networks.net/
 mirrors.advancedhosters.com/
 mirrors.aliyun.com/
+mirrors.arpnetworks.com/
 mirrors.asnet.am/
 mirrors.bangmod.cloud/
 mirrors.bfsu.edu.cn/
@@ -577,6 +578,7 @@ ubuntu.org.ua/
 ubuntu.osuosl.org/
 ubuntu.otenet.gr/
 ubuntu.pars.host/
+ubuntu.parsvds.com/
 ubuntu.phoenixnap.com/
 ubuntu.pishgaman.net/
 ubuntu.positive-internet.com/
