@@ -264,7 +264,6 @@ mirror.netcologne.de/
 mirror.netsite.dk/
 mirror.netspace.net.au/
 mirror.netzwerge.de/
-mirror.nevacloud.com/
 mirror.nforce.com/
 mirror.niif.hu/
 mirror.nitc.ac.in/
@@ -446,7 +445,6 @@ mirrors.tino.org/
 mirrors.tscak.com/
 mirrors.tuna.tsinghua.edu.cn/
 mirrors.ukfast.co.uk/
-mirrors.united.cd/
 mirrors.up.pt/
 mirrors.upr.edu/
 mirrors.us.kernel.org/
