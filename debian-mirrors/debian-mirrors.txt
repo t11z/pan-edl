@@ -300,7 +300,6 @@ mirror.xeonbd.com/
 mirror.xtom.com.hk/
 mirror.yuki.net.uk/
 mirror.zetup.net/
-mirror01-pcl-ott1.accuris.ca/
 mirror1.infomaniak.com/
 mirror2.infomaniak.com/
 mirrors.163.com/
