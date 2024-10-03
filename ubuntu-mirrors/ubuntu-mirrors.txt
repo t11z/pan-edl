@@ -274,7 +274,6 @@ mirror.nl.datapacket.com/
 mirror.nl.leaseweb.net/
 mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
-mirror.nwlab.tk/
 mirror.nyist.edu.cn/
 mirror.one.com/
 mirror.onevip.mk/
