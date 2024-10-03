@@ -27,7 +27,6 @@ debian.dynamica.it/
 debian.ethz.ch/
 debian.grena.ge/
 debian.grn.cat/
-debian.hostiran.ir/
 debian.inf.tu-dresden.de/
 debian.intergenia.de/
 debian.interhost.co.il/
