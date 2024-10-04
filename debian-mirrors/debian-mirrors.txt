@@ -196,7 +196,6 @@ mirror.23m.com/
 mirror.aarnet.edu.au/
 mirror.alwyzon.net/
 mirror.amaze.com.au/
-mirror.aminidc.com/
 mirror.applebred.net/
 mirror.as35701.net/
 mirror.as43289.net/
@@ -233,7 +232,6 @@ mirror.informatik.tu-freiberg.de/
 mirror.init7.net/
 mirror.insacom.cl/
 mirror.ipb.de/
-mirror.iranserver.com/
 mirror.it.ubc.ca/
 mirror.it4i.cz/
 mirror.iway.ch/
@@ -325,7 +323,6 @@ mirrors.neusoft.edu.cn/
 mirrors.nic.cz/
 mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
-mirrors.pardisco.co/
 mirrors.powernet.com.ru/
 mirrors.ptisp.pt/
 mirrors.qvq.net.cn/
