@@ -308,6 +308,7 @@ mirror.siena.edu/
 mirror.sitsa.com.ar/
 mirror.siwoo.org/
 mirror.solnet.ch/
+mirror.soonkeat.sg/
 mirror.steadfastnet.com/
 mirror.t-home.mk/
 mirror.team-cymru.com/
