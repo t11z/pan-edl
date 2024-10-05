@@ -117,6 +117,7 @@ la.mirrors.clouvider.net/
 labs.eif.urjc.es/
 linux.domainesia.com/
 linux.yz.yamagata-u.ac.jp/
+linuxmirrors.ir/
 lug.mines.edu/
 mir.linux.kg/
 miroir.univ-lorraine.fr/
@@ -513,7 +514,6 @@ ubuntu-arch.linux.edu.lv/
 ubuntu-archive.interhost.co.il/
 ubuntu-archive.locaweb.com.br/
 ubuntu-archive.mirror.serveriai.lt/
-ubuntu-mirror.cloud.mu/
 ubuntu-mirror.kimiahost.com/
 ubuntu-mirror.snu.edu.in/
 ubuntu.anexia.at/
