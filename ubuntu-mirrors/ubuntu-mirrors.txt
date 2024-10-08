@@ -72,6 +72,7 @@ ftp.psu.ac.th/
 ftp.riken.jp/
 ftp.rnl.tecnico.ulisboa.pt/
 ftp.rz.tu-bs.de/
+ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.sjtu.edu.cn/
 ftp.snt.utwente.nl/
@@ -161,6 +162,7 @@ mirror.citrahost.com/
 mirror.clarkson.edu/
 mirror.clearsky.vn/
 mirror.cloudhosting.lv/
+mirror.cmkl.ac.th/
 mirror.coganng.com/
 mirror.cogentco.com/
 mirror.corbina.net/
@@ -169,7 +171,6 @@ mirror.creoline.net/
 mirror.cs.jmu.edu/
 mirror.csclub.uwaterloo.ca/
 mirror.cse.iitk.ac.in/
-mirror.d.umn.edu/
 mirror.dal.nexril.net/
 mirror.daniel-jost.net/
 mirror.datacenter.az/
@@ -205,6 +206,7 @@ mirror.gi.co.id/
 mirror.greennet.gl/
 mirror.group.one/
 mirror.gsl.icu/
+mirror.hashy0917.net/
 mirror.hep.gg/
 mirror.herza.id/
 mirror.hnd.cl/
