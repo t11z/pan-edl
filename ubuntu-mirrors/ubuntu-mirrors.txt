@@ -203,6 +203,7 @@ mirror.freethought-internet.co.uk/
 mirror.fsmg.org.nz/
 mirror.funkfreundelandshut.de/
 mirror.gi.co.id/
+mirror.gotmyhost.com/
 mirror.greennet.gl/
 mirror.group.one/
 mirror.gsl.icu/
@@ -322,6 +323,7 @@ mirror.telepoint.bg/
 mirror.thaidns.co.th/
 mirror.timeweb.ru/
 mirror.timkevin.us/
+mirror.tngnet.com/
 mirror.transip.net/
 mirror.truenetwork.ru/
 mirror.twds.com.tw/
@@ -475,7 +477,6 @@ no.mirrors.blix.com/
 nyc.mirrors.clouvider.net/
 opensource.xtdv.net/
 osmirror.rug.nl/
-ossmirror.mycloud.services/
 packages.oth-regensburg.de/
 pkg.adfinis-on-exoscale.ch/
 pkg.adfinis.com/
