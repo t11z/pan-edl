@@ -265,7 +265,6 @@ mirror.overthewire.com.au/
 mirror.ox.ac.uk/
 mirror.plusserver.com/
 mirror.pmf.kg.ac.rs/
-mirror.positive-internet.com/
 mirror.ps.kz/
 mirror.raiolanetworks.com/
 mirror.realcompute.io/
