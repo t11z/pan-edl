@@ -149,6 +149,7 @@ ftp.plusline.net/
 ftp.psn.ru/
 ftp.psnc.pl/
 ftp.pt.debian.org/
+ftp.rezopole.net/
 ftp.riken.jp/
 ftp.rnl.tecnico.ulisboa.pt/
 ftp.ru.debian.org/
