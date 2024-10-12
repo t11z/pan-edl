@@ -22,6 +22,7 @@ de.mirrors.clouvider.net/
 deb-mirror.habari.co.tz/
 debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
+download.nus.edu.sg/
 download.nust.na/
 drmirror.physi.uni-heidelberg.de/
 edgeuno-bog2.mm.fcix.net/
