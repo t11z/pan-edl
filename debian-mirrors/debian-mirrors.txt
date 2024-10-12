@@ -216,6 +216,7 @@ mirror.datacenter.by/
 mirror.de.leaseweb.net/
 mirror.debian.ikoula.com/
 mirror.djvg.sg/
+mirror.dkm.cz/
 mirror.docker.ru/
 mirror.dogado.de/
 mirror.dst.ca/
