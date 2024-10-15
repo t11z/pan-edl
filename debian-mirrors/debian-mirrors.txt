@@ -197,6 +197,7 @@ mirror.amaze.com.au/
 mirror.applebred.net/
 mirror.as35701.net/
 mirror.as43289.net/
+mirror.bgp.rodeo/
 mirror.bizflycloud.vn/
 mirror.blue3.com.br/
 mirror.braindrainlan.nu/
@@ -206,6 +207,7 @@ mirror.coganng.com/
 mirror.cogentco.com/
 mirror.corbina.net/
 mirror.cov.ukservers.com/
+mirror.creoline.net/
 mirror.csclub.uwaterloo.ca/
 mirror.cse.iitk.ac.in/
 mirror.dal.nexril.net/
@@ -284,6 +286,7 @@ mirror.unair.ac.id/
 mirror.united-gameserver.de/
 mirror.units.it/
 mirror.us.leaseweb.net/
+mirror.us.mirhosting.net/
 mirror.us.oneandone.net/
 mirror.veesp.com/
 mirror.vinehost.net/
@@ -313,6 +316,7 @@ mirrors.hostico.ro/
 mirrors.hostiserver.com/
 mirrors.iitd.ac.in/
 mirrors.ircam.fr/
+mirrors.iu13.net/
 mirrors.jlu.edu.cn/
 mirrors.lug.mtu.edu/
 mirrors.namecheap.com/
