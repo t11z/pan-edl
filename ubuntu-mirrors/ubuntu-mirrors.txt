@@ -239,6 +239,7 @@ mirror.it4i.cz/
 mirror.its-tps.fr/
 mirror.its-tps.fr:10000/
 mirror.its.dal.ca/
+mirror.jeonnam.school/
 mirror.johnnybegood.fr/
 mirror.kakao.com/
 mirror.kamp.de/
@@ -325,6 +326,7 @@ mirror.team-cymru.org/
 mirror.team-host.ru/
 mirror.telepoint.bg/
 mirror.thaidns.co.th/
+mirror.thunderhosting.cloud/
 mirror.timeweb.ru/
 mirror.timkevin.us/
 mirror.tngnet.com/
@@ -409,6 +411,7 @@ mirrors.hostico.ro/
 mirrors.hostiserver.com/
 mirrors.huaweicloud.com/
 mirrors.hust.edu.cn/
+mirrors.idcloudhost.com/
 mirrors.iitd.ac.in/
 mirrors.ipserverone.com/
 mirrors.ircam.fr/
@@ -421,6 +424,7 @@ mirrors.layeronline.com/
 mirrors.liquidweb.com/
 mirrors.lug.mtu.edu/
 mirrors.maine.edu/
+mirrors.mediascope.group/
 mirrors.melbourne.co.uk/
 mirrors.mit.edu/
 mirrors.mivocloud.com/
@@ -459,6 +463,7 @@ mirrors.up.pt/
 mirrors.upr.edu/
 mirrors.us.kernel.org/
 mirrors.usinternet.com/
+mirrors.ustc.edu.cn/
 mirrors.vcea.wsu.edu/
 mirrors.wikimedia.org/
 mirrors.xjtu.edu.cn/
@@ -505,6 +510,7 @@ repos.interior.edu.uy/
 rsync.gtlib.gatech.edu/
 rsync.icm.edu.pl/
 rsync.kddilabs.jp/
+rsync.mirrors.ustc.edu.cn/
 rsync.mirrorservice.org/
 rsync.ubuntu.nautile.nc/
 rsync.udc.es/
