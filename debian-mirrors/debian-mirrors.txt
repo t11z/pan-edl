@@ -255,6 +255,7 @@ mirror.mythic-beasts.com/
 mirror.neftm.ru/
 mirror.netzwerge.de/
 mirror.nforce.com/
+mirror.nitc.ac.in/
 mirror.nju.edu.cn/
 mirror.nl.datapacket.com/
 mirror.nl.leaseweb.net/
@@ -279,6 +280,7 @@ mirror.siwoo.org/
 mirror.sjtu.edu.cn/
 mirror.steadfast.net/
 mirror.telepoint.bg/
+mirror.tngnet.com/
 mirror.truenetwork.ru/
 mirror.twds.com.tw/
 mirror.uepg.br/
