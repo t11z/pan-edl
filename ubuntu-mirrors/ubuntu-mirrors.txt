@@ -245,6 +245,7 @@ mirror.kamp.de/
 mirror.kapteyan.com.tr/
 mirror.kkg.berlin/
 mirror.kku.ac.th/
+mirror.kumi.systems/
 mirror.leitecastro.com/
 mirror.library.ucy.ac.cy/
 mirror.limda.net/
@@ -484,7 +485,6 @@ no.mirrors.blix.com/
 nyc.mirrors.clouvider.net/
 opensource.xtdv.net/
 osmirror.rug.nl/
-ossmirror.mycloud.services/
 packages.oth-regensburg.de/
 pkg.adfinis-on-exoscale.ch/
 pkg.adfinis.com/
