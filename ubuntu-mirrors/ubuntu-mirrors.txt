@@ -20,6 +20,7 @@ dafi.inf.um.es/
 dal.mirrors.clouvider.net/
 de.mirrors.clouvider.net/
 deb-mirror.habari.co.tz/
+deb.campolargo.pr.gov.br/
 debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
 download.nus.edu.sg/
@@ -105,7 +106,6 @@ glua.ua.pt/
 gpl.savoirfairelinux.net/
 hk.mirrors.thegigabit.com/
 in.mirror.coganng.com/
-ir.archive.ubuntu.com/
 ir.ubuntu.sindad.cloud/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
@@ -295,7 +295,6 @@ mirror.poliwangi.ac.id/
 mirror.previder.nl/
 mirror.ps.kz/
 mirror.rabisu.com/
-mirror.raiolanetworks.com/
 mirror.rcg.sfu.ca/
 mirror.realcompute.io/
 mirror.reenigne.net/
@@ -449,6 +448,7 @@ mirrors.ptisp.pt/
 mirrors.rit.edu/
 mirrors.sarak.as/
 mirrors.sdu.edu.cn/
+mirrors.sjtug.sjtu.edu.cn/
 mirrors.sohu.com/
 mirrors.sonic.net/
 mirrors.sth.sze.hu/
