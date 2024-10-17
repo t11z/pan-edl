@@ -552,7 +552,6 @@ ubuntu.koyanet.lv/
 ubuntu.lafibre.info/
 ubuntu.lagis.at/
 ubuntu.lagoon.nc/
-ubuntu.letscloud.io/
 ubuntu.linux.n0c.ca/
 ubuntu.macarne.com/
 ubuntu.man.lodz.pl/
