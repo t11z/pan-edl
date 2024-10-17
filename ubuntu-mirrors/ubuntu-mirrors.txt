@@ -215,7 +215,6 @@ mirror.hnd.cl/
 mirror.hoobly.com/
 mirror.hostafrica.co.za/
 mirror.hoster.kz/
-mirror.hostingviet.vn/
 mirror.hostnet.nl/
 mirror.hyperdedic.ru/
 mirror.i3d.net/
