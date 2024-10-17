@@ -303,6 +303,7 @@ mirror1.infomaniak.com/
 mirror2.infomaniak.com/
 mirrors.163.com/
 mirrors.accretive-networks.net/
+mirrors.acm.wpi.edu/
 mirrors.advancedhosters.com/
 mirrors.asnet.am/
 mirrors.bfsu.edu.cn/
