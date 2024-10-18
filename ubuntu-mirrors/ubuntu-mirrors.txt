@@ -591,7 +591,6 @@ ubuntu.parsvds.com/
 ubuntu.phoenixnap.com/
 ubuntu.pishgaman.net/
 ubuntu.repo.cure.edu.uy/
-ubuntu.sabahost.net/
 ubuntu.securedservers.com/
 ubuntu.shatel.ir/
 ubuntu.task.gda.pl/
@@ -607,7 +606,6 @@ ubuntu.uvigo.es/
 ubuntu.vargonen.com/
 ubuntu.volia.net/
 ubuntu.web.trex.fi/
-ubuntu.zero.com.ar/
 ubuntutym.u-toyama.ac.jp/
 ucho.ignum.cz/
 ucmirror.canterbury.ac.nz/
