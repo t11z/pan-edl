@@ -96,7 +96,6 @@ ftp.uninett.no/
 ftp.usf.edu/
 ftp.ussg.iu.edu/
 ftp.uvigo.es/
-ftp.vectranet.pl/
 ftp5.gwdg.de/
 ftpmirror1.infania.net/
 ftpserv.tudelft.nl/
