@@ -174,7 +174,6 @@ ftp.uni-sofia.bg/
 ftp.univ-pau.fr/
 ftp.us.debian.org/
 ftp.wrz.de/
-ftp.yz.yamagata-u.ac.jp/
 ftp.zcu.cz/
 ftp2.de.debian.org/
 ftpmirror1.infania.net/
