@@ -87,7 +87,6 @@ dennou-k.gfd-dennou.org/
 dennou-q.gfd-dennou.org/
 depot-debian.univ-reunion.fr/
 drmirror.physi.uni-heidelberg.de/
-elmirror.cl/
 free.hands.com/
 ftp-stud.hs-esslingen.de/
 ftp.acc.umu.se/
