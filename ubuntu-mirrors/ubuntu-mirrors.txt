@@ -13,6 +13,7 @@ atl.mirrors.clouvider.net/
 aze.archive.ubuntu.com/
 babylon.cs.uh.edu/
 cdn.repo.cloudeka.id/
+cdn.ubuntu.repo.cloudeka.id/
 cesium.di.uminho.pt/
 cz.archive.ubuntu.com/
 dafi.inf.um.es/
