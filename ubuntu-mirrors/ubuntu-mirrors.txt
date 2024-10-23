@@ -75,6 +75,7 @@ ftp.rnl.tecnico.ulisboa.pt/
 ftp.rz.tu-bs.de/
 ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
+ftp.sjtu.edu.cn/
 ftp.snt.utwente.nl/
 ftp.stw-bonn.de/
 ftp.tc.edu.tw/
