@@ -399,6 +399,7 @@ mirrors.dc.clear.net.ar/
 mirrors.dotsrc.org/
 mirrors.egr.msu.edu/
 mirrors.evoluso.com/
+mirrors.fibianet.dk/
 mirrors.gbnetwork.com/
 mirrors.gethosted.online/
 mirrors.gigenet.com/
@@ -526,6 +527,7 @@ ubuntu-arch.linux.edu.lv/
 ubuntu-archive.interhost.co.il/
 ubuntu-archive.locaweb.com.br/
 ubuntu-archive.mirror.serveriai.lt/
+ubuntu-mirror.cloud.mu/
 ubuntu-mirror.snu.edu.in/
 ubuntu.anexia.at/
 ubuntu.byteiran.com/
