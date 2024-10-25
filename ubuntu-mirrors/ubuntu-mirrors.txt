@@ -370,7 +370,6 @@ mirror.xeonbd.com/
 mirror.xtom.com.hk/
 mirror.yandex.ru/
 mirror.yer.az/
-mirror.ygn.mmix.net.mm/
 mirror.yuki.net.uk/
 mirror.zetup.net/
 mirror1.ku.ac.th/
