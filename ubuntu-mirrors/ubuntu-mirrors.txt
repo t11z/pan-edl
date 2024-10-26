@@ -55,7 +55,6 @@ ftp.iitm.ac.in/
 ftp.jaist.ac.jp/
 ftp.kaist.ac.kr/
 ftp.kddilabs.jp/
-ftp.klid.dk/
 ftp.lanet.kr/
 ftp.linux.cz/
 ftp.linux.ro/
