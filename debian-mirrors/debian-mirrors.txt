@@ -327,7 +327,6 @@ mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
 mirrors.powernet.com.ru/
 mirrors.ptisp.pt/
-mirrors.qvq.net.cn/
 mirrors.rackhosting.com/
 mirrors.tuna.tsinghua.edu.cn/
 mirrors.ucr.ac.cr/
