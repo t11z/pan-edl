@@ -1,1 +1,14 @@
+api.dso.docker.com/
+api.segment.io/
+auth.docker.io/
+cdn.auth0.com/
+cdn.segment.com/
+desktop.docker.com/
+docker-pinata-support.s3.amazonaws.com/
 download.docker.com/
+hub.docker.com/
+login.docker.com/
+notify.bugsnag.com/
+production.cloudflare.docker.com/
+registry-1.docker.io/
+sessions.bugsnag.com/
