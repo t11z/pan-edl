@@ -254,7 +254,6 @@ mirror.liquidrp.de/
 mirror.logol.ru/
 mirror.lstn.net/
 mirror.lyrahosting.com/
-mirror.lzu.edu.cn/
 mirror.marwan.ma/
 mirror.math.princeton.edu/
 mirror.math.ucdavis.edu/
