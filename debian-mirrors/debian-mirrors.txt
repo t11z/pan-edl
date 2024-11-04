@@ -36,7 +36,6 @@ debian.iskon.hr/
 debian.koyanet.lv/
 debian.lagis.at/
 debian.linux.n0c.ca/
-debian.lth.se/
 debian.ludost.net/
 debian.mirror.ac.ke/
 debian.mirror.constant.com/
