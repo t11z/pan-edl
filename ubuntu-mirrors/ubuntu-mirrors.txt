@@ -333,7 +333,6 @@ mirror.twds.com.tw/
 mirror.ubuntu.ikoula.com/
 mirror.ubuntu.serverforge.org/
 mirror.uchile.cl/
-mirror.uepg.br/
 mirror.ufam.edu.br/
 mirror.ufro.cl/
 mirror.ufscar.br/
