@@ -104,6 +104,7 @@ ftp.br.debian.org/
 ftp.by.debian.org/
 ftp.byfly.by/
 ftp.ca.debian.org/
+ftp.caliu.cat/
 ftp.ch.debian.org/
 ftp.cica.es/
 ftp.cl.debian.org/
