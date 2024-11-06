@@ -73,7 +73,6 @@ ftp.psnc.pl/
 ftp.psu.ac.th/
 ftp.riken.jp/
 ftp.rnl.tecnico.ulisboa.pt/
-ftp.rz.tu-bs.de/
 ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.sjtu.edu.cn/
@@ -336,6 +335,7 @@ mirror.twds.com.tw/
 mirror.ubuntu.ikoula.com/
 mirror.ubuntu.serverforge.org/
 mirror.uchile.cl/
+mirror.uepg.br/
 mirror.ufam.edu.br/
 mirror.ufro.cl/
 mirror.ufscar.br/
