@@ -73,6 +73,7 @@ ftp.psnc.pl/
 ftp.psu.ac.th/
 ftp.riken.jp/
 ftp.rnl.tecnico.ulisboa.pt/
+ftp.rz.tu-bs.de/
 ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.sjtu.edu.cn/
@@ -238,7 +239,6 @@ mirror.it4i.cz/
 mirror.its-tps.fr/
 mirror.its-tps.fr:10000/
 mirror.its.dal.ca/
-mirror.jeonnam.school/
 mirror.johnnybegood.fr/
 mirror.kakao.com/
 mirror.kamp.de/
