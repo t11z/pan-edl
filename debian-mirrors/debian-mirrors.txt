@@ -69,7 +69,6 @@ debian.redimadrid.es/
 debian.redlibre.cl/
 debian.redparra.com/
 debian.repo.cure.edu.uy/
-debian.saix.net/
 debian.sil.at/
 debian.snt.utwente.nl/
 debian.superhosting.cz/
