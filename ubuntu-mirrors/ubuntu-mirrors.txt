@@ -238,6 +238,7 @@ mirror.it4i.cz/
 mirror.its-tps.fr/
 mirror.its-tps.fr:10000/
 mirror.its.dal.ca/
+mirror.jeonnam.school/
 mirror.johnnybegood.fr/
 mirror.kakao.com/
 mirror.kamp.de/
@@ -335,7 +336,6 @@ mirror.twds.com.tw/
 mirror.ubuntu.ikoula.com/
 mirror.ubuntu.serverforge.org/
 mirror.uchile.cl/
-mirror.uepg.br/
 mirror.ufam.edu.br/
 mirror.ufro.cl/
 mirror.ufscar.br/
