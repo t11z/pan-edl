@@ -139,6 +139,7 @@ mirror.aminidc.com/
 mirror.amscloud.co.id/
 mirror.anigil.com/
 mirror.aptus.co.tz/
+mirror.arizona.edu/
 mirror.arvancloud.ir/
 mirror.as.kamatera.com/
 mirror.as24220.net/
