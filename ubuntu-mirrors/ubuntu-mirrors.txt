@@ -51,6 +51,7 @@ ftp.halifax.rwth-aachen.de/
 ftp.heanet.ie/
 ftp.hosteurope.de/
 ftp.icm.edu.pl/
+ftp.iinet.net.au/
 ftp.iitm.ac.in/
 ftp.jaist.ac.jp/
 ftp.kaist.ac.kr/
@@ -295,7 +296,6 @@ mirror.plusserver.com/
 mirror.poliwangi.ac.id/
 mirror.previder.nl/
 mirror.ps.kz/
-mirror.rabisu.com/
 mirror.raiolanetworks.com/
 mirror.rcg.sfu.ca/
 mirror.realcompute.io/
@@ -336,6 +336,7 @@ mirror.twds.com.tw/
 mirror.ubuntu.ikoula.com/
 mirror.ubuntu.serverforge.org/
 mirror.uchile.cl/
+mirror.uepg.br/
 mirror.ufam.edu.br/
 mirror.ufro.cl/
 mirror.ufscar.br/
