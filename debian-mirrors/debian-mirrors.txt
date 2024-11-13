@@ -43,7 +43,6 @@ debian.mirror.constant.com/
 debian.mirror.digitalpacific.com.au/
 debian.mirror.garr.it/
 debian.mirror.iphh.net/
-debian.mirror.liquidtelecom.com/
 debian.mirror.lrz.de/
 debian.mirror.rafal.ca/
 debian.mirror.root.lu/
@@ -325,9 +324,11 @@ mirrors.jlu.edu.cn/
 mirrors.lug.mtu.edu/
 mirrors.namecheap.com/
 mirrors.nav.ro/
+mirrors.neusoft.edu.cn/
 mirrors.nic.cz/
 mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
+mirrors.pardisco.co/
 mirrors.powernet.com.ru/
 mirrors.ptisp.pt/
 mirrors.rackhosting.com/
