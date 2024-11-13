@@ -447,6 +447,7 @@ mirrors.piconets.webwerks.in/
 mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
 mirrors.psu.ac.th/
+mirrors.ptisp.pt/
 mirrors.rit.edu/
 mirrors.sarak.as/
 mirrors.sdu.edu.cn/
@@ -473,6 +474,7 @@ mirrors.xtom.com/
 mirrors.xtom.de/
 mirrors.xtom.ee/
 mirrors.xtom.nl/
+mirrors.ygn.mmix.net.mm/
 mirrors.yun-idc.com/
 mirrors.zagrio.net/
 mirrors.zju.edu.cn/
