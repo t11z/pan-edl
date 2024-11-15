@@ -4,6 +4,7 @@ archive.linux.duke.edu/
 archive.ubuntu.com/
 archive.ubuntu.mirror.ba/
 archive.ubuntu.mirror.rafal.ca/
+archive.ubuntu.mirrors.zagrio.net/
 archive.ubuntu.moon127.net/
 archive.ubuntu.nautile.nc/
 archive.ubuntu.petiak.ir/
@@ -285,7 +286,6 @@ mirror.nodesdirect.com/
 mirror.nyist.edu.cn/
 mirror.one.com/
 mirror.onevip.mk/
-mirror.ossplanet.net/
 mirror.overthewire.com.au/
 mirror.ox.ac.uk/
 mirror.papua.go.id/
@@ -403,7 +403,6 @@ mirrors.egr.msu.edu/
 mirrors.evoluso.com/
 mirrors.fibianet.dk/
 mirrors.gbnetwork.com/
-mirrors.gethosted.online/
 mirrors.gigenet.com/
 mirrors.hosterion.ro/
 mirrors.hostico.ro/
@@ -474,6 +473,7 @@ mirrors.xtom.ee/
 mirrors.xtom.nl/
 mirrors.ygn.mmix.net.mm/
 mirrors.yun-idc.com/
+mirrors.zagrio.net/
 mirrors.zju.edu.cn/
 mirrror.0xem.ma/
 mr.heru.id/
