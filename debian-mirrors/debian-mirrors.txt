@@ -185,7 +185,6 @@ kartolo.sby.datautama.net.id/
 kebo.pens.ac.id/
 la.mirrors.clouvider.net/
 lidsol.fi-b.unam.mx/
-linux.purple-cat.net/
 linuxsoft.cern.ch/
 merlin.fit.vutbr.cz/
 miroir.univ-lorraine.fr/
@@ -284,7 +283,6 @@ mirror.tngnet.com/
 mirror.truenetwork.ru/
 mirror.twds.com.tw/
 mirror.uepg.br/
-mirror.unair.ac.id/
 mirror.united-gameserver.de/
 mirror.units.it/
 mirror.us.leaseweb.net/
