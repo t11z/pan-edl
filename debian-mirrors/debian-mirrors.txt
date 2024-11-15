@@ -10,7 +10,6 @@ deb.debian.org/
 deb.mirror.cywg.as400442.net/
 debian-archive.trafficmanager.net/
 debian-mirror.behostings.net/
-debian-mirror.sakura.ne.jp/
 debian.a1.bg/
 debian.anexia.at/
 debian.apt-mirror.de/
