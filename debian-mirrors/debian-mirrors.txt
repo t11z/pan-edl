@@ -213,6 +213,7 @@ mirror.dal.nexril.net/
 mirror.datacenter.by/
 mirror.de.leaseweb.net/
 mirror.debian.ikoula.com/
+mirror.djvg.sg/
 mirror.dkm.cz/
 mirror.docker.ru/
 mirror.dogado.de/
@@ -325,7 +326,6 @@ mirrors.neusoft.edu.cn/
 mirrors.nic.cz/
 mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
-mirrors.pardisco.co/
 mirrors.powernet.com.ru/
 mirrors.ptisp.pt/
 mirrors.rackhosting.com/
