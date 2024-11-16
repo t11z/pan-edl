@@ -218,7 +218,6 @@ mirror.dkm.cz/
 mirror.docker.ru/
 mirror.dogado.de/
 mirror.dst.ca/
-mirror.duocast.net/
 mirror.estone.ca/
 mirror.eu.oneandone.net/
 mirror.fsmg.org.nz/
