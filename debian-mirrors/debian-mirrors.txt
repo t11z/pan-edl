@@ -81,8 +81,6 @@ debian.volia.net/
 debian.web.trex.fi/
 debian.xtdv.net/
 debianmirror.una.ac.cr/
-dennou-k.gfd-dennou.org/
-dennou-q.gfd-dennou.org/
 depot-debian.univ-reunion.fr/
 drmirror.physi.uni-heidelberg.de/
 fastmirror.pp.ua/
@@ -129,8 +127,6 @@ ftp.icm.edu.pl/
 ftp.is.co.za/
 ftp.is.debian.org/
 ftp.it.debian.org/
-ftp.jaist.ac.jp/
-ftp.jp.debian.org/
 ftp.kaist.ac.kr/
 ftp.kr.debian.org/
 ftp.lanet.kr/
@@ -139,7 +135,6 @@ ftp.linux.org.tr/
 ftp.lip6.fr/
 ftp.lt.debian.org/
 ftp.md.debian.org/
-ftp.nara.wide.ad.jp/
 ftp.nc.debian.org/
 ftp.nl.debian.org/
 ftp.nz.debian.org/
