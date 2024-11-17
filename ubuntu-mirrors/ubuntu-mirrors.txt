@@ -285,6 +285,7 @@ mirror.nodesdirect.com/
 mirror.nyist.edu.cn/
 mirror.one.com/
 mirror.onevip.mk/
+mirror.ossplanet.net/
 mirror.overthewire.com.au/
 mirror.ox.ac.uk/
 mirror.papua.go.id/
@@ -400,6 +401,7 @@ mirrors.egr.msu.edu/
 mirrors.evoluso.com/
 mirrors.fibianet.dk/
 mirrors.gbnetwork.com/
+mirrors.gethosted.online/
 mirrors.gigenet.com/
 mirrors.hosterion.ro/
 mirrors.hostico.ro/
