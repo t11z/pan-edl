@@ -65,7 +65,6 @@ debian.proxad.net/
 debian.redimadrid.es/
 debian.redlibre.cl/
 debian.redparra.com/
-debian.repo.cure.edu.uy/
 debian.sil.at/
 debian.snt.utwente.nl/
 debian.superhosting.cz/
