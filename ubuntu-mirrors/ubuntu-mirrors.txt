@@ -191,6 +191,7 @@ mirror.elice.io/
 mirror.enzu.com/
 mirror.esecuredata.com/
 mirror.espol.edu.ec/
+mirror.eu-fr.kamatera.com/
 mirror.eu-lo.kamatera.com/
 mirror.eu.kamatera.com/
 mirror.faizuladib.com/
@@ -213,6 +214,7 @@ mirror.hnd.cl/
 mirror.hoobly.com/
 mirror.hostafrica.co.za/
 mirror.hoster.kz/
+mirror.hostiko.network/
 mirror.hostnet.nl/
 mirror.hyperdedic.ru/
 mirror.i3d.net/
@@ -368,7 +370,6 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror.zetup.net/
-mirror1.ku.ac.th/
 mirror1.sox.rs/
 mirror1.totbb.net/
 mirror2.tuxinator.org/
