@@ -129,6 +129,7 @@ miroir.univ-lorraine.fr/
 mirror-hk.koddos.net/
 mirror-mk.interspace.com/
 mirror.0x.sg/
+mirror.0xem.ma/
 mirror.23m.com/
 mirror.2degrees.nz/
 mirror.5i.fi/
@@ -475,6 +476,7 @@ mirrors.ygn.mmix.net.mm/
 mirrors.yun-idc.com/
 mirrors.zagrio.net/
 mirrors.zju.edu.cn/
+mirrror.0xem.ma/
 mr.heru.id/
 muug.ca/
 nl.archive.ubuntu.com/
