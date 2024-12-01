@@ -264,7 +264,6 @@ mirror.math.ucdavis.edu/
 mirror.metrocast.net/
 mirror.mia.velocihost.net/
 mirror.mirohost.net/
-mirror.morgan.kr/
 mirror.mrjester.net/
 mirror.mythic-beasts.com/
 mirror.neftm.ru/
