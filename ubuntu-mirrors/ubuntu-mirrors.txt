@@ -420,6 +420,7 @@ mirrors.isu.net.sa/
 mirrors.iu13.net/
 mirrors.jcut.edu.cn/
 mirrors.jlu.edu.cn/
+mirrors.jxust.edu.cn/
 mirrors.layeronline.com/
 mirrors.liquidweb.com/
 mirrors.lug.mtu.edu/
