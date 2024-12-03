@@ -187,6 +187,7 @@ mirror.23m.com/
 mirror.aarnet.edu.au/
 mirror.alwyzon.net/
 mirror.amaze.com.au/
+mirror.aminidc.com/
 mirror.applebred.net/
 mirror.as35701.net/
 mirror.as43289.net/
