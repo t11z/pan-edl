@@ -302,7 +302,6 @@ mirror.renu.ac.ug/
 mirror.repository.id/
 mirror.retentionrange.co.bw/
 mirror.rise.ph/
-mirror.riverfrontnetworks.com/
 mirror.root.lu/
 mirror.rustytel.net/
 mirror.sabay.com.kh/
