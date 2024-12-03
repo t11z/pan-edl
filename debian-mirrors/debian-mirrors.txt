@@ -272,7 +272,6 @@ mirror.steadfast.net/
 mirror.telepoint.bg/
 mirror.tngnet.com/
 mirror.truenetwork.ru/
-mirror.twds.com.tw/
 mirror.uepg.br/
 mirror.ukrnames.com/
 mirror.unair.ac.id/
