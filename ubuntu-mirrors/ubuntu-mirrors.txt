@@ -372,6 +372,7 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror.zetup.net/
+mirror.zzunipark.com/
 mirror1.ku.ac.th/
 mirror1.sox.rs/
 mirror1.totbb.net/
@@ -534,6 +535,7 @@ ubuntu-archive.mirror.serveriai.lt/
 ubuntu-mirror.cloud.mu/
 ubuntu-mirror.snu.edu.in/
 ubuntu.anexia.at/
+ubuntu.btit.nz/
 ubuntu.byteiran.com/
 ubuntu.c3sl.ufpr.br/
 ubuntu.ccns.ncku.edu.tw/
