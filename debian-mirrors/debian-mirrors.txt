@@ -125,6 +125,7 @@ ftp.icm.edu.pl/
 ftp.is.co.za/
 ftp.is.debian.org/
 ftp.it.debian.org/
+ftp.jp.debian.org/
 ftp.kaist.ac.kr/
 ftp.kddilabs.jp/
 ftp.kr.debian.org/
@@ -134,6 +135,7 @@ ftp.linux.org.tr/
 ftp.lip6.fr/
 ftp.lt.debian.org/
 ftp.md.debian.org/
+ftp.nara.wide.ad.jp/
 ftp.nc.debian.org/
 ftp.nl.debian.org/
 ftp.no.debian.org/
@@ -318,6 +320,7 @@ mirrors.neusoft.edu.cn/
 mirrors.nic.cz/
 mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
+mirrors.pardisco.co/
 mirrors.powernet.com.ru/
 mirrors.ptisp.pt/
 mirrors.rackhosting.com/
