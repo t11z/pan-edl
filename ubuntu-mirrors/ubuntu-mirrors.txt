@@ -287,6 +287,7 @@ mirror.nyist.edu.cn/
 mirror.one.com/
 mirror.onevip.mk/
 mirror.ossplanet.net/
+mirror.overthewire.com.au/
 mirror.ox.ac.uk/
 mirror.papua.go.id/
 mirror.pilotfiber.com/
