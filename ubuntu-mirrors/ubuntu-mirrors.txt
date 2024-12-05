@@ -183,6 +183,7 @@ mirror.datacenter.mn/
 mirror.datamossa.io/
 mirror.de.leaseweb.net/
 mirror.deace.id/
+mirror.dewabiz.com/
 mirror.digitaloceans.dev/
 mirror.digitalpacific.com.au/
 mirror.dkm.cz/
@@ -535,7 +536,6 @@ ubuntu-mirror.cloud.mu/
 ubuntu-mirror.snu.edu.in/
 ubuntu.anexia.at/
 ubuntu.btit.nz/
-ubuntu.byteiran.com/
 ubuntu.c3sl.ufpr.br/
 ubuntu.ccns.ncku.edu.tw/
 ubuntu.cica.es/
