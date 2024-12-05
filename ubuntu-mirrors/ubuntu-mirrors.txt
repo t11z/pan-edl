@@ -300,7 +300,6 @@ mirror.raiolanetworks.com/
 mirror.rcg.sfu.ca/
 mirror.realcompute.io/
 mirror.reenigne.net/
-mirror.renu.ac.ug/
 mirror.repository.id/
 mirror.retentionrange.co.bw/
 mirror.rise.ph/
