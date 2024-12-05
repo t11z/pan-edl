@@ -384,6 +384,7 @@ mirrors.accretive-networks.net/
 mirrors.advancedhosters.com/
 mirrors.aliyun.com/
 mirrors.arpnetworks.com/
+mirrors.asnet.am/
 mirrors.atlas.net.co/
 mirrors.bangmod.cloud/
 mirrors.bfsu.edu.cn/
