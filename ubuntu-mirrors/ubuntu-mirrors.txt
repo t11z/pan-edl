@@ -138,7 +138,6 @@ mirror.aktkn.sg/
 mirror.alastyr.com/
 mirror.alwyzon.net/
 mirror.aminidc.com/
-mirror.amscloud.co.id/
 mirror.anigil.com/
 mirror.aptus.co.tz/
 mirror.arizona.edu/
@@ -460,6 +459,7 @@ mirrors.tino.org/
 mirrors.tscak.com/
 mirrors.tuna.tsinghua.edu.cn/
 mirrors.ukfast.co.uk/
+mirrors.united.cd/
 mirrors.up.pt/
 mirrors.upr.edu/
 mirrors.us.kernel.org/
