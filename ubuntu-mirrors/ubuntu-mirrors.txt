@@ -378,7 +378,6 @@ mirror.zetup.net/
 mirror.zzunipark.com/
 mirror1.ku.ac.th/
 mirror1.sox.rs/
-mirror1.totbb.net/
 mirror2.tuxinator.org/
 mirroronet.pl/
 mirrors-ubuntu.behostings.com/
