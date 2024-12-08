@@ -378,7 +378,6 @@ mirror.zzunipark.com/
 mirror1.ku.ac.th/
 mirror1.sox.rs/
 mirror2.tuxinator.org/
-mirroronet.pl/
 mirrors-ubuntu.behostings.com/
 mirrors.accretive-networks.net/
 mirrors.advancedhosters.com/
