@@ -55,7 +55,6 @@ ftp.icm.edu.pl/
 ftp.iinet.net.au/
 ftp.jaist.ac.jp/
 ftp.kaist.ac.kr/
-ftp.kddilabs.jp/
 ftp.klid.dk/
 ftp.lanet.kr/
 ftp.linux.cz/
@@ -138,6 +137,7 @@ mirror.alastyr.com/
 mirror.alwyzon.net/
 mirror.aminidc.com/
 mirror.amscloud.co.id/
+mirror.amuksa.com/
 mirror.anigil.com/
 mirror.aptus.co.tz/
 mirror.arizona.edu/
@@ -300,7 +300,6 @@ mirror.raiolanetworks.com/
 mirror.rcg.sfu.ca/
 mirror.realcompute.io/
 mirror.reenigne.net/
-mirror.renu.ac.ug/
 mirror.repository.id/
 mirror.retentionrange.co.bw/
 mirror.rise.ph/
@@ -508,7 +507,6 @@ repos.eggycrew.com/
 repos.interior.edu.uy/
 rsync.gtlib.gatech.edu/
 rsync.icm.edu.pl/
-rsync.kddilabs.jp/
 rsync.mirrors.ustc.edu.cn/
 rsync.mirrorservice.org/
 rsync.ubuntu.nautile.nc/
@@ -616,6 +614,5 @@ uk.mirrors.clouvider.net/
 vn-mirrors.vhost.vn/
 www-ftp.lip6.fr/
 www.club.cc.cmu.edu/
-www.ftp.ne.jp/
 www.gtlib.gatech.edu/
 www.mirrorservice.org/
