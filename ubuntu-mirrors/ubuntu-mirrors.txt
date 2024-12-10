@@ -53,7 +53,6 @@ ftp.heanet.ie/
 ftp.hosteurope.de/
 ftp.icm.edu.pl/
 ftp.iinet.net.au/
-ftp.iitm.ac.in/
 ftp.jaist.ac.jp/
 ftp.kaist.ac.kr/
 ftp.kddilabs.jp/
