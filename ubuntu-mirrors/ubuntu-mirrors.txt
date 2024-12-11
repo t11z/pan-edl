@@ -529,7 +529,6 @@ ubuntu-archive.mirror.serveriai.lt/
 ubuntu-mirror.cloud.mu/
 ubuntu-mirror.snu.edu.in/
 ubuntu.anexia.at/
-ubuntu.btit.nz/
 ubuntu.c3sl.ufpr.br/
 ubuntu.ccns.ncku.edu.tw/
 ubuntu.cica.es/
