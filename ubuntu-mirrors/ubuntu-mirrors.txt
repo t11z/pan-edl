@@ -70,7 +70,6 @@ ftp.nluug.nl/
 ftp.ntua.gr/
 ftp.otenet.gr/
 ftp.psnc.pl/
-ftp.psu.ac.th/
 ftp.riken.jp/
 ftp.rnl.tecnico.ulisboa.pt/
 ftp.rz.tu-bs.de/
@@ -359,6 +358,7 @@ mirror.vietnix.vn/
 mirror.viettelcloud.vn/
 mirror.vinehost.net/
 mirror.virtarix.com/
+mirror.virtury.com/
 mirror.vnet.sk/
 mirror.vorboss.net/
 mirror.vpgrp.io/
