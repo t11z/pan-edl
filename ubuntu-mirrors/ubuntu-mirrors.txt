@@ -137,6 +137,7 @@ mirror.alastyr.com/
 mirror.alwyzon.net/
 mirror.aminidc.com/
 mirror.amscloud.co.id/
+mirror.amuksa.com/
 mirror.anigil.com/
 mirror.aptus.co.tz/
 mirror.arizona.edu/
@@ -440,7 +441,6 @@ mirrors.opensource.is/
 mirrors.pardisco.co/
 mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
-mirrors.psu.ac.th/
 mirrors.ptisp.pt/
 mirrors.rit.edu/
 mirrors.sarak.as/
@@ -490,6 +490,7 @@ pkg.adfinis.com/
 plug-mirror.rcac.purdue.edu/
 ports.ubuntu.moon127.net/
 quantum-mirror.hu/
+rep-ubuntu-il.upress.io/
 repo.extreme-ix.org/
 repo.huaweicloud.com/
 repo.ialab.dsu.edu/
