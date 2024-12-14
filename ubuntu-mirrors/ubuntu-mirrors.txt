@@ -26,7 +26,6 @@ deb.campolargo.pr.gov.br/
 debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
 download.nus.edu.sg/
-download.nust.na/
 drmirror.physi.uni-heidelberg.de/
 edgeuno-bog2.mm.fcix.net/
 elmirror.cl/
@@ -486,6 +485,7 @@ pkg.adfinis-on-exoscale.ch/
 pkg.adfinis.com/
 plug-mirror.rcac.purdue.edu/
 ports.ubuntu.moon127.net/
+pubmirrors.dal.corespace.com/
 quantum-mirror.hu/
 rep-ubuntu-il.upress.io/
 repo.extreme-ix.org/
