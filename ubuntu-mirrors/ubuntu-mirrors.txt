@@ -151,6 +151,7 @@ mirror.bg.host.ag/
 mirror.bharatdatacenter.com/
 mirror.bizflycloud.vn/
 mirror.biznetgio.com/
+mirror.bjtu.edu.cn/
 mirror.brightridge.com/
 mirror.bytemark.co.uk/
 mirror.ca-tr.kamatera.com/
@@ -241,7 +242,6 @@ mirror.kakao.com/
 mirror.kamp.de/
 mirror.kapteyan.com.tr/
 mirror.katapult.io/
-mirror.kkg.berlin/
 mirror.kku.ac.th/
 mirror.kumi.systems/
 mirror.leitecastro.com/
