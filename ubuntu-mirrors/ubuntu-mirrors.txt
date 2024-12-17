@@ -21,7 +21,6 @@ dafi.inf.um.es/
 dal.mirrors.clouvider.net/
 dal.mirrors.serverside.com/
 de.mirrors.clouvider.net/
-deb-mirror.habari.co.tz/
 deb.campolargo.pr.gov.br/
 debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
@@ -293,7 +292,6 @@ mirror.papua.go.id/
 mirror.pilotfiber.com/
 mirror.pit.teraswitch.com/
 mirror.plusserver.com/
-mirror.poliwangi.ac.id/
 mirror.previder.nl/
 mirror.ps.kz/
 mirror.rabisu.com/
@@ -520,7 +518,6 @@ security.ubuntu.com/
 sft.if.usp.br/
 sft.if.usp.br:/
 sg-mirrors.vhost.vn/
-softlibre.unizar.es/
 suro.ubaya.ac.id/
 suse.uni-leipzig.de/
 tux.rainside.sk/
