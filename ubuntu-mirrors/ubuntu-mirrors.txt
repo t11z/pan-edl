@@ -207,7 +207,6 @@ mirror.funkfreundelandshut.de/
 mirror.gi.co.id/
 mirror.gotmyhost.com/
 mirror.greennet.gl/
-mirror.group.one/
 mirror.gsl.icu/
 mirror.hashy0917.net/
 mirror.hep.gg/
@@ -592,7 +591,6 @@ ubuntu.repo.cure.edu.uy/
 ubuntu.securedservers.com/
 ubuntu.shatel.ir/
 ubuntu.tegrahost.com/
-ubuntu.tokyo.macarne.com/
 ubuntu.tuxuri.com/
 ubuntu.ucr.ac.cr/
 ubuntu.uib.no/
