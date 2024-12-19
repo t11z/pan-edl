@@ -472,6 +472,7 @@ mirrors.xtom.com/
 mirrors.xtom.de/
 mirrors.xtom.ee/
 mirrors.xtom.nl/
+mirrors.ygn.mmix.net.mm/
 mirrors.yun-idc.com/
 mirrors.zagrio.net/
 mirrors.zju.edu.cn/
