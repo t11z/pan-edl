@@ -209,6 +209,7 @@ mirror.funkfreundelandshut.de/
 mirror.gi.co.id/
 mirror.gotmyhost.com/
 mirror.greennet.gl/
+mirror.group.one/
 mirror.gsl.icu/
 mirror.hashy0917.net/
 mirror.hep.gg/
