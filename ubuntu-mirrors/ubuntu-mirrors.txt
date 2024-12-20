@@ -497,7 +497,6 @@ plug-mirror.rcac.purdue.edu/
 ports.ubuntu.moon127.net/
 pubmirrors.dal.corespace.com/
 quantum-mirror.hu/
-rep-ubuntu-il.upress.io/
 repo.extreme-ix.org/
 repo.huaweicloud.com/
 repo.ialab.dsu.edu/
