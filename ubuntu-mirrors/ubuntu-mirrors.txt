@@ -27,7 +27,6 @@ deb.campolargo.pr.gov.br/
 debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
 download.nus.edu.sg/
-download.nust.na/
 drmirror.physi.uni-heidelberg.de/
 edgeuno-bog2.mm.fcix.net/
 elmirror.cl/
@@ -39,7 +38,6 @@ ftp.agh.edu.pl/
 ftp.arnes.si/
 ftp.belnet.be/
 ftp.byfly.by/
-ftp.caliu.cat/
 ftp.cc.uoc.gr/
 ftp.corbina.net/
 ftp.csuc.cat/
