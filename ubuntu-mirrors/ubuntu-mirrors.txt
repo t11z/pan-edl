@@ -106,7 +106,6 @@ ftpserv.tudelft.nl/
 giano.com.dist.unige.it/
 glua.ua.pt/
 gpl.savoirfairelinux.net/
-hk.mirrors.thegigabit.com/
 in.mirror.coganng.com/
 ir.ubuntu.sindad.cloud/
 is.mirror.flokinet.net/
@@ -194,7 +193,6 @@ mirror.efect.ro/
 mirror.elice.io/
 mirror.enzu.com/
 mirror.esecuredata.com/
-mirror.espol.edu.ec/
 mirror.eu-fr.kamatera.com/
 mirror.eu-lo.kamatera.com/
 mirror.eu.kamatera.com/
@@ -534,13 +532,13 @@ ubuntu-archive.mirror.serveriai.lt/
 ubuntu-mirror.cloud.mu/
 ubuntu-mirror.snu.edu.in/
 ubuntu.anexia.at/
+ubuntu.bardia.tech/
 ubuntu.btit.nz/
 ubuntu.c3sl.ufpr.br/
 ubuntu.ccns.ncku.edu.tw/
 ubuntu.cica.es/
 ubuntu.cs.nctu.edu.tw/
 ubuntu.cs.utah.edu/
-ubuntu.dts.mg/
 ubuntu.ethz.ch/
 ubuntu.grad.hr/
 ubuntu.grena.ge/
@@ -584,7 +582,6 @@ ubuntu.mirrors.ovh.net/
 ubuntu.mirrors.pair.com/
 ubuntu.mirrors.uk2.net/
 ubuntu.mobinhost.com/
-ubuntu.mti.mt.gov.br/
 ubuntu.netforce.hosting/
 ubuntu.ntc.net.np/
 ubuntu.org.ua/
