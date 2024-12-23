@@ -235,7 +235,6 @@ mirror.ipb.de/
 mirror.iranserver.com/
 mirror.isoc.org.il/
 mirror.it.ubc.ca/
-mirror.it4i.cz/
 mirror.its-tps.fr/
 mirror.its-tps.fr:10000/
 mirror.its.dal.ca/
@@ -493,6 +492,7 @@ plug-mirror.rcac.purdue.edu/
 ports.ubuntu.moon127.net/
 pubmirrors.dal.corespace.com/
 quantum-mirror.hu/
+rep-ubuntu-il.upress.io/
 repo.extreme-ix.org/
 repo.huaweicloud.com/
 repo.ialab.dsu.edu/
@@ -543,7 +543,6 @@ ubuntu.grad.hr/
 ubuntu.grena.ge/
 ubuntu.grn.cat/
 ubuntu.hi.no/
-ubuntu.hostiran.ir/
 ubuntu.hysing.is/
 ubuntu.ip-connect.vn.ua/
 ubuntu.ipacct.com/
