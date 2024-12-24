@@ -80,7 +80,6 @@ debian.web.trex.fi/
 debian.xtdv.net/
 debianmirror.una.ac.cr/
 drmirror.physi.uni-heidelberg.de/
-elmirror.cl/
 fastmirror.pp.ua/
 free.hands.com/
 ftp-stud.hs-esslingen.de/
