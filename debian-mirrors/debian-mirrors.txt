@@ -79,6 +79,7 @@ debian.volia.net/
 debian.web.trex.fi/
 debian.xtdv.net/
 debianmirror.una.ac.cr/
+depot-debian.univ-reunion.fr/
 drmirror.physi.uni-heidelberg.de/
 fastmirror.pp.ua/
 free.hands.com/
@@ -302,7 +303,6 @@ mirrors.advancedhosters.com/
 mirrors.asnet.am/
 mirrors.bfsu.edu.cn/
 mirrors.bloomu.edu/
-mirrors.bmcc.edu/
 mirrors.cat.pdx.edu/
 mirrors.coreix.net/
 mirrors.dotsrc.org/
