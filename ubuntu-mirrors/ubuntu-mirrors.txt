@@ -592,7 +592,6 @@ ubuntu.securedservers.com/
 ubuntu.shatel.ir/
 ubuntu.tegrahost.com/
 ubuntu.tuxuri.com/
-ubuntu.ucr.ac.cr/
 ubuntu.uib.no/
 ubuntu.unc.edu.ar/
 ubuntu.uni-klu.ac.at/
