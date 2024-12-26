@@ -21,6 +21,7 @@ cz.archive.ubuntu.com/
 dafi.inf.um.es/
 dal.mirrors.clouvider.net/
 dal.mirrors.serverside.com/
+de.archive.ubuntu.anime.army/
 de.mirrors.clouvider.net/
 deb-mirror.habari.co.tz/
 deb.campolargo.pr.gov.br/
