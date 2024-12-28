@@ -294,7 +294,6 @@ mirror.vpsnet.com/
 mirror.wtnet.de/
 mirror.xeonbd.com/
 mirror.xtom.com.hk/
-mirror.zetup.net/
 mirror1.infomaniak.com/
 mirror2.infomaniak.com/
 mirrors.163.com/
