@@ -146,6 +146,7 @@ ftp.riken.jp/
 ftp.rnl.tecnico.ulisboa.pt/
 ftp.ru.debian.org/
 ftp.se.debian.org/
+ftp.sh.cvut.cz/
 ftp.si.debian.org/
 ftp.sk.debian.org/
 ftp.stw-bonn.de/
