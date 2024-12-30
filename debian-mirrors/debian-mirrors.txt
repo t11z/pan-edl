@@ -138,7 +138,6 @@ ftp.nc.debian.org/
 ftp.nl.debian.org/
 ftp.no.debian.org/
 ftp.nz.debian.org/
-ftp.pl.debian.org/
 ftp.plusline.net/
 ftp.psn.ru/
 ftp.pt.debian.org/
@@ -150,7 +149,6 @@ ftp.se.debian.org/
 ftp.si.debian.org/
 ftp.sk.debian.org/
 ftp.stw-bonn.de/
-ftp.task.gda.pl/
 ftp.ticklers.org/
 ftp.tr.debian.org/
 ftp.tu-chemnitz.de/
