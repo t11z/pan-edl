@@ -233,6 +233,7 @@ mirror.insacom.cl/
 mirror.ipb.de/
 mirror.iranserver.com/
 mirror.it.ubc.ca/
+mirror.it4i.cz/
 mirror.iway.ch/
 mirror.johnnybegood.fr/
 mirror.keystealth.org/
