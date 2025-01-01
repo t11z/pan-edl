@@ -136,7 +136,6 @@ mirror.aktkn.sg/
 mirror.alastyr.com/
 mirror.alwyzon.net/
 mirror.aminidc.com/
-mirror.amscloud.co.id/
 mirror.amuksa.com/
 mirror.anigil.com/
 mirror.aptus.co.tz/
@@ -375,6 +374,7 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror.zzunipark.com/
+mirror1.ku.ac.th/
 mirror1.sox.rs/
 mirror1.totbb.net/
 mirror2.tuxinator.org/
