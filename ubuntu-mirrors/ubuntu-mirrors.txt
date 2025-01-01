@@ -374,7 +374,6 @@ mirror.xtom.com.hk/
 mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
-mirror.zzunipark.com/
 mirror1.ku.ac.th/
 mirror1.sox.rs/
 mirror1.totbb.net/
