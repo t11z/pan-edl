@@ -65,6 +65,7 @@ ftp.linux.ro/
 ftp.lip6.fr/
 ftp.litnet.lt/
 ftp.lysator.liu.se/
+ftp.mirror.tw/
 ftp.mirrorservice.org/
 ftp.muug.ca/
 ftp.nluug.nl/
@@ -172,6 +173,7 @@ mirror.cov.ukservers.com/
 mirror.creoline.net/
 mirror.cs.jmu.edu/
 mirror.csclub.uwaterloo.ca/
+mirror.cse.iitk.ac.in/
 mirror.d.umn.edu/
 mirror.dal.nexril.net/
 mirror.daniel-jost.net/
@@ -454,7 +456,6 @@ mirrors.sonic.net/
 mirrors.sth.sze.hu/
 mirrors.storpool.com/
 mirrors.tino.org/
-mirrors.tscak.com/
 mirrors.tuna.tsinghua.edu.cn/
 mirrors.ukfast.co.uk/
 mirrors.united.cd/
