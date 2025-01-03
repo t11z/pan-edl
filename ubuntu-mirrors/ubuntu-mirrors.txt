@@ -453,7 +453,6 @@ mirrors.sjtug.sjtu.edu.cn/
 mirrors.sohu.com/
 mirrors.sonic.net/
 mirrors.sth.sze.hu/
-mirrors.storpool.com/
 mirrors.tino.org/
 mirrors.tuna.tsinghua.edu.cn/
 mirrors.ukfast.co.uk/
