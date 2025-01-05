@@ -178,7 +178,6 @@ mirror.dal.nexril.net/
 mirror.daniel-jost.net/
 mirror.datacenter.az/
 mirror.datacenter.by/
-mirror.datacenter.mn/
 mirror.datamossa.io/
 mirror.de.leaseweb.net/
 mirror.deace.id/
@@ -451,6 +450,7 @@ mirrors.sjtug.sjtu.edu.cn/
 mirrors.sohu.com/
 mirrors.sonic.net/
 mirrors.sth.sze.hu/
+mirrors.storpool.com/
 mirrors.tino.org/
 mirrors.tuna.tsinghua.edu.cn/
 mirrors.ukfast.co.uk/
