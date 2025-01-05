@@ -242,7 +242,6 @@ mirror.kpfu.ru/
 mirror.lagoon.nc/
 mirror.lchost.net/
 mirror.leitecastro.com/
-mirror.limda.net/
 mirror.linux.org.au/
 mirror.linux.ro/
 mirror.litnet.lt/
