@@ -50,7 +50,6 @@ ftp.fau.de/
 ftp.fu-berlin.de/
 ftp.gtlib.gatech.edu/
 ftp.halifax.rwth-aachen.de/
-ftp.heanet.ie/
 ftp.hosteurope.de/
 ftp.icm.edu.pl/
 ftp.iinet.net.au/
@@ -134,12 +133,14 @@ mirror.23m.com/
 mirror.2degrees.nz/
 mirror.5i.fi/
 mirror.aarnet.edu.au/
+mirror.aktkn.sg/
 mirror.alastyr.com/
 mirror.alwyzon.net/
 mirror.aminidc.com/
 mirror.amscloud.co.id/
 mirror.amuksa.com/
 mirror.anigil.com/
+mirror.aptus.co.tz/
 mirror.arizona.edu/
 mirror.arvancloud.ir/
 mirror.as.kamatera.com/
@@ -358,6 +359,7 @@ mirror.us.mirhosting.net/
 mirror.vcu.edu/
 mirror.veesp.com/
 mirror.verinomi.com/
+mirror.vietnix.vn/
 mirror.viettelcloud.vn/
 mirror.vinehost.net/
 mirror.virtarix.com/
