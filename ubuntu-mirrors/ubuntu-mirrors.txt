@@ -163,7 +163,6 @@ mirror.cepatcloud.id/
 mirror.chmuri.net/
 mirror.citrahost.com/
 mirror.clarkson.edu/
-mirror.clearsky.vn/
 mirror.cloudhosting.lv/
 mirror.cmkl.ac.th/
 mirror.coganng.com/
