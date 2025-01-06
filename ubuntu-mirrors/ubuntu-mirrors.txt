@@ -102,7 +102,6 @@ ftp5.gwdg.de/
 ftpmirror1.infania.net/
 ftpserv.tudelft.nl/
 giano.com.dist.unige.it/
-glua.ua.pt/
 gpl.savoirfairelinux.net/
 hk.mirrors.thegigabit.com/
 in.mirror.coganng.com/
@@ -373,6 +372,7 @@ mirror.xtom.com.hk/
 mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
+mirror.zetup.net/
 mirror1.sox.rs/
 mirror1.totbb.net/
 mirror2.tuxinator.org/
