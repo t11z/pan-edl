@@ -160,6 +160,7 @@ mirror.cepatcloud.id/
 mirror.chmuri.net/
 mirror.citrahost.com/
 mirror.clarkson.edu/
+mirror.clearsky.vn/
 mirror.cloudhosting.lv/
 mirror.cmkl.ac.th/
 mirror.coganng.com/
@@ -583,7 +584,6 @@ ubuntu.mirrors.uk2.net/
 ubuntu.mobinhost.com/
 ubuntu.mti.mt.gov.br/
 ubuntu.netforce.hosting/
-ubuntu.ntc.net.np/
 ubuntu.org.ua/
 ubuntu.osuosl.org/
 ubuntu.otenet.gr/
