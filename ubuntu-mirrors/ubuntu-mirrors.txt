@@ -134,6 +134,7 @@ mirror.aktkn.sg/
 mirror.alastyr.com/
 mirror.alwyzon.net/
 mirror.aminidc.com/
+mirror.ams.macarne.com/
 mirror.amscloud.co.id/
 mirror.amuksa.com/
 mirror.anigil.com/
@@ -175,6 +176,7 @@ mirror.dal.nexril.net/
 mirror.daniel-jost.net/
 mirror.datacenter.az/
 mirror.datacenter.by/
+mirror.datacenter.mn/
 mirror.datamossa.io/
 mirror.de.leaseweb.net/
 mirror.deace.id/
@@ -406,6 +408,7 @@ mirrors.gethosted.online/
 mirrors.gigenet.com/
 mirrors.hosterion.ro/
 mirrors.hostico.ro/
+mirrors.hostida.com/
 mirrors.hostiserver.com/
 mirrors.huaweicloud.com/
 mirrors.hust.edu.cn/
@@ -488,9 +491,9 @@ ossmirror.mycloud.services/
 packages.oth-regensburg.de/
 pkg.adfinis-on-exoscale.ch/
 pkg.adfinis.com/
+pkg.gofoss.xyz/
 plug-mirror.rcac.purdue.edu/
 ports.ubuntu.moon127.net/
-pubmirrors.dal.corespace.com/
 quantum-mirror.hu/
 repo.extreme-ix.org/
 repo.huaweicloud.com/
