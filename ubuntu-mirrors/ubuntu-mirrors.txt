@@ -23,6 +23,7 @@ dal.mirrors.clouvider.net/
 dal.mirrors.serverside.com/
 de.archive.ubuntu.anime.army/
 de.mirrors.clouvider.net/
+deb-mirror.habari.co.tz/
 deb.campolargo.pr.gov.br/
 debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
@@ -555,7 +556,6 @@ ubuntu.lagis.at/
 ubuntu.lagoon.nc/
 ubuntu.letscloud.io/
 ubuntu.linux.n0c.ca/
-ubuntu.macarne.com/
 ubuntu.man.lodz.pl/
 ubuntu.mirror.ac.za/
 ubuntu.mirror.constant.com/
