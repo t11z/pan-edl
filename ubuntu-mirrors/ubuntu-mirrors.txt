@@ -140,6 +140,7 @@ mirror.ams.macarne.com/
 mirror.amscloud.co.id/
 mirror.amuksa.com/
 mirror.anigil.com/
+mirror.aptus.co.tz/
 mirror.arizona.edu/
 mirror.arvancloud.ir/
 mirror.as.kamatera.com/
