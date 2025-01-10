@@ -208,6 +208,7 @@ mirror.freethought-internet.co.uk/
 mirror.fsmg.org.nz/
 mirror.funkfreundelandshut.de/
 mirror.gi.co.id/
+mirror.gofoss.xyz/
 mirror.gotmyhost.com/
 mirror.greennet.gl/
 mirror.group.one/
@@ -496,7 +497,6 @@ ossmirror.mycloud.services/
 packages.oth-regensburg.de/
 pkg.adfinis-on-exoscale.ch/
 pkg.adfinis.com/
-pkg.gofoss.xyz/
 plug-mirror.rcac.purdue.edu/
 ports.ubuntu.moon127.net/
 quantum-mirror.hu/
