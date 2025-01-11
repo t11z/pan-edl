@@ -500,7 +500,6 @@ plug-mirror.rcac.purdue.edu/
 ports.ubuntu.moon127.net/
 pubmirrors.dal.corespace.com/
 quantum-mirror.hu/
-rep-ubuntu-il.upress.io/
 repo.extreme-ix.org/
 repo.huaweicloud.com/
 repo.ialab.dsu.edu/
@@ -590,7 +589,6 @@ ubuntu.mirrors.uk2.net/
 ubuntu.mobinhost.com/
 ubuntu.mti.mt.gov.br/
 ubuntu.netforce.hosting/
-ubuntu.ntc.net.np/
 ubuntu.org.ua/
 ubuntu.osuosl.org/
 ubuntu.otenet.gr/
