@@ -21,7 +21,6 @@ cz.archive.ubuntu.com/
 dafi.inf.um.es/
 dal.mirrors.clouvider.net/
 dal.mirrors.serverside.com/
-de.archive.ubuntu.anime.army/
 de.mirrors.clouvider.net/
 deb-mirror.habari.co.tz/
 debian.charite.de/
@@ -518,8 +517,6 @@ rsync.uni-bayreuth.de/
 rsync.yuki.net.uk/
 sby.mirror.bignet.id/
 security.ubuntu.com/
-sft.if.usp.br/
-sft.if.usp.br:/
 sg-mirrors.vhost.vn/
 softlibre.unizar.es/
 suro.ubaya.ac.id/
