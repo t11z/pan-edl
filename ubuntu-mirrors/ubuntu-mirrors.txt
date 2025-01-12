@@ -120,7 +120,6 @@ la.mirrors.clouvider.net/
 labs.eif.urjc.es/
 linux.domainesia.com/
 linux.yz.yamagata-u.ac.jp/
-linuxmirrors.ir/
 lug.mines.edu/
 mir.linux.kg/
 miroir.univ-lorraine.fr/
