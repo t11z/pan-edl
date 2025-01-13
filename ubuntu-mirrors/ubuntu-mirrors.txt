@@ -135,6 +135,7 @@ mirror.alastyr.com/
 mirror.alwyzon.net/
 mirror.aminidc.com/
 mirror.ams.macarne.com/
+mirror.amscloud.co.id/
 mirror.amuksa.com/
 mirror.anigil.com/
 mirror.aptus.co.tz/
