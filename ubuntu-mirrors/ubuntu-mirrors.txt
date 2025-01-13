@@ -385,6 +385,7 @@ mirrors-ubuntu.behostings.com/
 mirrors.accretive-networks.net/
 mirrors.advancedhosters.com/
 mirrors.aliyun.com/
+mirrors.arpnetworks.com/
 mirrors.asnet.am/
 mirrors.atlas.net.co/
 mirrors.bangmod.cloud/
@@ -425,6 +426,7 @@ mirrors.jlu.edu.cn/
 mirrors.jxust.edu.cn/
 mirrors.layeronline.com/
 mirrors.liquidweb.com/
+mirrors.lug.mtu.edu/
 mirrors.maine.edu/
 mirrors.mediascope.group/
 mirrors.melbourne.co.uk/
