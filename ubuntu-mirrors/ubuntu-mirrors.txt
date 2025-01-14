@@ -601,6 +601,7 @@ ubuntu.pishgaman.net/
 ubuntu.repo.cure.edu.uy/
 ubuntu.securedservers.com/
 ubuntu.shatel.ir/
+ubuntu.syxpi.fr/
 ubuntu.task.gda.pl/
 ubuntu.tegrahost.com/
 ubuntu.tuxuri.com/
@@ -613,6 +614,7 @@ ubuntu.univ-reims.fr/
 ubuntu.uvigo.es/
 ubuntu.vargonen.com/
 ubuntu.volia.net/
+ubuntu.vpsttt.com/
 ubuntu.web.trex.fi/
 ubuntu.zero.com.ar/
 ubuntutym.u-toyama.ac.jp/
