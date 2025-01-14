@@ -324,6 +324,7 @@ mirrors.nic.cz/
 mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
 mirrors.pardisco.co/
+mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
 mirrors.ptisp.pt/
 mirrors.rackhosting.com/
