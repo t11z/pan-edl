@@ -1,4 +1,5 @@
 *.archive.ubuntu.com/
+arch.fuckdmca.cc/
 archive.g4t1.pro/
 archive.linux.duke.edu/
 archive.ubuntu.com/
@@ -21,7 +22,6 @@ cz.archive.ubuntu.com/
 dafi.inf.um.es/
 dal.mirrors.clouvider.net/
 dal.mirrors.serverside.com/
-de.archive.ubuntu.anime.army/
 de.mirrors.clouvider.net/
 deb-mirror.habari.co.tz/
 deb.campolargo.pr.gov.br/
