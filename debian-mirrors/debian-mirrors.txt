@@ -1,7 +1,6 @@
 alcateia.ufscar.br/
 apt.tetaneutral.net/
 archive.debian.petiak.ir/
-artfiles.org/
 atl.mirrors.clouvider.net/
 de.mirrors.clouvider.net/
 deb-mir1.naitways.net/
@@ -142,6 +141,7 @@ ftp.no.debian.org/
 ftp.nz.debian.org/
 ftp.plusline.net/
 ftp.psn.ru/
+ftp.psnc.pl/
 ftp.pt.debian.org/
 ftp.rezopole.net/
 ftp.riken.jp/
