@@ -335,7 +335,6 @@ mirrors.upr.edu/
 mirrors.ustc.edu.cn/
 mirrors.vcea.wsu.edu/
 mirrors.wikimedia.org/
-mirrors.xservers.ro/
 mirrors.xtom.au/
 mirrors.xtom.com/
 mirrors.xtom.de/
