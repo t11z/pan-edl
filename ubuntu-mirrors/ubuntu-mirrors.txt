@@ -98,7 +98,6 @@ ftp.usf.edu/
 ftp.ussg.iu.edu/
 ftp.uvigo.es/
 ftp5.gwdg.de/
-ftpmirror1.infania.net/
 ftpserv.tudelft.nl/
 giano.com.dist.unige.it/
 glua.ua.pt/
@@ -122,7 +121,6 @@ linux.yz.yamagata-u.ac.jp/
 lug.mines.edu/
 mir.linux.kg/
 miroir.univ-lorraine.fr/
-mirror-hk.koddos.net/
 mirror-mk.interspace.com/
 mirror.0x.sg/
 mirror.0xem.ma/
