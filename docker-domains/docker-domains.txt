@@ -4,6 +4,7 @@ auth.docker.io/
 cdn.auth0.com/
 cdn.segment.com/
 desktop.docker.com/
+docker-images-prod.r2.cloudflarestorage.com/
 docker-pinata-support.s3.amazonaws.com/
 download.docker.com/
 experiments.docker.com/
