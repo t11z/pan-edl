@@ -190,6 +190,7 @@ mirror.elice.io/
 mirror.enzu.com/
 mirror.esecuredata.com/
 mirror.espol.edu.ec/
+mirror.eu-fr.kamatera.com/
 mirror.eu-lo.kamatera.com/
 mirror.eu.kamatera.com/
 mirror.faizuladib.com/
