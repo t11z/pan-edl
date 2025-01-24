@@ -360,7 +360,6 @@ mirror.us.mirhosting.net/
 mirror.vcu.edu/
 mirror.veesp.com/
 mirror.verinomi.com/
-mirror.vietnix.vn/
 mirror.viettelcloud.vn/
 mirror.vinehost.net/
 mirror.virtarix.com/
@@ -505,6 +504,7 @@ repo.ialab.dsu.edu/
 repo.iut.ac.ir/
 repo.jing.rocks/
 repo.jztkft.hu/
+repo.linuxmirrors.ir/
 repo.miserver.it.umich.edu/
 repo.ugm.ac.id/
 repo.usk.ac.id/
