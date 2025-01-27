@@ -103,7 +103,6 @@ ftpserv.tudelft.nl/
 giano.com.dist.unige.it/
 glua.ua.pt/
 gpl.savoirfairelinux.net/
-hk.mirrors.thegigabit.com/
 in.mirror.coganng.com/
 ir.ubuntu.sindad.cloud/
 is.mirror.flokinet.net/
@@ -186,18 +185,19 @@ mirror.digitalpacific.com.au/
 mirror.dkm.cz/
 mirror.docker.ru/
 mirror.dogado.de/
+mirror.domainhizmetleri.com/
 mirror.easyname.at/
 mirror.efect.ro/
+mirror.ekiphost.com/
 mirror.elice.io/
 mirror.enzu.com/
 mirror.esecuredata.com/
-mirror.espol.edu.ec/
 mirror.eu-fr.kamatera.com/
 mirror.eu-lo.kamatera.com/
 mirror.eu.kamatera.com/
-mirror.faizuladib.com/
 mirror.faraso.org/
 mirror.fcix.net/
+mirror.flo.c-f.ro/
 mirror.flokinet.net/
 mirror.fra.macarne.com/
 mirror.freethought-internet.co.uk/
@@ -220,6 +220,7 @@ mirror.hostiko.network/
 mirror.hostnet.nl/
 mirror.hyperdedic.ru/
 mirror.i3d.net/
+mirror.ietlucknow.ac.in/
 mirror.ihost.md/
 mirror.il-jr.kamatera.com/
 mirror.il-pt.kamatera.com/
@@ -541,7 +542,6 @@ ubuntu.ccns.ncku.edu.tw/
 ubuntu.cica.es/
 ubuntu.cs.nctu.edu.tw/
 ubuntu.cs.utah.edu/
-ubuntu.dts.mg/
 ubuntu.ethz.ch/
 ubuntu.grad.hr/
 ubuntu.grena.ge/
@@ -583,7 +583,6 @@ ubuntu.mirrors.ovh.net/
 ubuntu.mirrors.pair.com/
 ubuntu.mirrors.uk2.net/
 ubuntu.mobinhost.com/
-ubuntu.mti.mt.gov.br/
 ubuntu.netforce.hosting/
 ubuntu.ntc.net.np/
 ubuntu.org.ua/
