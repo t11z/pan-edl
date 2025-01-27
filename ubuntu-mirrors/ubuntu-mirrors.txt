@@ -199,7 +199,6 @@ mirror.faraso.org/
 mirror.fcix.net/
 mirror.flo.c-f.ro/
 mirror.flokinet.net/
-mirror.fra.macarne.com/
 mirror.freethought-internet.co.uk/
 mirror.fsmg.org.nz/
 mirror.funkfreundelandshut.de/
@@ -376,6 +375,7 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror.zetup.net/
+mirror.zzunipark.com/
 mirror1.ku.ac.th/
 mirror1.sox.rs/
 mirror1.totbb.net/
@@ -495,6 +495,7 @@ pkg.adfinis-on-exoscale.ch/
 pkg.adfinis.com/
 plug-mirror.rcac.purdue.edu/
 ports.ubuntu.moon127.net/
+pubmirrors.dal.corespace.com/
 quantum-mirror.hu/
 rep-ubuntu-il.upress.io/
 repo.extreme-ix.org/
