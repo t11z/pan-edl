@@ -303,7 +303,6 @@ mirror.rcg.sfu.ca/
 mirror.realcompute.io/
 mirror.reenigne.net/
 mirror.renu.ac.ug/
-mirror.repository.id/
 mirror.retentionrange.co.bw/
 mirror.rise.ph/
 mirror.root.lu/
@@ -522,6 +521,8 @@ rsync.uni-bayreuth.de/
 rsync.yuki.net.uk/
 sby.mirror.bignet.id/
 security.ubuntu.com/
+sft.if.usp.br/
+sft.if.usp.br:/
 sg-mirrors.vhost.vn/
 softlibre.unizar.es/
 suro.ubaya.ac.id/
