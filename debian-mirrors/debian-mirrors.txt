@@ -188,6 +188,7 @@ mirror-mk.interspace.com/
 mirror-prg.webglobe.com/
 mirror.0x626b.com/
 mirror.23m.com/
+mirror.5i.fi/
 mirror.aarnet.edu.au/
 mirror.alwyzon.net/
 mirror.amaze.com.au/
