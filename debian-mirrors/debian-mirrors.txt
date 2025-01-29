@@ -139,7 +139,6 @@ ftp.nc.debian.org/
 ftp.nl.debian.org/
 ftp.no.debian.org/
 ftp.nz.debian.org/
-ftp.plusline.net/
 ftp.psn.ru/
 ftp.psnc.pl/
 ftp.pt.debian.org/
