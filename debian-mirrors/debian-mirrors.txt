@@ -16,6 +16,7 @@ debian.balt.net/
 debian.c3sl.ufpr.br/
 debian.carnet.hr/
 debian.cc.lehigh.edu/
+debian.ccns.ncku.edu.tw/
 debian.charite.de/
 debian.cs.nycu.edu.tw/
 debian.csail.mit.edu/
@@ -193,6 +194,7 @@ mirror.aarnet.edu.au/
 mirror.alwyzon.net/
 mirror.amaze.com.au/
 mirror.aminidc.com/
+mirror.ams.macarne.com/
 mirror.applebred.net/
 mirror.as35701.net/
 mirror.as43289.net/
