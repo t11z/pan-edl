@@ -133,7 +133,6 @@ mirror.alastyr.com/
 mirror.alwyzon.net/
 mirror.aminidc.com/
 mirror.ams.macarne.com/
-mirror.amscloud.co.id/
 mirror.amuksa.com/
 mirror.anigil.com/
 mirror.aptus.co.tz/
@@ -369,6 +368,7 @@ mirror.vpsnet.com/
 mirror.webworld.ie/
 mirror.wtnet.de/
 mirror.xeonbd.com/
+mirror.xtom.com.hk/
 mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
@@ -582,6 +582,7 @@ ubuntu.mirrors.ovh.net/
 ubuntu.mirrors.pair.com/
 ubuntu.mirrors.uk2.net/
 ubuntu.mobinhost.com/
+ubuntu.mti.mt.gov.br/
 ubuntu.netforce.hosting/
 ubuntu.ntc.net.np/
 ubuntu.org.ua/
