@@ -154,7 +154,6 @@ mirror.bytemark.co.uk/
 mirror.ca-tr.kamatera.com/
 mirror.cc.vt.edu/
 mirror.cedia.org.ec/
-mirror.cepatcloud.id/
 mirror.chmuri.net/
 mirror.citrahost.com/
 mirror.clarkson.edu/
