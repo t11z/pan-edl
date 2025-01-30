@@ -313,6 +313,7 @@ mirrors.glesys.net/
 mirrors.hosterion.ro/
 mirrors.hostico.ro/
 mirrors.hostiserver.com/
+mirrors.ic.unicamp.br/
 mirrors.iitd.ac.in/
 mirrors.ircam.fr/
 mirrors.iu13.net/
