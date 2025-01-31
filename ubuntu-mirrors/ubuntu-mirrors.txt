@@ -62,6 +62,7 @@ ftp.linux.ro/
 ftp.lip6.fr/
 ftp.litnet.lt/
 ftp.lysator.liu.se/
+ftp.mirror.tw/
 ftp.mirrorservice.org/
 ftp.muug.ca/
 ftp.nluug.nl/
@@ -134,6 +135,7 @@ mirror.alastyr.com/
 mirror.alwyzon.net/
 mirror.aminidc.com/
 mirror.ams.macarne.com/
+mirror.amscloud.co.id/
 mirror.amuksa.com/
 mirror.anigil.com/
 mirror.aptus.co.tz/
@@ -541,6 +543,7 @@ ubuntu.ccns.ncku.edu.tw/
 ubuntu.cica.es/
 ubuntu.cs.nctu.edu.tw/
 ubuntu.cs.utah.edu/
+ubuntu.dts.mg/
 ubuntu.ethz.ch/
 ubuntu.grad.hr/
 ubuntu.grena.ge/
