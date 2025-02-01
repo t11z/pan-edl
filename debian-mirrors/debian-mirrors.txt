@@ -166,6 +166,7 @@ ftp.uni-hannover.de/
 ftp.uni-kl.de/
 ftp.uni-mainz.de/
 ftp.uni-sofia.bg/
+ftp.uni-stuttgart.de/
 ftp.univ-pau.fr/
 ftp.us.debian.org/
 ftp.wrz.de/
@@ -262,6 +263,7 @@ mirror.nl.mirhosting.net/
 mirror.nyist.edu.cn/
 mirror.one.com/
 mirror.onevip.mk/
+mirror.overthewire.com.au/
 mirror.ox.ac.uk/
 mirror.plusserver.com/
 mirror.pmf.kg.ac.rs/
