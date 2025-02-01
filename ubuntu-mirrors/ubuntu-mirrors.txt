@@ -54,7 +54,6 @@ ftp.icm.edu.pl/
 ftp.iinet.net.au/
 ftp.iitm.ac.in/
 ftp.jaist.ac.jp/
-ftp.kaist.ac.kr/
 ftp.klid.dk/
 ftp.lanet.kr/
 ftp.linux.cz/
@@ -179,6 +178,7 @@ mirror.datacenter.mn/
 mirror.datamossa.io/
 mirror.de.leaseweb.net/
 mirror.deace.id/
+mirror.dewabiz.com/
 mirror.digitaloceans.dev/
 mirror.digitalpacific.com.au/
 mirror.dkm.cz/
