@@ -229,6 +229,7 @@ mirror.hnd.cl/
 mirror.hoster.kz/
 mirror.hyperdedic.ru/
 mirror.i3d.net/
+mirror.ibcp.fr/
 mirror.informatik.tu-freiberg.de/
 mirror.init7.net/
 mirror.insacom.cl/
@@ -282,6 +283,7 @@ mirror.steadfast.net/
 mirror.telepoint.bg/
 mirror.tngnet.com/
 mirror.truenetwork.ru/
+mirror.twds.com.tw/
 mirror.uepg.br/
 mirror.ufro.cl/
 mirror.ukrnames.com/
