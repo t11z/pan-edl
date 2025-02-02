@@ -25,7 +25,6 @@ deb.campolargo.pr.gov.br/
 debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
 download.nus.edu.sg/
-download.nust.na/
 drmirror.physi.uni-heidelberg.de/
 edgeuno-bog2.mm.fcix.net/
 elmirror.cl/
@@ -120,6 +119,7 @@ linux.yz.yamagata-u.ac.jp/
 lug.mines.edu/
 mir.linux.kg/
 miroir.univ-lorraine.fr/
+mirror-hk.koddos.net/
 mirror-mk.interspace.com/
 mirror.0x.sg/
 mirror.0xem.ma/
@@ -376,6 +376,7 @@ mirror.yuki.net.uk/
 mirror.zetup.net/
 mirror.zzunipark.com/
 mirror1.ku.ac.th/
+mirror1.sox.rs/
 mirror1.totbb.net/
 mirror2.tuxinator.org/
 mirrors-ubuntu.behostings.com/
