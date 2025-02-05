@@ -21,7 +21,6 @@ dafi.inf.um.es/
 dal.mirrors.clouvider.net/
 dal.mirrors.serverside.com/
 de.mirrors.clouvider.net/
-deb-mirror.habari.co.tz/
 deb.campolargo.pr.gov.br/
 debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
@@ -199,6 +198,7 @@ mirror.eu-lo.kamatera.com/
 mirror.eu.kamatera.com/
 mirror.faraso.org/
 mirror.fcix.net/
+mirror.fi.ossplanet.net/
 mirror.flo.c-f.ro/
 mirror.flokinet.net/
 mirror.freethought-internet.co.uk/
@@ -377,7 +377,6 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror.zetup.net/
-mirror.zzunipark.com/
 mirror1.ku.ac.th/
 mirror1.sox.rs/
 mirror1.totbb.net/
