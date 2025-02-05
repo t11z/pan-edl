@@ -481,7 +481,6 @@ mirrror.0xem.ma/
 mr.heru.id/
 muug.ca/
 nl.archive.ubuntu.com/
-nl.mirror.flokinet.net/
 nl.mirrors.clouvider.net/
 nl3.archive.ubuntu.com/
 no.archive.ubuntu.com/
