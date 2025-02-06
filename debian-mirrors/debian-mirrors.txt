@@ -151,6 +151,7 @@ ftp.si.debian.org/
 ftp.sk.debian.org/
 ftp.stw-bonn.de/
 ftp.ticklers.org/
+ftp.tku.edu.tw/
 ftp.tr.debian.org/
 ftp.tu-chemnitz.de/
 ftp.tu-clausthal.de/
