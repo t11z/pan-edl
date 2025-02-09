@@ -601,7 +601,6 @@ ubuntu.shatel.ir/
 ubuntu.syxpi.fr/
 ubuntu.task.gda.pl/
 ubuntu.tegrahost.com/
-ubuntu.tuxuri.com/
 ubuntu.ucr.ac.cr/
 ubuntu.uib.no/
 ubuntu.unc.edu.ar/
