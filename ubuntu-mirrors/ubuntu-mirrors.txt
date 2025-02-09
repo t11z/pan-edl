@@ -127,7 +127,6 @@ mirror.23m.com/
 mirror.2degrees.nz/
 mirror.5i.fi/
 mirror.aarnet.edu.au/
-mirror.aktkn.sg/
 mirror.alastyr.com/
 mirror.alwyzon.net/
 mirror.aminidc.com/
