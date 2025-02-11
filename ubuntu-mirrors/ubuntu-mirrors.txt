@@ -212,7 +212,6 @@ mirror.hashy0917.net/
 mirror.hep.gg/
 mirror.hnd.cl/
 mirror.hoobly.com/
-mirror.hostafrica.co.za/
 mirror.hoster.kz/
 mirror.hostiko.network/
 mirror.hostnet.nl/
