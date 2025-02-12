@@ -304,7 +304,6 @@ mirror.rcg.sfu.ca/
 mirror.realcompute.io/
 mirror.reenigne.net/
 mirror.renu.ac.ug/
-mirror.retentionrange.co.bw/
 mirror.rise.ph/
 mirror.root.lu/
 mirror.rustytel.net/
@@ -313,7 +312,6 @@ mirror.scaleuptech.com/
 mirror.servaxnet.com/
 mirror.server.net/
 mirror.serverion.com/
-mirror.serverloft.eu/
 mirror.sg.gs/
 mirror.sh.com.tr/
 mirror.siena.edu/
@@ -567,6 +565,7 @@ ubuntu.mirror.garr.it/
 ubuntu.mirror.globo.tech/
 ubuntu.mirror.gnc.am/
 ubuntu.mirror.intermax.nl/
+ubuntu.mirror.jahanserver.com/
 ubuntu.mirror.letscloud.io/
 ubuntu.mirror.linux.ro/
 ubuntu.mirror.lrz.de/
