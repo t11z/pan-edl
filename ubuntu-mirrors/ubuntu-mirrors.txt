@@ -100,6 +100,7 @@ ftpmirror1.infania.net/
 ftpserv.tudelft.nl/
 giano.com.dist.unige.it/
 gpl.savoirfairelinux.net/
+hk.mirrors.thegigabit.com/
 in.mirror.coganng.com/
 ir.ubuntu.sindad.cloud/
 is.mirror.flokinet.net/
@@ -193,6 +194,7 @@ mirror.espol.edu.ec/
 mirror.eu-fr.kamatera.com/
 mirror.eu-lo.kamatera.com/
 mirror.eu.kamatera.com/
+mirror.faizuladib.com/
 mirror.faraso.org/
 mirror.fcix.net/
 mirror.fi.ossplanet.net/
