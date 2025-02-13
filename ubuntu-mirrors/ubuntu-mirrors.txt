@@ -306,6 +306,7 @@ mirror.rcg.sfu.ca/
 mirror.realcompute.io/
 mirror.reenigne.net/
 mirror.renu.ac.ug/
+mirror.repository.id/
 mirror.rise.ph/
 mirror.root.lu/
 mirror.rustytel.net/
@@ -344,6 +345,7 @@ mirror.ufro.cl/
 mirror.ufscar.br/
 mirror.umd.edu/
 mirror.unair.ac.id/
+mirror.unej.ac.id/
 mirror.unesp.br/
 mirror.unimagdalena.edu.co/
 mirror.united-gameserver.de/
