@@ -238,6 +238,7 @@ mirror.it4i.cz/
 mirror.its-tps.fr/
 mirror.its-tps.fr:10000/
 mirror.its.dal.ca/
+mirror.ixirhost.com/
 mirror.jeonnam.school/
 mirror.johnnybegood.fr/
 mirror.kakao.com/
@@ -306,6 +307,7 @@ mirror.realcompute.io/
 mirror.reenigne.net/
 mirror.renu.ac.ug/
 mirror.repository.id/
+mirror.retentionrange.co.bw/
 mirror.rise.ph/
 mirror.root.lu/
 mirror.rustytel.net/
