@@ -229,6 +229,7 @@ mirror.gitoyen.net/
 mirror.gsl.icu/
 mirror.hnd.cl/
 mirror.hoster.kz/
+mirror.hyperdedic.ru/
 mirror.i3d.net/
 mirror.ibcp.fr/
 mirror.informatik.tu-freiberg.de/
