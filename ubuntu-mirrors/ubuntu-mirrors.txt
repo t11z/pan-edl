@@ -28,7 +28,6 @@ download.nus.edu.sg/
 drmirror.physi.uni-heidelberg.de/
 edgeuno-bog2.mm.fcix.net/
 elmirror.cl/
-fastmirror.pp.ua/
 free.nchc.org.tw/
 ftp-stud.hs-esslingen.de/
 ftp.acc.umu.se/
@@ -249,6 +248,7 @@ mirror.katapult.io/
 mirror.kkg.berlin/
 mirror.kku.ac.th/
 mirror.kumi.systems/
+mirror.leitecastro.com/
 mirror.library.ucy.ac.cy/
 mirror.limda.net/
 mirror.linux-ia64.org/
@@ -435,6 +435,7 @@ mirrors.melbourne.co.uk/
 mirrors.mit.edu/
 mirrors.mivocloud.com/
 mirrors.namecheap.com/
+mirrors.nav.ro/
 mirrors.neterra.net/
 mirrors.netix.net/
 mirrors.neusoft.edu.cn/
