@@ -60,6 +60,7 @@ ftp.linux.ro/
 ftp.lip6.fr/
 ftp.litnet.lt/
 ftp.lysator.liu.se/
+ftp.mirror.tw/
 ftp.mirrorservice.org/
 ftp.muug.ca/
 ftp.nluug.nl/
@@ -119,6 +120,7 @@ lug.mines.edu/
 mir.linux.kg/
 miroir.univ-lorraine.fr/
 mirror-gw.elastis.id/
+mirror-hk.koddos.net/
 mirror-mk.interspace.com/
 mirror.0x.sg/
 mirror.0xem.ma/
@@ -268,6 +270,7 @@ mirror.mrjester.net/
 mirror.mythic-beasts.com/
 mirror.neftm.ru/
 mirror.neolabs.kz/
+mirror.nerdmilio.com/
 mirror.netcologne.de/
 mirror.netsite.dk/
 mirror.netspace.net.au/
@@ -363,6 +366,7 @@ mirror.verinomi.com/
 mirror.viettelcloud.vn/
 mirror.vinehost.net/
 mirror.virtarix.com/
+mirror.virtury.com/
 mirror.vnet.sk/
 mirror.vorboss.net/
 mirror.vpgrp.io/
