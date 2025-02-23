@@ -79,7 +79,6 @@ debian.uvigo.es/
 debian.volia.net/
 debian.web.trex.fi/
 debian.xtdv.net/
-debianmirror.una.ac.cr/
 drmirror.physi.uni-heidelberg.de/
 fastmirror.pp.ua/
 free.hands.com/
