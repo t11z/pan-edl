@@ -25,6 +25,7 @@ deb.campolargo.pr.gov.br/
 debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
 distrohub.kyiv.ua/
+download.nus.edu.sg/
 drmirror.physi.uni-heidelberg.de/
 edgeuno-bog2.mm.fcix.net/
 elmirror.cl/
@@ -189,6 +190,7 @@ mirror.ekiphost.com/
 mirror.elice.io/
 mirror.enzu.com/
 mirror.esecuredata.com/
+mirror.eu-fr.kamatera.com/
 mirror.eu-lo.kamatera.com/
 mirror.eu.kamatera.com/
 mirror.faizuladib.com/
