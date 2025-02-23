@@ -145,7 +145,6 @@ ftp.pt.debian.org/
 ftp.rezopole.net/
 ftp.riken.jp/
 ftp.rnl.tecnico.ulisboa.pt/
-ftp.ru.debian.org/
 ftp.se.debian.org/
 ftp.sh.cvut.cz/
 ftp.si.debian.org/
@@ -253,7 +252,6 @@ mirror.linux.ro/
 mirror.litnet.lt/
 mirror.lzu.edu.cn/
 mirror.marwan.ma/
-mirror.mephi.ru/
 mirror.metanet.ch/
 mirror.mirohost.net/
 mirror.mythic-beasts.com/
