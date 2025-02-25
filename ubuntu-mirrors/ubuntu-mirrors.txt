@@ -24,7 +24,6 @@ deb.campolargo.pr.gov.br/
 debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
 distrohub.kyiv.ua/
-download.nus.edu.sg/
 drmirror.physi.uni-heidelberg.de/
 edgeuno-bog2.mm.fcix.net/
 elmirror.cl/
@@ -190,7 +189,6 @@ mirror.ekiphost.com/
 mirror.elice.io/
 mirror.enzu.com/
 mirror.esecuredata.com/
-mirror.eu-fr.kamatera.com/
 mirror.eu-lo.kamatera.com/
 mirror.eu.kamatera.com/
 mirror.faizuladib.com/
@@ -378,7 +376,6 @@ mirror.yer.az/
 mirror.yuki.net.uk/
 mirror.zetup.net/
 mirror.zzunipark.com/
-mirror1.ku.ac.th/
 mirror1.sox.rs/
 mirror1.totbb.net/
 mirror2.tuxinator.org/
@@ -495,7 +492,6 @@ pkg.adfinis-on-exoscale.ch/
 pkg.adfinis.com/
 plug-mirror.rcac.purdue.edu/
 ports.ubuntu.moon127.net/
-pubmirrors.dal.corespace.com/
 quantum-mirror.hu/
 rep-ubuntu-il.upress.io/
 repo.extreme-ix.org/
