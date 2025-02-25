@@ -5,6 +5,7 @@ archive.ubuntu.com/
 archive.ubuntu.mirror.ba/
 archive.ubuntu.mirror.rafal.ca/
 archive.ubuntu.mirrors.zagrio.net/
+archive.ubuntu.moon127.net/
 archive.ubuntu.nautile.nc/
 archive.ubuntu.petiak.ir/
 archive.ubuntumirror.dei.uc.pt/
