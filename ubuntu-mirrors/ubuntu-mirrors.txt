@@ -501,6 +501,7 @@ repo.ialab.dsu.edu/
 repo.iut.ac.ir/
 repo.jing.rocks/
 repo.jztkft.hu/
+repo.linuxmirrors.ir/
 repo.miserver.it.umich.edu/
 repo.ugm.ac.id/
 repo.usk.ac.id/
@@ -581,6 +582,7 @@ ubuntu.mirrors.ovh.net/
 ubuntu.mirrors.pair.com/
 ubuntu.mirrors.uk2.net/
 ubuntu.mobinhost.com/
+ubuntu.mti.mt.gov.br/
 ubuntu.netforce.hosting/
 ubuntu.org.ua/
 ubuntu.osuosl.org/
