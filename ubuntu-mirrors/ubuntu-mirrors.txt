@@ -120,7 +120,6 @@ lug.mines.edu/
 mir.linux.kg/
 miroir.univ-lorraine.fr/
 mirror-gw.elastis.id/
-mirror-hk.koddos.net/
 mirror-mk.interspace.com/
 mirror.0x.sg/
 mirror.0xem.ma/
@@ -364,7 +363,6 @@ mirror.vietnix.vn/
 mirror.viettelcloud.vn/
 mirror.vinehost.net/
 mirror.virtarix.com/
-mirror.virtury.com/
 mirror.vnet.sk/
 mirror.vorboss.net/
 mirror.vpgrp.io/
@@ -495,6 +493,7 @@ pkg.adfinis-on-exoscale.ch/
 pkg.adfinis.com/
 plug-mirror.rcac.purdue.edu/
 ports.ubuntu.moon127.net/
+pubmirrors.dal.corespace.com/
 quantum-mirror.hu/
 rep-ubuntu-il.upress.io/
 repo.extreme-ix.org/
