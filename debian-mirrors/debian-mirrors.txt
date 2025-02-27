@@ -80,6 +80,7 @@ debian.volia.net/
 debian.web.trex.fi/
 debian.xtdv.net/
 debianmirror.una.ac.cr/
+dennou-k.gfd-dennou.org/
 drmirror.physi.uni-heidelberg.de/
 free.hands.com/
 ftp-stud.hs-esslingen.de/
@@ -138,6 +139,7 @@ ftp.nc.debian.org/
 ftp.nl.debian.org/
 ftp.no.debian.org/
 ftp.nz.debian.org/
+ftp.pl.debian.org/
 ftp.psn.ru/
 ftp.psnc.pl/
 ftp.pt.debian.org/
@@ -149,6 +151,7 @@ ftp.sh.cvut.cz/
 ftp.si.debian.org/
 ftp.sk.debian.org/
 ftp.stw-bonn.de/
+ftp.task.gda.pl/
 ftp.ticklers.org/
 ftp.tku.edu.tw/
 ftp.tr.debian.org/
@@ -338,7 +341,6 @@ mirrors.rackhosting.com/
 mirrors.tuna.tsinghua.edu.cn/
 mirrors.ucr.ac.cr/
 mirrors.upr.edu/
-mirrors.ustc.edu.cn/
 mirrors.vcea.wsu.edu/
 mirrors.wikimedia.org/
 mirrors.xtom.au/
