@@ -299,6 +299,7 @@ mirror.us.mirhosting.net/
 mirror.us.oneandone.net/
 mirror.veesp.com/
 mirror.vinehost.net/
+mirror.vorboss.net/
 mirror.vpgrp.io/
 mirror.vpsnet.com/
 mirror.wtnet.de/
