@@ -333,7 +333,6 @@ mirror.timeweb.ru/
 mirror.timkevin.us/
 mirror.tngnet.com/
 mirror.transip.net/
-mirror.truenetwork.ru/
 mirror.twds.com.tw/
 mirror.ubuntu.ikoula.com/
 mirror.ubuntu.serverforge.org/
@@ -451,7 +450,6 @@ mirrors.ptisp.pt/
 mirrors.rit.edu/
 mirrors.sarak.as/
 mirrors.sdu.edu.cn/
-mirrors.sjtug.sjtu.edu.cn/
 mirrors.sohu.com/
 mirrors.sonic.net/
 mirrors.storpool.com/
