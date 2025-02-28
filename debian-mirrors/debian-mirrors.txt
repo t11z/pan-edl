@@ -120,6 +120,7 @@ ftp.halifax.rwth-aachen.de/
 ftp.hk.debian.org/
 ftp.hosteurope.de/
 ftp.hr.debian.org/
+ftp.icm.edu.pl/
 ftp.is.co.za/
 ftp.is.debian.org/
 ftp.it.debian.org/
@@ -317,6 +318,7 @@ mirrors.bfsu.edu.cn/
 mirrors.bloomu.edu/
 mirrors.bmcc.edu/
 mirrors.cat.pdx.edu/
+mirrors.cloudforest.co.th/
 mirrors.coreix.net/
 mirrors.dotsrc.org/
 mirrors.glesys.net/
