@@ -117,6 +117,7 @@ lug.mines.edu/
 mir.linux.kg/
 miroir.univ-lorraine.fr/
 mirror-gw.elastis.id/
+mirror-hk.koddos.net/
 mirror-mk.interspace.com/
 mirror.0x.sg/
 mirror.0xem.ma/
@@ -360,6 +361,7 @@ mirror.vietnix.vn/
 mirror.viettelcloud.vn/
 mirror.vinehost.net/
 mirror.virtarix.com/
+mirror.virtury.com/
 mirror.vnet.sk/
 mirror.vorboss.net/
 mirror.vpgrp.io/
@@ -607,7 +609,6 @@ ubuntu.vargonen.com/
 ubuntu.volia.net/
 ubuntu.vpsttt.com/
 ubuntu.web.trex.fi/
-ubuntu.zero.com.ar/
 ubuntutym.u-toyama.ac.jp/
 ucho.ignum.cz/
 ucmirror.canterbury.ac.nz/
