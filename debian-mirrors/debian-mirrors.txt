@@ -289,7 +289,6 @@ mirror.siwoo.org/
 mirror.steadfast.net/
 mirror.telepoint.bg/
 mirror.tngnet.com/
-mirror.truenetwork.ru/
 mirror.twds.com.tw/
 mirror.uepg.br/
 mirror.ufro.cl/
