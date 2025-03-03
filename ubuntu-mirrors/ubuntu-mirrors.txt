@@ -25,6 +25,7 @@ deb.campolargo.pr.gov.br/
 debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
 distrohub.kyiv.ua/
+download.nus.edu.sg/
 drmirror.physi.uni-heidelberg.de/
 edgeuno-bog2.mm.fcix.net/
 elmirror.cl/
@@ -191,6 +192,7 @@ mirror.elice.io/
 mirror.eliv.kr/
 mirror.enzu.com/
 mirror.esecuredata.com/
+mirror.eu-fr.kamatera.com/
 mirror.eu-lo.kamatera.com/
 mirror.eu.kamatera.com/
 mirror.faizuladib.com/
@@ -597,7 +599,6 @@ ubuntu.phoenixnap.com/
 ubuntu.pishgaman.net/
 ubuntu.repo.cure.edu.uy/
 ubuntu.securedservers.com/
-ubuntu.shatel.ir/
 ubuntu.syxpi.fr/
 ubuntu.task.gda.pl/
 ubuntu.tegrahost.com/
