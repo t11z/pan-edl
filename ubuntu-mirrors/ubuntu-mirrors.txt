@@ -333,6 +333,7 @@ mirror.timeweb.ru/
 mirror.timkevin.us/
 mirror.tngnet.com/
 mirror.transip.net/
+mirror.truenetwork.ru/
 mirror.twds.com.tw/
 mirror.ubuntu.ikoula.com/
 mirror.ubuntu.serverforge.org/
@@ -604,7 +605,6 @@ ubuntu.uni-klu.ac.at/
 ubuntu.univ-nantes.fr/
 ubuntu.univ-reims.fr/
 ubuntu.uvigo.es/
-ubuntu.vargonen.com/
 ubuntu.volia.net/
 ubuntu.vpsttt.com/
 ubuntu.web.trex.fi/
