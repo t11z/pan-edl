@@ -348,7 +348,6 @@ mirror.ufscar.br/
 mirror.umd.edu/
 mirror.unair.ac.id/
 mirror.unesp.br/
-mirror.unimagdalena.edu.co/
 mirror.united-gameserver.de/
 mirror.unix-solutions.be/
 mirror.uoregon.edu/
@@ -496,7 +495,6 @@ pkg.adfinis-on-exoscale.ch/
 pkg.adfinis.com/
 plug-mirror.rcac.purdue.edu/
 ports.ubuntu.moon127.net/
-pubmirrors.dal.corespace.com/
 quantum-mirror.hu/
 rep-ubuntu-il.upress.io/
 repo.extreme-ix.org/
