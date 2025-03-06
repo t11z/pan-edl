@@ -161,7 +161,6 @@ mirror.citrahost.com/
 mirror.clarkson.edu/
 mirror.clearsky.vn/
 mirror.cloudhosting.lv/
-mirror.cmkl.ac.th/
 mirror.coganng.com/
 mirror.cogentco.com/
 mirror.corbina.net/
@@ -298,6 +297,7 @@ mirror.papua.go.id/
 mirror.pilotfiber.com/
 mirror.pit.teraswitch.com/
 mirror.plusserver.com/
+mirror.poliwangi.ac.id/
 mirror.previder.nl/
 mirror.providence.az/
 mirror.ps.kz/
@@ -585,6 +585,7 @@ ubuntu.mirrors.ovh.net/
 ubuntu.mirrors.pair.com/
 ubuntu.mirrors.uk2.net/
 ubuntu.mobinhost.com/
+ubuntu.mti.mt.gov.br/
 ubuntu.netforce.hosting/
 ubuntu.org.ua/
 ubuntu.osuosl.org/
@@ -606,6 +607,7 @@ ubuntu.uni-klu.ac.at/
 ubuntu.univ-nantes.fr/
 ubuntu.univ-reims.fr/
 ubuntu.uvigo.es/
+ubuntu.vargonen.com/
 ubuntu.volia.net/
 ubuntu.vpsttt.com/
 ubuntu.web.trex.fi/
