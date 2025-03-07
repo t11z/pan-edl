@@ -120,6 +120,7 @@ linux.yz.yamagata-u.ac.jp/
 lug.mines.edu/
 mir.linux.kg/
 miroir.univ-lorraine.fr/
+mirror-gw.elastis.id/
 mirror-hk.koddos.net/
 mirror-mk.interspace.com/
 mirror.0x.sg/
@@ -300,7 +301,6 @@ mirror.pit.teraswitch.com/
 mirror.plusserver.com/
 mirror.poliwangi.ac.id/
 mirror.previder.nl/
-mirror.providence.az/
 mirror.ps.kz/
 mirror.rabisu.com/
 mirror.raiolanetworks.com/
@@ -590,6 +590,7 @@ ubuntu.mirrors.uk2.net/
 ubuntu.mobinhost.com/
 ubuntu.mti.mt.gov.br/
 ubuntu.netforce.hosting/
+ubuntu.ntc.net.np/
 ubuntu.org.ua/
 ubuntu.osuosl.org/
 ubuntu.otenet.gr/
