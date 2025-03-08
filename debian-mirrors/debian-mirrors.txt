@@ -289,6 +289,7 @@ mirror.sitsa.com.ar/
 mirror.siwoo.org/
 mirror.steadfast.net/
 mirror.telepoint.bg/
+mirror.timkevin.us/
 mirror.tngnet.com/
 mirror.truenetwork.ru/
 mirror.twds.com.tw/
