@@ -71,7 +71,6 @@ ftp.rnl.tecnico.ulisboa.pt/
 ftp.rz.tu-bs.de/
 ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
-ftp.sjtu.edu.cn/
 ftp.snt.utwente.nl/
 ftp.stw-bonn.de/
 ftp.tc.edu.tw/
@@ -390,7 +389,6 @@ mirrors-ubuntu.behostings.com/
 mirrors.accretive-networks.net/
 mirrors.advancedhosters.com/
 mirrors.aliyun.com/
-mirrors.arpnetworks.com/
 mirrors.as215248.net/
 mirrors.asnet.am/
 mirrors.atlas.net.co/
@@ -588,7 +586,6 @@ ubuntu.mirrors.ovh.net/
 ubuntu.mirrors.pair.com/
 ubuntu.mirrors.uk2.net/
 ubuntu.mobinhost.com/
-ubuntu.mti.mt.gov.br/
 ubuntu.netforce.hosting/
 ubuntu.ntc.net.np/
 ubuntu.org.ua/
