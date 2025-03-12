@@ -238,6 +238,7 @@ mirror.jeonnam.school/
 mirror.johnnybegood.fr/
 mirror.kakao.com/
 mirror.kamp.de/
+mirror.kapteyan.com.tr/
 mirror.katapult.io/
 mirror.kkg.berlin/
 mirror.kku.ac.th/
@@ -352,6 +353,7 @@ mirror.us.mirhosting.net/
 mirror.vcu.edu/
 mirror.veesp.com/
 mirror.verinomi.com/
+mirror.vietnix.vn/
 mirror.viettelcloud.vn/
 mirror.vinehost.net/
 mirror.virtarix.com/
@@ -573,7 +575,6 @@ ubuntu.mirrors.pair.com/
 ubuntu.mirrors.uk2.net/
 ubuntu.mobinhost.com/
 ubuntu.netforce.hosting/
-ubuntu.ntc.net.np/
 ubuntu.org.ua/
 ubuntu.osuosl.org/
 ubuntu.otenet.gr/
