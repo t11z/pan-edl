@@ -141,6 +141,7 @@ mirror.as29550.net/
 mirror.as43289.net/
 mirror.bacloud.com/
 mirror.bahnhof.net/
+mirror.bg.host.ag/
 mirror.bharatdatacenter.com/
 mirror.bizflycloud.vn/
 mirror.biznetgio.com/
