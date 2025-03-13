@@ -313,7 +313,6 @@ mirror1.infomaniak.com/
 mirror2.infomaniak.com/
 mirrors.163.com/
 mirrors.accretive-networks.net/
-mirrors.advancedhosters.com/
 mirrors.asnet.am/
 mirrors.bfsu.edu.cn/
 mirrors.bloomu.edu/
