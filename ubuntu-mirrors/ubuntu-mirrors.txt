@@ -100,6 +100,7 @@ ftpserv.tudelft.nl/
 giano.com.dist.unige.it/
 glua.ua.pt/
 gpl.savoirfairelinux.net/
+hk.mirrors.thegigabit.com/
 in.mirror.coganng.com/
 ir.ubuntu.sindad.cloud/
 is.mirror.flokinet.net/
@@ -184,7 +185,6 @@ mirror.easyname.at/
 mirror.efect.ro/
 mirror.ekiphost.com/
 mirror.elice.io/
-mirror.eliv.kr/
 mirror.enzu.com/
 mirror.esecuredata.com/
 mirror.eu-fr.kamatera.com/
@@ -245,7 +245,6 @@ mirror.kkg.berlin/
 mirror.kku.ac.th/
 mirror.kumi.systems/
 mirror.leitecastro.com/
-mirror.library.ucy.ac.cy/
 mirror.limda.net/
 mirror.linux-ia64.org/
 mirror.linux.ncsu.edu/
