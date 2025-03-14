@@ -340,6 +340,7 @@ mirror.ufscar.br/
 mirror.umd.edu/
 mirror.unair.ac.id/
 mirror.unesp.br/
+mirror.unimagdalena.edu.co/
 mirror.united-gameserver.de/
 mirror.unix-solutions.be/
 mirror.uoregon.edu/
@@ -446,6 +447,7 @@ mirrors.sdu.edu.cn/
 mirrors.sjtug.sjtu.edu.cn/
 mirrors.sohu.com/
 mirrors.sonic.net/
+mirrors.sth.sze.hu/
 mirrors.storpool.com/
 mirrors.tino.org/
 mirrors.tuna.tsinghua.edu.cn/
@@ -480,6 +482,7 @@ no.mirrors.blix.com/
 nyc.mirrors.clouvider.net/
 opensource.xtdv.net/
 osmirror.rug.nl/
+ossmirror.mycloud.services/
 packages.oth-regensburg.de/
 pkg.adfinis-on-exoscale.ch/
 pkg.adfinis.com/
@@ -573,6 +576,7 @@ ubuntu.mirrors.pair.com/
 ubuntu.mirrors.uk2.net/
 ubuntu.mobinhost.com/
 ubuntu.netforce.hosting/
+ubuntu.ntc.net.np/
 ubuntu.org.ua/
 ubuntu.osuosl.org/
 ubuntu.otenet.gr/
