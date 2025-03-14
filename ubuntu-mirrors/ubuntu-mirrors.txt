@@ -6,7 +6,6 @@ archive.ubuntu.com/
 archive.ubuntu.mirror.ba/
 archive.ubuntu.mirror.rafal.ca/
 archive.ubuntu.mirrors.zagrio.net/
-archive.ubuntu.moon127.net/
 archive.ubuntu.nautile.nc/
 archive.ubuntu.petiak.ir/
 archive.ubuntumirror.dei.uc.pt/
@@ -261,6 +260,7 @@ mirror.mrjester.net/
 mirror.mythic-beasts.com/
 mirror.neftm.ru/
 mirror.neolabs.kz/
+mirror.nerdmilio.com/
 mirror.netcologne.de/
 mirror.netsite.dk/
 mirror.netspace.net.au/
@@ -289,6 +289,7 @@ mirror.pilotfiber.com/
 mirror.pit.teraswitch.com/
 mirror.plusserver.com/
 mirror.previder.nl/
+mirror.providence.az/
 mirror.ps.kz/
 mirror.rabisu.com/
 mirror.raiolanetworks.com/
@@ -354,6 +355,7 @@ mirror.vietnix.vn/
 mirror.viettelcloud.vn/
 mirror.vinehost.net/
 mirror.virtarix.com/
+mirror.virtury.com/
 mirror.vnet.sk/
 mirror.vorboss.net/
 mirror.vpgrp.io/
