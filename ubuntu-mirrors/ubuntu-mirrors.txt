@@ -20,6 +20,7 @@ dafi.inf.um.es/
 dal.mirrors.clouvider.net/
 dal.mirrors.serverside.com/
 de.mirrors.clouvider.net/
+deb-mirror.habari.co.tz/
 deb.campolargo.pr.gov.br/
 debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
@@ -164,6 +165,7 @@ mirror.cov.ukservers.com/
 mirror.creoline.net/
 mirror.cs.jmu.edu/
 mirror.csclub.uwaterloo.ca/
+mirror.cse.iitk.ac.in/
 mirror.d.umn.edu/
 mirror.dal.nexril.net/
 mirror.daniel-jost.net/
@@ -249,7 +251,6 @@ mirror.linux.ncsu.edu/
 mirror.liquidrp.de/
 mirror.logol.ru/
 mirror.lstn.net/
-mirror.lyrahosting.com/
 mirror.marwan.ma/
 mirror.math.princeton.edu/
 mirror.math.ucdavis.edu/
@@ -492,6 +493,7 @@ plug-mirror.rcac.purdue.edu/
 ports.ubuntu.moon127.net/
 pubmirrors.dal.corespace.com/
 quantum-mirror.hu/
+rep-ubuntu-il.upress.io/
 repo.extreme-ix.org/
 repo.huaweicloud.com/
 repo.ialab.dsu.edu/
