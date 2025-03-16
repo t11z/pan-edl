@@ -345,7 +345,6 @@ mirror.ufscar.br/
 mirror.umd.edu/
 mirror.unair.ac.id/
 mirror.unesp.br/
-mirror.unimagdalena.edu.co/
 mirror.united-gameserver.de/
 mirror.unix-solutions.be/
 mirror.uoregon.edu/
@@ -488,7 +487,6 @@ no.mirrors.blix.com/
 nyc.mirrors.clouvider.net/
 opensource.xtdv.net/
 osmirror.rug.nl/
-ossmirror.mycloud.services/
 packages.oth-regensburg.de/
 pkg.adfinis-on-exoscale.ch/
 pkg.adfinis.com/
