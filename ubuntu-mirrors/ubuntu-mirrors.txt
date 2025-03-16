@@ -25,6 +25,7 @@ deb.campolargo.pr.gov.br/
 debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
 distrohub.kyiv.ua/
+download.nus.edu.sg/
 download.nust.na/
 drmirror.physi.uni-heidelberg.de/
 edgeuno-bog2.mm.fcix.net/
@@ -108,6 +109,7 @@ it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
 jp.mirror.coganng.com/
 kambing.uu.sg/
+kartolo.sby.datautama.net.id/
 kebo.pens.ac.id/
 kebo.vlsm.org/
 kozyatagi.mirror.guzel.net.tr/
@@ -248,6 +250,7 @@ mirror.kkg.berlin/
 mirror.kku.ac.th/
 mirror.kumi.systems/
 mirror.leitecastro.com/
+mirror.library.ucy.ac.cy/
 mirror.limda.net/
 mirror.linux-ia64.org/
 mirror.linux.ncsu.edu/
@@ -376,6 +379,7 @@ mirror.yuki.net.uk/
 mirror.zetup.net/
 mirror.zzunipark.com/
 mirror1.grupocg.cl/
+mirror1.ku.ac.th/
 mirror1.sox.rs/
 mirror1.totbb.net/
 mirror2.tuxinator.org/
@@ -585,6 +589,7 @@ ubuntu.mirrors.ovh.net/
 ubuntu.mirrors.pair.com/
 ubuntu.mirrors.uk2.net/
 ubuntu.mobinhost.com/
+ubuntu.mti.mt.gov.br/
 ubuntu.netforce.hosting/
 ubuntu.ntc.net.np/
 ubuntu.org.ua/
