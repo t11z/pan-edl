@@ -120,6 +120,7 @@ linux.yz.yamagata-u.ac.jp/
 lug.mines.edu/
 miroir.univ-lorraine.fr/
 mirror-gw.elastis.id/
+mirror-hk.koddos.net/
 mirror-mk.interspace.com/
 mirror.0x.sg/
 mirror.0xem.ma/
@@ -268,7 +269,6 @@ mirror.mrjester.net/
 mirror.mythic-beasts.com/
 mirror.neftm.ru/
 mirror.neolabs.kz/
-mirror.nerdmilio.com/
 mirror.netcologne.de/
 mirror.netsite.dk/
 mirror.netspace.net.au/
@@ -298,7 +298,6 @@ mirror.pit.teraswitch.com/
 mirror.plusserver.com/
 mirror.poliwangi.ac.id/
 mirror.previder.nl/
-mirror.providence.az/
 mirror.ps.kz/
 mirror.rabisu.com/
 mirror.raiolanetworks.com/
@@ -364,7 +363,6 @@ mirror.verinomi.com/
 mirror.viettelcloud.vn/
 mirror.vinehost.net/
 mirror.virtarix.com/
-mirror.virtury.com/
 mirror.vnet.sk/
 mirror.vorboss.net/
 mirror.vpgrp.io/
