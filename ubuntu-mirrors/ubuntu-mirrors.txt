@@ -2,6 +2,7 @@
 arch.fuckdmca.cc/
 archive.g4t1.pro/
 archive.linux.duke.edu/
+archive.todayvisionbd.com/
 archive.ubuntu.com/
 archive.ubuntu.mirror.ba/
 archive.ubuntu.mirror.rafal.ca/
@@ -158,6 +159,7 @@ mirror.chmuri.net/
 mirror.citrahost.com/
 mirror.clarkson.edu/
 mirror.clearsky.vn/
+mirror.clientvps.com/
 mirror.cloudhosting.lv/
 mirror.cmkl.ac.th/
 mirror.coganng.com/
@@ -167,7 +169,6 @@ mirror.cov.ukservers.com/
 mirror.creoline.net/
 mirror.cs.jmu.edu/
 mirror.csclub.uwaterloo.ca/
-mirror.cse.iitk.ac.in/
 mirror.d.umn.edu/
 mirror.dal.nexril.net/
 mirror.daniel-jost.net/
@@ -256,6 +257,7 @@ mirror.linux.ncsu.edu/
 mirror.liquidrp.de/
 mirror.logol.ru/
 mirror.lstn.net/
+mirror.lyrahosting.com/
 mirror.marwan.ma/
 mirror.math.princeton.edu/
 mirror.math.ucdavis.edu/
@@ -326,6 +328,7 @@ mirror.t-home.mk/
 mirror.team-cymru.com/
 mirror.team-cymru.org/
 mirror.team-host.ru/
+mirror.techlabs.co.kr/
 mirror.telepoint.bg/
 mirror.thaidns.co.th/
 mirror.thunderhosting.cloud/
@@ -491,7 +494,6 @@ pkg.adfinis-on-exoscale.ch/
 pkg.adfinis.com/
 plug-mirror.rcac.purdue.edu/
 ports.ubuntu.moon127.net/
-pubmirrors.dal.corespace.com/
 quantum-mirror.hu/
 rep-ubuntu-il.upress.io/
 repo.extreme-ix.org/
@@ -527,7 +529,9 @@ ubuntu-arch.linux.edu.lv/
 ubuntu-archive.interhost.co.il/
 ubuntu-archive.locaweb.com.br/
 ubuntu-archive.mirror.serveriai.lt/
+ubuntu-mirror.bhtelecom.ba/
 ubuntu-mirror.cloud.mu/
+ubuntu-mirror.puq.apoapsis.cl/
 ubuntu.anexia.at/
 ubuntu.bardia.tech/
 ubuntu.btit.nz/
