@@ -249,7 +249,6 @@ mirror.kpfu.ru/
 mirror.lagoon.nc/
 mirror.lchost.net/
 mirror.leitecastro.com/
-mirror.limda.net/
 mirror.linux.org.au/
 mirror.linux.ro/
 mirror.litnet.lt/
@@ -279,7 +278,6 @@ mirror.ps.kz/
 mirror.raiolanetworks.com/
 mirror.realcompute.io/
 mirror.rustytel.net/
-mirror.sg.gs/
 mirror.siena.edu/
 mirror.sinavps.ch/
 mirror.sitsa.com.ar/
