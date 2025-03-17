@@ -81,7 +81,6 @@ debian.volia.net/
 debian.web.trex.fi/
 debian.xtdv.net/
 debianmirror.una.ac.cr/
-dennou-k.gfd-dennou.org/
 drmirror.physi.uni-heidelberg.de/
 free.hands.com/
 ftp-stud.hs-esslingen.de/
@@ -268,7 +267,6 @@ mirror.nl.datapacket.com/
 mirror.nl.leaseweb.net/
 mirror.nl.mirhosting.net/
 mirror.one.com/
-mirror.onevip.mk/
 mirror.ourhost.az/
 mirror.overthewire.com.au/
 mirror.ox.ac.uk/
