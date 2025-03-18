@@ -80,6 +80,7 @@ ftp.tu-chemnitz.de/
 ftp.tu-ilmenau.de/
 ftp.tudelft.nl/
 ftp.tw.debian.org/
+ftp.u-picardie.fr/
 ftp.ubuntu-tw.net/
 ftp.ubuntu-tw.org/
 ftp.udc.es/
@@ -483,6 +484,7 @@ no.mirrors.blix.com/
 nyc.mirrors.clouvider.net/
 opensource.xtdv.net/
 osmirror.rug.nl/
+ossmirror.mycloud.services/
 packages.oth-regensburg.de/
 pkg.adfinis-on-exoscale.ch/
 pkg.adfinis.com/
