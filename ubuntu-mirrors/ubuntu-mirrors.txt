@@ -1,5 +1,4 @@
 *.archive.ubuntu.com/
-arch.fuckdmca.cc/
 archive.g4t1.pro/
 archive.linux.duke.edu/
 archive.todayvisionbd.com/
@@ -537,6 +536,7 @@ ubuntu.ccns.ncku.edu.tw/
 ubuntu.cica.es/
 ubuntu.cs.nctu.edu.tw/
 ubuntu.cs.utah.edu/
+ubuntu.dts.mg/
 ubuntu.ethz.ch/
 ubuntu.grad.hr/
 ubuntu.grena.ge/
