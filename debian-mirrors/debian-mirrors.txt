@@ -197,7 +197,6 @@ mirror.aarnet.edu.au/
 mirror.alwyzon.net/
 mirror.amaze.com.au/
 mirror.aminidc.com/
-mirror.ams.macarne.com/
 mirror.applebred.net/
 mirror.as35701.net/
 mirror.as43289.net/
@@ -320,7 +319,6 @@ mirrors.dotsrc.org/
 mirrors.glesys.net/
 mirrors.hosterion.ro/
 mirrors.hostico.ro/
-mirrors.hostiserver.com/
 mirrors.ic.unicamp.br/
 mirrors.iitd.ac.in/
 mirrors.ircam.fr/
