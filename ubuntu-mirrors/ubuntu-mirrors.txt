@@ -164,6 +164,7 @@ mirror.cov.ukservers.com/
 mirror.creoline.net/
 mirror.cs.jmu.edu/
 mirror.csclub.uwaterloo.ca/
+mirror.cse.iitk.ac.in/
 mirror.d.umn.edu/
 mirror.dal.nexril.net/
 mirror.daniel-jost.net/
@@ -251,7 +252,6 @@ mirror.linux.ncsu.edu/
 mirror.liquidrp.de/
 mirror.logol.ru/
 mirror.lstn.net/
-mirror.lyrahosting.com/
 mirror.marwan.ma/
 mirror.math.princeton.edu/
 mirror.math.ucdavis.edu/
@@ -495,6 +495,7 @@ rep-ubuntu-il.upress.io/
 repo.extreme-ix.org/
 repo.huaweicloud.com/
 repo.ialab.dsu.edu/
+repo.iut.ac.ir/
 repo.jing.rocks/
 repo.jztkft.hu/
 repo.linuxmirrors.ir/
@@ -592,7 +593,6 @@ ubuntu.phoenixnap.com/
 ubuntu.pishgaman.net/
 ubuntu.repo.cure.edu.uy/
 ubuntu.securedservers.com/
-ubuntu.syxpi.fr/
 ubuntu.task.gda.pl/
 ubuntu.tegrahost.com/
 ubuntu.tuxuri.com/
