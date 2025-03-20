@@ -20,7 +20,6 @@ dafi.inf.um.es/
 dal.mirrors.clouvider.net/
 dal.mirrors.serverside.com/
 de.mirrors.clouvider.net/
-deb-mirror.habari.co.tz/
 deb.campolargo.pr.gov.br/
 debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
@@ -316,7 +315,6 @@ mirror.sitsa.com.ar/
 mirror.siwoo.org/
 mirror.solnet.ch/
 mirror.soonkeat.sg/
-mirror.steadfastnet.com/
 mirror.t-home.mk/
 mirror.team-cymru.com/
 mirror.team-cymru.org/
@@ -377,7 +375,6 @@ mirror1.totbb.net/
 mirror2.tuxinator.org/
 mirrors-ubuntu.behostings.com/
 mirrors.accretive-networks.net/
-mirrors.advancedhosters.com/
 mirrors.aliyun.com/
 mirrors.arpnetworks.com/
 mirrors.as215248.net/
