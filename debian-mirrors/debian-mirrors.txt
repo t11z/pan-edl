@@ -264,6 +264,7 @@ mirror.nl.cdn-perfprod.com/
 mirror.nl.datapacket.com/
 mirror.nl.leaseweb.net/
 mirror.nl.mirhosting.net/
+mirror.nyist.edu.cn/
 mirror.one.com/
 mirror.ourhost.az/
 mirror.overthewire.com.au/
@@ -345,6 +346,7 @@ mirrors.xtom.au/
 mirrors.xtom.com/
 mirrors.xtom.de/
 mirrors.xtom.ee/
+mirrors.xtom.jp/
 mirrors.xtom.nl/
 mirrors.zju.edu.cn/
 mirrorservice.org/
