@@ -172,7 +172,6 @@ mirror.dal.nexril.net/
 mirror.daniel-jost.net/
 mirror.datacenter.az/
 mirror.datacenter.by/
-mirror.datacenter.mn/
 mirror.datamossa.io/
 mirror.de.leaseweb.net/
 mirror.deace.id/
@@ -284,6 +283,7 @@ mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
 mirror.nyist.edu.cn/
 mirror.one.com/
+mirror.onevip.mk/
 mirror.ossplanet.net/
 mirror.ourhost.az/
 mirror.overthewire.com.au/
@@ -375,6 +375,7 @@ mirror.yuki.net.uk/
 mirror.zetup.net/
 mirror.zzunipark.com/
 mirror1.grupocg.cl/
+mirror1.ku.ac.th/
 mirror1.sox.rs/
 mirror1.totbb.net/
 mirror2.tuxinator.org/
@@ -584,6 +585,7 @@ ubuntu.mirrors.ovh.net/
 ubuntu.mirrors.pair.com/
 ubuntu.mirrors.uk2.net/
 ubuntu.mobinhost.com/
+ubuntu.mti.mt.gov.br/
 ubuntu.netforce.hosting/
 ubuntu.ntc.net.np/
 ubuntu.org.ua/
