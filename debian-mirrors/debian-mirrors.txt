@@ -282,7 +282,6 @@ mirror.siena.edu/
 mirror.sinavps.ch/
 mirror.sitsa.com.ar/
 mirror.siwoo.org/
-mirror.steadfast.net/
 mirror.telepoint.bg/
 mirror.timkevin.us/
 mirror.tngnet.com/
