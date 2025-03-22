@@ -64,6 +64,7 @@ ftp.mirror.tw/
 ftp.mirrorservice.org/
 ftp.muug.ca/
 ftp.nluug.nl/
+ftp.ntua.gr/
 ftp.otenet.gr/
 ftp.psnc.pl/
 ftp.riken.jp/
@@ -190,7 +191,6 @@ mirror.esecuredata.com/
 mirror.eu-fr.kamatera.com/
 mirror.eu-lo.kamatera.com/
 mirror.eu.kamatera.com/
-mirror.faizuladib.com/
 mirror.faraso.org/
 mirror.fcix.net/
 mirror.fi.ossplanet.net/
@@ -337,7 +337,6 @@ mirror.uchile.cl/
 mirror.uepg.br/
 mirror.ufam.edu.br/
 mirror.ufro.cl/
-mirror.ufscar.br/
 mirror.umd.edu/
 mirror.unair.ac.id/
 mirror.unesp.br/
@@ -591,13 +590,13 @@ ubuntu.phoenixnap.com/
 ubuntu.pishgaman.net/
 ubuntu.repo.cure.edu.uy/
 ubuntu.securedservers.com/
+ubuntu.syxpi.fr/
 ubuntu.task.gda.pl/
 ubuntu.tegrahost.com/
 ubuntu.tuxuri.com/
 ubuntu.ucr.ac.cr/
 ubuntu.uib.no/
 ubuntu.unc.edu.ar/
-ubuntu.uni-klu.ac.at/
 ubuntu.univ-nantes.fr/
 ubuntu.univ-reims.fr/
 ubuntu.uvigo.es/
