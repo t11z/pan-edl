@@ -54,6 +54,7 @@ ftp.icm.edu.pl/
 ftp.iinet.net.au/
 ftp.iitm.ac.in/
 ftp.jaist.ac.jp/
+ftp.kddilabs.jp/
 ftp.klid.dk/
 ftp.lanet.kr/
 ftp.linux.cz/
@@ -495,7 +496,6 @@ repo.huaweicloud.com/
 repo.ialab.dsu.edu/
 repo.iut.ac.ir/
 repo.jing.rocks/
-repo.jztkft.hu/
 repo.linuxmirrors.ir/
 repo.miserver.it.umich.edu/
 repo.ugm.ac.id/
@@ -505,6 +505,7 @@ repos.eggycrew.com/
 repos.interior.edu.uy/
 rsync.gtlib.gatech.edu/
 rsync.icm.edu.pl/
+rsync.kddilabs.jp/
 rsync.mirrors.ustc.edu.cn/
 rsync.mirrorservice.org/
 rsync.ubuntu.nautile.nc/
@@ -559,7 +560,6 @@ ubuntu.mirror.garr.it/
 ubuntu.mirror.globo.tech/
 ubuntu.mirror.gnc.am/
 ubuntu.mirror.intermax.nl/
-ubuntu.mirror.jahanserver.com/
 ubuntu.mirror.letscloud.io/
 ubuntu.mirror.linux.ro/
 ubuntu.mirror.lrz.de/
@@ -610,5 +610,6 @@ uk.mirrors.clouvider.net/
 vn-mirrors.vhost.vn/
 www-ftp.lip6.fr/
 www.club.cc.cmu.edu/
+www.ftp.ne.jp/
 www.gtlib.gatech.edu/
 www.mirrorservice.org/
