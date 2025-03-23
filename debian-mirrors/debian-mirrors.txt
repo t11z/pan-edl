@@ -11,7 +11,6 @@ debian-mirror.sakura.ne.jp/
 debian.a1.bg/
 debian.anexia.at/
 debian.apt-mirror.de/
-debian.balt.net/
 debian.c3sl.ufpr.br/
 debian.carnet.hr/
 debian.cc.lehigh.edu/
