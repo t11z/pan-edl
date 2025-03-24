@@ -306,7 +306,6 @@ mirror.rcg.sfu.ca/
 mirror.realcompute.io/
 mirror.reenigne.net/
 mirror.renu.ac.ug/
-mirror.repository.id/
 mirror.retentionrange.co.bw/
 mirror.rise.ph/
 mirror.root.lu/
@@ -505,6 +504,7 @@ repo.huaweicloud.com/
 repo.ialab.dsu.edu/
 repo.iut.ac.ir/
 repo.jing.rocks/
+repo.jztkft.hu/
 repo.linuxmirrors.ir/
 repo.miserver.it.umich.edu/
 repo.ugm.ac.id/
