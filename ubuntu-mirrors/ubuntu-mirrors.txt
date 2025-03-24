@@ -66,7 +66,6 @@ ftp.mirror.tw/
 ftp.mirrorservice.org/
 ftp.muug.ca/
 ftp.nluug.nl/
-ftp.ntua.gr/
 ftp.otenet.gr/
 ftp.psnc.pl/
 ftp.riken.jp/
@@ -343,6 +342,7 @@ mirror.uchile.cl/
 mirror.uepg.br/
 mirror.ufam.edu.br/
 mirror.ufro.cl/
+mirror.ufscar.br/
 mirror.umd.edu/
 mirror.unair.ac.id/
 mirror.unesp.br/
