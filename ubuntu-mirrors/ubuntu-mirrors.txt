@@ -1,5 +1,4 @@
 *.archive.ubuntu.com/
-arch.fuckdmca.cc/
 archive.g4t1.pro/
 archive.linux.duke.edu/
 archive.todayvisionbd.com/
@@ -66,6 +65,7 @@ ftp.mirror.tw/
 ftp.mirrorservice.org/
 ftp.muug.ca/
 ftp.nluug.nl/
+ftp.ntua.gr/
 ftp.otenet.gr/
 ftp.psnc.pl/
 ftp.riken.jp/
@@ -102,6 +102,7 @@ ftpserv.tudelft.nl/
 giano.com.dist.unige.it/
 glua.ua.pt/
 gpl.savoirfairelinux.net/
+hk.mirrors.thegigabit.com/
 in.mirror.coganng.com/
 ir.ubuntu.sindad.cloud/
 is.mirror.flokinet.net/
@@ -193,6 +194,7 @@ mirror.elice.io/
 mirror.eliv.kr/
 mirror.enzu.com/
 mirror.esecuredata.com/
+mirror.espol.edu.ec/
 mirror.eu-fr.kamatera.com/
 mirror.eu-lo.kamatera.com/
 mirror.eu.kamatera.com/
@@ -342,7 +344,6 @@ mirror.uchile.cl/
 mirror.uepg.br/
 mirror.ufam.edu.br/
 mirror.ufro.cl/
-mirror.ufscar.br/
 mirror.umd.edu/
 mirror.unair.ac.id/
 mirror.unesp.br/
@@ -541,7 +542,6 @@ ubuntu.ccns.ncku.edu.tw/
 ubuntu.cica.es/
 ubuntu.cs.nctu.edu.tw/
 ubuntu.cs.utah.edu/
-ubuntu.dts.mg/
 ubuntu.ethz.ch/
 ubuntu.grad.hr/
 ubuntu.grena.ge/
