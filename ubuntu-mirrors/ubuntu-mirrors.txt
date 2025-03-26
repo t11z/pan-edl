@@ -27,7 +27,6 @@ debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
 distrohub.kyiv.ua/
 download.nus.edu.sg/
-download.nust.na/
 drmirror.physi.uni-heidelberg.de/
 edgeuno-bog2.mm.fcix.net/
 elmirror.cl/
@@ -180,6 +179,7 @@ mirror.daniel-jost.net/
 mirror.datacenter.az/
 mirror.datacenter.by/
 mirror.datamossa.io/
+mirror.dc.uz/
 mirror.de.leaseweb.net/
 mirror.deace.id/
 mirror.digitaloceans.dev/
@@ -308,6 +308,7 @@ mirror.rcg.sfu.ca/
 mirror.realcompute.io/
 mirror.reenigne.net/
 mirror.renu.ac.ug/
+mirror.repository.id/
 mirror.retentionrange.co.bw/
 mirror.rise.ph/
 mirror.root.lu/
@@ -566,7 +567,6 @@ ubuntu.mirror.digitalpacific.com.au/
 ubuntu.mirror.frontiernet.net/
 ubuntu.mirror.garr.it/
 ubuntu.mirror.globo.tech/
-ubuntu.mirror.gnc.am/
 ubuntu.mirror.intermax.nl/
 ubuntu.mirror.letscloud.io/
 ubuntu.mirror.linux.ro/
