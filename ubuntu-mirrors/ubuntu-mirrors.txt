@@ -309,7 +309,6 @@ mirror.realcompute.io/
 mirror.reenigne.net/
 mirror.renu.ac.ug/
 mirror.repository.id/
-mirror.retentionrange.co.bw/
 mirror.rise.ph/
 mirror.root.lu/
 mirror.rustytel.net/
@@ -350,7 +349,6 @@ mirror.ufro.cl/
 mirror.umd.edu/
 mirror.unair.ac.id/
 mirror.unesp.br/
-mirror.unimagdalena.edu.co/
 mirror.united-gameserver.de/
 mirror.unix-solutions.be/
 mirror.uoregon.edu/
@@ -443,6 +441,7 @@ mirrors.netix.net/
 mirrors.neusoft.edu.cn/
 mirrors.nhanhoa.com/
 mirrors.nic.funet.fi/
+mirrors.nivacloud.net/
 mirrors.njupt.edu.cn/
 mirrors.nxtgen.com/
 mirrors.nxthost.com/
