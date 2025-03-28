@@ -284,7 +284,6 @@ mirror.timkevin.us/
 mirror.tngnet.com/
 mirror.truenetwork.ru/
 mirror.twds.com.tw/
-mirror.uepg.br/
 mirror.ufro.cl/
 mirror.ukrnames.com/
 mirror.united-gameserver.de/
