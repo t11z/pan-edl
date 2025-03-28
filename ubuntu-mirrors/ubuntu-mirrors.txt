@@ -199,6 +199,7 @@ mirror.espol.edu.ec/
 mirror.eu-fr.kamatera.com/
 mirror.eu-lo.kamatera.com/
 mirror.eu.kamatera.com/
+mirror.faizuladib.com/
 mirror.faraso.org/
 mirror.fcix.net/
 mirror.fi.ossplanet.net/
@@ -458,6 +459,7 @@ mirrors.sdu.edu.cn/
 mirrors.sjtug.sjtu.edu.cn/
 mirrors.sohu.com/
 mirrors.sonic.net/
+mirrors.sth.sze.hu/
 mirrors.storpool.com/
 mirrors.tino.org/
 mirrors.tuna.tsinghua.edu.cn/
