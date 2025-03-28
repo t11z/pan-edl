@@ -59,6 +59,7 @@ ftp.linux.cz/
 ftp.linux.ro/
 ftp.lip6.fr/
 ftp.litnet.lt/
+ftp.ludd.ltu.se/
 ftp.lysator.liu.se/
 ftp.mirror.tw/
 ftp.mirrorservice.org/
@@ -301,7 +302,6 @@ mirror.pit.teraswitch.com/
 mirror.plusserver.com/
 mirror.poliwangi.ac.id/
 mirror.previder.nl/
-mirror.providence.az/
 mirror.ps.kz/
 mirror.rabisu.com/
 mirror.raiolanetworks.com/
