@@ -26,7 +26,6 @@ deb.campolargo.pr.gov.br/
 debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
 distrohub.kyiv.ua/
-download.nus.edu.sg/
 download.nust.na/
 drmirror.physi.uni-heidelberg.de/
 edgeuno-bog2.mm.fcix.net/
@@ -106,6 +105,7 @@ glua.ua.pt/
 gpl.savoirfairelinux.net/
 hk.mirrors.thegigabit.com/
 in.mirror.coganng.com/
+ir.ubuntu.sindad.cloud/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
@@ -392,7 +392,6 @@ mirror2.tuxinator.org/
 mirrors-ubuntu.behostings.com/
 mirrors.accretive-networks.net/
 mirrors.aliyun.com/
-mirrors.arpnetworks.com/
 mirrors.as215248.net/
 mirrors.asnet.am/
 mirrors.atlas.net.co/
@@ -596,7 +595,6 @@ ubuntu.mirrors.pair.com/
 ubuntu.mirrors.uk2.net/
 ubuntu.mobinhost.com/
 ubuntu.netforce.hosting/
-ubuntu.ntc.net.np/
 ubuntu.org.ua/
 ubuntu.osuosl.org/
 ubuntu.otenet.gr/
