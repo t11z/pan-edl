@@ -270,7 +270,6 @@ mirror.metrocast.net/
 mirror.mia.velocihost.net/
 mirror.mirohost.net/
 mirror.morgan.kr/
-mirror.mrjester.net/
 mirror.mythic-beasts.com/
 mirror.neftm.ru/
 mirror.neolabs.kz/
@@ -590,6 +589,7 @@ ubuntu.mirrors.ovh.net/
 ubuntu.mirrors.pair.com/
 ubuntu.mirrors.uk2.net/
 ubuntu.mobinhost.com/
+ubuntu.mti.mt.gov.br/
 ubuntu.netforce.hosting/
 ubuntu.org.ua/
 ubuntu.osuosl.org/
