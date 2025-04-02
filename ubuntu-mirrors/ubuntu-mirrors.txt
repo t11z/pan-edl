@@ -544,6 +544,7 @@ ubuntu.anexia.at/
 ubuntu.bardia.tech/
 ubuntu.btit.nz/
 ubuntu.c3sl.ufpr.br/
+ubuntu.ccns.ncku.edu.tw/
 ubuntu.cica.es/
 ubuntu.cs.nctu.edu.tw/
 ubuntu.cs.utah.edu/
