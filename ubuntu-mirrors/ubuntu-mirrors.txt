@@ -206,6 +206,7 @@ mirror.flokinet.net/
 mirror.freethought-internet.co.uk/
 mirror.fsmg.org.nz/
 mirror.funkfreundelandshut.de/
+mirror.geekonweb.fr/
 mirror.gi.co.id/
 mirror.gofoss.xyz/
 mirror.gotmyhost.com/
@@ -267,7 +268,6 @@ mirror.math.ucdavis.edu/
 mirror.metrocast.net/
 mirror.mia.velocihost.net/
 mirror.mirohost.net/
-mirror.morgan.kr/
 mirror.mrjester.net/
 mirror.mythic-beasts.com/
 mirror.neftm.ru/
@@ -599,7 +599,6 @@ ubuntu.phoenixnap.com/
 ubuntu.pishgaman.net/
 ubuntu.repo.cure.edu.uy/
 ubuntu.securedservers.com/
-ubuntu.syxpi.fr/
 ubuntu.task.gda.pl/
 ubuntu.tegrahost.com/
 ubuntu.tuxuri.com/
