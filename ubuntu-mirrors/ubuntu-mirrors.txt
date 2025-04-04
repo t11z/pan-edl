@@ -284,6 +284,7 @@ mirror.nishi.network/
 mirror.nitc.ac.in/
 mirror.nju.edu.cn/
 mirror.nl.altushost.com/
+mirror.nl.as215296.net/
 mirror.nl.datapacket.com/
 mirror.nl.leaseweb.net/
 mirror.nl.mirhosting.net/
@@ -308,7 +309,6 @@ mirror.realcompute.io/
 mirror.reenigne.net/
 mirror.renu.ac.ug/
 mirror.repository.id/
-mirror.retentionrange.co.bw/
 mirror.rise.ph/
 mirror.root.lu/
 mirror.rustytel.net/
@@ -346,6 +346,7 @@ mirror.uchile.cl/
 mirror.uepg.br/
 mirror.ufam.edu.br/
 mirror.ufro.cl/
+mirror.ufscar.br/
 mirror.umd.edu/
 mirror.unair.ac.id/
 mirror.unesp.br/
