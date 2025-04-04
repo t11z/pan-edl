@@ -198,7 +198,6 @@ mirror.bgp.rodeo/
 mirror.bizflycloud.vn/
 mirror.blue3.com.br/
 mirror.braindrainlan.nu/
-mirror.clarkson.edu/
 mirror.cloudhosting.lv/
 mirror.coganng.com/
 mirror.cogentco.com/
