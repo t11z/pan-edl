@@ -498,6 +498,7 @@ pkg.adfinis-on-exoscale.ch/
 pkg.adfinis.com/
 plug-mirror.rcac.purdue.edu/
 ports.ubuntu.moon127.net/
+pubmirrors.dal.corespace.com/
 quantum-mirror.hu/
 rep-ubuntu-il.upress.io/
 repo.extreme-ix.org/
@@ -511,7 +512,6 @@ repo.miserver.it.umich.edu/
 repo.ugm.ac.id/
 repo.usk.ac.id/
 repos.del.extreme-ix.org/
-repos.eggycrew.com/
 repos.interior.edu.uy/
 rsync.gtlib.gatech.edu/
 rsync.icm.edu.pl/
