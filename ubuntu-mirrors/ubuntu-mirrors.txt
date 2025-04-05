@@ -599,6 +599,7 @@ ubuntu.phoenixnap.com/
 ubuntu.pishgaman.net/
 ubuntu.repo.cure.edu.uy/
 ubuntu.securedservers.com/
+ubuntu.syxpi.fr/
 ubuntu.task.gda.pl/
 ubuntu.tegrahost.com/
 ubuntu.tuxuri.com/
