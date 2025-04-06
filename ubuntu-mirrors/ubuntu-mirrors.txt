@@ -24,6 +24,7 @@ deb.campolargo.pr.gov.br/
 debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
 distrohub.kyiv.ua/
+download.nust.na/
 drmirror.physi.uni-heidelberg.de/
 edgeuno-bog2.mm.fcix.net/
 elmirror.cl/
@@ -363,6 +364,7 @@ mirror.us.leaseweb.net/
 mirror.vcu.edu/
 mirror.veesp.com/
 mirror.verinomi.com/
+mirror.vietnix.vn/
 mirror.viettelcloud.vn/
 mirror.vinehost.net/
 mirror.virtarix.com/
