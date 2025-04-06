@@ -24,6 +24,7 @@ deb.campolargo.pr.gov.br/
 debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
 distrohub.kyiv.ua/
+download.nus.edu.sg/
 download.nust.na/
 drmirror.physi.uni-heidelberg.de/
 edgeuno-bog2.mm.fcix.net/
@@ -311,6 +312,7 @@ mirror.realcompute.io/
 mirror.reenigne.net/
 mirror.renu.ac.ug/
 mirror.repository.id/
+mirror.retentionrange.co.bw/
 mirror.rise.ph/
 mirror.root.lu/
 mirror.rustytel.net/
