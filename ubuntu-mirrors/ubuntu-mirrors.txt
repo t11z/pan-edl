@@ -104,6 +104,7 @@ glua.ua.pt/
 gpl.savoirfairelinux.net/
 hk.mirrors.thegigabit.com/
 in.mirror.coganng.com/
+ir.archive.ubuntu.com/
 ir.ubuntu.sindad.cloud/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
@@ -600,7 +601,6 @@ ubuntu.repo.cure.edu.uy/
 ubuntu.securedservers.com/
 ubuntu.syxpi.fr/
 ubuntu.task.gda.pl/
-ubuntu.tegrahost.com/
 ubuntu.tuxuri.com/
 ubuntu.ucr.ac.cr/
 ubuntu.uib.no/
