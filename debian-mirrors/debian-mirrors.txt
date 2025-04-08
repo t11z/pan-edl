@@ -333,7 +333,6 @@ mirrors.powernet.com.ru/
 mirrors.ptisp.pt/
 mirrors.rackhosting.com/
 mirrors.tuna.tsinghua.edu.cn/
-mirrors.ucr.ac.cr/
 mirrors.upr.edu/
 mirrors.vcea.wsu.edu/
 mirrors.wikimedia.org/
