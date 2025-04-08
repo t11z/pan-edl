@@ -219,6 +219,7 @@ mirror.dst.ca/
 mirror.duocast.net/
 mirror.estone.ca/
 mirror.eu.oneandone.net/
+mirror.flo.c-f.ro/
 mirror.fsmg.org.nz/
 mirror.gitoyen.net/
 mirror.gsl.icu/
