@@ -1,4 +1,5 @@
 *.archive.ubuntu.com/
+arch.fuckdmca.cc/
 archive.g4t1.pro/
 archive.linux.duke.edu/
 archive.todayvisionbd.com/
