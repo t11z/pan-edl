@@ -7,6 +7,7 @@ deb.bbxnet.sk/
 deb.debian.org/
 debian-archive.trafficmanager.net/
 debian-mirror.behostings.net/
+debian-mirror.puq.apoapsis.cl/
 debian-mirror.sakura.ne.jp/
 debian.a1.bg/
 debian.anexia.at/
@@ -290,6 +291,7 @@ mirror.ukrnames.com/
 mirror.unair.ac.id/
 mirror.united-gameserver.de/
 mirror.units.it/
+mirror.unix-solutions.be/
 mirror.us.leaseweb.net/
 mirror.us.mirhosting.net/
 mirror.us.oneandone.net/
