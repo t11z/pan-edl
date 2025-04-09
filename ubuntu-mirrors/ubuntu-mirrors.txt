@@ -77,12 +77,9 @@ ftp.sjtu.edu.cn/
 ftp.snt.utwente.nl/
 ftp.stw-bonn.de/
 ftp.tc.edu.tw/
-ftp.tku.edu.tw/
-ftp.tsukuba.wide.ad.jp/
 ftp.tu-chemnitz.de/
 ftp.tu-ilmenau.de/
 ftp.tudelft.nl/
-ftp.tw.debian.org/
 ftp.u-picardie.fr/
 ftp.ubuntu-tw.net/
 ftp.ubuntu-tw.org/
@@ -156,7 +153,6 @@ mirror.bytemark.co.uk/
 mirror.ca-tr.kamatera.com/
 mirror.cc.vt.edu/
 mirror.cedia.org.ec/
-mirror.cepatcloud.id/
 mirror.chmuri.net/
 mirror.citrahost.com/
 mirror.clarkson.edu/
@@ -386,7 +382,6 @@ mirror1.sox.rs/
 mirror1.totbb.net/
 mirror2.tuxinator.org/
 mirrors-ubuntu.behostings.com/
-mirrors.accretive-networks.net/
 mirrors.aliyun.com/
 mirrors.arpnetworks.com/
 mirrors.as215248.net/
@@ -405,7 +400,6 @@ mirrors.cloudforest.co.th/
 mirrors.cmich.edu/
 mirrors.cn99.com/
 mirrors.coreix.net/
-mirrors.cqu.edu.cn/
 mirrors.dc.clear.net.ar/
 mirrors.dotsrc.org/
 mirrors.egr.msu.edu/
@@ -444,7 +438,6 @@ mirrors.neusoft.edu.cn/
 mirrors.nhanhoa.com/
 mirrors.nic.funet.fi/
 mirrors.nivacloud.net/
-mirrors.njupt.edu.cn/
 mirrors.nxtgen.com/
 mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
@@ -512,7 +505,6 @@ repo.miserver.it.umich.edu/
 repo.ugm.ac.id/
 repo.usk.ac.id/
 repos.del.extreme-ix.org/
-repos.interior.edu.uy/
 rsync.gtlib.gatech.edu/
 rsync.icm.edu.pl/
 rsync.mirrors.ustc.edu.cn/
@@ -557,7 +549,6 @@ ubuntu.ipacct.com/
 ubuntu.koyanet.lv/
 ubuntu.lafibre.info/
 ubuntu.lagis.at/
-ubuntu.lagoon.nc/
 ubuntu.letscloud.io/
 ubuntu.linux.n0c.ca/
 ubuntu.man.lodz.pl/
@@ -590,7 +581,6 @@ ubuntu.mirrors.uk2.net/
 ubuntu.mobinhost.com/
 ubuntu.mti.mt.gov.br/
 ubuntu.netforce.hosting/
-ubuntu.ntc.net.np/
 ubuntu.org.ua/
 ubuntu.osuosl.org/
 ubuntu.otenet.gr/
