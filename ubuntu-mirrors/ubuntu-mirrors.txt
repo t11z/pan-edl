@@ -130,7 +130,6 @@ mirror.2degrees.nz/
 mirror.5i.fi/
 mirror.a1.mk/
 mirror.aarnet.edu.au/
-mirror.aktkn.sg/
 mirror.alastyr.com/
 mirror.alwyzon.net/
 mirror.aminidc.com/
@@ -250,7 +249,6 @@ mirror.jeonnam.school/
 mirror.johnnybegood.fr/
 mirror.kakao.com/
 mirror.kamp.de/
-mirror.kapteyan.com.tr/
 mirror.katapult.io/
 mirror.kkg.berlin/
 mirror.kku.ac.th/
@@ -459,7 +457,6 @@ mirrors.rit.edu/
 mirrors.sarak.as/
 mirrors.sdu.edu.cn/
 mirrors.sjtug.sjtu.edu.cn/
-mirrors.sohu.com/
 mirrors.sonic.net/
 mirrors.storpool.com/
 mirrors.tino.org/
@@ -487,6 +484,7 @@ mirrror.0xem.ma/
 mr.heru.id/
 muug.ca/
 nl.archive.ubuntu.com/
+nl.mirror.flokinet.net/
 nl.mirrors.clouvider.net/
 nl3.archive.ubuntu.com/
 no.archive.ubuntu.com/
