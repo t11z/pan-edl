@@ -66,7 +66,6 @@ ftp.mirror.tw/
 ftp.mirrorservice.org/
 ftp.muug.ca/
 ftp.nluug.nl/
-ftp.ntua.gr/
 ftp.otenet.gr/
 ftp.psnc.pl/
 ftp.riken.jp/
@@ -100,7 +99,6 @@ ftpserv.tudelft.nl/
 giano.com.dist.unige.it/
 glua.ua.pt/
 gpl.savoirfairelinux.net/
-hk.mirrors.thegigabit.com/
 in.mirror.coganng.com/
 ir.archive.ubuntu.com/
 ir.ubuntu.sindad.cloud/
@@ -191,7 +189,6 @@ mirror.elice.io/
 mirror.eliv.kr/
 mirror.enzu.com/
 mirror.esecuredata.com/
-mirror.espol.edu.ec/
 mirror.eu-fr.kamatera.com/
 mirror.eu-lo.kamatera.com/
 mirror.eu.kamatera.com/
@@ -493,7 +490,6 @@ plug-mirror.rcac.purdue.edu/
 ports.ubuntu.moon127.net/
 pubmirrors.dal.corespace.com/
 quantum-mirror.hu/
-rep-ubuntu-il.upress.io/
 repo.extreme-ix.org/
 repo.huaweicloud.com/
 repo.ialab.dsu.edu/
