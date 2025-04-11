@@ -98,7 +98,6 @@ giano.com.dist.unige.it/
 glua.ua.pt/
 gpl.savoirfairelinux.net/
 in.mirror.coganng.com/
-ir.archive.ubuntu.com/
 ir.ubuntu.sindad.cloud/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
@@ -225,7 +224,6 @@ mirror.il-pt.kamatera.com/
 mirror.il-rh.kamatera.com/
 mirror.il-ta.kamatera.com/
 mirror.il.kamatera.com/
-mirror.infomaniak.ch/
 mirror.informatik.tu-freiberg.de/
 mirror.init7.net/
 mirror.internet.asn.au/
