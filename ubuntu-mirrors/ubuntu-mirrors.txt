@@ -380,6 +380,7 @@ mirror1.sox.rs/
 mirror1.totbb.net/
 mirror2.tuxinator.org/
 mirrors-ubuntu.behostings.com/
+mirrors.accretive-networks.net/
 mirrors.aliyun.com/
 mirrors.arpnetworks.com/
 mirrors.as215248.net/
@@ -397,6 +398,7 @@ mirrors.cloudforest.co.th/
 mirrors.cmich.edu/
 mirrors.cn99.com/
 mirrors.coreix.net/
+mirrors.cqu.edu.cn/
 mirrors.dc.clear.net.ar/
 mirrors.dotsrc.org/
 mirrors.egr.msu.edu/
@@ -435,6 +437,7 @@ mirrors.neusoft.edu.cn/
 mirrors.nhanhoa.com/
 mirrors.nic.funet.fi/
 mirrors.nivacloud.net/
+mirrors.njupt.edu.cn/
 mirrors.nxtgen.com/
 mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
@@ -501,6 +504,7 @@ repo.miserver.it.umich.edu/
 repo.ugm.ac.id/
 repo.usk.ac.id/
 repos.del.extreme-ix.org/
+repos.interior.edu.uy/
 rsync.gtlib.gatech.edu/
 rsync.icm.edu.pl/
 rsync.mirrors.ustc.edu.cn/
