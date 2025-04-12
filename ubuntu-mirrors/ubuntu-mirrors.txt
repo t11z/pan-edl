@@ -75,9 +75,12 @@ ftp.sjtu.edu.cn/
 ftp.snt.utwente.nl/
 ftp.stw-bonn.de/
 ftp.tc.edu.tw/
+ftp.tku.edu.tw/
+ftp.tsukuba.wide.ad.jp/
 ftp.tu-chemnitz.de/
 ftp.tu-ilmenau.de/
 ftp.tudelft.nl/
+ftp.tw.debian.org/
 ftp.u-picardie.fr/
 ftp.ubuntu-tw.net/
 ftp.ubuntu-tw.org/
@@ -141,7 +144,6 @@ mirror.as29550.net/
 mirror.as43289.net/
 mirror.bacloud.com/
 mirror.bahnhof.net/
-mirror.bg.host.ag/
 mirror.bharatdatacenter.com/
 mirror.bizflycloud.vn/
 mirror.biznetgio.com/
@@ -151,6 +153,7 @@ mirror.bytemark.co.uk/
 mirror.ca-tr.kamatera.com/
 mirror.cc.vt.edu/
 mirror.cedia.org.ec/
+mirror.cepatcloud.id/
 mirror.chmuri.net/
 mirror.citrahost.com/
 mirror.clarkson.edu/
@@ -542,6 +545,7 @@ ubuntu.ipacct.com/
 ubuntu.koyanet.lv/
 ubuntu.lafibre.info/
 ubuntu.lagis.at/
+ubuntu.lagoon.nc/
 ubuntu.letscloud.io/
 ubuntu.linux.n0c.ca/
 ubuntu.man.lodz.pl/
