@@ -228,6 +228,7 @@ mirror.il-pt.kamatera.com/
 mirror.il-rh.kamatera.com/
 mirror.il-ta.kamatera.com/
 mirror.il.kamatera.com/
+mirror.infomaniak.ch/
 mirror.informatik.tu-freiberg.de/
 mirror.init7.net/
 mirror.internet.asn.au/
@@ -390,6 +391,7 @@ mirrors.bangmod.cloud/
 mirrors.bfsu.edu.cn/
 mirrors.bkns.vn/
 mirrors.bloomu.edu/
+mirrors.bmcc.edu/
 mirrors.c0urier.net/
 mirrors.cat.pdx.edu/
 mirrors.chroot.ro/
