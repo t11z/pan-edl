@@ -63,6 +63,7 @@ ftp.mirror.tw/
 ftp.mirrorservice.org/
 ftp.muug.ca/
 ftp.nluug.nl/
+ftp.ntua.gr/
 ftp.otenet.gr/
 ftp.psnc.pl/
 ftp.riken.jp/
@@ -99,6 +100,7 @@ ftpserv.tudelft.nl/
 giano.com.dist.unige.it/
 glua.ua.pt/
 gpl.savoirfairelinux.net/
+hk.mirrors.thegigabit.com/
 in.mirror.coganng.com/
 ir.ubuntu.sindad.cloud/
 is.mirror.flokinet.net/
@@ -190,6 +192,7 @@ mirror.elice.io/
 mirror.eliv.kr/
 mirror.enzu.com/
 mirror.esecuredata.com/
+mirror.espol.edu.ec/
 mirror.eu-fr.kamatera.com/
 mirror.eu-lo.kamatera.com/
 mirror.eu.kamatera.com/
