@@ -266,7 +266,6 @@ mirror.mia.velocihost.net/
 mirror.mirohost.net/
 mirror.mrjester.net/
 mirror.mythic-beasts.com/
-mirror.neftm.ru/
 mirror.neolabs.kz/
 mirror.netcologne.de/
 mirror.netsite.dk/
@@ -420,7 +419,6 @@ mirrors.isu.net.sa/
 mirrors.iu13.net/
 mirrors.jcut.edu.cn/
 mirrors.jlu.edu.cn/
-mirrors.jxust.edu.cn/
 mirrors.layeronline.com/
 mirrors.liquidweb.com/
 mirrors.lug.mtu.edu/
@@ -455,6 +453,7 @@ mirrors.sonic.net/
 mirrors.storpool.com/
 mirrors.tino.org/
 mirrors.tuna.tsinghua.edu.cn/
+mirrors.ubuntu.dimit.cloud/
 mirrors.ukfast.co.uk/
 mirrors.united.cd/
 mirrors.up.pt/
@@ -494,7 +493,6 @@ plug-mirror.rcac.purdue.edu/
 ports.ubuntu.moon127.net/
 pubmirrors.dal.corespace.com/
 quantum-mirror.hu/
-rep-ubuntu-il.upress.io/
 repo.extreme-ix.org/
 repo.huaweicloud.com/
 repo.ialab.dsu.edu/
