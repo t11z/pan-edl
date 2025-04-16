@@ -277,6 +277,7 @@ mirror.raiolanetworks.com/
 mirror.realcompute.io/
 mirror.ro.cdn-perfprod.com/
 mirror.rustytel.net/
+mirror.sabay.com.kh/
 mirror.siena.edu/
 mirror.sinavps.ch/
 mirror.sitsa.com.ar/
