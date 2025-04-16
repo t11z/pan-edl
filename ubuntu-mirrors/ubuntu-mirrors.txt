@@ -145,7 +145,6 @@ mirror.as29550.net/
 mirror.as43289.net/
 mirror.bacloud.com/
 mirror.bahnhof.net/
-mirror.bg.host.ag/
 mirror.bharatdatacenter.com/
 mirror.bizflycloud.vn/
 mirror.biznetgio.com/
@@ -204,7 +203,6 @@ mirror.flokinet.net/
 mirror.freethought-internet.co.uk/
 mirror.fsmg.org.nz/
 mirror.funkfreundelandshut.de/
-mirror.geekonweb.fr/
 mirror.gi.co.id/
 mirror.gofoss.xyz/
 mirror.gotmyhost.com/
