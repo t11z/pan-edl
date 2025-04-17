@@ -1,5 +1,4 @@
 *.archive.ubuntu.com/
-arch.fuckdmca.cc/
 archive.g4t1.pro/
 archive.linux.duke.edu/
 archive.todayvisionbd.com/
@@ -168,6 +167,7 @@ mirror.cov.ukservers.com/
 mirror.creoline.net/
 mirror.cs.jmu.edu/
 mirror.csclub.uwaterloo.ca/
+mirror.cse.iitk.ac.in/
 mirror.d.umn.edu/
 mirror.dal.nexril.net/
 mirror.daniel-jost.net/
@@ -532,6 +532,7 @@ ubuntu.ccns.ncku.edu.tw/
 ubuntu.cica.es/
 ubuntu.cs.nctu.edu.tw/
 ubuntu.cs.utah.edu/
+ubuntu.dts.mg/
 ubuntu.ethz.ch/
 ubuntu.grad.hr/
 ubuntu.grena.ge/
