@@ -560,7 +560,6 @@ ubuntu.mirror.letscloud.io/
 ubuntu.mirror.linux.ro/
 ubuntu.mirror.lrz.de/
 ubuntu.mirror.rafal.ca/
-ubuntu.mirror.rain.co.za/
 ubuntu.mirror.root.lu/
 ubuntu.mirror.serversaustralia.com.au/
 ubuntu.mirror.shastacoe.net/
