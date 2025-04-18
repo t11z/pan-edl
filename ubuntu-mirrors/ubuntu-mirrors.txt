@@ -27,6 +27,7 @@ debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
 distrohub.kyiv.ua/
 download.nus.edu.sg/
+download.nust.na/
 drmirror.physi.uni-heidelberg.de/
 edgeuno-bog2.mm.fcix.net/
 elmirror.cl/
@@ -129,6 +130,7 @@ mirror.2degrees.nz/
 mirror.5i.fi/
 mirror.a1.mk/
 mirror.aarnet.edu.au/
+mirror.aktkn.sg/
 mirror.alastyr.com/
 mirror.alwyzon.net/
 mirror.aminidc.com/
@@ -245,6 +247,7 @@ mirror.jeonnam.school/
 mirror.johnnybegood.fr/
 mirror.kakao.com/
 mirror.kamp.de/
+mirror.kapteyan.com.tr/
 mirror.katapult.io/
 mirror.kkg.berlin/
 mirror.kku.ac.th/
@@ -356,6 +359,7 @@ mirror.us.leaseweb.net/
 mirror.vcu.edu/
 mirror.veesp.com/
 mirror.verinomi.com/
+mirror.vietnix.vn/
 mirror.viettelcloud.vn/
 mirror.vinehost.net/
 mirror.virtarix.com/
