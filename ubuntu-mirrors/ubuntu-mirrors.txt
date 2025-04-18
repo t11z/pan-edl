@@ -300,7 +300,6 @@ mirror.raiolanetworks.com/
 mirror.rcg.sfu.ca/
 mirror.realcompute.io/
 mirror.reenigne.net/
-mirror.renu.ac.ug/
 mirror.repository.id/
 mirror.retentionrange.co.bw/
 mirror.rise.ph/
@@ -489,7 +488,6 @@ pkg.adfinis-on-exoscale.ch/
 pkg.adfinis.com/
 plug-mirror.rcac.purdue.edu/
 ports.ubuntu.moon127.net/
-pubmirrors.dal.corespace.com/
 quantum-mirror.hu/
 repo.extreme-ix.org/
 repo.huaweicloud.com/
