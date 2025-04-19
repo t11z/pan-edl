@@ -377,6 +377,7 @@ mirror.yuki.net.uk/
 mirror.zetup.net/
 mirror.zzunipark.com/
 mirror1.grupocg.cl/
+mirror1.ku.ac.th/
 mirror1.sox.rs/
 mirror1.totbb.net/
 mirror2.tuxinator.org/
@@ -561,6 +562,7 @@ ubuntu.mirror.digitalpacific.com.au/
 ubuntu.mirror.frontiernet.net/
 ubuntu.mirror.garr.it/
 ubuntu.mirror.globo.tech/
+ubuntu.mirror.gnc.am/
 ubuntu.mirror.intermax.nl/
 ubuntu.mirror.letscloud.io/
 ubuntu.mirror.linux.ro/
@@ -580,6 +582,7 @@ ubuntu.mirrors.ovh.net/
 ubuntu.mirrors.pair.com/
 ubuntu.mirrors.uk2.net/
 ubuntu.mobinhost.com/
+ubuntu.mti.mt.gov.br/
 ubuntu.netforce.hosting/
 ubuntu.org.ua/
 ubuntu.osuosl.org/
