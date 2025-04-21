@@ -107,7 +107,6 @@ ftp.de.debian.org/
 ftp.debian.cz/
 ftp.debian.sk/
 ftp.debianclub.org/
-ftp.dk.debian.org/
 ftp.ec-m.fr/
 ftp.eq.uc.pt/
 ftp.es.debian.org/
@@ -316,7 +315,6 @@ mirrors.bmcc.edu/
 mirrors.cat.pdx.edu/
 mirrors.cloudforest.co.th/
 mirrors.coreix.net/
-mirrors.dotsrc.org/
 mirrors.glesys.net/
 mirrors.hosterion.ro/
 mirrors.hostico.ro/
