@@ -254,6 +254,7 @@ mirror.kapteyan.com.tr/
 mirror.katapult.io/
 mirror.kkg.berlin/
 mirror.kku.ac.th/
+mirror.krfoss.org/
 mirror.kumi.systems/
 mirror.leitecastro.com/
 mirror.library.ucy.ac.cy/
@@ -264,6 +265,7 @@ mirror.liquidrp.de/
 mirror.logol.ru/
 mirror.lstn.net/
 mirror.lyrahosting.com/
+mirror.maeen.sa/
 mirror.marwan.ma/
 mirror.math.princeton.edu/
 mirror.math.ucdavis.edu/
@@ -422,7 +424,6 @@ mirrors.hust.edu.cn/
 mirrors.iitd.ac.in/
 mirrors.ipserverone.com/
 mirrors.ircam.fr/
-mirrors.isu.net.sa/
 mirrors.iu13.net/
 mirrors.jcut.edu.cn/
 mirrors.jlu.edu.cn/
