@@ -339,6 +339,7 @@ mirror.telepoint.bg/
 mirror.thaidns.co.th/
 mirror.thunderhosting.cloud/
 mirror.timeweb.ru/
+mirror.timkevin.us/
 mirror.tngnet.com/
 mirror.transip.net/
 mirror.truenetwork.ru/
