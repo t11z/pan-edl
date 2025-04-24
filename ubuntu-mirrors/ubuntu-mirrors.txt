@@ -53,6 +53,7 @@ ftp.icm.edu.pl/
 ftp.iinet.net.au/
 ftp.iitm.ac.in/
 ftp.jaist.ac.jp/
+ftp.kddilabs.jp/
 ftp.klid.dk/
 ftp.lanet.kr/
 ftp.linux.cz/
@@ -176,7 +177,6 @@ mirror.cse.iitk.ac.in/
 mirror.d.umn.edu/
 mirror.dal.nexril.net/
 mirror.daniel-jost.net/
-mirror.datacenter.az/
 mirror.datacenter.by/
 mirror.datacenter.mn/
 mirror.datamossa.io/
@@ -520,6 +520,7 @@ repos.del.extreme-ix.org/
 repos.interior.edu.uy/
 rsync.gtlib.gatech.edu/
 rsync.icm.edu.pl/
+rsync.kddilabs.jp/
 rsync.mirrors.ustc.edu.cn/
 rsync.mirrorservice.org/
 rsync.ubuntu.nautile.nc/
@@ -623,5 +624,6 @@ uk.mirrors.clouvider.net/
 vn-mirrors.vhost.vn/
 www-ftp.lip6.fr/
 www.club.cc.cmu.edu/
+www.ftp.ne.jp/
 www.gtlib.gatech.edu/
 www.mirrorservice.org/
