@@ -312,7 +312,6 @@ mirrors.accretive-networks.net/
 mirrors.bfsu.edu.cn/
 mirrors.bloomu.edu/
 mirrors.bmcc.edu/
-mirrors.cat.pdx.edu/
 mirrors.cloudforest.co.th/
 mirrors.coreix.net/
 mirrors.glesys.net/
@@ -355,6 +354,7 @@ ossmirror.mycloud.services/
 packages.hs-regensburg.de/
 pkg.adfinis-on-exoscale.ch/
 plug-mirror.rcac.purdue.edu/
+pubmirror.plutex.de/
 repo.ialab.dsu.edu/
 repo.ifca.es/
 repo.jing.rocks/
