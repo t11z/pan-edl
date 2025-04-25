@@ -317,6 +317,7 @@ mirrors.coreix.net/
 mirrors.glesys.net/
 mirrors.hosterion.ro/
 mirrors.hostico.ro/
+mirrors.hostiserver.com/
 mirrors.ic.unicamp.br/
 mirrors.iitd.ac.in/
 mirrors.iu13.net/
