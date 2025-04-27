@@ -180,6 +180,7 @@ mirror.cse.iitk.ac.in/
 mirror.d.umn.edu/
 mirror.dal.nexril.net/
 mirror.daniel-jost.net/
+mirror.datacenter.az/
 mirror.datacenter.by/
 mirror.datacenter.mn/
 mirror.datamossa.io/
