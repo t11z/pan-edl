@@ -278,7 +278,6 @@ mirror.realcompute.io/
 mirror.ro.cdn-perfprod.com/
 mirror.rustytel.net/
 mirror.sabay.com.kh/
-mirror.siena.edu/
 mirror.sinavps.ch/
 mirror.sitsa.com.ar/
 mirror.siwoo.org/
@@ -367,4 +366,5 @@ softlibre.unizar.es/
 tw1.mirror.blendbyte.net/
 uk.mirrors.clouvider.net/
 ulises.hostalia.com/
+us.mirror.ahrefs.org/
 www.nic.funet.fi/
