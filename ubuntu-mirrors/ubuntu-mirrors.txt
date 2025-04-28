@@ -424,7 +424,6 @@ mirrors.gethosted.online/
 mirrors.gigenet.com/
 mirrors.hosterion.ro/
 mirrors.hostico.ro/
-mirrors.hostida.com/
 mirrors.hostiserver.com/
 mirrors.huaweicloud.com/
 mirrors.hust.edu.cn/
