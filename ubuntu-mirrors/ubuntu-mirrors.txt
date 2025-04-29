@@ -231,7 +231,7 @@ mirror.hyperdedic.ru/
 mirror.i3d.net/
 mirror.ietlucknow.ac.in/
 mirror.ihost.md/
-mirror.il-jr.kamatera.com/
+mirror.il-ha.kamatera.com/
 mirror.il-pt.kamatera.com/
 mirror.il-rh.kamatera.com/
 mirror.il-ta.kamatera.com/
