@@ -517,7 +517,6 @@ repo.iut.ac.ir/
 repo.jing.rocks/
 repo.jztkft.hu/
 repo.linuxmirrors.ir/
-repo.miserver.it.umich.edu/
 repo.ugm.ac.id/
 repo.usk.ac.id/
 repos.del.extreme-ix.org/
