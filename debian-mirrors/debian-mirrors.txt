@@ -289,6 +289,7 @@ mirror.truenetwork.ru/
 mirror.twds.com.tw/
 mirror.uepg.br/
 mirror.ufro.cl/
+mirror.ufscar.br/
 mirror.ukrnames.com/
 mirror.unair.ac.id/
 mirror.united-gameserver.de/
