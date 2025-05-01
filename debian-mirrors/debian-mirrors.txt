@@ -329,6 +329,7 @@ mirrors.lug.mtu.edu/
 mirrors.mwcampbell.us/
 mirrors.namecheap.com/
 mirrors.nav.ro/
+mirrors.nepalicloud.com/
 mirrors.netix.net/
 mirrors.nic.cz/
 mirrors.nxthost.com/
