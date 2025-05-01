@@ -538,7 +538,6 @@ sft.if.usp.br:/
 sg-mirrors.vhost.vn/
 softlibre.unizar.es/
 suro.ubaya.ac.id/
-suse.uni-leipzig.de/
 tux.rainside.sk/
 tw1.mirror.blendbyte.net/
 ubuntu-arch.linux.edu.lv/
