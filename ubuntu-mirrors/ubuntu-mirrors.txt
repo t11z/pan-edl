@@ -279,6 +279,7 @@ mirror.mia.velocihost.net/
 mirror.mirohost.net/
 mirror.mrjester.net/
 mirror.mythic-beasts.com/
+mirror.neftm.ru/
 mirror.neolabs.kz/
 mirror.nerdmilio.com/
 mirror.netcologne.de/
@@ -459,7 +460,6 @@ mirrors.opensource.is/
 mirrors.pardisco.co/
 mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
-mirrors.ptisp.pt/
 mirrors.rit.edu/
 mirrors.sarak.as/
 mirrors.sdu.edu.cn/
