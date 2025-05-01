@@ -331,6 +331,7 @@ mirrors.namecheap.com/
 mirrors.nav.ro/
 mirrors.nepalicloud.com/
 mirrors.netix.net/
+mirrors.neusoft.edu.cn/
 mirrors.nic.cz/
 mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
