@@ -479,6 +479,7 @@ mirrors.us.kernel.org/
 mirrors.usinternet.com/
 mirrors.ustc.edu.cn/
 mirrors.vcea.wsu.edu/
+mirrors.webhs.pt/
 mirrors.wikimedia.org/
 mirrors.xjtu.edu.cn/
 mirrors.xmission.com/
