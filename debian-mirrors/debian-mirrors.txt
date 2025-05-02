@@ -47,6 +47,7 @@ debian.mirror.root.lu/
 debian.mirror.serversaustralia.com.au/
 debian.mirror.su.se/
 debian.mirror.uk.sargasso.net/
+debian.mirror.vu.lt/
 debian.mirror.web4u.cz/
 debian.mirrors.ovh.net/
 debian.mirrors.uk2.net/
@@ -130,6 +131,7 @@ ftp.lanet.kr/
 ftp.linux.it/
 ftp.linux.org.tr/
 ftp.lip6.fr/
+ftp.lt.debian.org/
 ftp.md.debian.org/
 ftp.nara.wide.ad.jp/
 ftp.nc.debian.org/
@@ -358,6 +360,7 @@ ossmirror.mycloud.services/
 packages.hs-regensburg.de/
 pkg.adfinis-on-exoscale.ch/
 plug-mirror.rcac.purdue.edu/
+pubmirror.plutex.de/
 repo.ialab.dsu.edu/
 repo.ifca.es/
 repo.jing.rocks/
