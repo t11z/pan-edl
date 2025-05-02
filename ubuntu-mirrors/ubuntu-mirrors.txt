@@ -150,6 +150,7 @@ mirror.as.kamatera.com/
 mirror.as24220.net/
 mirror.as29550.net/
 mirror.as43289.net/
+mirror.ati.tn/
 mirror.bacloud.com/
 mirror.bahnhof.net/
 mirror.bg.host.ag/
@@ -619,7 +620,6 @@ ubuntu.volia.net/
 ubuntu.vpsttt.com/
 ubuntu.web.trex.fi/
 ubuntutym.u-toyama.ac.jp/
-ucho.ignum.cz/
 ucmirror.canterbury.ac.nz/
 uk.mirrors.clouvider.net/
 vn-mirrors.vhost.vn/
