@@ -456,7 +456,6 @@ mirrors.nxtgen.com/
 mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
 mirrors.opensource.is/
-mirrors.pardisco.co/
 mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
 mirrors.rit.edu/
