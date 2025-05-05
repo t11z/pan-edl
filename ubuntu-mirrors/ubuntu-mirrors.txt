@@ -61,7 +61,6 @@ ftp.klid.dk/
 ftp.lanet.kr/
 ftp.linux.cz/
 ftp.linux.ro/
-ftp.lip6.fr/
 ftp.litnet.lt/
 ftp.ludd.ltu.se/
 ftp.lysator.liu.se/
@@ -624,7 +623,6 @@ ucho.ignum.cz/
 ucmirror.canterbury.ac.nz/
 uk.mirrors.clouvider.net/
 vn-mirrors.vhost.vn/
-www-ftp.lip6.fr/
 www.club.cc.cmu.edu/
 www.ftp.ne.jp/
 www.gtlib.gatech.edu/
