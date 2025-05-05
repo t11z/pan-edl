@@ -235,7 +235,6 @@ mirror.ietlucknow.ac.in/
 mirror.ihost.md/
 mirror.il-ha.kamatera.com/
 mirror.il-pt.kamatera.com/
-mirror.il-rh.kamatera.com/
 mirror.il-ta.kamatera.com/
 mirror.il.kamatera.com/
 mirror.infomaniak.ch/
@@ -630,3 +629,4 @@ www.club.cc.cmu.edu/
 www.ftp.ne.jp/
 www.gtlib.gatech.edu/
 www.mirrorservice.org/
+xync.amuksa.com/
