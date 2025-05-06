@@ -4,6 +4,7 @@ de.mirrors.clouvider.net/
 deb-mir1.naitways.net/
 deb.bbxnet.sk/
 deb.debian.org/
+deb.syxpi.fr/
 debian-archive.trafficmanager.net/
 debian-mirror.behostings.net/
 debian-mirror.puq.apoapsis.cl/
