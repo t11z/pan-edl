@@ -358,6 +358,7 @@ mirror.ufro.cl/
 mirror.ufscar.br/
 mirror.umd.edu/
 mirror.unair.ac.id/
+mirror.unej.ac.id/
 mirror.unesp.br/
 mirror.unimagdalena.edu.co/
 mirror.united-gameserver.de/
@@ -537,6 +538,7 @@ sft.if.usp.br:/
 sg-mirrors.vhost.vn/
 softlibre.unizar.es/
 suro.ubaya.ac.id/
+suse.uni-leipzig.de/
 tux.rainside.sk/
 tw1.mirror.blendbyte.net/
 ubuntu-arch.linux.edu.lv/
