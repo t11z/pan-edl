@@ -195,7 +195,6 @@ mirror-mk.interspace.com/
 mirror-prg.webglobe.com/
 mirror.0x626b.com/
 mirror.23m.com/
-mirror.5i.fi/
 mirror.a1.mk/
 mirror.aarnet.edu.au/
 mirror.abmanagement.al/
@@ -330,6 +329,7 @@ mirrors.hostico.ro/
 mirrors.hostiserver.com/
 mirrors.ic.unicamp.br/
 mirrors.iitd.ac.in/
+mirrors.ircam.fr/
 mirrors.iu13.net/
 mirrors.jlu.edu.cn/
 mirrors.lug.mtu.edu/
