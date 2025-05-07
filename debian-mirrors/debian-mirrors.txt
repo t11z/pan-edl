@@ -223,7 +223,6 @@ mirror.debian.ikoula.com/
 mirror.djvg.sg/
 mirror.dkm.cz/
 mirror.docker.ru/
-mirror.dogado.de/
 mirror.dst.ca/
 mirror.duocast.net/
 mirror.estone.ca/
@@ -258,7 +257,6 @@ mirror.litnet.lt/
 mirror.lzu.edu.cn/
 mirror.marwan.ma/
 mirror.mephi.ru/
-mirror.metanet.ch/
 mirror.mirohost.net/
 mirror.mythic-beasts.com/
 mirror.netzwerge.de/
