@@ -81,7 +81,6 @@ debian.volia.net/
 debian.web.trex.fi/
 debian.xtdv.net/
 debianmirror.una.ac.cr/
-distrohub.kyiv.ua/
 drmirror.physi.uni-heidelberg.de/
 free.hands.com/
 ftp-stud.hs-esslingen.de/
