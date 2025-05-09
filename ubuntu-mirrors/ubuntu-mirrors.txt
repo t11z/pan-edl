@@ -287,7 +287,6 @@ mirror.netsite.dk/
 mirror.netspace.net.au/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
-mirror.nforce.com/
 mirror.niif.hu/
 mirror.nishi.network/
 mirror.nitc.ac.in/
