@@ -27,6 +27,7 @@ deb-mirror.habari.co.tz/
 deb.campolargo.pr.gov.br/
 debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
+distrohub.kyiv.ua/
 download.nus.edu.sg/
 download.nust.na/
 drmirror.physi.uni-heidelberg.de/
@@ -466,6 +467,7 @@ mirrors.sdu.edu.cn/
 mirrors.sjtug.sjtu.edu.cn/
 mirrors.sohu.com/
 mirrors.sonic.net/
+mirrors.sth.sze.hu/
 mirrors.storpool.com/
 mirrors.tino.org/
 mirrors.tuna.tsinghua.edu.cn/
