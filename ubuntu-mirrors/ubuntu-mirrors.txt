@@ -292,6 +292,7 @@ mirror.nishi.network/
 mirror.nitc.ac.in/
 mirror.nju.edu.cn/
 mirror.nl.altushost.com/
+mirror.nl.as215296.net/
 mirror.nl.datapacket.com/
 mirror.nl.leaseweb.net/
 mirror.nl.mirhosting.net/
@@ -541,7 +542,6 @@ tux.rainside.sk/
 tw1.mirror.blendbyte.net/
 ubuntu-arch.linux.edu.lv/
 ubuntu-archive.interhost.co.il/
-ubuntu-archive.locaweb.com.br/
 ubuntu-archive.mirror.serveriai.lt/
 ubuntu-mirror.bhtelecom.ba/
 ubuntu-mirror.cloud.mu/
