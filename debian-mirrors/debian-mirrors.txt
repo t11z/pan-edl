@@ -334,7 +334,6 @@ mirrors.lug.mtu.edu/
 mirrors.mwcampbell.us/
 mirrors.namecheap.com/
 mirrors.nav.ro/
-mirrors.nepalicloud.com/
 mirrors.netix.net/
 mirrors.neusoft.edu.cn/
 mirrors.nic.cz/
