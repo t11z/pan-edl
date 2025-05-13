@@ -503,6 +503,7 @@ no.archive.ubuntu.com/
 no.mirrors.blix.com/
 nyc.mirrors.clouvider.net/
 opensource.xtdv.net/
+osmirror.rug.nl/
 ossmirror.mycloud.services/
 packages.oth-regensburg.de/
 pkg.adfinis-on-exoscale.ch/
