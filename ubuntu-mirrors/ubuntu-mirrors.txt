@@ -474,6 +474,7 @@ mirrors.tuna.tsinghua.edu.cn/
 mirrors.ubuntu.dimit.cloud/
 mirrors.ukfast.co.uk/
 mirrors.united.cd/
+mirrors.up.pt/
 mirrors.upr.edu/
 mirrors.us.kernel.org/
 mirrors.usinternet.com/
