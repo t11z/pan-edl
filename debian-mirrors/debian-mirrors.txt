@@ -343,6 +343,7 @@ mirrors.powernet.com.ru/
 mirrors.rackhosting.com/
 mirrors.tuna.tsinghua.edu.cn/
 mirrors.upr.edu/
+mirrors.ustc.edu.cn/
 mirrors.vcea.wsu.edu/
 mirrors.wikimedia.org/
 mirrors.xtom.au/
