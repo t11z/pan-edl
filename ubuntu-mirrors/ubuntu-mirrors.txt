@@ -101,7 +101,6 @@ ftp.ussg.iu.edu/
 ftp.uvigo.es/
 ftp5.gwdg.de/
 ftpmirror1.infania.net/
-ftpserv.tudelft.nl/
 giano.com.dist.unige.it/
 glua.ua.pt/
 gpl.savoirfairelinux.net/
@@ -553,7 +552,6 @@ ubuntu-mirror.puq.apoapsis.cl/
 ubuntu.anexia.at/
 ubuntu.btit.nz/
 ubuntu.c3sl.ufpr.br/
-ubuntu.ccns.ncku.edu.tw/
 ubuntu.cica.es/
 ubuntu.cs.nctu.edu.tw/
 ubuntu.cs.utah.edu/
