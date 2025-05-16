@@ -311,7 +311,6 @@ mirror.plusserver.com/
 mirror.poliwangi.ac.id/
 mirror.previder.nl/
 mirror.ps.kz/
-mirror.rabisu.com/
 mirror.raiolanetworks.com/
 mirror.rcg.sfu.ca/
 mirror.realcompute.io/
