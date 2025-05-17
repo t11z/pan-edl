@@ -250,7 +250,6 @@ mirror.it4i.cz/
 mirror.its-tps.fr/
 mirror.its-tps.fr:10000/
 mirror.its.dal.ca/
-mirror.ixirhost.com/
 mirror.jeonnam.school/
 mirror.johnnybegood.fr/
 mirror.kakao.com/
