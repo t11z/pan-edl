@@ -566,6 +566,7 @@ ubuntu.lafibre.info/
 ubuntu.lagis.at/
 ubuntu.lagoon.nc/
 ubuntu.letscloud.io/
+ubuntu.linux-bg.org/
 ubuntu.linux.n0c.ca/
 ubuntu.man.lodz.pl/
 ubuntu.mirror.ac.za/
