@@ -374,7 +374,6 @@ mirror.vietnix.vn/
 mirror.viettelcloud.vn/
 mirror.vinehost.net/
 mirror.virtarix.com/
-mirror.virtury.com/
 mirror.vnet.sk/
 mirror.vorboss.net/
 mirror.vpgrp.io/
