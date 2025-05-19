@@ -373,7 +373,6 @@ mirror.us.leaseweb.net/
 mirror.vcu.edu/
 mirror.veesp.com/
 mirror.verinomi.com/
-mirror.vietnix.vn/
 mirror.viettelcloud.vn/
 mirror.vinehost.net/
 mirror.virtarix.com/
