@@ -127,6 +127,7 @@ miroir.univ-lorraine.fr/
 mirror-gw.elastis.id/
 mirror-hk.koddos.net/
 mirror-mk.interspace.com/
+mirror.01link.hk/
 mirror.0x.sg/
 mirror.0xem.ma/
 mirror.23m.com/
@@ -474,6 +475,7 @@ mirrors.tuna.tsinghua.edu.cn/
 mirrors.ubuntu.dimit.cloud/
 mirrors.ukfast.co.uk/
 mirrors.united.cd/
+mirrors.up.pt/
 mirrors.upr.edu/
 mirrors.us.kernel.org/
 mirrors.usinternet.com/
