@@ -36,6 +36,7 @@ debian.linux.n0c.ca/
 debian.lth.se/
 debian.ludost.net/
 debian.mirror.ac.ke/
+debian.mirror.ac.za/
 debian.mirror.constant.com/
 debian.mirror.digitalpacific.com.au/
 debian.mirror.garr.it/
@@ -319,6 +320,7 @@ mirrors.cloudforest.co.th/
 mirrors.coreix.net/
 mirrors.dotsrc.org/
 mirrors.glesys.net/
+mirrors.hit.edu.cn/
 mirrors.hosterion.ro/
 mirrors.hostico.ro/
 mirrors.hostiserver.com/
