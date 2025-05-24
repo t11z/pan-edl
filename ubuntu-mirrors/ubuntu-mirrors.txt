@@ -29,6 +29,7 @@ distrohub.kyiv.ua/
 download.nus.edu.sg/
 download.nust.na/
 drmirror.physi.uni-heidelberg.de/
+dsync.krfoss.org/
 edgeuno-bog2.mm.fcix.net/
 elmirror.cl/
 free.nchc.org.tw/
@@ -638,4 +639,3 @@ www.club.cc.cmu.edu/
 www.ftp.ne.jp/
 www.gtlib.gatech.edu/
 www.mirrorservice.org/
-xync.amuksa.com/
