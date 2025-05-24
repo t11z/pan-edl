@@ -278,7 +278,6 @@ mirror.marwan.ma/
 mirror.math.princeton.edu/
 mirror.math.ucdavis.edu/
 mirror.metrocast.net/
-mirror.mia.velocihost.net/
 mirror.mirohost.net/
 mirror.mrjester.net/
 mirror.mythic-beasts.com/
