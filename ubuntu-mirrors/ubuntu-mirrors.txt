@@ -322,7 +322,6 @@ mirror.realcompute.io/
 mirror.reenigne.net/
 mirror.renu.ac.ug/
 mirror.repository.id/
-mirror.retentionrange.co.bw/
 mirror.rise.ph/
 mirror.root.lu/
 mirror.rustytel.net/
@@ -422,6 +421,7 @@ mirrors.codec-cluster.org/
 mirrors.coreix.net/
 mirrors.cqu.edu.cn/
 mirrors.dc.clear.net.ar/
+mirrors.dgut.edu.cn/
 mirrors.dotsrc.org/
 mirrors.egr.msu.edu/
 mirrors.evoluso.com/
