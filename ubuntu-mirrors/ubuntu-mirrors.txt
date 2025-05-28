@@ -2,7 +2,6 @@
 archive.eibly.com/
 archive.g4t1.pro/
 archive.linux.duke.edu/
-archive.todayvisionbd.com/
 archive.ubuntu.com/
 archive.ubuntu.mirror.ba/
 archive.ubuntu.mirror.rafal.ca/
