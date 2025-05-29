@@ -333,7 +333,6 @@ mirrors.ircam.fr/
 mirrors.iu13.net/
 mirrors.jlu.edu.cn/
 mirrors.lug.mtu.edu/
-mirrors.mwcampbell.us/
 mirrors.namecheap.com/
 mirrors.nav.ro/
 mirrors.netix.net/
