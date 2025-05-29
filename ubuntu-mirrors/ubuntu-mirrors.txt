@@ -216,6 +216,7 @@ mirror.flo.c-f.ro/
 mirror.flokinet.net/
 mirror.freethought-internet.co.uk/
 mirror.fsmg.org.nz/
+mirror.fst.kz/
 mirror.funkfreundelandshut.de/
 mirror.gi.co.id/
 mirror.gofoss.xyz/
@@ -436,7 +437,6 @@ mirrors.hostico.ro/
 mirrors.hostiserver.com/
 mirrors.huaweicloud.com/
 mirrors.hust.edu.cn/
-mirrors.iitd.ac.in/
 mirrors.ipserverone.com/
 mirrors.ircam.fr/
 mirrors.iu13.net/
@@ -580,6 +580,7 @@ ubuntu.letscloud.io/
 ubuntu.linux-bg.org/
 ubuntu.linux.n0c.ca/
 ubuntu.man.lodz.pl/
+ubuntu.mirror.ac.ke/
 ubuntu.mirror.ac.za/
 ubuntu.mirror.constant.com/
 ubuntu.mirror.digitalpacific.com.au/
