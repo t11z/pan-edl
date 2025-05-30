@@ -303,7 +303,6 @@ mirror.nl.datapacket.com/
 mirror.nl.leaseweb.net/
 mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
-mirror.nyist.edu.cn/
 mirror.one.com/
 mirror.ossplanet.net/
 mirror.ourhost.az/
@@ -439,7 +438,6 @@ mirrors.hust.edu.cn/
 mirrors.ipserverone.com/
 mirrors.ircam.fr/
 mirrors.iu13.net/
-mirrors.jcut.edu.cn/
 mirrors.jlu.edu.cn/
 mirrors.jxust.edu.cn/
 mirrors.layeronline.com/
@@ -623,6 +621,7 @@ ubuntu.tuxuri.com/
 ubuntu.ucr.ac.cr/
 ubuntu.uib.no/
 ubuntu.unc.edu.ar/
+ubuntu.uni-klu.ac.at/
 ubuntu.univ-nantes.fr/
 ubuntu.univ-reims.fr/
 ubuntu.uvigo.es/
