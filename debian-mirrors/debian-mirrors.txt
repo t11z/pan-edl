@@ -259,6 +259,7 @@ mirror.lzu.edu.cn/
 mirror.marwan.ma/
 mirror.mirohost.net/
 mirror.mythic-beasts.com/
+mirror.neftm.ru/
 mirror.netzwerge.de/
 mirror.nforce.com/
 mirror.nitc.ac.in/
