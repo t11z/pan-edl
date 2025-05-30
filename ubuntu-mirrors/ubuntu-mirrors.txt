@@ -5,7 +5,6 @@ archive.linux.duke.edu/
 archive.ubuntu.com/
 archive.ubuntu.mirror.ba/
 archive.ubuntu.mirror.rafal.ca/
-archive.ubuntu.mirrors.zagrio.net/
 archive.ubuntu.moon127.net/
 archive.ubuntu.nautile.nc/
 archive.ubuntu.petiak.ir/
@@ -495,8 +494,6 @@ mirrors.xtom.de/
 mirrors.xtom.ee/
 mirrors.xtom.nl/
 mirrors.ygn.mmix.net.mm/
-mirrors.yun-idc.com/
-mirrors.zagrio.net/
 mirrors.zju.edu.cn/
 mirrror.0xem.ma/
 mr.heru.id/
