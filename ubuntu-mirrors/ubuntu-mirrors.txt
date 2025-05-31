@@ -304,6 +304,7 @@ mirror.nl.datapacket.com/
 mirror.nl.leaseweb.net/
 mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
+mirror.nyist.edu.cn/
 mirror.one.com/
 mirror.ossplanet.net/
 mirror.ourhost.az/
@@ -323,6 +324,7 @@ mirror.realcompute.io/
 mirror.reenigne.net/
 mirror.renu.ac.ug/
 mirror.repository.id/
+mirror.retentionrange.co.bw/
 mirror.rise.ph/
 mirror.root.lu/
 mirror.rustytel.net/
@@ -461,6 +463,7 @@ mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
 mirrors.opensource.is/
 mirrors.pardisco.co/
+mirrors.piconets.webwerks.in/
 mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
 mirrors.ptisp.pt/
@@ -491,7 +494,6 @@ mirrors.xtom.com/
 mirrors.xtom.de/
 mirrors.xtom.ee/
 mirrors.xtom.nl/
-mirrors.ygn.mmix.net.mm/
 mirrors.zju.edu.cn/
 mirrror.0xem.ma/
 mr.heru.id/
