@@ -280,6 +280,7 @@ mirror.maeen.sa/
 mirror.marwan.ma/
 mirror.math.princeton.edu/
 mirror.math.ucdavis.edu/
+mirror.mci-1.serverforge.org/
 mirror.metrocast.net/
 mirror.mia.velocihost.net/
 mirror.mirohost.net/
