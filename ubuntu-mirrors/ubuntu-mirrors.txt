@@ -440,6 +440,7 @@ mirrors.hust.edu.cn/
 mirrors.ipserverone.com/
 mirrors.ircam.fr/
 mirrors.iu13.net/
+mirrors.jcut.edu.cn/
 mirrors.jlu.edu.cn/
 mirrors.jxust.edu.cn/
 mirrors.layeronline.com/
