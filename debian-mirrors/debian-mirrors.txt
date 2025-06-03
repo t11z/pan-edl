@@ -103,7 +103,6 @@ ftp.caliu.cat/
 ftp.ch.debian.org/
 ftp.cica.es/
 ftp.cl.debian.org/
-ftp.cn.debian.org/
 ftp.cvut.cz/
 ftp.cz.debian.org/
 ftp.de.debian.org/
@@ -119,7 +118,6 @@ ftp.fi.debian.org/
 ftp.fr.debian.org/
 ftp.gwdg.de/
 ftp.halifax.rwth-aachen.de/
-ftp.hk.debian.org/
 ftp.hosteurope.de/
 ftp.hr.debian.org/
 ftp.icm.edu.pl/
@@ -312,7 +310,6 @@ mirror.vpgrp.io/
 mirror.vpsnet.com/
 mirror.wtnet.de/
 mirror.xeonbd.com/
-mirror.xtom.com.hk/
 mirror1.infomaniak.com/
 mirror2.infomaniak.com/
 mirrors.163.com/
