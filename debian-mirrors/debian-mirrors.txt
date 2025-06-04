@@ -195,7 +195,6 @@ mirror.0x626b.com/
 mirror.23m.com/
 mirror.a1.mk/
 mirror.aarnet.edu.au/
-mirror.abmanagement.al/
 mirror.alwyzon.net/
 mirror.amaze.com.au/
 mirror.aminidc.com/
@@ -322,7 +321,6 @@ mirrors.cloudforest.co.th/
 mirrors.coreix.net/
 mirrors.dotsrc.org/
 mirrors.glesys.net/
-mirrors.hit.edu.cn/
 mirrors.hosterion.ro/
 mirrors.hostico.ro/
 mirrors.hostiserver.com/
