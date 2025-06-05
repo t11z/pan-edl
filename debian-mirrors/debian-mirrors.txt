@@ -201,7 +201,6 @@ mirror.applebred.net/
 mirror.as35701.net/
 mirror.as43289.net/
 mirror.bgp.rodeo/
-mirror.bizflycloud.vn/
 mirror.blue3.com.br/
 mirror.braindrainlan.nu/
 mirror.cloudhosting.lv/
@@ -272,7 +271,6 @@ mirror.ox.ac.uk/
 mirror.plusline.net/
 mirror.plusserver.com/
 mirror.pmf.kg.ac.rs/
-mirror.poliwangi.ac.id/
 mirror.positive-internet.com/
 mirror.ps.kz/
 mirror.raiolanetworks.com/
@@ -294,7 +292,6 @@ mirror.uepg.br/
 mirror.ufro.cl/
 mirror.ufscar.br/
 mirror.ukrnames.com/
-mirror.unair.ac.id/
 mirror.united-gameserver.de/
 mirror.units.it/
 mirror.unix-solutions.be/
@@ -353,7 +350,6 @@ mirrors.xtom.jp/
 mirrors.xtom.nl/
 mirrors.zju.edu.cn/
 mirrorservice.org/
-mr.heru.id/
 nl.mirror.flokinet.net/
 nl.mirrors.clouvider.net/
 nyc.mirrors.clouvider.net/
