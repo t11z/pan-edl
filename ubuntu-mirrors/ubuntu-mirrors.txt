@@ -246,6 +246,7 @@ mirror.infomaniak.ch/
 mirror.informatik.tu-freiberg.de/
 mirror.init7.net/
 mirror.internet.asn.au/
+mirror.internode.on.net/
 mirror.ipb.de/
 mirror.iranserver.com/
 mirror.isoc.org.il/
@@ -559,6 +560,7 @@ ubuntu.ccns.ncku.edu.tw/
 ubuntu.cica.es/
 ubuntu.cs.nctu.edu.tw/
 ubuntu.cs.utah.edu/
+ubuntu.dts.mg/
 ubuntu.ethz.ch/
 ubuntu.grad.hr/
 ubuntu.grena.ge/
