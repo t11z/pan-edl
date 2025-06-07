@@ -58,6 +58,7 @@ ftp.jaist.ac.jp/
 ftp.kddilabs.jp/
 ftp.klid.dk/
 ftp.lanet.kr/
+ftp.las.ic.unicamp.br/
 ftp.linux.cz/
 ftp.linux.ro/
 ftp.lip6.fr/
@@ -535,6 +536,7 @@ repos.interior.edu.uy/
 rsync.gtlib.gatech.edu/
 rsync.icm.edu.pl/
 rsync.kddilabs.jp/
+rsync.las.ic.unicamp.br/
 rsync.mirrors.ustc.edu.cn/
 rsync.mirrorservice.org/
 rsync.ubuntu.nautile.nc/
@@ -646,4 +648,5 @@ www-ftp.lip6.fr/
 www.club.cc.cmu.edu/
 www.ftp.ne.jp/
 www.gtlib.gatech.edu/
+www.las.ic.unicamp.br/
 www.mirrorservice.org/
