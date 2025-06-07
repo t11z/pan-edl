@@ -82,7 +82,6 @@ debian.uvigo.es/
 debian.volia.net/
 debian.web.trex.fi/
 debian.xtdv.net/
-distrohub.kyiv.ua/
 drmirror.physi.uni-heidelberg.de/
 free.hands.com/
 ftp-stud.hs-esslingen.de/
