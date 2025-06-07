@@ -328,6 +328,7 @@ mirror.realcompute.io/
 mirror.reenigne.net/
 mirror.renu.ac.ug/
 mirror.repository.id/
+mirror.retentionrange.co.bw/
 mirror.rise.ph/
 mirror.root.lu/
 mirror.rustytel.net/
@@ -440,6 +441,7 @@ mirrors.hostico.ro/
 mirrors.hostiserver.com/
 mirrors.huaweicloud.com/
 mirrors.hust.edu.cn/
+mirrors.iitd.ac.in/
 mirrors.ipserverone.com/
 mirrors.ircam.fr/
 mirrors.iu13.net/
