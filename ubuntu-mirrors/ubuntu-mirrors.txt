@@ -350,7 +350,6 @@ mirror.team-cymru.org/
 mirror.team-host.ru/
 mirror.techlabs.co.kr/
 mirror.telepoint.bg/
-mirror.thaidns.co.th/
 mirror.thunderhosting.cloud/
 mirror.timeweb.ru/
 mirror.timkevin.us/
