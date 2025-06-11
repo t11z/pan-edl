@@ -1,5 +1,4 @@
 *.archive.ubuntu.com/
-archive.eibly.com/
 archive.g4t1.pro/
 archive.linux.duke.edu/
 archive.todayvisionbd.com/
@@ -438,6 +437,7 @@ mirrors.hosterion.ro/
 mirrors.hostico.ro/
 mirrors.hostiserver.com/
 mirrors.huaweicloud.com/
+mirrors.hust.edu.cn/
 mirrors.iitd.ac.in/
 mirrors.ipserverone.com/
 mirrors.ircam.fr/
