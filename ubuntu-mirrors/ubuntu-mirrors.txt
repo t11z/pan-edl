@@ -512,6 +512,7 @@ opensource.xtdv.net/
 osmirror.rug.nl/
 ossmirror.mycloud.services/
 packages.oth-regensburg.de/
+pkg.adfinis-on-exoscale.ch/
 pkg.adfinis.com/
 plug-mirror.rcac.purdue.edu/
 ports.ubuntu.moon127.net/
