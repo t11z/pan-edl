@@ -525,6 +525,7 @@ repo.ialab.dsu.edu/
 repo.iut.ac.ir/
 repo.jing.rocks/
 repo.jztkft.hu/
+repo.linuxmirrors.ir/
 repo.ugm.ac.id/
 repo.usk.ac.id/
 repos.del.extreme-ix.org/
