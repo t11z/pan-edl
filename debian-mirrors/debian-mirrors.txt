@@ -291,7 +291,6 @@ mirror.twds.com.tw/
 mirror.uepg.br/
 mirror.ufro.cl/
 mirror.ufscar.br/
-mirror.ukrnames.com/
 mirror.united-gameserver.de/
 mirror.units.it/
 mirror.unix-solutions.be/
