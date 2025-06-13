@@ -1,4 +1,5 @@
 apt.tetaneutral.net/
+archive.debian.petiak.ir/
 atl.mirrors.clouvider.net/
 de.mirrors.clouvider.net/
 deb-mir1.naitways.net/
