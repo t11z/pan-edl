@@ -411,6 +411,7 @@ mirrors.as215248.net/
 mirrors.asnet.am/
 mirrors.atlas.net.co/
 mirrors.bangmod.cloud/
+mirrors.bfsu.edu.cn/
 mirrors.bkns.vn/
 mirrors.bloomu.edu/
 mirrors.bmcc.edu/
