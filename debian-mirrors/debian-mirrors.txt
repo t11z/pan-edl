@@ -111,7 +111,6 @@ ftp.debian.cz/
 ftp.debian.sk/
 ftp.debianclub.org/
 ftp.dk.debian.org/
-ftp.ec-m.fr/
 ftp.eq.uc.pt/
 ftp.es.debian.org/
 ftp.fau.de/
