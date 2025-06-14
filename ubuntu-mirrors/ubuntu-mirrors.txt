@@ -168,7 +168,6 @@ mirror.cepatcloud.id/
 mirror.chmuri.net/
 mirror.citrahost.com/
 mirror.clarkson.edu/
-mirror.clearsky.vn/
 mirror.clientvps.com/
 mirror.cloudhosting.lv/
 mirror.coganng.com/
@@ -289,7 +288,6 @@ mirror.mrjester.net/
 mirror.mythic-beasts.com/
 mirror.neftm.ru/
 mirror.neolabs.kz/
-mirror.nerdmilio.com/
 mirror.netcologne.de/
 mirror.netsite.dk/
 mirror.netspace.net.au/
@@ -496,7 +494,6 @@ mirrors.xtom.com/
 mirrors.xtom.de/
 mirrors.xtom.ee/
 mirrors.xtom.nl/
-mirrors.ygn.mmix.net.mm/
 mirrors.yun-idc.com/
 mirrors.zagrio.net/
 mirrors.zju.edu.cn/
