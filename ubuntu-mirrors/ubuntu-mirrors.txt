@@ -56,7 +56,6 @@ ftp.iinet.net.au/
 ftp.iitm.ac.in/
 ftp.jaist.ac.jp/
 ftp.kddilabs.jp/
-ftp.klid.dk/
 ftp.lanet.kr/
 ftp.las.ic.unicamp.br/
 ftp.linux.cz/
