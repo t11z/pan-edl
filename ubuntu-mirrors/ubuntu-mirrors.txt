@@ -56,6 +56,7 @@ ftp.iinet.net.au/
 ftp.iitm.ac.in/
 ftp.jaist.ac.jp/
 ftp.kddilabs.jp/
+ftp.klid.dk/
 ftp.lanet.kr/
 ftp.las.ic.unicamp.br/
 ftp.linux.cz/
@@ -538,6 +539,7 @@ rsync.yuki.net.uk/
 security.ubuntu.com/
 sft.if.usp.br/
 sft.if.usp.br:/
+sg-mirrors.vhost.vn/
 softlibre.unizar.es/
 suro.ubaya.ac.id/
 suse.uni-leipzig.de/
@@ -612,7 +614,6 @@ ubuntu.osuosl.org/
 ubuntu.otenet.gr/
 ubuntu.parsvds.com/
 ubuntu.phoenixnap.com/
-ubuntu.pishgaman.net/
 ubuntu.repo.cure.edu.uy/
 ubuntu.securedservers.com/
 ubuntu.syxpi.fr/
