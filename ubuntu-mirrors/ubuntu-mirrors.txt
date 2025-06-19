@@ -476,7 +476,6 @@ mirrors.storpool.com/
 mirrors.teamcloud.am/
 mirrors.tino.org/
 mirrors.tuna.tsinghua.edu.cn/
-mirrors.ubuntu.dimit.cloud/
 mirrors.ukfast.co.uk/
 mirrors.up.pt/
 mirrors.upr.edu/
