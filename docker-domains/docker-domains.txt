@@ -1,6 +1,7 @@
 api.docker.com/
 api.dso.docker.com/
 api.segment.io/
+auth.docker.com/
 auth.docker.io/
 cdn.auth0.com/
 cdn.segment.com/
