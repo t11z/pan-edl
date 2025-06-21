@@ -9,6 +9,7 @@ archive.ubuntu.mirror.rafal.ca/
 archive.ubuntu.mirrors.zagrio.net/
 archive.ubuntu.moon127.net/
 archive.ubuntu.nautile.nc/
+archive.ubuntu.petiak.ir/
 archive.ubuntumirror.dei.uc.pt/
 artfiles.org/
 atl.mirrors.clouvider.net/
@@ -242,6 +243,7 @@ mirror.init7.net/
 mirror.internet.asn.au/
 mirror.internode.on.net/
 mirror.ipb.de/
+mirror.iranserver.com/
 mirror.isoc.org.il/
 mirror.it.ubc.ca/
 mirror.it4i.cz/
@@ -510,6 +512,7 @@ rep-ubuntu-il.upress.io/
 repo.extreme-ix.org/
 repo.huaweicloud.com/
 repo.ialab.dsu.edu/
+repo.iut.ac.ir/
 repo.jing.rocks/
 repo.jztkft.hu/
 repo.linuxmirrors.ir/
