@@ -1,4 +1,5 @@
 *.archive.ubuntu.com/
+210.117.237.2/
 archive.g4t1.pro/
 archive.linux.duke.edu/
 archive.todayvisionbd.com/
@@ -605,6 +606,7 @@ ubuntu.org.ua/
 ubuntu.osuosl.org/
 ubuntu.otenet.gr/
 ubuntu.phoenixnap.com/
+ubuntu.pishgaman.net/
 ubuntu.repo.cure.edu.uy/
 ubuntu.securedservers.com/
 ubuntu.syxpi.fr/
