@@ -110,6 +110,7 @@ glua.ua.pt/
 gpl.savoirfairelinux.net/
 hk.mirrors.thegigabit.com/
 in.mirror.coganng.com/
+ir.ubuntu.sindad.cloud/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
@@ -147,6 +148,7 @@ mirror.amuksa.com/
 mirror.anigil.com/
 mirror.aptus.co.tz/
 mirror.arizona.edu/
+mirror.arvancloud.ir/
 mirror.as.kamatera.com/
 mirror.as24220.net/
 mirror.as29550.net/
@@ -315,6 +317,7 @@ mirror.papua.go.id/
 mirror.pilotfiber.com/
 mirror.pit.teraswitch.com/
 mirror.plusserver.com/
+mirror.poliwangi.ac.id/
 mirror.previder.nl/
 mirror.ps.kz/
 mirror.rabisu.com/
