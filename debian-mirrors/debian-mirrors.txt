@@ -67,7 +67,6 @@ debian.pop-sc.rnp.br/
 debian.proxad.net/
 debian.redimadrid.es/
 debian.redlibre.cl/
-debian.redparra.com/
 debian.repo.cure.edu.uy/
 debian.sil.at/
 debian.snt.utwente.nl/
@@ -128,7 +127,9 @@ ftp.is.debian.org/
 ftp.it.debian.org/
 ftp.jaist.ac.jp/
 ftp.jp.debian.org/
+ftp.kaist.ac.kr/
 ftp.kddilabs.jp/
+ftp.kr.debian.org/
 ftp.lanet.kr/
 ftp.linux.it/
 ftp.linux.org.tr/
