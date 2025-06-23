@@ -348,7 +348,6 @@ mirrors.xtom.com/
 mirrors.xtom.ee/
 mirrors.xtom.jp/
 mirrors.xtom.nl/
-mirrors.zju.edu.cn/
 mirrorservice.org/
 nl.mirror.flokinet.net/
 nl.mirrors.clouvider.net/
