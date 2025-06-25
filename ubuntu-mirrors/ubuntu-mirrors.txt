@@ -172,6 +172,7 @@ mirror.clarkson.edu/
 mirror.clearsky.vn/
 mirror.clientvps.com/
 mirror.cloudhosting.lv/
+mirror.cmkl.ac.th/
 mirror.coganng.com/
 mirror.cogentco.com/
 mirror.connorfreebairn.rocks/
@@ -269,6 +270,7 @@ mirror.leitecastro.com/
 mirror.library.ucy.ac.cy/
 mirror.limda.net/
 mirror.linux-ia64.org/
+mirror.linux.ncsu.edu/
 mirror.liquidrp.de/
 mirror.logol.ru/
 mirror.lstn.net/
@@ -608,6 +610,7 @@ ubuntu.org.ua/
 ubuntu.osuosl.org/
 ubuntu.otenet.gr/
 ubuntu.phoenixnap.com/
+ubuntu.pishgaman.net/
 ubuntu.repo.cure.edu.uy/
 ubuntu.securedservers.com/
 ubuntu.syxpi.fr/
