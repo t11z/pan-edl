@@ -158,6 +158,7 @@ mirror.bg.host.ag/
 mirror.bharatdatacenter.com/
 mirror.bizflycloud.vn/
 mirror.biznetgio.com/
+mirror.bjtu.edu.cn/
 mirror.brightridge.com/
 mirror.bytemark.co.uk/
 mirror.ca-tr.kamatera.com/
@@ -467,7 +468,6 @@ mirrors.sdu.edu.cn/
 mirrors.sjtug.sjtu.edu.cn/
 mirrors.sohu.com/
 mirrors.sonic.net/
-mirrors.sth.sze.hu/
 mirrors.storpool.com/
 mirrors.teamcloud.am/
 mirrors.tino.org/
@@ -481,6 +481,7 @@ mirrors.ustc.edu.cn/
 mirrors.vcea.wsu.edu/
 mirrors.webhs.pt/
 mirrors.wikimedia.org/
+mirrors.xjtu.edu.cn/
 mirrors.xmission.com/
 mirrors.xtom.com/
 mirrors.xtom.de/
