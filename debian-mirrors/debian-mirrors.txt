@@ -203,7 +203,6 @@ mirror.as43289.net/
 mirror.bgp.rodeo/
 mirror.blue3.com.br/
 mirror.braindrainlan.nu/
-mirror.cloudhosting.lv/
 mirror.coganng.com/
 mirror.cogentco.com/
 mirror.corbina.net/
