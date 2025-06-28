@@ -183,6 +183,7 @@ mirror.corbina.net/
 mirror.cov.ukservers.com/
 mirror.creoline.net/
 mirror.cs.jmu.edu/
+mirror.cs.odu.edu/
 mirror.csclub.uwaterloo.ca/
 mirror.cse.iitk.ac.in/
 mirror.d.umn.edu/
