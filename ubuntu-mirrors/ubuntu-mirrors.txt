@@ -257,6 +257,8 @@ mirror.iranserver.com/
 mirror.isoc.org.il/
 mirror.it.ubc.ca/
 mirror.it4i.cz/
+mirror.its-tps.fr/
+mirror.its-tps.fr:10000/
 mirror.its.dal.ca/
 mirror.its.umich.edu/
 mirror.ixirhost.com/
@@ -613,6 +615,7 @@ ubuntu.mirrors.uk2.net/
 ubuntu.mobinhost.com/
 ubuntu.mti.mt.gov.br/
 ubuntu.netforce.hosting/
+ubuntu.ntc.net.np/
 ubuntu.org.ua/
 ubuntu.osuosl.org/
 ubuntu.otenet.gr/
