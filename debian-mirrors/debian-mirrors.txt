@@ -241,6 +241,7 @@ mirror.johnnybegood.fr/
 mirror.keystealth.org/
 mirror.kku.ac.th/
 mirror.kpfu.ru/
+mirror.lagoon.nc/
 mirror.lchost.net/
 mirror.leitecastro.com/
 mirror.limda.net/
