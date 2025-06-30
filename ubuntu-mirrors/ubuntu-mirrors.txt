@@ -57,7 +57,6 @@ ftp.icm.edu.pl/
 ftp.iinet.net.au/
 ftp.iitm.ac.in/
 ftp.jaist.ac.jp/
-ftp.kddilabs.jp/
 ftp.klid.dk/
 ftp.lanet.kr/
 ftp.las.ic.unicamp.br/
@@ -536,7 +535,6 @@ repos.del.extreme-ix.org/
 repos.interior.edu.uy/
 rsync.gtlib.gatech.edu/
 rsync.icm.edu.pl/
-rsync.kddilabs.jp/
 rsync.las.ic.unicamp.br/
 rsync.mirrors.ustc.edu.cn/
 rsync.mirrorservice.org/
@@ -647,7 +645,6 @@ vn-mirrors.techhost.vn/
 vn-mirrors.vhost.vn/
 www-ftp.lip6.fr/
 www.club.cc.cmu.edu/
-www.ftp.ne.jp/
 www.gtlib.gatech.edu/
 www.las.ic.unicamp.br/
 www.mirrorservice.org/
