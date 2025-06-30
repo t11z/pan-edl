@@ -23,6 +23,7 @@ dafi.inf.um.es/
 dal.mirrors.clouvider.net/
 dal.mirrors.serverside.com/
 de.mirrors.clouvider.net/
+deb-mirror.habari.co.tz/
 deb.campolargo.pr.gov.br/
 debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
