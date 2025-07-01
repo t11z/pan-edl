@@ -275,6 +275,7 @@ mirror.kumi.systems/
 mirror.leitecastro.com/
 mirror.library.ucy.ac.cy/
 mirror.limda.net/
+mirror.linkdata.com/
 mirror.linux-ia64.org/
 mirror.linux.ncsu.edu/
 mirror.liquidrp.de/
@@ -438,6 +439,7 @@ mirrors.fibianet.dk/
 mirrors.gbnetwork.com/
 mirrors.gethosted.online/
 mirrors.gigenet.com/
+mirrors.gofiber.vn/
 mirrors.hosterion.ro/
 mirrors.hostico.ro/
 mirrors.hostiserver.com/
