@@ -67,7 +67,6 @@ debian.polytech-lille.fr/
 debian.pop-sc.rnp.br/
 debian.proxad.net/
 debian.redimadrid.es/
-debian.redlibre.cl/
 debian.repo.cure.edu.uy/
 debian.sil.at/
 debian.snt.utwente.nl/
