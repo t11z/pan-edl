@@ -205,7 +205,7 @@ mirror.domainhizmetleri.com/
 mirror.easyname.at/
 mirror.efect.ro/
 mirror.elice.io/
-mirror.eliv.kr/
+mirror.eliv.digital/
 mirror.enzu.com/
 mirror.esecuredata.com/
 mirror.espol.edu.ec/
