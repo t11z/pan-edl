@@ -288,7 +288,6 @@ mirror.mci-1.serverforge.org/
 mirror.metrocast.net/
 mirror.mia.velocihost.net/
 mirror.mirohost.net/
-mirror.morgan.kr/
 mirror.mrjester.net/
 mirror.mythic-beasts.com/
 mirror.neftm.ru/
@@ -528,6 +527,7 @@ repo.iut.ac.ir/
 repo.jing.rocks/
 repo.jztkft.hu/
 repo.linuxmirrors.ir/
+repo.morgan.kr/
 repo.ugm.ac.id/
 repo.usk.ac.id/
 repos.del.extreme-ix.org/
