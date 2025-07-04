@@ -202,7 +202,6 @@ mirror.blue3.com.br/
 mirror.braindrainlan.nu/
 mirror.coganng.com/
 mirror.cogentco.com/
-mirror.corbina.net/
 mirror.cov.ukservers.com/
 mirror.creoline.net/
 mirror.csclub.uwaterloo.ca/
