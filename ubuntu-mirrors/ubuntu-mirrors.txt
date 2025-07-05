@@ -267,7 +267,6 @@ mirror.kapteyan.com.tr/
 mirror.katapult.io/
 mirror.kkg.berlin/
 mirror.kku.ac.th/
-mirror.krfoss.org/
 mirror.kumi.systems/
 mirror.leitecastro.com/
 mirror.library.ucy.ac.cy/
