@@ -177,7 +177,6 @@ ftp.zcu.cz/
 ftp2.de.debian.org/
 ftpmirror1.infania.net/
 giano.com.dist.unige.it/
-is.mirror.flokinet.net/
 kebo.pens.ac.id/
 la.mirrors.clouvider.net/
 lethe.chinstrap.org/
