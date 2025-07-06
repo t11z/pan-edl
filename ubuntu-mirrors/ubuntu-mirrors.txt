@@ -109,7 +109,6 @@ hk.mirrors.thegigabit.com/
 in.mirror.coganng.com/
 ir.archive.ubuntu.com/
 ir.ubuntu.sindad.cloud/
-is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
 jp.mirror.coganng.com/
@@ -200,8 +199,8 @@ mirror.dogado.de/
 mirror.domainhizmetleri.com/
 mirror.easyname.at/
 mirror.efect.ro/
+mirror.ekiphost.com/
 mirror.elice.io/
-mirror.eliv.digital/
 mirror.enzu.com/
 mirror.esecuredata.com/
 mirror.espol.edu.ec/
