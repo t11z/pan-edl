@@ -171,7 +171,6 @@ mirror.clarkson.edu/
 mirror.clearsky.vn/
 mirror.clientvps.com/
 mirror.cloudhosting.lv/
-mirror.cmkl.ac.th/
 mirror.coganng.com/
 mirror.cogentco.com/
 mirror.connorfreebairn.rocks/
