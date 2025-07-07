@@ -396,7 +396,6 @@ mirror.yer.az/
 mirror.yuki.net.uk/
 mirror.zetup.net/
 mirror.zzunipark.com/
-mirror1.grupocg.cl/
 mirror1.ku.ac.th/
 mirror1.sox.rs/
 mirror1.totbb.net/
