@@ -109,6 +109,7 @@ hk.mirrors.thegigabit.com/
 in.mirror.coganng.com/
 ir.archive.ubuntu.com/
 ir.ubuntu.sindad.cloud/
+is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
 jp.mirror.coganng.com/
@@ -232,7 +233,6 @@ mirror.hnd.cl/
 mirror.hoobly.com/
 mirror.hostafrica.co.za/
 mirror.hoster.kz/
-mirror.hosthink.net/
 mirror.hostiko.network/
 mirror.hostnet.nl/
 mirror.hyperdedic.ru/
@@ -495,7 +495,6 @@ mirrors.xtom.com/
 mirrors.xtom.de/
 mirrors.xtom.ee/
 mirrors.xtom.nl/
-mirrors.yun-idc.com/
 mirrors.zagrio.net/
 mirrors.zju.edu.cn/
 mirrror.0xem.ma/
