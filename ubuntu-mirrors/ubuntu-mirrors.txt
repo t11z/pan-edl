@@ -126,7 +126,6 @@ lug.mines.edu/
 mir.linux.kg/
 miroir.univ-lorraine.fr/
 mirror-gw.elastis.id/
-mirror-hk.koddos.net/
 mirror-mk.interspace.com/
 mirror.01link.hk/
 mirror.0x.sg/
@@ -345,7 +344,6 @@ mirror.siena.edu/
 mirror.sitsa.com.ar/
 mirror.siwoo.org/
 mirror.solnet.ch/
-mirror.soonkeat.sg/
 mirror.steadfastnet.com/
 mirror.t-home.mk/
 mirror.team-cymru.com/
@@ -454,6 +452,7 @@ mirrors.maine.edu/
 mirrors.mediascope.group/
 mirrors.melbourne.co.uk/
 mirrors.mit.edu/
+mirrors.mivocloud.com/
 mirrors.nav.ro/
 mirrors.neterra.net/
 mirrors.netix.net/
