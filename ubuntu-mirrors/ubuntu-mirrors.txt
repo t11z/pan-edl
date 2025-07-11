@@ -437,7 +437,6 @@ mirrors.hostico.ro/
 mirrors.hostiserver.com/
 mirrors.huaweicloud.com/
 mirrors.hust.edu.cn/
-mirrors.ic.unicamp.br/
 mirrors.iitd.ac.in/
 mirrors.ipserverone.com/
 mirrors.ircam.fr/
