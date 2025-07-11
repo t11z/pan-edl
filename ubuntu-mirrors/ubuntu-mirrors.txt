@@ -45,7 +45,6 @@ ftp.corbina.net/
 ftp.csuc.cat/
 ftp.cvut.cz/
 ftp.daum.net/
-ftp.energotel.sk/
 ftp.fau.de/
 ftp.fu-berlin.de/
 ftp.gtlib.gatech.edu/
