@@ -125,6 +125,7 @@ lug.mines.edu/
 mir.linux.kg/
 miroir.univ-lorraine.fr/
 mirror-gw.elastis.id/
+mirror-hk.koddos.net/
 mirror-mk.interspace.com/
 mirror.01link.hk/
 mirror.0x.sg/
@@ -168,7 +169,6 @@ mirror.chmuri.net/
 mirror.citrahost.com/
 mirror.clarkson.edu/
 mirror.clearsky.vn/
-mirror.clientvps.com/
 mirror.cloudhosting.lv/
 mirror.cmkl.ac.th/
 mirror.coganng.com/
