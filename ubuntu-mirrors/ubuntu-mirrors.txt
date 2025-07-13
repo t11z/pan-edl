@@ -79,7 +79,6 @@ ftp.sjtu.edu.cn/
 ftp.snt.utwente.nl/
 ftp.stw-bonn.de/
 ftp.tc.edu.tw/
-ftp.tku.edu.tw/
 ftp.tsukuba.wide.ad.jp/
 ftp.tu-chemnitz.de/
 ftp.tu-ilmenau.de/
@@ -423,6 +422,7 @@ mirrors.cloudforest.co.th/
 mirrors.cmich.edu/
 mirrors.cn99.com/
 mirrors.coreix.net/
+mirrors.cqu.edu.cn/
 mirrors.dc.clear.net.ar/
 mirrors.dgut.edu.cn/
 mirrors.dotsrc.org/
@@ -464,7 +464,6 @@ mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
 mirrors.opensource.is/
 mirrors.pardisco.co/
-mirrors.piconets.webwerks.in/
 mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
 mirrors.ptisp.pt/
