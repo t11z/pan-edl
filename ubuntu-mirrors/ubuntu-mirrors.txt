@@ -116,6 +116,7 @@ kartolo.sby.datautama.net.id/
 kebo.pens.ac.id/
 kebo.vlsm.org/
 kozyatagi.mirror.guzel.net.tr/
+kr.mirror.tefexia.net/
 la.mirrors.clouvider.net/
 labs.eif.urjc.es/
 linux.domainesia.com/
