@@ -474,7 +474,6 @@ mirrors.sohu.com/
 mirrors.sonic.net/
 mirrors.sth.sze.hu/
 mirrors.storpool.com/
-mirrors.teamcloud.am/
 mirrors.tino.org/
 mirrors.tuna.tsinghua.edu.cn/
 mirrors.ubuntu.dimit.cloud/
@@ -518,7 +517,6 @@ rep-ubuntu-il.upress.io/
 repo.extreme-ix.org/
 repo.huaweicloud.com/
 repo.ialab.dsu.edu/
-repo.iut.ac.ir/
 repo.jing.rocks/
 repo.jztkft.hu/
 repo.linuxmirrors.ir/
