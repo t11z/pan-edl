@@ -29,7 +29,6 @@ distrohub.kyiv.ua/
 download.nus.edu.sg/
 download.nust.na/
 drmirror.physi.uni-heidelberg.de/
-dsync.krfoss.org/
 edgeuno-bog2.mm.fcix.net/
 elmirror.cl/
 free.nchc.org.tw/
@@ -104,6 +103,7 @@ giano.com.dist.unige.it/
 glua.ua.pt/
 gpl.savoirfairelinux.net/
 hk.mirrors.thegigabit.com/
+http.krfoss.org/
 in.mirror.coganng.com/
 ir.archive.ubuntu.com/
 ir.ubuntu.sindad.cloud/
@@ -141,7 +141,6 @@ mirror.alwyzon.net/
 mirror.aminidc.com/
 mirror.ams.macarne.com/
 mirror.amscloud.co.id/
-mirror.amuksa.com/
 mirror.anigil.com/
 mirror.aptus.co.tz/
 mirror.arizona.edu/
