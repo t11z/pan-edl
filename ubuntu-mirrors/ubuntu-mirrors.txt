@@ -220,7 +220,6 @@ mirror.fsmg.org.nz/
 mirror.fst.kz/
 mirror.funkfreundelandshut.de/
 mirror.geekonweb.fr/
-mirror.gi.co.id/
 mirror.gofoss.xyz/
 mirror.gotmyhost.com/
 mirror.greennet.gl/
