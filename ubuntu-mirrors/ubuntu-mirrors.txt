@@ -617,6 +617,7 @@ ubuntu.parsvds.com/
 ubuntu.phoenixnap.com/
 ubuntu.pishgaman.net/
 ubuntu.repo.cure.edu.uy/
+ubuntu.rsync.kr/
 ubuntu.securedservers.com/
 ubuntu.syxpi.fr/
 ubuntu.task.gda.pl/
