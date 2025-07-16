@@ -474,6 +474,7 @@ mirrors.sjtug.sjtu.edu.cn/
 mirrors.sohu.com/
 mirrors.sonic.net/
 mirrors.storpool.com/
+mirrors.teamcloud.am/
 mirrors.tino.org/
 mirrors.tuna.tsinghua.edu.cn/
 mirrors.ubuntu.dimit.cloud/
