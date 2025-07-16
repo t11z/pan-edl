@@ -80,6 +80,7 @@ debian.uvigo.es/
 debian.volia.net/
 debian.web.trex.fi/
 debian.xtdv.net/
+dennou-k.gfd-dennou.org/
 distrohub.kyiv.ua/
 drmirror.physi.uni-heidelberg.de/
 free.hands.com/
