@@ -126,8 +126,6 @@ ftp.is.debian.org/
 ftp.it.debian.org/
 ftp.jaist.ac.jp/
 ftp.jp.debian.org/
-ftp.kaist.ac.kr/
-ftp.kr.debian.org/
 ftp.lanet.kr/
 ftp.linux.it/
 ftp.linux.org.tr/
@@ -325,7 +323,6 @@ mirrors.lug.mtu.edu/
 mirrors.nav.ro/
 mirrors.netix.net/
 mirrors.neusoft.edu.cn/
-mirrors.nic.cz/
 mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
 mirrors.pidginhost.com/
