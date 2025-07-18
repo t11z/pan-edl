@@ -577,7 +577,6 @@ ubuntu.lagoon.nc/
 ubuntu.letscloud.io/
 ubuntu.linux-bg.org/
 ubuntu.linux.n0c.ca/
-ubuntu.man.lodz.pl/
 ubuntu.mirror.ac.ke/
 ubuntu.mirror.ac.za/
 ubuntu.mirror.constant.com/
