@@ -254,8 +254,6 @@ mirror.iranserver.com/
 mirror.isoc.org.il/
 mirror.it.ubc.ca/
 mirror.it4i.cz/
-mirror.its-tps.fr/
-mirror.its-tps.fr:10000/
 mirror.its.dal.ca/
 mirror.its.umich.edu/
 mirror.ixirhost.com/
@@ -474,6 +472,7 @@ mirrors.sarak.as/
 mirrors.sjtug.sjtu.edu.cn/
 mirrors.sohu.com/
 mirrors.sonic.net/
+mirrors.sth.sze.hu/
 mirrors.storpool.com/
 mirrors.teamcloud.am/
 mirrors.tino.org/
