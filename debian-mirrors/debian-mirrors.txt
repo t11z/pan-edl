@@ -163,7 +163,6 @@ ftp.u-strasbg.fr/
 ftp.udc.es/
 ftp.uio.no/
 ftp.uk.debian.org/
-ftp.uni-bayreuth.de/
 ftp.uni-hannover.de/
 ftp.uni-kl.de/
 ftp.uni-mainz.de/
@@ -203,7 +202,6 @@ mirror.cogentco.com/
 mirror.cov.ukservers.com/
 mirror.creoline.net/
 mirror.csclub.uwaterloo.ca/
-mirror.cse.iitk.ac.in/
 mirror.dal.nexril.net/
 mirror.datacenter.by/
 mirror.de.leaseweb.net/
