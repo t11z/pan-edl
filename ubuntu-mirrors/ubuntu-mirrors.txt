@@ -574,6 +574,7 @@ ubuntu.lagoon.nc/
 ubuntu.letscloud.io/
 ubuntu.linux-bg.org/
 ubuntu.linux.n0c.ca/
+ubuntu.man.lodz.pl/
 ubuntu.mirror.ac.ke/
 ubuntu.mirror.ac.za/
 ubuntu.mirror.constant.com/
@@ -614,6 +615,7 @@ ubuntu.pishgaman.net/
 ubuntu.repo.cure.edu.uy/
 ubuntu.rsync.kr/
 ubuntu.securedservers.com/
+ubuntu.syxpi.fr/
 ubuntu.task.gda.pl/
 ubuntu.tuxuri.com/
 ubuntu.ucr.ac.cr/
