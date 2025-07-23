@@ -77,7 +77,6 @@ ftp.sh.cvut.cz/
 ftp.sjtu.edu.cn/
 ftp.snt.utwente.nl/
 ftp.stw-bonn.de/
-ftp.tc.edu.tw/
 ftp.tku.edu.tw/
 ftp.tsukuba.wide.ad.jp/
 ftp.tu-chemnitz.de/
@@ -397,7 +396,6 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror.zetup.net/
-mirror.zzunipark.com/
 mirror1.ku.ac.th/
 mirror1.sox.rs/
 mirror1.totbb.net/
