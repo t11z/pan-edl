@@ -33,7 +33,6 @@ elmirror.cl/
 free.nchc.org.tw/
 ftp-stud.hs-esslingen.de/
 ftp.acc.umu.se/
-ftp.agh.edu.pl/
 ftp.arnes.si/
 ftp.belnet.be/
 ftp.byfly.by/
@@ -557,7 +556,6 @@ ubuntu.ccns.ncku.edu.tw/
 ubuntu.cica.es/
 ubuntu.cs.nctu.edu.tw/
 ubuntu.cs.utah.edu/
-ubuntu.dts.mg/
 ubuntu.ethz.ch/
 ubuntu.grad.hr/
 ubuntu.grena.ge/
