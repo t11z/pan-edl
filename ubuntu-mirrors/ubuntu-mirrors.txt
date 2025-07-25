@@ -103,7 +103,6 @@ giano.com.dist.unige.it/
 glua.ua.pt/
 gpl.savoirfairelinux.net/
 hk.mirrors.thegigabit.com/
-http.krfoss.org/
 in.mirror.coganng.com/
 ir.archive.ubuntu.com/
 ir.ubuntu.sindad.cloud/
@@ -613,7 +612,6 @@ ubuntu.parsvds.com/
 ubuntu.phoenixnap.com/
 ubuntu.pishgaman.net/
 ubuntu.repo.cure.edu.uy/
-ubuntu.rsync.kr/
 ubuntu.securedservers.com/
 ubuntu.syxpi.fr/
 ubuntu.task.gda.pl/
