@@ -35,6 +35,7 @@ elmirror.cl/
 free.nchc.org.tw/
 ftp-stud.hs-esslingen.de/
 ftp.acc.umu.se/
+ftp.agh.edu.pl/
 ftp.arnes.si/
 ftp.belnet.be/
 ftp.byfly.by/
