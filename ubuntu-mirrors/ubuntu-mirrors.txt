@@ -131,7 +131,6 @@ mirror.0x.sg/
 mirror.0xem.ma/
 mirror.23m.com/
 mirror.2degrees.nz/
-mirror.5i.fi/
 mirror.a1.mk/
 mirror.aarnet.edu.au/
 mirror.aktkn.sg/
@@ -203,7 +202,6 @@ mirror.elice.io/
 mirror.eliv.digital/
 mirror.enzu.com/
 mirror.esecuredata.com/
-mirror.espol.edu.ec/
 mirror.eu-fr.kamatera.com/
 mirror.eu-lo.kamatera.com/
 mirror.eu.kamatera.com/
