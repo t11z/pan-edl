@@ -252,7 +252,6 @@ mirror.mirohost.net/
 mirror.mythic-beasts.com/
 mirror.neftm.ru/
 mirror.netzwerge.de/
-mirror.nforce.com/
 mirror.nitc.ac.in/
 mirror.nju.edu.cn/
 mirror.nl.cdn-perfprod.com/
@@ -318,6 +317,7 @@ mirrors.hosterion.ro/
 mirrors.hostico.ro/
 mirrors.hostiserver.com/
 mirrors.ic.unicamp.br/
+mirrors.iitd.ac.in/
 mirrors.iu13.net/
 mirrors.jlu.edu.cn/
 mirrors.lug.mtu.edu/
