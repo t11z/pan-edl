@@ -60,6 +60,7 @@ debian.mur.at/
 debian.nautile.nc/
 debian.netcologne.de/
 debian.netforce.hosting/
+debian.nic.cz/
 debian.obspm.fr/
 debian.osuosl.org/
 debian.otenet.gr/
