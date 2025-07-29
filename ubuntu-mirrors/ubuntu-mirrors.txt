@@ -469,6 +469,7 @@ mirrors.sarak.as/
 mirrors.sjtug.sjtu.edu.cn/
 mirrors.sohu.com/
 mirrors.sonic.net/
+mirrors.sth.sze.hu/
 mirrors.storpool.com/
 mirrors.teamcloud.am/
 mirrors.tino.org/
