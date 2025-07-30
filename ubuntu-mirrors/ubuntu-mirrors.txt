@@ -61,6 +61,7 @@ ftp.linux.cz/
 ftp.linux.ro/
 ftp.lip6.fr/
 ftp.litnet.lt/
+ftp.ludd.ltu.se/
 ftp.lysator.liu.se/
 ftp.mirror.tw/
 ftp.mirrorservice.org/
@@ -634,6 +635,7 @@ ubuntu.uvigo.es/
 ubuntu.volia.net/
 ubuntu.vpsttt.com/
 ubuntu.web.trex.fi/
+ubuntu.zero.com.ar/
 ubuntutym.u-toyama.ac.jp/
 ucho.ignum.cz/
 ucmirror.canterbury.ac.nz/
