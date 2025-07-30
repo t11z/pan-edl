@@ -23,6 +23,7 @@ dal.mirrors.clouvider.net/
 dal.mirrors.serverside.com/
 de.mirrors.clouvider.net/
 deb-mirror.habari.co.tz/
+deb.campolargo.pr.gov.br/
 debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
 distrohub.kyiv.ua/
@@ -375,7 +376,6 @@ mirror.us-ny2.kamatera.com/
 mirror.us-sc.kamatera.com/
 mirror.us-tx.kamatera.com/
 mirror.us.leaseweb.net/
-mirror.us.mirhosting.net/
 mirror.vcu.edu/
 mirror.veesp.com/
 mirror.verinomi.com/
@@ -587,7 +587,6 @@ ubuntu.mirror.frontiernet.net/
 ubuntu.mirror.garr.it/
 ubuntu.mirror.globo.tech/
 ubuntu.mirror.gnc.am/
-ubuntu.mirror.homacloud.ai/
 ubuntu.mirror.letscloud.io/
 ubuntu.mirror.linux.ro/
 ubuntu.mirror.lrz.de/
