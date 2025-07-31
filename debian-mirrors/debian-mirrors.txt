@@ -122,6 +122,7 @@ ftp.fr.debian.org/
 ftp.gwdg.de/
 ftp.halifax.rwth-aachen.de/
 ftp.hk.debian.org/
+ftp.hosteurope.de/
 ftp.hr.debian.org/
 ftp.icm.edu.pl/
 ftp.is.co.za/
