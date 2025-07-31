@@ -201,6 +201,7 @@ mirror.easyname.at/
 mirror.efect.ro/
 mirror.ekiphost.com/
 mirror.elice.io/
+mirror.eliv.digital/
 mirror.enzu.com/
 mirror.esecuredata.com/
 mirror.espol.edu.ec/
@@ -470,7 +471,6 @@ mirrors.sarak.as/
 mirrors.sjtug.sjtu.edu.cn/
 mirrors.sohu.com/
 mirrors.sonic.net/
-mirrors.sth.sze.hu/
 mirrors.storpool.com/
 mirrors.teamcloud.am/
 mirrors.tino.org/
@@ -608,7 +608,6 @@ ubuntu.mirrors.uk2.net/
 ubuntu.mobinhost.com/
 ubuntu.mti.mt.gov.br/
 ubuntu.netforce.hosting/
-ubuntu.ntc.net.np/
 ubuntu.org.ua/
 ubuntu.osuosl.org/
 ubuntu.otenet.gr/
