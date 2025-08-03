@@ -55,10 +55,10 @@ ftp.iinet.net.au/
 ftp.iitm.ac.in/
 ftp.jaist.ac.jp/
 ftp.kaist.ac.kr/
-ftp.klid.dk/
 ftp.lanet.kr/
 ftp.linux.cz/
 ftp.linux.ro/
+ftp.lip6.fr/
 ftp.litnet.lt/
 ftp.ludd.ltu.se/
 ftp.lysator.liu.se/
@@ -641,6 +641,7 @@ ucmirror.canterbury.ac.nz/
 uk.mirrors.clouvider.net/
 vn-mirrors.techhost.vn/
 vn-mirrors.vhost.vn/
+www-ftp.lip6.fr/
 www.club.cc.cmu.edu/
 www.gtlib.gatech.edu/
 www.mirrorservice.org/
