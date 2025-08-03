@@ -22,7 +22,6 @@ dafi.inf.um.es/
 dal.mirrors.clouvider.net/
 dal.mirrors.serverside.com/
 de.mirrors.clouvider.net/
-deb-mirror.habari.co.tz/
 deb.campolargo.pr.gov.br/
 debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
@@ -308,7 +307,6 @@ mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
 mirror.nyist.edu.cn/
 mirror.one.com/
-mirror.ossplanet.net/
 mirror.ourhost.az/
 mirror.overthewire.com.au/
 mirror.ox.ac.uk/
@@ -530,6 +528,7 @@ repos.del.extreme-ix.org/
 repos.interior.edu.uy/
 rsync.gtlib.gatech.edu/
 rsync.icm.edu.pl/
+rsync.mirror.zzunipark.com/
 rsync.mirrors.ustc.edu.cn/
 rsync.mirrorservice.org/
 rsync.ubuntu.nautile.nc/
