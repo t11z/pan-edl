@@ -166,9 +166,7 @@ mirror.cc.vt.edu/
 mirror.cedia.org.ec/
 mirror.cepatcloud.id/
 mirror.chmuri.net/
-mirror.citrahost.com/
 mirror.clarkson.edu/
-mirror.clearsky.vn/
 mirror.clientvps.com/
 mirror.cloudhosting.lv/
 mirror.cmkl.ac.th/
