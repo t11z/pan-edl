@@ -85,6 +85,8 @@ ftp.tu-ilmenau.de/
 ftp.tudelft.nl/
 ftp.tw.debian.org/
 ftp.u-picardie.fr/
+ftp.ubuntu-tw.net/
+ftp.ubuntu-tw.org/
 ftp.udc.es/
 ftp.udx.icscoe.jp/
 ftp.uni-bayreuth.de/
