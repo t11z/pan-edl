@@ -55,6 +55,7 @@ ftp.iinet.net.au/
 ftp.iitm.ac.in/
 ftp.jaist.ac.jp/
 ftp.kaist.ac.kr/
+ftp.klid.dk/
 ftp.lanet.kr/
 ftp.linux.cz/
 ftp.linux.ro/
@@ -128,6 +129,7 @@ miroir.univ-lorraine.fr/
 mirror-gw.elastis.id/
 mirror-hk.koddos.net/
 mirror-mk.interspace.com/
+mirror.0-1.cloud/
 mirror.01link.hk/
 mirror.0x.sg/
 mirror.0xem.ma/
@@ -276,7 +278,6 @@ mirror.linux.ncsu.edu/
 mirror.liquidrp.de/
 mirror.logol.ru/
 mirror.lstn.net/
-mirror.lyrahosting.com/
 mirror.maeen.sa/
 mirror.marwan.ma/
 mirror.math.princeton.edu/
