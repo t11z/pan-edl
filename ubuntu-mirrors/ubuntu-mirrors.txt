@@ -192,6 +192,7 @@ mirror.datamossa.io/
 mirror.dc.uz/
 mirror.de.leaseweb.net/
 mirror.deace.id/
+mirror.dewabiz.com/
 mirror.digitaloceans.dev/
 mirror.digitalpacific.com.au/
 mirror.dkm.cz/
@@ -451,6 +452,7 @@ mirrors.maine.edu/
 mirrors.mediascope.group/
 mirrors.melbourne.co.uk/
 mirrors.mit.edu/
+mirrors.mivocloud.com/
 mirrors.nav.ro/
 mirrors.neterra.net/
 mirrors.netix.net/
@@ -638,6 +640,7 @@ ubuntu.vpsttt.com/
 ubuntu.web.trex.fi/
 ubuntu.zero.com.ar/
 ubuntutym.u-toyama.ac.jp/
+ucho.ignum.cz/
 ucmirror.canterbury.ac.nz/
 uk.mirrors.clouvider.net/
 vn-mirrors.techhost.vn/
