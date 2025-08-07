@@ -152,6 +152,7 @@ mirror.as.kamatera.com/
 mirror.as24220.net/
 mirror.as29550.net/
 mirror.as43289.net/
+mirror.ati.tn/
 mirror.azvps.vn/
 mirror.bacloud.com/
 mirror.bahnhof.net/
@@ -621,10 +622,8 @@ ubuntu.parsvds.com/
 ubuntu.phoenixnap.com/
 ubuntu.pishgaman.net/
 ubuntu.repo.cure.edu.uy/
-ubuntu.rootlicense.com/
 ubuntu.rsync.kr/
 ubuntu.securedservers.com/
-ubuntu.servering.info/
 ubuntu.syxpi.fr/
 ubuntu.task.gda.pl/
 ubuntu.tuxuri.com/
