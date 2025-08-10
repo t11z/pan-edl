@@ -167,7 +167,6 @@ mirror.cc.vt.edu/
 mirror.cedia.org.ec/
 mirror.cepatcloud.id/
 mirror.chmuri.net/
-mirror.citrahost.com/
 mirror.clarkson.edu/
 mirror.clearsky.vn/
 mirror.clientvps.com/
@@ -439,6 +438,7 @@ mirrors.hosterion.ro/
 mirrors.hostico.ro/
 mirrors.hostiserver.com/
 mirrors.huaweicloud.com/
+mirrors.hust.edu.cn/
 mirrors.iitd.ac.in/
 mirrors.ipserverone.com/
 mirrors.ircam.fr/
