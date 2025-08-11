@@ -210,7 +210,6 @@ mirror.eu-fr.kamatera.com/
 mirror.eu-lo.kamatera.com/
 mirror.eu.kamatera.com/
 mirror.faizuladib.com/
-mirror.famaserver.com/
 mirror.faraso.org/
 mirror.fcix.net/
 mirror.flo.c-f.ro/
@@ -355,6 +354,7 @@ mirror.techlabs.co.kr/
 mirror.telepoint.bg/
 mirror.thunderhosting.cloud/
 mirror.timeweb.ru/
+mirror.timkevin.us/
 mirror.tngnet.com/
 mirror.transip.net/
 mirror.truenetwork.ru/
