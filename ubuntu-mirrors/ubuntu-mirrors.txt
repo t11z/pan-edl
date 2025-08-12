@@ -214,6 +214,7 @@ mirror.faraso.org/
 mirror.fcix.net/
 mirror.flo.c-f.ro/
 mirror.flokinet.net/
+mirror.freedif.org/
 mirror.freethought-internet.co.uk/
 mirror.fsmg.org.nz/
 mirror.fst.kz/
