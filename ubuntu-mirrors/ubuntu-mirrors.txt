@@ -212,6 +212,7 @@ mirror.eu.kamatera.com/
 mirror.faizuladib.com/
 mirror.faraso.org/
 mirror.fcix.net/
+mirror.fi.ossplanet.net/
 mirror.flo.c-f.ro/
 mirror.flokinet.net/
 mirror.freethought-internet.co.uk/
