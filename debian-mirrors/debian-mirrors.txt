@@ -147,7 +147,6 @@ ftp.psnc.pl/
 ftp.pt.debian.org/
 ftp.rezopole.net/
 ftp.riken.jp/
-ftp.rnl.tecnico.ulisboa.pt/
 ftp.ru.debian.org/
 ftp.se.debian.org/
 ftp.sh.cvut.cz/
@@ -268,6 +267,7 @@ mirror.overthewire.com.au/
 mirror.ox.ac.uk/
 mirror.plusline.net/
 mirror.plusserver.com/
+mirror.poliwangi.ac.id/
 mirror.positive-internet.com/
 mirror.ps.kz/
 mirror.raiolanetworks.com/
