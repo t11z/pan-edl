@@ -71,7 +71,6 @@ ftp.ntua.gr/
 ftp.otenet.gr/
 ftp.psnc.pl/
 ftp.riken.jp/
-ftp.rnl.tecnico.ulisboa.pt/
 ftp.rz.tu-bs.de/
 ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
