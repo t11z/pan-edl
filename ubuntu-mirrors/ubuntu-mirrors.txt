@@ -312,7 +312,6 @@ mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
 mirror.nyist.edu.cn/
 mirror.one.com/
-mirror.ossplanet.net/
 mirror.ourhost.az/
 mirror.overthewire.com.au/
 mirror.ox.ac.uk/
