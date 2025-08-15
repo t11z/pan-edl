@@ -1,5 +1,4 @@
 *.archive.ubuntu.com/
-archive.g4t1.pro/
 archive.linux.duke.edu/
 archive.todayvisionbd.com/
 archive.ubuntu.com/
@@ -84,8 +83,6 @@ ftp.tu-ilmenau.de/
 ftp.tudelft.nl/
 ftp.tw.debian.org/
 ftp.u-picardie.fr/
-ftp.ubuntu-tw.net/
-ftp.ubuntu-tw.org/
 ftp.udc.es/
 ftp.udx.icscoe.jp/
 ftp.uni-bayreuth.de/
@@ -575,6 +572,7 @@ ubuntu.hi.no/
 ubuntu.hysing.is/
 ubuntu.ip-connect.vn.ua/
 ubuntu.ipacct.com/
+ubuntu.joy.services/
 ubuntu.koyanet.lv/
 ubuntu.lafibre.info/
 ubuntu.lagis.at/
