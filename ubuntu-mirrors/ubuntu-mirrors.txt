@@ -27,6 +27,7 @@ distrib-coffee.ipsl.jussieu.fr/
 distrohub.kyiv.ua/
 dl2.foss-id.web.id/
 download.nus.edu.sg/
+download.nust.na/
 drmirror.physi.uni-heidelberg.de/
 edgeuno-bog2.mm.fcix.net/
 elmirror.cl/
@@ -83,6 +84,8 @@ ftp.tu-ilmenau.de/
 ftp.tudelft.nl/
 ftp.tw.debian.org/
 ftp.u-picardie.fr/
+ftp.ubuntu-tw.net/
+ftp.ubuntu-tw.org/
 ftp.udc.es/
 ftp.udx.icscoe.jp/
 ftp.uni-bayreuth.de/
