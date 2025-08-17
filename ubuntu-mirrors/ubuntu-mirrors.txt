@@ -19,7 +19,6 @@ cesium.di.uminho.pt/
 cz.archive.ubuntu.com/
 dafi.inf.um.es/
 dal.mirrors.clouvider.net/
-dal.mirrors.serverside.com/
 de.mirrors.clouvider.net/
 deb.campolargo.pr.gov.br/
 debian.charite.de/
