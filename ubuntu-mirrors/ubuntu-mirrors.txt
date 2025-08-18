@@ -278,7 +278,6 @@ mirror.linux.ncsu.edu/
 mirror.liquidrp.de/
 mirror.logol.ru/
 mirror.lstn.net/
-mirror.lyrahosting.com/
 mirror.maeen.sa/
 mirror.marwan.ma/
 mirror.math.princeton.edu/
@@ -554,6 +553,7 @@ ubuntu-mirror.bhtelecom.ba/
 ubuntu-mirror.cloud.mu/
 ubuntu-mirror.kimiahost.com/
 ubuntu-mirror.puq.apoapsis.cl/
+ubuntu-mirror.snu.edu.in/
 ubuntu.anexia.at/
 ubuntu.avalicense.com/
 ubuntu.btit.nz/
