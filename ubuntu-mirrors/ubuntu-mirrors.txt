@@ -27,7 +27,6 @@ distrib-coffee.ipsl.jussieu.fr/
 distrohub.kyiv.ua/
 dl2.foss-id.web.id/
 download.nus.edu.sg/
-download.nust.na/
 drmirror.physi.uni-heidelberg.de/
 edgeuno-bog2.mm.fcix.net/
 elmirror.cl/
@@ -220,6 +219,7 @@ mirror.freethought-internet.co.uk/
 mirror.fsmg.org.nz/
 mirror.fst.kz/
 mirror.funkfreundelandshut.de/
+mirror.geekonweb.fr/
 mirror.gi.co.id/
 mirror.gofoss.xyz/
 mirror.gotmyhost.com/
