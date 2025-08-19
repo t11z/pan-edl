@@ -37,7 +37,6 @@ debian.linux.n0c.ca/
 debian.lth.se/
 debian.ludost.net/
 debian.mirror.ac.ke/
-debian.mirror.ac.za/
 debian.mirror.constant.com/
 debian.mirror.digitalpacific.com.au/
 debian.mirror.garr.it/
@@ -228,7 +227,6 @@ mirror.gsl.icu/
 mirror.hnd.cl/
 mirror.hoster.kz/
 mirror.hyperdedic.ru/
-mirror.i3d.net/
 mirror.ibcp.fr/
 mirror.informatik.tu-freiberg.de/
 mirror.init7.net/
