@@ -1,4 +1,5 @@
 *.archive.ubuntu.com/
+archive.g4t1.pro/
 archive.linux.duke.edu/
 archive.todayvisionbd.com/
 archive.ubuntu.com/
@@ -353,7 +354,6 @@ mirror.team-host.ru/
 mirror.techlabs.co.kr/
 mirror.telepoint.bg/
 mirror.thunderhosting.cloud/
-mirror.timeweb.ru/
 mirror.timkevin.us/
 mirror.tngnet.com/
 mirror.transip.net/
