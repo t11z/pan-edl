@@ -280,6 +280,7 @@ mirror.linux.ncsu.edu/
 mirror.liquidrp.de/
 mirror.logol.ru/
 mirror.lstn.net/
+mirror.lyrahosting.com/
 mirror.maeen.sa/
 mirror.marwan.ma/
 mirror.math.princeton.edu/
@@ -404,6 +405,7 @@ mirror2.tuxinator.org/
 mirrors-ubuntu.behostings.com/
 mirrors.accretive-networks.net/
 mirrors.aliyun.com/
+mirrors.arpnetworks.com/
 mirrors.as215248.net/
 mirrors.asnet.am/
 mirrors.atlas.net.co/
@@ -471,6 +473,7 @@ mirrors.sarak.as/
 mirrors.sjtug.sjtu.edu.cn/
 mirrors.sohu.com/
 mirrors.sonic.net/
+mirrors.sth.sze.hu/
 mirrors.storpool.com/
 mirrors.teamcloud.am/
 mirrors.tino.org/
