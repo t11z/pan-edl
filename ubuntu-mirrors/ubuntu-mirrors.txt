@@ -385,6 +385,7 @@ mirror.verinomi.com/
 mirror.vietnix.vn/
 mirror.viettelcloud.vn/
 mirror.vinehost.net/
+mirror.virtury.com/
 mirror.vnet.sk/
 mirror.vorboss.net/
 mirror.vpgrp.io/
@@ -626,7 +627,6 @@ ubuntu.rootlicense.com/
 ubuntu.rsync.kr/
 ubuntu.securedservers.com/
 ubuntu.servering.info/
-ubuntu.syxpi.fr/
 ubuntu.task.gda.pl/
 ubuntu.tuxuri.com/
 ubuntu.ucr.ac.cr/
