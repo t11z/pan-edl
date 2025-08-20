@@ -157,7 +157,6 @@ ftp.task.gda.pl/
 ftp.ticklers.org/
 ftp.tr.debian.org/
 ftp.tu-chemnitz.de/
-ftp.tu-clausthal.de/
 ftp.tu-graz.ac.at/
 ftp.tw.debian.org/
 ftp.u-picardie.fr/
@@ -282,6 +281,7 @@ mirror.sitsa.com.ar/
 mirror.siwoo.org/
 mirror.steadfast.net/
 mirror.telepoint.bg/
+mirror.timkevin.us/
 mirror.tngnet.com/
 mirror.truenetwork.ru/
 mirror.twds.com.tw/
