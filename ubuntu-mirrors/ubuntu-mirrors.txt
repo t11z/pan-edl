@@ -204,7 +204,6 @@ mirror.elice.io/
 mirror.eliv.digital/
 mirror.enzu.com/
 mirror.esecuredata.com/
-mirror.espol.edu.ec/
 mirror.eu-fr.kamatera.com/
 mirror.eu-lo.kamatera.com/
 mirror.eu.kamatera.com/
@@ -329,7 +328,6 @@ mirror.realcompute.io/
 mirror.reenigne.net/
 mirror.renu.ac.ug/
 mirror.repository.id/
-mirror.retentionrange.co.bw/
 mirror.rise.ph/
 mirror.root.lu/
 mirror.rustytel.net/
