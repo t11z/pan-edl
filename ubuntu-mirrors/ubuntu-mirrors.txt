@@ -181,7 +181,6 @@ mirror.cs.jmu.edu/
 mirror.cs.odu.edu/
 mirror.csclub.uwaterloo.ca/
 mirror.cse.iitk.ac.in/
-mirror.d.umn.edu/
 mirror.dal.nexril.net/
 mirror.daniel-jost.net/
 mirror.datacenter.az/
@@ -355,6 +354,7 @@ mirror.team-host.ru/
 mirror.techlabs.co.kr/
 mirror.telepoint.bg/
 mirror.thunderhosting.cloud/
+mirror.timeweb.ru/
 mirror.timkevin.us/
 mirror.tngnet.com/
 mirror.transip.net/
