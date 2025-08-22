@@ -290,6 +290,7 @@ mirror.mia.velocihost.net/
 mirror.mirohost.net/
 mirror.mrjester.net/
 mirror.mythic-beasts.com/
+mirror.n1of.com/
 mirror.neftm.ru/
 mirror.neolabs.kz/
 mirror.netcologne.de/
