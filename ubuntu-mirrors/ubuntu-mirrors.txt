@@ -449,7 +449,6 @@ mirrors.layeronline.com/
 mirrors.liquidweb.com/
 mirrors.lug.mtu.edu/
 mirrors.maine.edu/
-mirrors.mediascope.group/
 mirrors.melbourne.co.uk/
 mirrors.mit.edu/
 mirrors.mivocloud.com/
