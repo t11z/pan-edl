@@ -179,6 +179,7 @@ mirror.cs.jmu.edu/
 mirror.cs.odu.edu/
 mirror.csclub.uwaterloo.ca/
 mirror.cse.iitk.ac.in/
+mirror.d.umn.edu/
 mirror.dal.nexril.net/
 mirror.daniel-jost.net/
 mirror.datacenter.az/
@@ -307,6 +308,7 @@ mirror.nl.datapacket.com/
 mirror.nl.leaseweb.net/
 mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
+mirror.nus.edu.sg/
 mirror.nyist.edu.cn/
 mirror.one.com/
 mirror.ossplanet.net/
@@ -498,7 +500,6 @@ mirrors.yun-idc.com/
 mirrors.zagrio.net/
 mirrors.zju.edu.cn/
 mirrror.0xem.ma/
-mr.heru.id/
 muug.ca/
 nl.archive.ubuntu.com/
 nl.mirror.flokinet.net/
