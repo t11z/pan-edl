@@ -27,7 +27,6 @@ distrib-coffee.ipsl.jussieu.fr/
 distrohub.kyiv.ua/
 dl2.foss-id.web.id/
 download.nus.edu.sg/
-download.nust.na/
 drmirror.physi.uni-heidelberg.de/
 edgeuno-bog2.mm.fcix.net/
 elmirror.cl/
@@ -116,6 +115,7 @@ kartolo.sby.datautama.net.id/
 kozyatagi.mirror.guzel.net.tr/
 kr.mirror.tefexia.net/
 la.mirrors.clouvider.net/
+labs.eif.urjc.es/
 linux.domainesia.com/
 linux.yz.yamagata-u.ac.jp/
 lug.mines.edu/
