@@ -126,7 +126,6 @@ lug.mines.edu/
 mir.linux.kg/
 miroir.univ-lorraine.fr/
 mirror-gw.elastis.id/
-mirror-hk.koddos.net/
 mirror-mk.interspace.com/
 mirror.0-1.cloud/
 mirror.01link.hk/
@@ -182,7 +181,6 @@ mirror.creoline.net/
 mirror.cs.jmu.edu/
 mirror.cs.odu.edu/
 mirror.csclub.uwaterloo.ca/
-mirror.cse.iitk.ac.in/
 mirror.d.umn.edu/
 mirror.dal.nexril.net/
 mirror.daniel-jost.net/
@@ -277,6 +275,7 @@ mirror.leitecastro.com/
 mirror.library.ucy.ac.cy/
 mirror.limda.net/
 mirror.linkdata.com/
+mirror.linux-ia64.org/
 mirror.linux.ncsu.edu/
 mirror.liquidrp.de/
 mirror.logol.ru/
