@@ -27,6 +27,7 @@ distrib-coffee.ipsl.jussieu.fr/
 distrohub.kyiv.ua/
 dl2.foss-id.web.id/
 download.nus.edu.sg/
+download.nust.na/
 drmirror.physi.uni-heidelberg.de/
 edgeuno-bog2.mm.fcix.net/
 elmirror.cl/
@@ -621,7 +622,6 @@ ubuntu.parsvds.com/
 ubuntu.phoenixnap.com/
 ubuntu.pishgaman.net/
 ubuntu.repo.cure.edu.uy/
-ubuntu.rootlicense.com/
 ubuntu.rsync.kr/
 ubuntu.securedservers.com/
 ubuntu.servering.info/
