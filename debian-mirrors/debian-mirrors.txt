@@ -134,6 +134,7 @@ ftp.kr.debian.org/
 ftp.lanet.kr/
 ftp.linux.it/
 ftp.linux.org.tr/
+ftp.lip6.fr/
 ftp.lt.debian.org/
 ftp.md.debian.org/
 ftp.nara.wide.ad.jp/
