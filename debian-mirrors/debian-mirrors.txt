@@ -358,7 +358,6 @@ nl.mirrors.clouvider.net/
 nyc.mirrors.clouvider.net/
 opensource.nchc.org.tw/
 ossmirror.mycloud.services/
-packages.hs-regensburg.de/
 pkg.adfinis-on-exoscale.ch/
 plug-mirror.rcac.purdue.edu/
 pubmirror.plutex.de/
