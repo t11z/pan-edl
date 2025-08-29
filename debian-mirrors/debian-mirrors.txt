@@ -10,6 +10,7 @@ debian-archive.trafficmanager.net/
 debian-mirror.behostings.net/
 debian-mirror.puq.apoapsis.cl/
 debian-mirror.sakura.ne.jp/
+debian.a1.bg/
 debian.anexia.at/
 debian.apt-mirror.de/
 debian.c3sl.ufpr.br/
@@ -79,7 +80,6 @@ debian.unnoba.edu.ar/
 debian.uvigo.es/
 debian.volia.net/
 debian.web.trex.fi/
-debian.xtdv.net/
 dennou-k.gfd-dennou.org/
 depot-debian.univ-reunion.fr/
 distrohub.kyiv.ua/
