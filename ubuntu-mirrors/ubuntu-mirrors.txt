@@ -270,6 +270,7 @@ mirror.kapteyan.com.tr/
 mirror.katapult.io/
 mirror.keiminem.com/
 mirror.kernel.ir/
+mirror.kkg.berlin/
 mirror.kku.ac.th/
 mirror.krfoss.org/
 mirror.kumi.systems/
