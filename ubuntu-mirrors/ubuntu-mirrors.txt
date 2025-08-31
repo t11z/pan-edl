@@ -204,7 +204,6 @@ mirror.easyname.at/
 mirror.efect.ro/
 mirror.ekiphost.com/
 mirror.elice.io/
-mirror.eliv.digital/
 mirror.enzu.com/
 mirror.esecuredata.com/
 mirror.espol.edu.ec/
