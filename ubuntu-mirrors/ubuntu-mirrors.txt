@@ -372,7 +372,6 @@ mirror.uepg.br/
 mirror.ufam.edu.br/
 mirror.ufro.cl/
 mirror.ufscar.br/
-mirror.umd.edu/
 mirror.unair.ac.id/
 mirror.unesp.br/
 mirror.unimagdalena.edu.co/
