@@ -24,7 +24,6 @@ de.mirrors.clouvider.net/
 deb.campolargo.pr.gov.br/
 debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
-distrohub.kyiv.ua/
 dl2.foss-id.web.id/
 download.nus.edu.sg/
 download.nust.na/
