@@ -231,6 +231,7 @@ mirror.hoobly.com/
 mirror.hostafrica.co.za/
 mirror.hoster.kz/
 mirror.hosthink.net/
+mirror.hostiko.network/
 mirror.hostnet.nl/
 mirror.hyperdedic.ru/
 mirror.ietlucknow.ac.in/
