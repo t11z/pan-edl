@@ -82,7 +82,6 @@ debian.volia.net/
 debian.web.trex.fi/
 dennou-k.gfd-dennou.org/
 depot-debian.univ-reunion.fr/
-distrohub.kyiv.ua/
 drmirror.physi.uni-heidelberg.de/
 free.hands.com/
 ftp-stud.hs-esslingen.de/
