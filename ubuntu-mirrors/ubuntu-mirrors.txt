@@ -178,7 +178,6 @@ mirror.cs.jmu.edu/
 mirror.cs.odu.edu/
 mirror.csclub.uwaterloo.ca/
 mirror.cse.iitk.ac.in/
-mirror.d.umn.edu/
 mirror.dal.nexril.net/
 mirror.daniel-jost.net/
 mirror.datacenter.az/
