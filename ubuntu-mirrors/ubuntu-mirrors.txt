@@ -435,6 +435,7 @@ mirrors.fibianet.dk/
 mirrors.gbnetwork.com/
 mirrors.gethosted.online/
 mirrors.gigenet.com/
+mirrors.gofiber.vn/
 mirrors.hosterion.ro/
 mirrors.hostico.ro/
 mirrors.hostiserver.com/
