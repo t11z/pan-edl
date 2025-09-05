@@ -192,7 +192,6 @@ mirror.dewabiz.com/
 mirror.digitaloceans.dev/
 mirror.digitalpacific.com.au/
 mirror.dkm.cz/
-mirror.docker.ru/
 mirror.dogado.de/
 mirror.domainhizmetleri.com/
 mirror.easyname.at/
@@ -382,7 +381,6 @@ mirror.us-tx.kamatera.com/
 mirror.us.leaseweb.net/
 mirror.vcu.edu/
 mirror.veesp.com/
-mirror.verinomi.com/
 mirror.vietnix.vn/
 mirror.viettelcloud.vn/
 mirror.vinehost.net/
@@ -440,7 +438,6 @@ mirrors.hosterion.ro/
 mirrors.hostico.ro/
 mirrors.hostiserver.com/
 mirrors.huaweicloud.com/
-mirrors.hust.edu.cn/
 mirrors.iitd.ac.in/
 mirrors.ipserverone.com/
 mirrors.ircam.fr/
