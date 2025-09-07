@@ -193,6 +193,7 @@ mirror.dewabiz.com/
 mirror.digitaloceans.dev/
 mirror.digitalpacific.com.au/
 mirror.dkm.cz/
+mirror.docker.ru/
 mirror.dogado.de/
 mirror.domainhizmetleri.com/
 mirror.easyname.at/
@@ -381,6 +382,7 @@ mirror.us-tx.kamatera.com/
 mirror.us.leaseweb.net/
 mirror.vcu.edu/
 mirror.veesp.com/
+mirror.verinomi.com/
 mirror.vietnix.vn/
 mirror.viettelcloud.vn/
 mirror.vinehost.net/
@@ -541,6 +543,7 @@ sft.if.usp.br:/
 sg-mirrors.vhost.vn/
 softlibre.unizar.es/
 suro.ubaya.ac.id/
+suse.uni-leipzig.de/
 tux.rainside.sk/
 tw1.mirror.blendbyte.net/
 ubuntu-arch.linux.edu.lv/
