@@ -323,7 +323,7 @@ mirror.previder.nl/
 mirror.ps.kz/
 mirror.rabisu.com/
 mirror.raiolanetworks.com/
-mirror.rcg.sfu.ca/
+mirror.ratiokontakt.de/
 mirror.realcompute.io/
 mirror.reenigne.net/
 mirror.renu.ac.ug/
@@ -423,7 +423,6 @@ mirrors.cmich.edu/
 mirrors.cn99.com/
 mirrors.codec-cluster.org/
 mirrors.coreix.net/
-mirrors.cqu.edu.cn/
 mirrors.dc.clear.net.ar/
 mirrors.dgut.edu.cn/
 mirrors.dotsrc.org/
