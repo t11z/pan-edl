@@ -134,7 +134,6 @@ ftp.linux.it/
 ftp.linux.org.tr/
 ftp.lip6.fr/
 ftp.lt.debian.org/
-ftp.md.debian.org/
 ftp.nara.wide.ad.jp/
 ftp.nc.debian.org/
 ftp.nl.debian.org/
@@ -178,7 +177,6 @@ ftpmirror1.infania.net/
 giano.com.dist.unige.it/
 is.mirror.flokinet.net/
 kartolo.sby.datautama.net.id/
-kebo.pens.ac.id/
 la.mirrors.clouvider.net/
 lethe.chinstrap.org/
 lidsol.fi-b.unam.mx/
@@ -198,7 +196,6 @@ mirror.amaze.com.au/
 mirror.ams.macarne.com/
 mirror.applebred.net/
 mirror.as35701.net/
-mirror.as43289.net/
 mirror.bgp.rodeo/
 mirror.bizflycloud.vn/
 mirror.blue3.com.br/
@@ -209,7 +206,6 @@ mirror.corbina.net/
 mirror.cov.ukservers.com/
 mirror.creoline.net/
 mirror.csclub.uwaterloo.ca/
-mirror.dal.nexril.net/
 mirror.datacenter.by/
 mirror.de.leaseweb.net/
 mirror.debian.ikoula.com/
@@ -256,7 +252,6 @@ mirror.netzwerge.de/
 mirror.nforce.com/
 mirror.nitc.ac.in/
 mirror.nju.edu.cn/
-mirror.nl.cdn-perfprod.com/
 mirror.nl.datapacket.com/
 mirror.nl.leaseweb.net/
 mirror.nl.mirhosting.net/
