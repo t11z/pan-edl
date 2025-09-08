@@ -206,6 +206,7 @@ mirror.esecuredata.com/
 mirror.espol.edu.ec/
 mirror.eu-fr.kamatera.com/
 mirror.eu-lo.kamatera.com/
+mirror.eu.4psacloud.com/
 mirror.eu.kamatera.com/
 mirror.faizuladib.com/
 mirror.famaserver.com/
@@ -299,6 +300,7 @@ mirror.netspace.net.au/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nforce.com/
+mirror.niif.hu/
 mirror.nishi.network/
 mirror.nitc.ac.in/
 mirror.nju.edu.cn/
