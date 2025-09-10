@@ -132,7 +132,6 @@ ftp.kaist.ac.kr/
 ftp.kr.debian.org/
 ftp.lanet.kr/
 ftp.linux.it/
-ftp.linux.org.tr/
 ftp.lip6.fr/
 ftp.lt.debian.org/
 ftp.nara.wide.ad.jp/
@@ -154,7 +153,6 @@ ftp.sk.debian.org/
 ftp.stw-bonn.de/
 ftp.task.gda.pl/
 ftp.ticklers.org/
-ftp.tr.debian.org/
 ftp.tu-chemnitz.de/
 ftp.tu-graz.ac.at/
 ftp.tw.debian.org/
@@ -280,7 +278,6 @@ mirror.tngnet.com/
 mirror.truenetwork.ru/
 mirror.twds.com.tw/
 mirror.uepg.br/
-mirror.ufro.cl/
 mirror.ufscar.br/
 mirror.ukrnames.com/
 mirror.unair.ac.id/
