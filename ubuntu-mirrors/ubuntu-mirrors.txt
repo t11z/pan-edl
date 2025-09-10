@@ -281,7 +281,6 @@ mirror.logol.ru/
 mirror.lstn.net/
 mirror.lyrahosting.com/
 mirror.maeen.sa/
-mirror.marcusn.net/
 mirror.marwan.ma/
 mirror.math.princeton.edu/
 mirror.math.ucdavis.edu/
@@ -294,7 +293,6 @@ mirror.mythic-beasts.com/
 mirror.neftm.ru/
 mirror.neolabs.kz/
 mirror.netcologne.de/
-mirror.netsite.dk/
 mirror.netspace.net.au/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
