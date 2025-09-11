@@ -427,7 +427,6 @@ mirrors.cmich.edu/
 mirrors.cn99.com/
 mirrors.codec-cluster.org/
 mirrors.coreix.net/
-mirrors.cqu.edu.cn/
 mirrors.dc.clear.net.ar/
 mirrors.dgut.edu.cn/
 mirrors.dotsrc.org/
@@ -530,7 +529,6 @@ repo.jztkft.hu/
 repo.linuxmirrors.ir/
 repo.morgan.kr/
 repo.ugm.ac.id/
-repo.usk.ac.id/
 repos.del.extreme-ix.org/
 repos.interior.edu.uy/
 rsync.gtlib.gatech.edu/
