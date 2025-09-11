@@ -289,6 +289,7 @@ mirror.metrocast.net/
 mirror.mia.velocihost.net/
 mirror.mirohost.net/
 mirror.mrjester.net/
+mirror.mvizn.com/
 mirror.mythic-beasts.com/
 mirror.neftm.ru/
 mirror.neolabs.kz/
