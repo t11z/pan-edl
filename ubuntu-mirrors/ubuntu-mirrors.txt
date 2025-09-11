@@ -191,7 +191,6 @@ mirror.de.leaseweb.net/
 mirror.deace.id/
 mirror.dewabiz.com/
 mirror.digitaloceans.dev/
-mirror.digitalpacific.com.au/
 mirror.dkm.cz/
 mirror.docker.ru/
 mirror.dogado.de/
@@ -440,6 +439,7 @@ mirrors.hosterion.ro/
 mirrors.hostico.ro/
 mirrors.hostiserver.com/
 mirrors.huaweicloud.com/
+mirrors.hust.edu.cn/
 mirrors.iitd.ac.in/
 mirrors.ipserverone.com/
 mirrors.ircam.fr/
@@ -587,7 +587,6 @@ ubuntu.linux.n0c.ca/
 ubuntu.man.lodz.pl/
 ubuntu.mirror.ac.ke/
 ubuntu.mirror.constant.com/
-ubuntu.mirror.digitalpacific.com.au/
 ubuntu.mirror.frontiernet.net/
 ubuntu.mirror.garr.it/
 ubuntu.mirror.globo.tech/
