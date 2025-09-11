@@ -208,7 +208,6 @@ mirror.eu-fr.kamatera.com/
 mirror.eu-lo.kamatera.com/
 mirror.eu.4psacloud.com/
 mirror.eu.kamatera.com/
-mirror.faizuladib.com/
 mirror.famaserver.com/
 mirror.faraso.org/
 mirror.fcix.net/
