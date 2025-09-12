@@ -270,7 +270,6 @@ mirror.kernel.ir/
 mirror.kkg.berlin/
 mirror.kku.ac.th/
 mirror.krfoss.org/
-mirror.leitecastro.com/
 mirror.library.ucy.ac.cy/
 mirror.limda.net/
 mirror.linkdata.com/
