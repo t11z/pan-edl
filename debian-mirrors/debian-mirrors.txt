@@ -274,6 +274,7 @@ mirror.siena.edu/
 mirror.sinavps.ch/
 mirror.sitsa.com.ar/
 mirror.siwoo.org/
+mirror.sjtu.edu.cn/
 mirror.telepoint.bg/
 mirror.tngnet.com/
 mirror.truenetwork.ru/
