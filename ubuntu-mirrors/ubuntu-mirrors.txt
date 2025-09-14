@@ -24,6 +24,7 @@ de.mirrors.clouvider.net/
 deb.campolargo.pr.gov.br/
 debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
+distrohub.kyiv.ua/
 dl2.foss-id.web.id/
 download.nus.edu.sg/
 download.nust.na/
@@ -557,7 +558,6 @@ ubuntu-mirror.kimiahost.com/
 ubuntu-mirror.puq.apoapsis.cl/
 ubuntu-mirror.snu.edu.in/
 ubuntu.anexia.at/
-ubuntu.avalicense.com/
 ubuntu.btit.nz/
 ubuntu.c3sl.ufpr.br/
 ubuntu.ccns.ncku.edu.tw/
