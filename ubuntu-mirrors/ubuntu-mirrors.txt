@@ -566,6 +566,7 @@ ubuntu.cs.nctu.edu.tw/
 ubuntu.cs.utah.edu/
 ubuntu.dts.mg/
 ubuntu.ethz.ch/
+ubuntu.gjolly.dev/
 ubuntu.grad.hr/
 ubuntu.grena.ge/
 ubuntu.grn.cat/
