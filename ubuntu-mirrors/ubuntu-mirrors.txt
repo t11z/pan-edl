@@ -165,6 +165,7 @@ mirror.bytemark.co.uk/
 mirror.ca-tr.kamatera.com/
 mirror.cc.vt.edu/
 mirror.cedia.org.ec/
+mirror.cepatcloud.id/
 mirror.chmuri.net/
 mirror.citrahost.com/
 mirror.clarkson.edu/
@@ -368,6 +369,7 @@ mirror.uchile.cl/
 mirror.uepg.br/
 mirror.ufam.edu.br/
 mirror.ufro.cl/
+mirror.ufscar.br/
 mirror.umd.edu/
 mirror.unair.ac.id/
 mirror.unesp.br/
@@ -497,6 +499,7 @@ mirrors.xtom.com/
 mirrors.xtom.de/
 mirrors.xtom.ee/
 mirrors.xtom.nl/
+mirrors.yun-idc.com/
 mirrors.zagrio.net/
 mirrors.zju.edu.cn/
 mirrror.0xem.ma/
