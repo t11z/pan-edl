@@ -292,7 +292,6 @@ mirror.mirohost.net/
 mirror.mrjester.net/
 mirror.mvizn.com/
 mirror.mythic-beasts.com/
-mirror.n1of.com/
 mirror.neftm.ru/
 mirror.neolabs.kz/
 mirror.netcologne.de/
@@ -550,6 +549,7 @@ suro.ubaya.ac.id/
 suse.uni-leipzig.de/
 tux.rainside.sk/
 tw1.mirror.blendbyte.net/
+ubuntu-arch.linux.edu.lv/
 ubuntu-archive.interhost.co.il/
 ubuntu-archive.locaweb.com.br/
 ubuntu-archive.mirror.liquidtelecom.com/
