@@ -270,6 +270,7 @@ mirror.kernel.ir/
 mirror.kkg.berlin/
 mirror.kku.ac.th/
 mirror.krfoss.org/
+mirror.kumi.systems/
 mirror.library.ucy.ac.cy/
 mirror.limda.net/
 mirror.linkdata.com/
@@ -643,6 +644,7 @@ ubuntu.web.trex.fi/
 ubuntu.zero.com.ar/
 ubuntutym.u-toyama.ac.jp/
 ucho.ignum.cz/
+ucmirror.canterbury.ac.nz/
 uk.mirrors.clouvider.net/
 vn-mirrors.techhost.vn/
 vn-mirrors.vhost.vn/
