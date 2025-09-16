@@ -192,6 +192,7 @@ mirror.aarnet.edu.au/
 mirror.abmanagement.al/
 mirror.alwyzon.net/
 mirror.amaze.com.au/
+mirror.aminidc.com/
 mirror.ams.macarne.com/
 mirror.applebred.net/
 mirror.as35701.net/
