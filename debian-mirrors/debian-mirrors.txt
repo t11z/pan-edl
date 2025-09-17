@@ -229,6 +229,7 @@ mirror.informatik.tu-freiberg.de/
 mirror.init7.net/
 mirror.insacom.cl/
 mirror.ipb.de/
+mirror.iranserver.com/
 mirror.it.ubc.ca/
 mirror.it4i.cz/
 mirror.iway.ch/
@@ -301,7 +302,6 @@ mirror.xtom.com.hk/
 mirror.yuki.net.uk/
 mirror1.infomaniak.com/
 mirror2.infomaniak.com/
-mirrors.163.com/
 mirrors.accretive-networks.net/
 mirrors.asnet.am/
 mirrors.bfsu.edu.cn/
