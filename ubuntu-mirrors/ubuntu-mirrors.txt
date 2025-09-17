@@ -561,6 +561,7 @@ ubuntu-mirror.cloud.mu/
 ubuntu-mirror.kimiahost.com/
 ubuntu-mirror.puq.apoapsis.cl/
 ubuntu-mirror.snu.edu.in/
+ubuntu.01link.hk/
 ubuntu.anexia.at/
 ubuntu.avalicense.com/
 ubuntu.btit.nz/
