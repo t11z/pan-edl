@@ -271,7 +271,6 @@ mirror.kernel.ir/
 mirror.kkg.berlin/
 mirror.kku.ac.th/
 mirror.krfoss.org/
-mirror.kumi.systems/
 mirror.library.ucy.ac.cy/
 mirror.limda.net/
 mirror.linkdata.com/
