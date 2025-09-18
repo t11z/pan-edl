@@ -130,6 +130,7 @@ mirror-gw.elastis.id/
 mirror-hk.koddos.net/
 mirror-mk.interspace.com/
 mirror.0-1.cloud/
+mirror.01link.hk/
 mirror.0x.sg/
 mirror.0xem.ma/
 mirror.23m.com/
@@ -277,7 +278,6 @@ mirror.limda.net/
 mirror.linkdata.com/
 mirror.linux-ia64.org/
 mirror.linux.ncsu.edu/
-mirror.liquidrp.de/
 mirror.logol.ru/
 mirror.lstn.net/
 mirror.lyrahosting.com/
@@ -293,6 +293,7 @@ mirror.mirohost.net/
 mirror.mrjester.net/
 mirror.mvizn.com/
 mirror.mythic-beasts.com/
+mirror.n1of.com/
 mirror.neftm.ru/
 mirror.neolabs.kz/
 mirror.netcologne.de/
@@ -543,7 +544,6 @@ rsync.yuki.net.uk/
 security.ubuntu.com/
 sft.if.usp.br/
 sft.if.usp.br:/
-sg-mirrors.vhost.vn/
 softlibre.unizar.es/
 suro.ubaya.ac.id/
 suse.uni-leipzig.de/
