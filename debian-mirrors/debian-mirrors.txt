@@ -80,6 +80,7 @@ debian.unnoba.edu.ar/
 debian.uvigo.es/
 debian.volia.net/
 debian.web.trex.fi/
+debian.xtdv.net/
 dennou-k.gfd-dennou.org/
 depot-debian.univ-reunion.fr/
 drmirror.physi.uni-heidelberg.de/
@@ -177,6 +178,7 @@ ftpmirror1.infania.net/
 giano.com.dist.unige.it/
 is.mirror.flokinet.net/
 kartolo.sby.datautama.net.id/
+kebo.pens.ac.id/
 la.mirrors.clouvider.net/
 lethe.chinstrap.org/
 lidsol.fi-b.unam.mx/
@@ -321,6 +323,7 @@ mirrors.iu13.net/
 mirrors.jlu.edu.cn/
 mirrors.lug.mtu.edu/
 mirrors.nav.ro/
+mirrors.nepalicloud.com/
 mirrors.netix.net/
 mirrors.neusoft.edu.cn/
 mirrors.nxthost.com/
