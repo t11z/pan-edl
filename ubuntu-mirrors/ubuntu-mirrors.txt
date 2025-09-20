@@ -43,6 +43,7 @@ ftp.corbina.net/
 ftp.csuc.cat/
 ftp.cvut.cz/
 ftp.daum.net/
+ftp.energotel.sk/
 ftp.fau.de/
 ftp.fu-berlin.de/
 ftp.gtlib.gatech.edu/
@@ -473,6 +474,7 @@ mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
 mirrors.ptisp.pt/
 mirrors.rit.edu/
+mirrors.sarak.as/
 mirrors.sdu.edu.cn/
 mirrors.sjtug.sjtu.edu.cn/
 mirrors.sohu.com/
