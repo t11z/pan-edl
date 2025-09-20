@@ -190,7 +190,6 @@ mirror-mk.interspace.com/
 mirror.0x626b.com/
 mirror.23m.com/
 mirror.a1.mk/
-mirror.aarnet.edu.au/
 mirror.abmanagement.al/
 mirror.alwyzon.net/
 mirror.amaze.com.au/
