@@ -14,7 +14,6 @@ archive.ubuntumirror.dei.uc.pt/
 artfiles.org/
 atl.mirrors.clouvider.net/
 aze.archive.ubuntu.com/
-cdn.ubuntu.repo.cloudeka.id/
 cesium.di.uminho.pt/
 cz.archive.ubuntu.com/
 dafi.inf.um.es/
