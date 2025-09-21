@@ -14,6 +14,7 @@ archive.ubuntumirror.dei.uc.pt/
 artfiles.org/
 atl.mirrors.clouvider.net/
 aze.archive.ubuntu.com/
+cdn.repo.cloudeka.id/
 cesium.di.uminho.pt/
 cz.archive.ubuntu.com/
 dafi.inf.um.es/
@@ -431,6 +432,7 @@ mirrors.cmich.edu/
 mirrors.cn99.com/
 mirrors.codec-cluster.org/
 mirrors.coreix.net/
+mirrors.cqu.edu.cn/
 mirrors.dc.clear.net.ar/
 mirrors.dgut.edu.cn/
 mirrors.dotsrc.org/
