@@ -249,6 +249,7 @@ mirror.il-pt.kamatera.com/
 mirror.il-rh.kamatera.com/
 mirror.il-ta.kamatera.com/
 mirror.il.kamatera.com/
+mirror.improve.nordlo.cloud/
 mirror.infomaniak.ch/
 mirror.informatik.tu-freiberg.de/
 mirror.init7.net/
@@ -406,7 +407,6 @@ mirror.xtom.com.hk/
 mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
-mirror.zetup.net/
 mirror.zzunipark.com/
 mirror1.ku.ac.th/
 mirror1.sox.rs/
