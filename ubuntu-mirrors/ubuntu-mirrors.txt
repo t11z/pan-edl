@@ -175,7 +175,6 @@ mirror.clarkson.edu/
 mirror.clearsky.vn/
 mirror.clientvps.com/
 mirror.cloudhosting.lv/
-mirror.cmkl.ac.th/
 mirror.coganng.com/
 mirror.cogentco.com/
 mirror.corbina.net/
@@ -527,7 +526,6 @@ rep-ubuntu-il.upress.io/
 repo.extreme-ix.org/
 repo.huaweicloud.com/
 repo.ialab.dsu.edu/
-repo.iut.ac.ir/
 repo.jztkft.hu/
 repo.linuxmirrors.ir/
 repo.morgan.kr/
