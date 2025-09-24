@@ -206,6 +206,7 @@ mirror.coganng.com/
 mirror.cogentco.com/
 mirror.corbina.net/
 mirror.cov.ukservers.com/
+mirror.cpsc.ucalgary.ca/
 mirror.creoline.net/
 mirror.csclub.uwaterloo.ca/
 mirror.datacenter.by/
