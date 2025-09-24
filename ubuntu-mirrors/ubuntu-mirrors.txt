@@ -508,6 +508,7 @@ mirrors.zju.edu.cn/
 mirrror.0xem.ma/
 mr.heru.id/
 muug.ca/
+net.0ms.dev/
 nl.archive.ubuntu.com/
 nl.mirror.flokinet.net/
 nl.mirrors.clouvider.net/
