@@ -501,7 +501,6 @@ mirrors.xtom.ee/
 mirrors.xtom.nl/
 mirrors.yun-idc.com/
 mirrors.zagrio.net/
-mirrors.zju.edu.cn/
 mirrror.0xem.ma/
 mr.heru.id/
 muug.ca/
