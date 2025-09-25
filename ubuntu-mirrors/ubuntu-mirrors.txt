@@ -459,7 +459,6 @@ mirrors.nav.ro/
 mirrors.neterra.net/
 mirrors.netix.net/
 mirrors.neusoft.edu.cn/
-mirrors.nhanhoa.com/
 mirrors.nic.funet.fi/
 mirrors.njupt.edu.cn/
 mirrors.nxtgen.com/
@@ -525,6 +524,7 @@ rep-ubuntu-il.upress.io/
 repo.extreme-ix.org/
 repo.huaweicloud.com/
 repo.ialab.dsu.edu/
+repo.iut.ac.ir/
 repo.jztkft.hu/
 repo.linuxmirrors.ir/
 repo.morgan.kr/
@@ -635,7 +635,6 @@ ubuntu.tuxuri.com/
 ubuntu.ucr.ac.cr/
 ubuntu.uib.no/
 ubuntu.unc.edu.ar/
-ubuntu.uni-klu.ac.at/
 ubuntu.univ-nantes.fr/
 ubuntu.univ-reims.fr/
 ubuntu.uvigo.es/
