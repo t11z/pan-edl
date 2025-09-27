@@ -274,7 +274,6 @@ mirror.ps.kz/
 mirror.raiolanetworks.com/
 mirror.realcompute.io/
 mirror.ro.cdn-perfprod.com/
-mirror.rustytel.net/
 mirror.sabay.com.kh/
 mirror.sg.gs/
 mirror.siena.edu/
