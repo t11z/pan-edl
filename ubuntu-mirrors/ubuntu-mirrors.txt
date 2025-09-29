@@ -105,7 +105,6 @@ giano.com.dist.unige.it/
 glua.ua.pt/
 gpl.savoirfairelinux.net/
 http.krfoss.org/
-in.mirror.coganng.com/
 ir.archive.ubuntu.com/
 ir.ubuntu.sindad.cloud/
 is.mirror.flokinet.net/
@@ -161,7 +160,6 @@ mirror.bg.host.ag/
 mirror.bharatdatacenter.com/
 mirror.bizflycloud.vn/
 mirror.biznetgio.com/
-mirror.bjtu.edu.cn/
 mirror.brightridge.com/
 mirror.bytemark.co.uk/
 mirror.ca-tr.kamatera.com/
@@ -174,6 +172,7 @@ mirror.clarkson.edu/
 mirror.clearsky.vn/
 mirror.clientvps.com/
 mirror.cloudhosting.lv/
+mirror.cmkl.ac.th/
 mirror.coganng.com/
 mirror.cogentco.com/
 mirror.corbina.net/
