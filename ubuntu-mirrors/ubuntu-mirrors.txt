@@ -274,6 +274,7 @@ mirror.kkg.berlin/
 mirror.kku.ac.th/
 mirror.krfoss.org/
 mirror.kumi.systems/
+mirror.lc/
 mirror.library.ucy.ac.cy/
 mirror.limda.net/
 mirror.linkdata.com/
@@ -431,10 +432,12 @@ mirrors.cn99.com/
 mirrors.codec-cluster.org/
 mirrors.coreix.net/
 mirrors.cqu.edu.cn/
+mirrors.datapark.ro/
 mirrors.dc.clear.net.ar/
 mirrors.dgut.edu.cn/
 mirrors.dotsrc.org/
 mirrors.egr.msu.edu/
+mirrors.esto.network/
 mirrors.evoluso.com/
 mirrors.fibianet.dk/
 mirrors.gbnetwork.com/
@@ -570,6 +573,7 @@ ubuntu.anexia.at/
 ubuntu.avalicense.com/
 ubuntu.btit.nz/
 ubuntu.c3sl.ufpr.br/
+ubuntu.ccns.ncku.edu.tw/
 ubuntu.cica.es/
 ubuntu.cs.nctu.edu.tw/
 ubuntu.cs.utah.edu/
