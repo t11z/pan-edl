@@ -131,7 +131,6 @@ mirror-mk.interspace.com/
 mirror.0-1.cloud/
 mirror.01link.hk/
 mirror.0x.sg/
-mirror.0xem.ma/
 mirror.23m.com/
 mirror.2degrees.nz/
 mirror.5i.fi/
@@ -508,7 +507,6 @@ mirrors.xtom.ee/
 mirrors.xtom.nl/
 mirrors.yun-idc.com/
 mirrors.zagrio.net/
-mirrror.0xem.ma/
 mr.heru.id/
 muug.ca/
 net.0ms.dev/
