@@ -324,7 +324,6 @@ mirror.pilotfiber.com/
 mirror.pit.teraswitch.com/
 mirror.plusserver.com/
 mirror.previder.nl/
-mirror.ps.kz/
 mirror.raiolanetworks.com/
 mirror.ratiokontakt.de/
 mirror.realcompute.io/
