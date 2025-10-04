@@ -189,6 +189,7 @@ mirror.datacenter.mn/
 mirror.datamossa.io/
 mirror.dc.uz/
 mirror.de.leaseweb.net/
+mirror.deace.id/
 mirror.dewabiz.com/
 mirror.digitaloceans.dev/
 mirror.dkm.cz/
@@ -547,7 +548,6 @@ suro.ubaya.ac.id/
 suse.uni-leipzig.de/
 tux.rainside.sk/
 tw1.mirror.blendbyte.net/
-ubuntu-arch.linux.edu.lv/
 ubuntu-archive.interhost.co.il/
 ubuntu-archive.locaweb.com.br/
 ubuntu-archive.mirror.liquidtelecom.com/
