@@ -141,7 +141,6 @@ mirror.alastyr.com/
 mirror.alwyzon.net/
 mirror.aminidc.com/
 mirror.ams.macarne.com/
-mirror.amscloud.co.id/
 mirror.anigil.com/
 mirror.aptus.co.tz/
 mirror.arizona.edu/
@@ -630,6 +629,7 @@ ubuntu.servering.info/
 ubuntu.syxpi.fr/
 ubuntu.task.gda.pl/
 ubuntu.tuxuri.com/
+ubuntu.ucr.ac.cr/
 ubuntu.uib.no/
 ubuntu.unc.edu.ar/
 ubuntu.uni-klu.ac.at/
