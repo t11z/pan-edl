@@ -323,6 +323,7 @@ mirror.pilotfiber.com/
 mirror.pit.teraswitch.com/
 mirror.plusserver.com/
 mirror.previder.nl/
+mirror.ps.kz/
 mirror.raiolanetworks.com/
 mirror.ratiokontakt.de/
 mirror.realcompute.io/
@@ -558,7 +559,6 @@ ubuntu-mirror.cloud.mu/
 ubuntu-mirror.kimiahost.com/
 ubuntu-mirror.puq.apoapsis.cl/
 ubuntu-mirror.snu.edu.in/
-ubuntu.01link.hk/
 ubuntu.anexia.at/
 ubuntu.avalicense.com/
 ubuntu.c3sl.ufpr.br/
