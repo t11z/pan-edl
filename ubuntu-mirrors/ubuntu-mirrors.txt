@@ -129,6 +129,7 @@ mirror-gw.elastis.id/
 mirror-hk.koddos.net/
 mirror-mk.interspace.com/
 mirror.0-1.cloud/
+mirror.01link.hk/
 mirror.0x.sg/
 mirror.23m.com/
 mirror.2degrees.nz/
@@ -170,6 +171,7 @@ mirror.clarkson.edu/
 mirror.clearsky.vn/
 mirror.clientvps.com/
 mirror.cloudhosting.lv/
+mirror.cmkl.ac.th/
 mirror.coganng.com/
 mirror.cogentco.com/
 mirror.corbina.net/
