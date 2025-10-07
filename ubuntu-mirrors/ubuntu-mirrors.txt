@@ -239,6 +239,7 @@ mirror.hostiko.network/
 mirror.hostnet.nl/
 mirror.hyperdedic.ru/
 mirror.ietlucknow.ac.in/
+mirror.ihost.md/
 mirror.il-ha.kamatera.com/
 mirror.il-pt.kamatera.com/
 mirror.il-rh.kamatera.com/
