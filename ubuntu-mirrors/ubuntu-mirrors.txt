@@ -393,6 +393,7 @@ mirror.vietnix.vn/
 mirror.viettelcloud.vn/
 mirror.vinehost.net/
 mirror.virtury.com/
+mirror.visiontech.com.bd/
 mirror.vnet.sk/
 mirror.vorboss.net/
 mirror.vpgrp.io/
@@ -418,6 +419,7 @@ mirrors.asnet.am/
 mirrors.atlas.net.co/
 mirrors.bangmod.cloud/
 mirrors.bfsu.edu.cn/
+mirrors.binaryracks.com/
 mirrors.bkns.vn/
 mirrors.bloomu.edu/
 mirrors.bmcc.edu/
