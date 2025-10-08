@@ -545,6 +545,7 @@ rsync.yuki.net.uk/
 security.ubuntu.com/
 sft.if.usp.br/
 sft.if.usp.br:/
+sg-mirrors.vhost.vn/
 softlibre.unizar.es/
 suro.ubaya.ac.id/
 suse.uni-leipzig.de/
