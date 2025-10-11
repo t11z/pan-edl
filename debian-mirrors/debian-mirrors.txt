@@ -192,7 +192,6 @@ mirror.0x626b.com/
 mirror.23m.com/
 mirror.5i.fi/
 mirror.a1.mk/
-mirror.abmanagement.al/
 mirror.alwyzon.net/
 mirror.amaze.com.au/
 mirror.ams.macarne.com/
