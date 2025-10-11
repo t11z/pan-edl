@@ -133,7 +133,6 @@ mirror.01link.hk/
 mirror.0x.sg/
 mirror.23m.com/
 mirror.2degrees.nz/
-mirror.5i.fi/
 mirror.a1.mk/
 mirror.aarnet.edu.au/
 mirror.aktkn.sg/
@@ -559,7 +558,6 @@ ubuntu-archive.mirror.serveriai.lt/
 ubuntu-in.golive.host/
 ubuntu-mirror.ati.tn/
 ubuntu-mirror.bhtelecom.ba/
-ubuntu-mirror.cloud.mu/
 ubuntu-mirror.kimiahost.com/
 ubuntu-mirror.puq.apoapsis.cl/
 ubuntu-mirror.snu.edu.in/
