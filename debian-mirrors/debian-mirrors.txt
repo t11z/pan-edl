@@ -56,6 +56,7 @@ debian.mirrors.ovh.net/
 debian.mirrors.uk2.net/
 debian.mithril.re/
 debian.mnet.bg/
+debian.mur.at/
 debian.nautile.nc/
 debian.netcologne.de/
 debian.netforce.hosting/
