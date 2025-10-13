@@ -480,6 +480,7 @@ mirrors.powernet.com.ru/
 mirrors.rit.edu/
 mirrors.sarak.as/
 mirrors.sdu.edu.cn/
+mirrors.sjtug.sjtu.edu.cn/
 mirrors.sohu.com/
 mirrors.sonic.net/
 mirrors.storpool.com/
