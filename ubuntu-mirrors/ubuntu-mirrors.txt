@@ -25,7 +25,6 @@ debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
 distrohub.kyiv.ua/
 dl2.foss-id.web.id/
-download.nus.edu.sg/
 download.nust.na/
 drmirror.physi.uni-heidelberg.de/
 edgeuno-bog2.mm.fcix.net/
@@ -165,7 +164,6 @@ mirror.bytemark.co.uk/
 mirror.ca-tr.kamatera.com/
 mirror.cc.vt.edu/
 mirror.cedia.org.ec/
-mirror.cepatcloud.id/
 mirror.chmuri.net/
 mirror.citrahost.com/
 mirror.clarkson.edu/
