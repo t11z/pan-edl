@@ -133,6 +133,7 @@ mirror.01link.hk/
 mirror.0x.sg/
 mirror.23m.com/
 mirror.2degrees.nz/
+mirror.5i.fi/
 mirror.a1.mk/
 mirror.aarnet.edu.au/
 mirror.aktkn.sg/
