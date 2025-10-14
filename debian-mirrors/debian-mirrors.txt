@@ -329,7 +329,6 @@ mirrors.ocf.berkeley.edu/
 mirrors.pardisco.co/
 mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
-mirrors.ptisp.pt/
 mirrors.rackhosting.com/
 mirrors.tuna.tsinghua.edu.cn/
 mirrors.up.pt/
