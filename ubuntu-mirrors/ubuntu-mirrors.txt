@@ -153,7 +153,6 @@ mirror.azvps.vn/
 mirror.bacloud.com/
 mirror.bahnhof.net/
 mirror.battern.eu/
-mirror.beon.co.id/
 mirror.bg.host.ag/
 mirror.bharatdatacenter.com/
 mirror.bizflycloud.vn/
