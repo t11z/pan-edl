@@ -324,11 +324,9 @@ mirror.plusserver.com/
 mirror.previder.nl/
 mirror.ps.kz/
 mirror.raiolanetworks.com/
-mirror.ratiokontakt.de/
 mirror.realcompute.io/
 mirror.reenigne.net/
 mirror.renu.ac.ug/
-mirror.repository.id/
 mirror.retentionrange.co.bw/
 mirror.rise.ph/
 mirror.root.lu/
@@ -529,6 +527,7 @@ repo.jztkft.hu/
 repo.linuxmirrors.ir/
 repo.morgan.kr/
 repo.ugm.ac.id/
+repo.usk.ac.id/
 repos.del.extreme-ix.org/
 rsync.gtlib.gatech.edu/
 rsync.icm.edu.pl/
