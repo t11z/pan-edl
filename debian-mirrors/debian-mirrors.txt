@@ -98,7 +98,6 @@ ftp.antik.sk/
 ftp.at.debian.org/
 ftp.au.debian.org/
 ftp.be.debian.org/
-ftp.belnet.be/
 ftp.bg.debian.org/
 ftp.bme.hu/
 ftp.br.debian.org/
