@@ -5,6 +5,7 @@ archive.ubuntu.com/
 archive.ubuntu.csg.uzh.ch/
 archive.ubuntu.mirror.ba/
 archive.ubuntu.mirror.rafal.ca/
+archive.ubuntu.mirrors.zagrio.net/
 archive.ubuntu.moon127.net/
 archive.ubuntu.nautile.nc/
 archive.ubuntu.petiak.ir/
@@ -24,6 +25,7 @@ debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
 distrohub.kyiv.ua/
 dl2.foss-id.web.id/
+download.nus.edu.sg/
 download.nust.na/
 drmirror.physi.uni-heidelberg.de/
 edgeuno-bog2.mm.fcix.net/
@@ -500,6 +502,7 @@ mirrors.xtom.de/
 mirrors.xtom.ee/
 mirrors.xtom.nl/
 mirrors.yun-idc.com/
+mirrors.zagrio.net/
 mr.heru.id/
 muug.ca/
 nl.archive.ubuntu.com/
