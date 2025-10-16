@@ -84,7 +84,6 @@ debian.uvigo.es/
 debian.volia.net/
 debian.web.trex.fi/
 debian.xtdv.net/
-debianmirror.una.ac.cr/
 debpkg.libranext.com/
 dennou-k.gfd-dennou.org/
 depot-debian.univ-reunion.fr/
