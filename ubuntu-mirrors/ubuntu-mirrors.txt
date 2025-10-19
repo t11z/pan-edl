@@ -307,7 +307,6 @@ mirror.nl.altushost.com/
 mirror.nl.as215296.net/
 mirror.nl.datapacket.com/
 mirror.nl.leaseweb.net/
-mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
 mirror.nus.edu.sg/
 mirror.nyist.edu.cn/
