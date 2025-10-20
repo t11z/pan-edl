@@ -104,7 +104,6 @@ ftpserv.tudelft.nl/
 giano.com.dist.unige.it/
 glua.ua.pt/
 gpl.savoirfairelinux.net/
-http.krfoss.org/
 in.mirror.coganng.com/
 ir.archive.ubuntu.com/
 ir.ubuntu.sindad.cloud/
@@ -618,7 +617,6 @@ ubuntu.phoenixnap.com/
 ubuntu.pishgaman.net/
 ubuntu.repo.cure.edu.uy/
 ubuntu.rootlicense.com/
-ubuntu.rsync.kr/
 ubuntu.securedservers.com/
 ubuntu.servering.info/
 ubuntu.syxpi.fr/
