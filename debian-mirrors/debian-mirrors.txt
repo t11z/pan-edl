@@ -258,7 +258,6 @@ mirror.nitc.ac.in/
 mirror.nju.edu.cn/
 mirror.nl.datapacket.com/
 mirror.nl.leaseweb.net/
-mirror.nl.mirhosting.net/
 mirror.nyist.edu.cn/
 mirror.ourhost.az/
 mirror.overthewire.com.au/
