@@ -252,7 +252,6 @@ mirror.its-tps.fr/
 mirror.its-tps.fr:10000/
 mirror.its.dal.ca/
 mirror.its.umich.edu/
-mirror.ixirhost.com/
 mirror.jeonnam.school/
 mirror.johnnybegood.fr/
 mirror.kakao.com/
