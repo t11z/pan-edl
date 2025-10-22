@@ -90,6 +90,7 @@ ftp.u-picardie.fr/
 ftp.ubuntu-tw.net/
 ftp.ubuntu-tw.org/
 ftp.udc.es/
+ftp.udx.icscoe.jp/
 ftp.uni-bayreuth.de/
 ftp.uni-kl.de/
 ftp.uni-mainz.de/
