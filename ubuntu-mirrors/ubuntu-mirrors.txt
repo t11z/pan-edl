@@ -272,7 +272,6 @@ mirror.lc/
 mirror.library.ucy.ac.cy/
 mirror.limda.net/
 mirror.linkdata.com/
-mirror.linux-ia64.org/
 mirror.linux.ncsu.edu/
 mirror.liquidrp.de/
 mirror.logol.ru/
