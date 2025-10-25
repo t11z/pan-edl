@@ -304,6 +304,7 @@ mirror.nl.altushost.com/
 mirror.nl.as215296.net/
 mirror.nl.datapacket.com/
 mirror.nl.leaseweb.net/
+mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
 mirror.nus.edu.sg/
 mirror.nyist.edu.cn/
@@ -616,6 +617,7 @@ ubuntu.rootlicense.com/
 ubuntu.rsync.kr/
 ubuntu.securedservers.com/
 ubuntu.servering.info/
+ubuntu.syxpi.fr/
 ubuntu.task.gda.pl/
 ubuntu.tuxuri.com/
 ubuntu.ucr.ac.cr/
