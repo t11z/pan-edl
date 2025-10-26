@@ -297,7 +297,6 @@ mirror.vpsnet.com/
 mirror.wtnet.de/
 mirror.xeonbd.com/
 mirror.xtom.com.hk/
-mirror.yuki.net.uk/
 mirror1.infomaniak.com/
 mirror2.infomaniak.com/
 mirrors.accretive-networks.net/
