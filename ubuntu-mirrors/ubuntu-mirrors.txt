@@ -256,6 +256,7 @@ mirror.its-tps.fr/
 mirror.its-tps.fr:10000/
 mirror.its.dal.ca/
 mirror.its.umich.edu/
+mirror.ixirhost.com/
 mirror.jeonnam.school/
 mirror.johnnybegood.fr/
 mirror.kakao.com/
@@ -394,6 +395,7 @@ mirror.xeonbd.com/
 mirror.xtom.com.hk/
 mirror.yandex.ru/
 mirror.yer.az/
+mirror.yuki.net.uk/
 mirror.zzunipark.com/
 mirror1.ku.ac.th/
 mirror1.sox.rs/
@@ -531,6 +533,7 @@ rsync.mirrorservice.org/
 rsync.ubuntu.nautile.nc/
 rsync.udc.es/
 rsync.uni-bayreuth.de/
+rsync.yuki.net.uk/
 security.ubuntu.com/
 sft.if.usp.br/
 sft.if.usp.br:/
