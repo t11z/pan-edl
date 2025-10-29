@@ -92,7 +92,6 @@ free.hands.com/
 ftp-stud.hs-esslingen.de/
 ftp.acc.umu.se/
 ftp.agh.edu.pl/
-ftp.am.debian.org/
 ftp.antik.sk/
 ftp.at.debian.org/
 ftp.au.debian.org/
@@ -300,7 +299,6 @@ mirror.xtom.com.hk/
 mirror1.infomaniak.com/
 mirror2.infomaniak.com/
 mirrors.accretive-networks.net/
-mirrors.asnet.am/
 mirrors.bfsu.edu.cn/
 mirrors.bloomu.edu/
 mirrors.bmcc.edu/
