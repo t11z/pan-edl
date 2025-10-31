@@ -142,7 +142,6 @@ mirror.aminidc.com/
 mirror.ams.macarne.com/
 mirror.amscloud.co.id/
 mirror.anigil.com/
-mirror.aptus.co.tz/
 mirror.arizona.edu/
 mirror.arvancloud.ir/
 mirror.as.kamatera.com/
@@ -274,7 +273,6 @@ mirror.linkdata.com/
 mirror.linux.ncsu.edu/
 mirror.liquidrp.de/
 mirror.logol.ru/
-mirror.lstn.net/
 mirror.lyrahosting.com/
 mirror.maeen.sa/
 mirror.marcusn.net/
