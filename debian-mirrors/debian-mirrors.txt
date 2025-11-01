@@ -267,7 +267,6 @@ mirror.positive-internet.com/
 mirror.ps.kz/
 mirror.raiolanetworks.com/
 mirror.realcompute.io/
-mirror.ro.cdn-perfprod.com/
 mirror.sg.gs/
 mirror.siena.edu/
 mirror.sinavps.ch/
