@@ -550,6 +550,7 @@ ubuntu.ccns.ncku.edu.tw/
 ubuntu.cica.es/
 ubuntu.cs.nctu.edu.tw/
 ubuntu.cs.utah.edu/
+ubuntu.dcc.fc.up.pt/
 ubuntu.dts.mg/
 ubuntu.ethz.ch/
 ubuntu.gjolly.dev/
