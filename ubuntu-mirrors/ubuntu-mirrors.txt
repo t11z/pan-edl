@@ -241,7 +241,6 @@ mirror.informatik.tu-freiberg.de/
 mirror.init7.net/
 mirror.internet.asn.au/
 mirror.internode.on.net/
-mirror.ipb.de/
 mirror.iranserver.com/
 mirror.isoc.org.il/
 mirror.it.ubc.ca/
