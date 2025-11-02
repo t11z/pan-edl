@@ -83,7 +83,6 @@ debian.uvigo.es/
 debian.volia.net/
 debian.web.trex.fi/
 debian.xtdv.net/
-debpkg.libranext.com/
 dennou-k.gfd-dennou.org/
 depot-debian.univ-reunion.fr/
 drmirror.physi.uni-heidelberg.de/
@@ -199,7 +198,6 @@ mirror.bizflycloud.vn/
 mirror.blue3.com.br/
 mirror.braindrainlan.nu/
 mirror.cloudhosting.lv/
-mirror.cogentco.com/
 mirror.corbina.net/
 mirror.cov.ukservers.com/
 mirror.cpsc.ucalgary.ca/
