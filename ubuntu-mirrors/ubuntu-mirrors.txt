@@ -31,7 +31,6 @@ elmirror.cl/
 free.nchc.org.tw/
 ftp-stud.hs-esslingen.de/
 ftp.acc.umu.se/
-ftp.agh.edu.pl/
 ftp.arnes.si/
 ftp.belnet.be/
 ftp.byfly.by/
@@ -466,6 +465,7 @@ mirrors.ptisp.pt/
 mirrors.rit.edu/
 mirrors.sarak.as/
 mirrors.sdu.edu.cn/
+mirrors.sjtug.sjtu.edu.cn/
 mirrors.sohu.com/
 mirrors.sonic.net/
 mirrors.storpool.com/
