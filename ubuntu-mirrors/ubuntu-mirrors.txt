@@ -147,6 +147,7 @@ mirror.as.kamatera.com/
 mirror.as24220.net/
 mirror.as29550.net/
 mirror.as43289.net/
+mirror.ati.tn/
 mirror.azvps.vn/
 mirror.bacloud.com/
 mirror.bahnhof.net/
@@ -209,6 +210,7 @@ mirror.fcix.net/
 mirror.fi.ossplanet.net/
 mirror.flo.c-f.ro/
 mirror.flokinet.net/
+mirror.freedif.org/
 mirror.freethought-internet.co.uk/
 mirror.fsmg.org.nz/
 mirror.fst.kz/
