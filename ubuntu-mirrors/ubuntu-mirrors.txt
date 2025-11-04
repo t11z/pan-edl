@@ -32,6 +32,7 @@ elmirror.cl/
 free.nchc.org.tw/
 ftp-stud.hs-esslingen.de/
 ftp.acc.umu.se/
+ftp.agh.edu.pl/
 ftp.arnes.si/
 ftp.belnet.be/
 ftp.byfly.by/
@@ -518,7 +519,6 @@ repo.iut.ac.ir/
 repo.jztkft.hu/
 repo.linuxmirrors.ir/
 repo.morgan.kr/
-repo.ugm.ac.id/
 repo.usk.ac.id/
 repos.del.extreme-ix.org/
 rsync.gtlib.gatech.edu/
