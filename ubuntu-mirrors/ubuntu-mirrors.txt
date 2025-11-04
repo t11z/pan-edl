@@ -142,6 +142,7 @@ mirror.aminidc.com/
 mirror.ams.macarne.com/
 mirror.amscloud.co.id/
 mirror.anigil.com/
+mirror.aptus.co.tz/
 mirror.arizona.edu/
 mirror.arvancloud.ir/
 mirror.as.kamatera.com/
@@ -230,6 +231,7 @@ mirror.hoobly.com/
 mirror.hostafrica.co.za/
 mirror.hoster.kz/
 mirror.hosthink.net/
+mirror.hostiko.network/
 mirror.hostnet.nl/
 mirror.hyperdedic.ru/
 mirror.ietlucknow.ac.in/
