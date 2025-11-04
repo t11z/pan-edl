@@ -283,7 +283,6 @@ mirror.us.oneandone.net/
 mirror.veesp.com/
 mirror.vinehost.net/
 mirror.vpgrp.io/
-mirror.vpsnet.com/
 mirror.wtnet.de/
 mirror.xeonbd.com/
 mirror.xtom.com.hk/
