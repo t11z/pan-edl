@@ -41,7 +41,6 @@ debian.lth.se/
 debian.ludost.net/
 debian.mirror.ac.ke/
 debian.mirror.constant.com/
-debian.mirror.digitalpacific.com.au/
 debian.mirror.garr.it/
 debian.mirror.globo.tech/
 debian.mirror.iphh.net/
@@ -137,7 +136,6 @@ ftp.ludd.ltu.se/
 ftp.nara.wide.ad.jp/
 ftp.nc.debian.org/
 ftp.nl.debian.org/
-ftp.no.debian.org/
 ftp.nz.debian.org/
 ftp.pl.debian.org/
 ftp.psn.ru/
@@ -159,7 +157,6 @@ ftp.tu-graz.ac.at/
 ftp.tw.debian.org/
 ftp.u-picardie.fr/
 ftp.u-strasbg.fr/
-ftp.uio.no/
 ftp.uk.debian.org/
 ftp.uni-hannover.de/
 ftp.uni-kl.de/
@@ -335,7 +332,6 @@ nl.mirror.flokinet.net/
 nl.mirrors.clouvider.net/
 nyc.mirrors.clouvider.net/
 opensource.nchc.org.tw/
-ossmirror.mycloud.services/
 packages.hs-regensburg.de/
 pkg.adfinis-on-exoscale.ch/
 plug-mirror.rcac.purdue.edu/
