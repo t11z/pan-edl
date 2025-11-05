@@ -633,7 +633,6 @@ ubuntu.volia.net/
 ubuntu.vpsttt.com/
 ubuntu.web.trex.fi/
 ubuntutym.u-toyama.ac.jp/
-ucho.ignum.cz/
 ucmirror.canterbury.ac.nz/
 uk.mirrors.clouvider.net/
 vn-mirrors.techhost.vn/
