@@ -338,7 +338,6 @@ pubmirror.plutex.de/
 repo.ialab.dsu.edu/
 repo.ifca.es/
 repo.jztkft.hu/
-repository.su/
 ro.mirror.flokinet.net/
 security.debian.org/
 softlibre.unizar.es/
