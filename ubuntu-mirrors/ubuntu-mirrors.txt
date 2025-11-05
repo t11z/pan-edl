@@ -563,6 +563,7 @@ ubuntu.dts.mg/
 ubuntu.ethz.ch/
 ubuntu.gjolly.dev/
 ubuntu.grad.hr/
+ubuntu.grena.ge/
 ubuntu.grn.cat/
 ubuntu.hi.no/
 ubuntu.hysing.is/
