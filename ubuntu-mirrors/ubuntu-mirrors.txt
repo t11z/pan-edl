@@ -547,7 +547,6 @@ ubuntu-archive.interhost.co.il/
 ubuntu-archive.locaweb.com.br/
 ubuntu-archive.mirror.liquidtelecom.com/
 ubuntu-archive.mirror.serveriai.lt/
-ubuntu-in.golive.host/
 ubuntu-mirror.ati.tn/
 ubuntu-mirror.bhtelecom.ba/
 ubuntu-mirror.kimiahost.com/
@@ -572,7 +571,6 @@ ubuntu.hi.no/
 ubuntu.hysing.is/
 ubuntu.ip-connect.vn.ua/
 ubuntu.ipacct.com/
-ubuntu.joy.services/
 ubuntu.koyanet.lv/
 ubuntu.lafibre.info/
 ubuntu.lagis.at/
