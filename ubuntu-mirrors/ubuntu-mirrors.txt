@@ -187,7 +187,6 @@ mirror.datacenter.mn/
 mirror.datamossa.io/
 mirror.dc.uz/
 mirror.de.leaseweb.net/
-mirror.deace.id/
 mirror.dewabiz.com/
 mirror.digitaloceans.dev/
 mirror.dkm.cz/
@@ -342,7 +341,6 @@ mirror.siwoo.org/
 mirror.solnet.ch/
 mirror.solnode.io/
 mirror.soonkeat.sg/
-mirror.steadfastnet.com/
 mirror.t-home.mk/
 mirror.team-cymru.com/
 mirror.team-cymru.org/
