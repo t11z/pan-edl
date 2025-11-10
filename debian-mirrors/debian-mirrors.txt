@@ -156,6 +156,7 @@ ftp.tu-graz.ac.at/
 ftp.tw.debian.org/
 ftp.u-picardie.fr/
 ftp.u-strasbg.fr/
+ftp.udc.es/
 ftp.uk.debian.org/
 ftp.uni-hannover.de/
 ftp.uni-kl.de/
