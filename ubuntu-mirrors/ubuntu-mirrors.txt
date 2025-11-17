@@ -387,7 +387,6 @@ mirror.vpgrp.io/
 mirror.vpsnet.com/
 mirror.webworld.ie/
 mirror.wtnet.de/
-mirror.xeonbd.com/
 mirror.xtom.com.hk/
 mirror.yandex.ru/
 mirror.yer.az/
@@ -402,7 +401,6 @@ mirrors.accretive-networks.net/
 mirrors.aliyun.com/
 mirrors.arpnetworks.com/
 mirrors.asnet.am/
-mirrors.atlas.net.co/
 mirrors.bangmod.cloud/
 mirrors.bfsu.edu.cn/
 mirrors.binaryracks.com/
