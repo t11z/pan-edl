@@ -270,7 +270,6 @@ mirror.lc/
 mirror.library.ucy.ac.cy/
 mirror.limda.net/
 mirror.linkdata.com/
-mirror.linux-ia64.org/
 mirror.linux.ncsu.edu/
 mirror.liquidrp.de/
 mirror.logol.ru/
@@ -522,7 +521,6 @@ repo.morgan.kr/
 repo.ugm.ac.id/
 repo.usk.ac.id/
 repos.del.extreme-ix.org/
-repos.interior.edu.uy/
 rsync.gtlib.gatech.edu/
 rsync.icm.edu.pl/
 rsync.mirror.zzunipark.com/
