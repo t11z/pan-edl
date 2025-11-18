@@ -61,7 +61,6 @@ ftp.linux.org.tr/
 ftp.linux.ro/
 ftp.lip6.fr/
 ftp.litnet.lt/
-ftp.ludd.ltu.se/
 ftp.lysator.liu.se/
 ftp.mirror.tw/
 ftp.mirrorservice.org/
