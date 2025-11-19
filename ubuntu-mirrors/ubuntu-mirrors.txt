@@ -514,7 +514,6 @@ repo.iut.ac.ir/
 repo.jztkft.hu/
 repo.linuxmirrors.ir/
 repo.morgan.kr/
-repo.ugm.ac.id/
 repo.usk.ac.id/
 repos.del.extreme-ix.org/
 rsync.gtlib.gatech.edu/
