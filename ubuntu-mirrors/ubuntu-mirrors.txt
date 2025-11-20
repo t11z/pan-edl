@@ -27,7 +27,6 @@ distrib-coffee.ipsl.jussieu.fr/
 distrohub.kyiv.ua/
 download.nus.edu.sg/
 download.nust.na/
-drmirror.physi.uni-heidelberg.de/
 edgeuno-bog2.mm.fcix.net/
 elmirror.cl/
 free.nchc.org.tw/
@@ -63,6 +62,7 @@ ftp.linux.org.tr/
 ftp.linux.ro/
 ftp.lip6.fr/
 ftp.litnet.lt/
+ftp.ludd.ltu.se/
 ftp.lysator.liu.se/
 ftp.mirror.tw/
 ftp.mirrorservice.org/
@@ -584,6 +584,7 @@ ubuntu.mirror.intermax.nl/
 ubuntu.mirror.letscloud.io/
 ubuntu.mirror.linux.ro/
 ubuntu.mirror.lrz.de/
+ubuntu.mirror.net.za/
 ubuntu.mirror.rafal.ca/
 ubuntu.mirror.rain.co.za/
 ubuntu.mirror.root.lu/
