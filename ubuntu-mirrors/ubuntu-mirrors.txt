@@ -204,6 +204,7 @@ mirror.eu-fr.kamatera.com/
 mirror.eu-lo.kamatera.com/
 mirror.eu.4psacloud.com/
 mirror.eu.kamatera.com/
+mirror.famaserver.com/
 mirror.faraso.org/
 mirror.fcix.net/
 mirror.fi.ossplanet.net/
@@ -214,9 +215,9 @@ mirror.freethought-internet.co.uk/
 mirror.fsmg.org.nz/
 mirror.fst.kz/
 mirror.funkfreundelandshut.de/
+mirror.geekonweb.fr/
 mirror.gi.co.id/
 mirror.gofoss.xyz/
-mirror.gotmyhost.com/
 mirror.greennet.gl/
 mirror.group.one/
 mirror.gsl.icu/
