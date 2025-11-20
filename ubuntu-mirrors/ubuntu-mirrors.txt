@@ -25,6 +25,7 @@ deb.campolargo.pr.gov.br/
 debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
 distrohub.kyiv.ua/
+download.nus.edu.sg/
 download.nust.na/
 drmirror.physi.uni-heidelberg.de/
 edgeuno-bog2.mm.fcix.net/
@@ -401,6 +402,7 @@ mirrors.accretive-networks.net/
 mirrors.aliyun.com/
 mirrors.arpnetworks.com/
 mirrors.asnet.am/
+mirrors.atlas.net.co/
 mirrors.bangmod.cloud/
 mirrors.bfsu.edu.cn/
 mirrors.binaryracks.com/
