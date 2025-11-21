@@ -352,6 +352,7 @@ mirror.timkevin.us/
 mirror.tngnet.com/
 mirror.transip.net/
 mirror.truenetwork.ru/
+mirror.tuke.sk/
 mirror.twds.com.tw/
 mirror.ubuntu.ikoula.com/
 mirror.ubuntu.serverforge.org/
