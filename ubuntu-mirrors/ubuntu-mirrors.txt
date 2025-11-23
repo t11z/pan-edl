@@ -249,7 +249,6 @@ mirror.ipb.de/
 mirror.iranserver.com/
 mirror.isoc.org.il/
 mirror.it.ubc.ca/
-mirror.it4i.cz/
 mirror.its-tps.fr/
 mirror.its-tps.fr:10000/
 mirror.its.dal.ca/
@@ -550,6 +549,7 @@ ubuntu-mirror.kimiahost.com/
 ubuntu-mirror.puq.apoapsis.cl/
 ubuntu-mirror.snu.edu.in/
 ubuntu.anexia.at/
+ubuntu.avalicense.com/
 ubuntu.btit.nz/
 ubuntu.c3sl.ufpr.br/
 ubuntu.ccns.ncku.edu.tw/
