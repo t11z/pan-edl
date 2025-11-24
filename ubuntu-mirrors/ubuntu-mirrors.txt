@@ -521,6 +521,7 @@ repo.linuxmirrors.ir/
 repo.morgan.kr/
 repo.usk.ac.id/
 repos.del.extreme-ix.org/
+repos.interior.edu.uy/
 rsync.gtlib.gatech.edu/
 rsync.icm.edu.pl/
 rsync.mirror.zzunipark.com/
