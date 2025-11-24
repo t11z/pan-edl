@@ -194,6 +194,7 @@ mirror.bizflycloud.vn/
 mirror.blue3.com.br/
 mirror.braindrainlan.nu/
 mirror.cloudhosting.lv/
+mirror.coganng.com/
 mirror.corbina.net/
 mirror.cov.ukservers.com/
 mirror.cpsc.ucalgary.ca/
@@ -259,7 +260,6 @@ mirror.positive-internet.com/
 mirror.ps.kz/
 mirror.raiolanetworks.com/
 mirror.realcompute.io/
-mirror.sg.gs/
 mirror.siena.edu/
 mirror.sinavps.ch/
 mirror.sitsa.com.ar/
