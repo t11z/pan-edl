@@ -219,6 +219,7 @@ mirror.funkfreundelandshut.de/
 mirror.geekonweb.fr/
 mirror.gi.co.id/
 mirror.gofoss.xyz/
+mirror.gotmyhost.com/
 mirror.greennet.gl/
 mirror.group.one/
 mirror.gsl.icu/
@@ -631,6 +632,7 @@ ubuntu.vpsttt.com/
 ubuntu.web.trex.fi/
 ubuntu.zero.com.ar/
 ubuntutym.u-toyama.ac.jp/
+ucho.ignum.cz/
 ucmirror.canterbury.ac.nz/
 uk.mirrors.clouvider.net/
 vn-mirrors.vhost.vn/
