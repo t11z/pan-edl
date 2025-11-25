@@ -78,6 +78,7 @@ debian.uevora.pt/
 debian.univ-tlse2.fr/
 debian.unnoba.edu.ar/
 debian.volia.net/
+debian.vranetworks.lat/
 debian.web.trex.fi/
 debian.xtdv.net/
 dennou-k.gfd-dennou.org/
