@@ -340,6 +340,7 @@ pubmirror.plutex.de/
 repo.ialab.dsu.edu/
 repo.ifca.es/
 repo.jztkft.hu/
+repo.mirror.famaserver.com/
 repository.su/
 ro.mirror.flokinet.net/
 security.debian.org/
