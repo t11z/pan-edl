@@ -242,7 +242,6 @@ mirror.il-ta.kamatera.com/
 mirror.il.kamatera.com/
 mirror.improve.nordlo.cloud/
 mirror.infomaniak.ch/
-mirror.informatik.tu-freiberg.de/
 mirror.init7.net/
 mirror.internet.asn.au/
 mirror.internode.on.net/
@@ -465,6 +464,7 @@ mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
 mirrors.opensource.is/
 mirrors.pardisco.co/
+mirrors.piconets.webwerks.in/
 mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
 mirrors.ptisp.pt/
