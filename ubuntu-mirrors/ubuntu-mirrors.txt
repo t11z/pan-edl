@@ -135,6 +135,7 @@ mirror.2degrees.nz/
 mirror.5i.fi/
 mirror.a1.mk/
 mirror.aarnet.edu.au/
+mirror.aktkn.sg/
 mirror.alastyr.com/
 mirror.alwyzon.net/
 mirror.aminidc.com/
@@ -285,6 +286,7 @@ mirror.metrocast.net/
 mirror.mia.velocihost.net/
 mirror.mirohost.net/
 mirror.mrjester.net/
+mirror.mvizn.com/
 mirror.mythic-beasts.com/
 mirror.neftm.ru/
 mirror.neolabs.kz/
