@@ -255,6 +255,7 @@ mirror.nyist.edu.cn/
 mirror.ourhost.az/
 mirror.overthewire.com.au/
 mirror.ox.ac.uk/
+mirror.pangkin.com/
 mirror.plusline.net/
 mirror.plusserver.com/
 mirror.pmf.kg.ac.rs/
