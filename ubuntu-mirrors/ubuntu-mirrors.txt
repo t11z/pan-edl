@@ -418,7 +418,6 @@ mirrors.cloud.tencent.com/
 mirrors.cloudforest.co.th/
 mirrors.cmich.edu/
 mirrors.cn99.com/
-mirrors.codec-cluster.org/
 mirrors.coreix.net/
 mirrors.cqu.edu.cn/
 mirrors.datapark.ro/
