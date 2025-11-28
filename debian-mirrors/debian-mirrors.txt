@@ -25,6 +25,7 @@ debian.cs.nycu.edu.tw/
 debian.csail.mit.edu/
 debian.csie.ntu.edu.tw/
 debian.dynamica.it/
+debian.envisagecloud.net.za/
 debian.ethz.ch/
 debian.grena.ge/
 debian.grn.cat/
@@ -237,6 +238,7 @@ mirror.linux.org.au/
 mirror.linux.ro/
 mirror.litnet.lt/
 mirror.lzu.edu.cn/
+mirror.maeen.sa/
 mirror.marwan.ma/
 mirror.mephi.ru/
 mirror.metanet.ch/
