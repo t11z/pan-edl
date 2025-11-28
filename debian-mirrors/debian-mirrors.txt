@@ -96,6 +96,8 @@ ftp.belnet.be/
 ftp.bg.debian.org/
 ftp.bme.hu/
 ftp.br.debian.org/
+ftp.by.debian.org/
+ftp.byfly.by/
 ftp.ca.debian.org/
 ftp.caliu.cat/
 ftp.ch.debian.org/
