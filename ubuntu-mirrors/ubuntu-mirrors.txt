@@ -1,6 +1,5 @@
 *.archive.ubuntu.com/
 ae.archive.ubuntu.com/
-archive.g4t1.pro/
 archive.linux.duke.edu/
 archive.ubuntu.com/
 archive.ubuntu.csg.uzh.ch/
