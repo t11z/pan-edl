@@ -141,7 +141,6 @@ mirror.alwyzon.net/
 mirror.aminidc.com/
 mirror.ams.macarne.com/
 mirror.amscloud.co.id/
-mirror.anigil.com/
 mirror.aptus.co.tz/
 mirror.arizona.edu/
 mirror.arvancloud.ir/
@@ -333,7 +332,6 @@ mirror.sh.com.tr/
 mirror.siati.ch/
 mirror.siena.edu/
 mirror.sitsa.com.ar/
-mirror.siwoo.org/
 mirror.solnet.ch/
 mirror.solnode.io/
 mirror.soonkeat.sg/
@@ -407,7 +405,6 @@ mirrors.bfsu.edu.cn/
 mirrors.binaryracks.com/
 mirrors.bkns.vn/
 mirrors.bloomu.edu/
-mirrors.bmcc.edu/
 mirrors.c0urier.net/
 mirrors.cat.pdx.edu/
 mirrors.chroot.ro/
