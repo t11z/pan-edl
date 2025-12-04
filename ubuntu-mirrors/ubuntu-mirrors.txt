@@ -193,6 +193,7 @@ mirror.dogado.de/
 mirror.domainhizmetleri.com/
 mirror.easyname.at/
 mirror.efect.ro/
+mirror.ekiphost.com/
 mirror.elice.io/
 mirror.eliv.digital/
 mirror.enzu.com/
@@ -200,7 +201,6 @@ mirror.eu-fr.kamatera.com/
 mirror.eu-lo.kamatera.com/
 mirror.eu.4psacloud.com/
 mirror.eu.kamatera.com/
-mirror.famaserver.com/
 mirror.faraso.org/
 mirror.fcix.net/
 mirror.fi.ossplanet.net/
