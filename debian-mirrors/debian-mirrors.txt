@@ -229,6 +229,7 @@ mirror.ipb.de/
 mirror.it.ubc.ca/
 mirror.iway.ch/
 mirror.johnnybegood.fr/
+mirror.keiminem.com/
 mirror.keystealth.org/
 mirror.kku.ac.th/
 mirror.lagoon.nc/
