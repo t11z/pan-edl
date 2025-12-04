@@ -402,7 +402,6 @@ mirrors.atlas.net.co/
 mirrors.bangmod.cloud/
 mirrors.bfsu.edu.cn/
 mirrors.binaryracks.com/
-mirrors.bkns.vn/
 mirrors.bloomu.edu/
 mirrors.bmcc.edu/
 mirrors.c0urier.net/
