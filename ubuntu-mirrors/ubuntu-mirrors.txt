@@ -1,5 +1,6 @@
 *.archive.ubuntu.com/
 ae.archive.ubuntu.com/
+archive.g4t1.pro/
 archive.linux.duke.edu/
 archive.ubuntu.com/
 archive.ubuntu.csg.uzh.ch/
@@ -93,7 +94,6 @@ ftp.uni-mainz.de/
 ftp.uni-stuttgart.de/
 ftp.uninett.no/
 ftp.usf.edu/
-ftp.ussg.iu.edu/
 ftp.uvigo.es/
 ftp5.gwdg.de/
 ftpmirror1.infania.net/
