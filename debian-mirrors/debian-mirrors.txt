@@ -249,7 +249,6 @@ mirror.neftm.ru/
 mirror.netzwerge.de/
 mirror.nforce.com/
 mirror.nitc.ac.in/
-mirror.nju.edu.cn/
 mirror.nl.cdn-perfprod.com/
 mirror.nl.datapacket.com/
 mirror.nl.leaseweb.net/
