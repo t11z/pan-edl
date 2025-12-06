@@ -83,6 +83,7 @@ debian.web.trex.fi/
 debian.xtdv.net/
 dennou-k.gfd-dennou.org/
 depot-debian.univ-reunion.fr/
+distrohub.kyiv.ua/
 free.hands.com/
 ftp-stud.hs-esslingen.de/
 ftp.acc.umu.se/
@@ -306,7 +307,6 @@ mirrors.hosterion.ro/
 mirrors.hostico.ro/
 mirrors.hostiserver.com/
 mirrors.ic.unicamp.br/
-mirrors.iitd.ac.in/
 mirrors.iu13.net/
 mirrors.jlu.edu.cn/
 mirrors.lug.mtu.edu/
