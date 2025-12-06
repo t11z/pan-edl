@@ -84,7 +84,6 @@ debian.web.trex.fi/
 debian.xtdv.net/
 dennou-k.gfd-dennou.org/
 depot-debian.univ-reunion.fr/
-distrohub.kyiv.ua/
 free.hands.com/
 ftp-stud.hs-esslingen.de/
 ftp.acc.umu.se/
