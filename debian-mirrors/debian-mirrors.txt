@@ -68,6 +68,7 @@ debian.pop-sc.rnp.br/
 debian.proxad.net/
 debian.redimadrid.es/
 debian.repo.cure.edu.uy/
+debian.saix.net/
 debian.sil.at/
 debian.snt.utwente.nl/
 debian.superhosting.cz/
