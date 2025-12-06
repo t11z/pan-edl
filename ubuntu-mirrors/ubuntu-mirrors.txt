@@ -343,7 +343,6 @@ mirror.techlabs.co.kr/
 mirror.telepoint.bg/
 mirror.thunderhosting.cloud/
 mirror.timeweb.ru/
-mirror.timkevin.us/
 mirror.tngnet.com/
 mirror.transip.net/
 mirror.truenetwork.ru/
