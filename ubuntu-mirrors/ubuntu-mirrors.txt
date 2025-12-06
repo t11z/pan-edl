@@ -34,7 +34,6 @@ ftp-stud.hs-esslingen.de/
 ftp.acc.umu.se/
 ftp.agh.edu.pl/
 ftp.arnes.si/
-ftp.belnet.be/
 ftp.byfly.by/
 ftp.caliu.cat/
 ftp.cc.uoc.gr/
@@ -272,7 +271,6 @@ mirror.linux.ncsu.edu/
 mirror.liquidrp.de/
 mirror.logol.ru/
 mirror.lstn.net/
-mirror.lyrahosting.com/
 mirror.maeen.sa/
 mirror.marcusn.net/
 mirror.marwan.ma/
@@ -541,7 +539,6 @@ ubuntu-mirror.ati.tn/
 ubuntu-mirror.bhtelecom.ba/
 ubuntu-mirror.kimiahost.com/
 ubuntu-mirror.puq.apoapsis.cl/
-ubuntu-mirror.snu.edu.in/
 ubuntu.anexia.at/
 ubuntu.avalicense.com/
 ubuntu.btit.nz/
