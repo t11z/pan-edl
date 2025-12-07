@@ -403,7 +403,6 @@ mirrors.bangmod.cloud/
 mirrors.bfsu.edu.cn/
 mirrors.binaryracks.com/
 mirrors.bloomu.edu/
-mirrors.bmcc.edu/
 mirrors.c0urier.net/
 mirrors.cat.pdx.edu/
 mirrors.chroot.ro/
