@@ -262,7 +262,6 @@ mirror.kernel.ir/
 mirror.kkg.berlin/
 mirror.kku.ac.th/
 mirror.krfoss.org/
-mirror.kumi.systems/
 mirror.lc/
 mirror.library.ucy.ac.cy/
 mirror.limda.net/
@@ -303,6 +302,7 @@ mirror.nodesdirect.com/
 mirror.nus.edu.sg/
 mirror.nyist.edu.cn/
 mirror.one.com/
+mirror.ordunet.ge/
 mirror.ossplanet.net/
 mirror.ourhost.az/
 mirror.overthewire.com.au/
