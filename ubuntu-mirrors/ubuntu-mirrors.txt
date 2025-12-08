@@ -34,6 +34,7 @@ ftp-stud.hs-esslingen.de/
 ftp.acc.umu.se/
 ftp.agh.edu.pl/
 ftp.arnes.si/
+ftp.belnet.be/
 ftp.byfly.by/
 ftp.caliu.cat/
 ftp.cc.uoc.gr/
@@ -270,6 +271,7 @@ mirror.linux.ncsu.edu/
 mirror.liquidrp.de/
 mirror.logol.ru/
 mirror.lstn.net/
+mirror.lyrahosting.com/
 mirror.maeen.sa/
 mirror.marcusn.net/
 mirror.marwan.ma/
@@ -618,7 +620,6 @@ ubuntu.uvigo.es/
 ubuntu.volia.net/
 ubuntu.vpsttt.com/
 ubuntu.web.trex.fi/
-ubuntu.zero.com.ar/
 ubuntutym.u-toyama.ac.jp/
 ucho.ignum.cz/
 ucmirror.canterbury.ac.nz/
