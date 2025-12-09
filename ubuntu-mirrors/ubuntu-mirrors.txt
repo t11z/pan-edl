@@ -95,6 +95,7 @@ ftp.uni-mainz.de/
 ftp.uni-stuttgart.de/
 ftp.uninett.no/
 ftp.usf.edu/
+ftp.ussg.iu.edu/
 ftp.uvigo.es/
 ftp5.gwdg.de/
 ftpmirror1.infania.net/
