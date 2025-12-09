@@ -51,7 +51,6 @@ ftp.halifax.rwth-aachen.de/
 ftp.hosteurope.de/
 ftp.icm.edu.pl/
 ftp.iinet.net.au/
-ftp.iitm.ac.in/
 ftp.jaist.ac.jp/
 ftp.kaist.ac.kr/
 ftp.klid.dk/
@@ -571,7 +570,6 @@ ubuntu.mirror.frontiernet.net/
 ubuntu.mirror.garr.it/
 ubuntu.mirror.globo.tech/
 ubuntu.mirror.gnc.am/
-ubuntu.mirror.homacloud.ai/
 ubuntu.mirror.intermax.nl/
 ubuntu.mirror.letscloud.io/
 ubuntu.mirror.linux.ro/
