@@ -252,6 +252,7 @@ mirror.neftm.ru/
 mirror.netzwerge.de/
 mirror.nforce.com/
 mirror.nitc.ac.in/
+mirror.nju.edu.cn/
 mirror.nl.cdn-perfprod.com/
 mirror.nl.datapacket.com/
 mirror.nl.leaseweb.net/
@@ -293,6 +294,7 @@ mirror.vpgrp.io/
 mirror.wtnet.de/
 mirror.xeonbd.com/
 mirror.xtom.com.hk/
+mirror.yuki.net.uk/
 mirror1.infomaniak.com/
 mirror2.infomaniak.com/
 mirrors.accretive-networks.net/
