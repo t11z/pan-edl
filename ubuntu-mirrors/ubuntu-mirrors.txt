@@ -158,6 +158,7 @@ mirror.bharatdatacenter.com/
 mirror.bizflycloud.vn/
 mirror.biznetgio.com/
 mirror.brightridge.com/
+mirror.bytemark.co.uk/
 mirror.ca-tr.kamatera.com/
 mirror.cc.vt.edu/
 mirror.cedia.org.ec/
@@ -263,6 +264,7 @@ mirror.kernel.ir/
 mirror.kkg.berlin/
 mirror.kku.ac.th/
 mirror.krfoss.org/
+mirror.kumi.systems/
 mirror.lc/
 mirror.library.ucy.ac.cy/
 mirror.limda.net/
