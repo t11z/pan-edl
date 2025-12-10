@@ -185,7 +185,6 @@ mirror.datacenter.az/
 mirror.datacenter.by/
 mirror.datacenter.mn/
 mirror.datamossa.io/
-mirror.dc.uz/
 mirror.de.leaseweb.net/
 mirror.dewabiz.com/
 mirror.digitaloceans.dev/
@@ -621,6 +620,7 @@ ubuntu.uvigo.es/
 ubuntu.volia.net/
 ubuntu.vpsttt.com/
 ubuntu.web.trex.fi/
+ubuntu.zero.com.ar/
 ubuntutym.u-toyama.ac.jp/
 ucho.ignum.cz/
 ucmirror.canterbury.ac.nz/
