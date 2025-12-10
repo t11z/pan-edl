@@ -1,5 +1,6 @@
 *.archive.ubuntu.com/
 ae.archive.ubuntu.com/
+archive-ubuntu.scopesky.com/
 archive.g4t1.pro/
 archive.linux.duke.edu/
 archive.ubuntu.com/
