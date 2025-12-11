@@ -593,7 +593,6 @@ ubuntu.mirrors.omnilance.com/
 ubuntu.mirrors.ovh.net/
 ubuntu.mirrors.pair.com/
 ubuntu.mirrors.uk2.net/
-ubuntu.mobinhost.com/
 ubuntu.mti.mt.gov.br/
 ubuntu.netforce.hosting/
 ubuntu.org.ua/
