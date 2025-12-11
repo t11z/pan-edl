@@ -318,6 +318,7 @@ mirror.rcg.sfu.ca/
 mirror.realcompute.io/
 mirror.reenigne.net/
 mirror.renu.ac.ug/
+mirror.retentionrange.co.bw/
 mirror.root.lu/
 mirror.rustytel.net/
 mirror.sabay.com.kh/
