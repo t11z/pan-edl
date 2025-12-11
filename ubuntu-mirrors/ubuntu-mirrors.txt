@@ -51,6 +51,7 @@ ftp.halifax.rwth-aachen.de/
 ftp.hosteurope.de/
 ftp.icm.edu.pl/
 ftp.iinet.net.au/
+ftp.iitm.ac.in/
 ftp.jaist.ac.jp/
 ftp.kaist.ac.kr/
 ftp.klid.dk/
@@ -124,7 +125,6 @@ lug.mines.edu/
 mir.linux.kg/
 miroir.univ-lorraine.fr/
 mirror-gw.elastis.id/
-mirror-hk.koddos.net/
 mirror-mk.interspace.com/
 mirror.0-1.cloud/
 mirror.01link.hk/
@@ -264,9 +264,7 @@ mirror.kku.ac.th/
 mirror.krfoss.org/
 mirror.kumi.systems/
 mirror.lc/
-mirror.library.ucy.ac.cy/
 mirror.limda.net/
-mirror.linkdata.com/
 mirror.linux.ncsu.edu/
 mirror.liquidrp.de/
 mirror.logol.ru/
