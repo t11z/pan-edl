@@ -98,7 +98,6 @@ ftp.bg.debian.org/
 ftp.bme.hu/
 ftp.br.debian.org/
 ftp.ca.debian.org/
-ftp.caliu.cat/
 ftp.ch.debian.org/
 ftp.cica.es/
 ftp.cl.debian.org/
@@ -313,6 +312,7 @@ mirrors.jlu.edu.cn/
 mirrors.lug.mtu.edu/
 mirrors.nav.ro/
 mirrors.nepalicloud.com/
+mirrors.netix.net/
 mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
 mirrors.pardisco.co/
