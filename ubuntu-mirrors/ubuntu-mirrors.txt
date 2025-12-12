@@ -84,7 +84,6 @@ ftp.tku.edu.tw/
 ftp.tsukuba.wide.ad.jp/
 ftp.tu-chemnitz.de/
 ftp.tu-ilmenau.de/
-ftp.tudelft.nl/
 ftp.tw.debian.org/
 ftp.u-picardie.fr/
 ftp.ubuntu-tw.net/
@@ -154,7 +153,6 @@ mirror.bacloud.com/
 mirror.bahnhof.net/
 mirror.battern.eu/
 mirror.bg.host.ag/
-mirror.bharatdatacenter.com/
 mirror.bizflycloud.vn/
 mirror.biznetgio.com/
 mirror.brightridge.com/
