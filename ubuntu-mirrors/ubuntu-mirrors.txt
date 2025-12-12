@@ -37,6 +37,7 @@ ftp.agh.edu.pl/
 ftp.arnes.si/
 ftp.belnet.be/
 ftp.byfly.by/
+ftp.caliu.cat/
 ftp.cc.uoc.gr/
 ftp.corbina.net/
 ftp.csuc.cat/
@@ -100,7 +101,6 @@ ftp.ussg.iu.edu/
 ftp.uvigo.es/
 ftp5.gwdg.de/
 ftpmirror1.infania.net/
-ftpserv.tudelft.nl/
 giano.com.dist.unige.it/
 glua.ua.pt/
 gpl.savoirfairelinux.net/
