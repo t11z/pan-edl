@@ -29,7 +29,6 @@ distrohub.kyiv.ua/
 download.nus.edu.sg/
 download.nust.na/
 edgeuno-bog2.mm.fcix.net/
-elmirror.cl/
 free.nchc.org.tw/
 ftp-stud.hs-esslingen.de/
 ftp.acc.umu.se/
