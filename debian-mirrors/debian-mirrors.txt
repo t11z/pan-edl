@@ -130,7 +130,6 @@ ftp.lanet.kr/
 ftp.linux.it/
 ftp.lip6.fr/
 ftp.lt.debian.org/
-ftp.ludd.ltu.se/
 ftp.nara.wide.ad.jp/
 ftp.nc.debian.org/
 ftp.nl.debian.org/
