@@ -255,6 +255,7 @@ mirror.kamp.de/
 mirror.kapteyan.com.tr/
 mirror.katapult.io/
 mirror.keiminem.com/
+mirror.kernel.ir/
 mirror.kkg.berlin/
 mirror.kku.ac.th/
 mirror.krfoss.org/
@@ -308,6 +309,7 @@ mirror.papua.go.id/
 mirror.pilotfiber.com/
 mirror.pit.teraswitch.com/
 mirror.plusserver.com/
+mirror.poliwangi.ac.id/
 mirror.previder.nl/
 mirror.ps.kz/
 mirror.raiolanetworks.com/
