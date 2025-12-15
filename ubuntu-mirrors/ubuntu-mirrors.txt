@@ -174,7 +174,6 @@ mirror.cs.jmu.edu/
 mirror.cs.odu.edu/
 mirror.csclub.uwaterloo.ca/
 mirror.cse.iitk.ac.in/
-mirror.cyberchains.org/
 mirror.d.umn.edu/
 mirror.dal.nexril.net/
 mirror.daniel-jost.net/
