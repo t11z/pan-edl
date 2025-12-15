@@ -56,7 +56,6 @@ ftp.jaist.ac.jp/
 ftp.kaist.ac.kr/
 ftp.klid.dk/
 ftp.lanet.kr/
-ftp.linux.cz/
 ftp.linux.edu.lv/
 ftp.linux.org.tr/
 ftp.linux.ro/
@@ -116,6 +115,7 @@ kebo.vlsm.org/
 kozyatagi.mirror.guzel.net.tr/
 kr.mirror.tefexia.net/
 la.mirrors.clouvider.net/
+labs.eif.urjc.es/
 linux.domainesia.com/
 linux.yz.yamagata-u.ac.jp/
 lug.mines.edu/
