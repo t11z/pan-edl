@@ -198,6 +198,7 @@ mirror.eu-fr.kamatera.com/
 mirror.eu-lo.kamatera.com/
 mirror.eu.4psacloud.com/
 mirror.eu.kamatera.com/
+mirror.famaserver.com/
 mirror.faraso.org/
 mirror.fcix.net/
 mirror.fi.ossplanet.net/
@@ -263,7 +264,6 @@ mirror.lc/
 mirror.library.ucy.ac.cy/
 mirror.limda.net/
 mirror.linux.ncsu.edu/
-mirror.liquidrp.de/
 mirror.logol.ru/
 mirror.lstn.net/
 mirror.lyrahosting.com/
