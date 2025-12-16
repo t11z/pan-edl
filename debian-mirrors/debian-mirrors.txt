@@ -311,6 +311,7 @@ mirrors.lug.mtu.edu/
 mirrors.nav.ro/
 mirrors.nepalicloud.com/
 mirrors.netix.net/
+mirrors.neusoft.edu.cn/
 mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
 mirrors.pardisco.co/
