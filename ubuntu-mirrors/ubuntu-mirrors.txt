@@ -321,6 +321,7 @@ mirror.realcompute.io/
 mirror.reenigne.net/
 mirror.renu.ac.ug/
 mirror.retentionrange.co.bw/
+mirror.rise.ph/
 mirror.root.lu/
 mirror.rustytel.net/
 mirror.sabay.com.kh/
