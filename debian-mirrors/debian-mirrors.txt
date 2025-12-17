@@ -314,7 +314,6 @@ mirrors.netix.net/
 mirrors.neusoft.edu.cn/
 mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
-mirrors.pardisco.co/
 mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
 mirrors.rackhosting.com/
