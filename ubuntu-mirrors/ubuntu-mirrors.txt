@@ -4,7 +4,6 @@ archive-ubuntu.scopesky.com/
 archive.g4t1.pro/
 archive.linux.duke.edu/
 archive.ubuntu.com/
-archive.ubuntu.csg.uzh.ch/
 archive.ubuntu.mirror.ba/
 archive.ubuntu.mirror.rafal.ca/
 archive.ubuntu.mirrors.zagrio.net/
