@@ -57,6 +57,7 @@ ftp.jaist.ac.jp/
 ftp.kaist.ac.kr/
 ftp.klid.dk/
 ftp.lanet.kr/
+ftp.linux.cz/
 ftp.linux.edu.lv/
 ftp.linux.org.tr/
 ftp.linux.ro/
