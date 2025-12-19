@@ -197,6 +197,7 @@ mirror.ekiphost.com/
 mirror.elice.io/
 mirror.eliv.digital/
 mirror.enzu.com/
+mirror.esecuredata.com/
 mirror.eu-fr.kamatera.com/
 mirror.eu-lo.kamatera.com/
 mirror.eu.4psacloud.com/
@@ -320,7 +321,6 @@ mirror.raiolanetworks.com/
 mirror.rcg.sfu.ca/
 mirror.realcompute.io/
 mirror.reenigne.net/
-mirror.retentionrange.co.bw/
 mirror.rise.ph/
 mirror.root.lu/
 mirror.rustytel.net/
