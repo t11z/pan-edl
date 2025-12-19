@@ -207,6 +207,7 @@ mirror.fcix.net/
 mirror.fi.ossplanet.net/
 mirror.flo.c-f.ro/
 mirror.flokinet.net/
+mirror.fmt-2.serverforge.org/
 mirror.freedif.org/
 mirror.freethought-internet.co.uk/
 mirror.fsmg.org.nz/
@@ -276,7 +277,6 @@ mirror.marcusn.net/
 mirror.marwan.ma/
 mirror.math.princeton.edu/
 mirror.math.ucdavis.edu/
-mirror.mci-1.serverforge.org/
 mirror.metrocast.net/
 mirror.mia.velocihost.net/
 mirror.mirohost.net/
