@@ -382,6 +382,7 @@ mirror.virtury.com/
 mirror.visiontech.com.bd/
 mirror.vnet.sk/
 mirror.vorboss.net/
+mirror.vpgrp.io/
 mirror.vpsnet.com/
 mirror.webworld.ie/
 mirror.wtnet.de/
