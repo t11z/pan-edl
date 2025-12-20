@@ -187,7 +187,6 @@ mirror.5i.fi/
 mirror.a1.mk/
 mirror.aarnet.edu.au/
 mirror.abaclouda.net/
-mirror.abmanagement.al/
 mirror.alwyzon.net/
 mirror.amaze.com.au/
 mirror.aminidc.com/
