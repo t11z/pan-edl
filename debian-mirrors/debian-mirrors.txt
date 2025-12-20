@@ -98,6 +98,7 @@ ftp.bg.debian.org/
 ftp.bme.hu/
 ftp.br.debian.org/
 ftp.ca.debian.org/
+ftp.caliu.cat/
 ftp.ch.debian.org/
 ftp.cica.es/
 ftp.cl.debian.org/
@@ -222,7 +223,6 @@ mirror.gsl.icu/
 mirror.hnd.cl/
 mirror.hoster.kz/
 mirror.hyperdedic.ru/
-mirror.ibcp.fr/
 mirror.informatik.tu-freiberg.de/
 mirror.init7.net/
 mirror.insacom.cl/
