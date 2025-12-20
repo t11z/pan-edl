@@ -360,7 +360,6 @@ mirror.ufro.cl/
 mirror.ufscar.br/
 mirror.umd.edu/
 mirror.unair.ac.id/
-mirror.unesp.br/
 mirror.unet.by/
 mirror.unimagdalena.edu.co/
 mirror.united-gameserver.de/
