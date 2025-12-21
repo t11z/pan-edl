@@ -83,6 +83,7 @@ debian.volia.net/
 debian.vranetworks.lat/
 debian.web.trex.fi/
 debian.xtdv.net/
+debpkg.libranext.com/
 dennou-k.gfd-dennou.org/
 depot-debian.univ-reunion.fr/
 free.hands.com/
