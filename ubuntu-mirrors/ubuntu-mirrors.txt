@@ -24,7 +24,6 @@ de.mirrors.clouvider.net/
 deb.campolargo.pr.gov.br/
 debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
-distrohub.kyiv.ua/
 download.nus.edu.sg/
 download.nust.na/
 edgeuno-bog2.mm.fcix.net/
@@ -84,7 +83,6 @@ ftp.tu-chemnitz.de/
 ftp.tu-ilmenau.de/
 ftp.tudelft.nl/
 ftp.tw.debian.org/
-ftp.u-picardie.fr/
 ftp.ubuntu-tw.net/
 ftp.ubuntu-tw.org/
 ftp.udc.es/
