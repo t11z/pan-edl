@@ -317,7 +317,6 @@ mirror.realcompute.io/
 mirror.reenigne.net/
 mirror.renu.ac.ug/
 mirror.rise.ph/
-mirror.root.lu/
 mirror.rustytel.net/
 mirror.sabay.com.kh/
 mirror.scaleuptech.com/
@@ -356,6 +355,7 @@ mirror.ufro.cl/
 mirror.ufscar.br/
 mirror.umd.edu/
 mirror.unair.ac.id/
+mirror.unesp.br/
 mirror.unet.by/
 mirror.unimagdalena.edu.co/
 mirror.united-gameserver.de/
@@ -427,6 +427,7 @@ mirrors.hosterion.ro/
 mirrors.hostico.ro/
 mirrors.hostiserver.com/
 mirrors.huaweicloud.com/
+mirrors.hust.edu.cn/
 mirrors.ipserverone.com/
 mirrors.ircam.fr/
 mirrors.iu13.net/
@@ -577,7 +578,6 @@ ubuntu.mirror.lrz.de/
 ubuntu.mirror.net.za/
 ubuntu.mirror.rafal.ca/
 ubuntu.mirror.rain.co.za/
-ubuntu.mirror.root.lu/
 ubuntu.mirror.serversaustralia.com.au/
 ubuntu.mirror.shastacoe.net/
 ubuntu.mirror.thegigabit.com/
