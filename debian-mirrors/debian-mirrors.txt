@@ -299,6 +299,7 @@ mirror2.infomaniak.com/
 mirrors.accretive-networks.net/
 mirrors.bfsu.edu.cn/
 mirrors.bloomu.edu/
+mirrors.bmcc.edu/
 mirrors.coreix.net/
 mirrors.dotsrc.org/
 mirrors.glesys.net/
