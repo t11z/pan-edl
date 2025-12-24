@@ -79,6 +79,7 @@ debian.uchicago.edu/
 debian.uevora.pt/
 debian.univ-tlse2.fr/
 debian.unnoba.edu.ar/
+debian.uvigo.es/
 debian.volia.net/
 debian.vranetworks.lat/
 debian.web.trex.fi/
