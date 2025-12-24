@@ -83,6 +83,7 @@ debian.volia.net/
 debian.vranetworks.lat/
 debian.web.trex.fi/
 debian.xtdv.net/
+debianmirror.una.ac.cr/
 debpkg.libranext.com/
 dennou-k.gfd-dennou.org/
 depot-debian.univ-reunion.fr/
@@ -173,6 +174,7 @@ ftp.zcu.cz/
 ftp2.de.debian.org/
 ftpmirror1.infania.net/
 giano.com.dist.unige.it/
+is.mirror.flokinet.net/
 kartolo.sby.datautama.net.id/
 kebo.pens.ac.id/
 la.mirrors.clouvider.net/
