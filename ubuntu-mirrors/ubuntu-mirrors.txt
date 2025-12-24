@@ -148,7 +148,6 @@ mirror.as.kamatera.com/
 mirror.as24220.net/
 mirror.as29550.net/
 mirror.as43289.net/
-mirror.ati.tn/
 mirror.azvps.vn/
 mirror.bacloud.com/
 mirror.bahnhof.net/
@@ -538,7 +537,6 @@ ubuntu-archive.interhost.co.il/
 ubuntu-archive.locaweb.com.br/
 ubuntu-archive.mirror.liquidtelecom.com/
 ubuntu-archive.mirror.serveriai.lt/
-ubuntu-mirror.ati.tn/
 ubuntu-mirror.bhtelecom.ba/
 ubuntu-mirror.kimiahost.com/
 ubuntu-mirror.puq.apoapsis.cl/
