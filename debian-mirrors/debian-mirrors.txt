@@ -50,7 +50,6 @@ debian.mirror.lrz.de/
 debian.mirror.rafal.ca/
 debian.mirror.root.lu/
 debian.mirror.uk.sargasso.net/
-debian.mirror.vu.lt/
 debian.mirror.web4u.cz/
 debian.mirrors.ovh.net/
 debian.mirrors.uk2.net/
@@ -134,7 +133,6 @@ ftp.jp.debian.org/
 ftp.lanet.kr/
 ftp.linux.it/
 ftp.lip6.fr/
-ftp.lt.debian.org/
 ftp.nara.wide.ad.jp/
 ftp.nc.debian.org/
 ftp.nl.debian.org/
