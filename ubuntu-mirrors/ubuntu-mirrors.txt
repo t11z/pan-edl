@@ -149,6 +149,7 @@ mirror.as.kamatera.com/
 mirror.as24220.net/
 mirror.as29550.net/
 mirror.as43289.net/
+mirror.ati.tn/
 mirror.azvps.vn/
 mirror.bacloud.com/
 mirror.bahnhof.net/
@@ -531,7 +532,6 @@ sft.if.usp.br:/
 sg-mirrors.vhost.vn/
 softlibre.unizar.es/
 suro.ubaya.ac.id/
-suse.uni-leipzig.de/
 tux.rainside.sk/
 tw1.mirror.blendbyte.net/
 ubuntu-archive.interhost.co.il/
@@ -611,7 +611,6 @@ ubuntu.servering.info/
 ubuntu.syxpi.fr/
 ubuntu.task.gda.pl/
 ubuntu.tuxuri.com/
-ubuntu.ucr.ac.cr/
 ubuntu.uib.no/
 ubuntu.unc.edu.ar/
 ubuntu.uni-klu.ac.at/
