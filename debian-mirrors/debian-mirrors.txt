@@ -131,6 +131,7 @@ ftp.it.debian.org/
 ftp.jaist.ac.jp/
 ftp.jp.debian.org/
 ftp.lanet.kr/
+ftp.linux.edu.lv/
 ftp.linux.it/
 ftp.lip6.fr/
 ftp.nara.wide.ad.jp/
