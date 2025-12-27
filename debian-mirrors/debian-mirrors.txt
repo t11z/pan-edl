@@ -130,6 +130,8 @@ ftp.is.debian.org/
 ftp.it.debian.org/
 ftp.jaist.ac.jp/
 ftp.jp.debian.org/
+ftp.kaist.ac.kr/
+ftp.kr.debian.org/
 ftp.lanet.kr/
 ftp.linux.edu.lv/
 ftp.linux.it/
@@ -271,6 +273,7 @@ mirror.positive-internet.com/
 mirror.ps.kz/
 mirror.raiolanetworks.com/
 mirror.realcompute.io/
+mirror.sabay.com.kh/
 mirror.sg.gs/
 mirror.siena.edu/
 mirror.sinavps.ch/
@@ -302,7 +305,6 @@ mirror2.infomaniak.com/
 mirrors.accretive-networks.net/
 mirrors.bfsu.edu.cn/
 mirrors.bloomu.edu/
-mirrors.bmcc.edu/
 mirrors.coreix.net/
 mirrors.dotsrc.org/
 mirrors.glesys.net/
