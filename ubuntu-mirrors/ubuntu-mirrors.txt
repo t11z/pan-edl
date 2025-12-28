@@ -254,7 +254,6 @@ mirror.jeonnam.school/
 mirror.johnnybegood.fr/
 mirror.kakao.com/
 mirror.kamp.de/
-mirror.kapteyan.com.tr/
 mirror.katapult.io/
 mirror.keiminem.com/
 mirror.kernel.ir/
