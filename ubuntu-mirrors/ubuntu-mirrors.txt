@@ -585,6 +585,7 @@ ubuntu.mirror.shastacoe.net/
 ubuntu.mirror.thegigabit.com/
 ubuntu.mirror.true.nl/
 ubuntu.mirror.tudos.de/
+ubuntu.mirror.vu.lt/
 ubuntu.mirror.wearetriple.com/
 ubuntu.mirrors.linux.ro/
 ubuntu.mirrors.omnilance.com/
