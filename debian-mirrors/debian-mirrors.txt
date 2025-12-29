@@ -49,6 +49,7 @@ debian.mirror.liquidtelecom.com/
 debian.mirror.lrz.de/
 debian.mirror.rafal.ca/
 debian.mirror.root.lu/
+debian.mirror.serversaustralia.com.au/
 debian.mirror.uk.sargasso.net/
 debian.mirror.web4u.cz/
 debian.mirrors.ovh.net/
@@ -326,7 +327,6 @@ mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
 mirrors.rackhosting.com/
 mirrors.tuna.tsinghua.edu.cn/
-mirrors.ucr.ac.cr/
 mirrors.up.pt/
 mirrors.upr.edu/
 mirrors.ustc.edu.cn/
