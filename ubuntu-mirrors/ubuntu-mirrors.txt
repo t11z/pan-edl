@@ -221,6 +221,7 @@ mirror.greennet.gl/
 mirror.group.one/
 mirror.gsl.icu/
 mirror.hashy0917.net/
+mirror.hep.gg/
 mirror.hnd.cl/
 mirror.hoobly.com/
 mirror.hostafrica.co.za/
