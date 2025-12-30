@@ -215,6 +215,7 @@ mirror.fsmg.org.nz/
 mirror.fst.kz/
 mirror.funkfreundelandshut.de/
 mirror.geekonweb.fr/
+mirror.gi.co.id/
 mirror.gofoss.xyz/
 mirror.gotmyhost.com/
 mirror.greennet.gl/
@@ -531,6 +532,7 @@ sft.if.usp.br:/
 sg-mirrors.vhost.vn/
 softlibre.unizar.es/
 suro.ubaya.ac.id/
+suse.uni-leipzig.de/
 tux.rainside.sk/
 tw1.mirror.blendbyte.net/
 ubuntu-archive.interhost.co.il/
