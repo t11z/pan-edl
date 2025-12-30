@@ -257,6 +257,7 @@ mirror.jeonnam.school/
 mirror.johnnybegood.fr/
 mirror.kakao.com/
 mirror.kamp.de/
+mirror.kapteyan.com.tr/
 mirror.katapult.io/
 mirror.keiminem.com/
 mirror.kernel.ir/
@@ -624,7 +625,6 @@ ubuntu.vpsttt.com/
 ubuntu.web.trex.fi/
 ubuntu.zero.com.ar/
 ubuntutym.u-toyama.ac.jp/
-ucho.ignum.cz/
 ucmirror.canterbury.ac.nz/
 uk.mirrors.clouvider.net/
 vn-mirrors.vhost.vn/
