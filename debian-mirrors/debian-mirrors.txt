@@ -138,7 +138,6 @@ ftp.kr.debian.org/
 ftp.lanet.kr/
 ftp.linux.edu.lv/
 ftp.linux.it/
-ftp.lip6.fr/
 ftp.lt.debian.org/
 ftp.nara.wide.ad.jp/
 ftp.nc.debian.org/
@@ -304,7 +303,6 @@ mirror.vpgrp.io/
 mirror.wtnet.de/
 mirror.xeonbd.com/
 mirror.xtom.com.hk/
-mirror.yuki.net.uk/
 mirror1.infomaniak.com/
 mirror2.infomaniak.com/
 mirrors.accretive-networks.net/
