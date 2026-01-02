@@ -377,7 +377,6 @@ mirror.verinomi.com/
 mirror.vietnix.vn/
 mirror.viettelcloud.vn/
 mirror.vinehost.net/
-mirror.virtury.com/
 mirror.visiontech.com.bd/
 mirror.vnet.sk/
 mirror.vorboss.net/
