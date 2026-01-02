@@ -459,6 +459,7 @@ mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
 mirrors.ptisp.pt/
 mirrors.rit.edu/
+mirrors.sarak.as/
 mirrors.sdu.edu.cn/
 mirrors.sjtug.sjtu.edu.cn/
 mirrors.sohu.com/
@@ -470,7 +471,6 @@ mirrors.tuna.tsinghua.edu.cn/
 mirrors.ubuntu.dimit.cloud/
 mirrors.ukfast.co.uk/
 mirrors.united.cd/
-mirrors.up.pt/
 mirrors.upr.edu/
 mirrors.us.kernel.org/
 mirrors.usinternet.com/
