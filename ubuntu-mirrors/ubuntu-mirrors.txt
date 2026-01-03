@@ -415,6 +415,7 @@ mirrors.cn99.com/
 mirrors.coreix.net/
 mirrors.cqu.edu.cn/
 mirrors.datapark.ro/
+mirrors.dc.clear.net.ar/
 mirrors.dgut.edu.cn/
 mirrors.dotsrc.org/
 mirrors.egr.msu.edu/
