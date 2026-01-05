@@ -431,7 +431,6 @@ mirrors.hosterion.ro/
 mirrors.hostico.ro/
 mirrors.hostiserver.com/
 mirrors.huaweicloud.com/
-mirrors.hust.edu.cn/
 mirrors.ipserverone.com/
 mirrors.ircam.fr/
 mirrors.iu13.net/
