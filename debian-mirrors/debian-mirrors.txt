@@ -232,6 +232,7 @@ mirror.gsl.icu/
 mirror.hnd.cl/
 mirror.hoster.kz/
 mirror.hyperdedic.ru/
+mirror.ibcp.fr/
 mirror.informatik.tu-freiberg.de/
 mirror.init7.net/
 mirror.insacom.cl/
@@ -310,6 +311,7 @@ mirrors.bfsu.edu.cn/
 mirrors.bloomu.edu/
 mirrors.coreix.net/
 mirrors.dotsrc.org/
+mirrors.egr.msu.edu/
 mirrors.glesys.net/
 mirrors.hit.edu.cn/
 mirrors.hosterion.ro/
