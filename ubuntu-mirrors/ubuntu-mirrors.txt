@@ -257,7 +257,6 @@ mirror.jeonnam.school/
 mirror.johnnybegood.fr/
 mirror.kakao.com/
 mirror.kamp.de/
-mirror.kapteyan.com.tr/
 mirror.katapult.io/
 mirror.keiminem.com/
 mirror.kernel.ir/
@@ -301,7 +300,6 @@ mirror.nl.datapacket.com/
 mirror.nl.leaseweb.net/
 mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
-mirror.nus.edu.sg/
 mirror.nyist.edu.cn/
 mirror.one.com/
 mirror.ordunet.ge/
@@ -454,7 +452,6 @@ mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
 mirrors.opensource.is/
 mirrors.pardisco.co/
-mirrors.piconets.webwerks.in/
 mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
 mirrors.ptisp.pt/
@@ -474,7 +471,6 @@ mirrors.united.cd/
 mirrors.up.pt/
 mirrors.upr.edu/
 mirrors.us.kernel.org/
-mirrors.usinternet.com/
 mirrors.ustc.edu.cn/
 mirrors.vcea.wsu.edu/
 mirrors.webhs.pt/
@@ -502,7 +498,6 @@ pkg.adfinis-on-exoscale.ch/
 pkg.adfinis.com/
 plug-mirror.rcac.purdue.edu/
 ports.ubuntu.moon127.net/
-pubmirrors.dal.corespace.com/
 rep-ubuntu-il.upress.io/
 repo.extreme-ix.org/
 repo.huaweicloud.com/
@@ -623,7 +618,6 @@ ubuntu.vpsttt.com/
 ubuntu.web.trex.fi/
 ubuntu.zero.com.ar/
 ubuntutym.u-toyama.ac.jp/
-ucho.ignum.cz/
 ucmirror.canterbury.ac.nz/
 uk.mirrors.clouvider.net/
 vn-mirrors.vhost.vn/
