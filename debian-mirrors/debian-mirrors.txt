@@ -78,6 +78,7 @@ debian.snt.utwente.nl/
 debian.superhosting.cz/
 debian.telecoms.bg/
 debian.tu-bs.de/
+debian.tuxuri.com/
 debian.uchicago.edu/
 debian.uevora.pt/
 debian.univ-tlse2.fr/
@@ -142,7 +143,6 @@ ftp.lt.debian.org/
 ftp.nara.wide.ad.jp/
 ftp.nc.debian.org/
 ftp.nl.debian.org/
-ftp.no.debian.org/
 ftp.nz.debian.org/
 ftp.pl.debian.org/
 ftp.psn.ru/
@@ -166,7 +166,6 @@ ftp.tw.debian.org/
 ftp.u-picardie.fr/
 ftp.u-strasbg.fr/
 ftp.udc.es/
-ftp.uio.no/
 ftp.uk.debian.org/
 ftp.uni-hannover.de/
 ftp.uni-kl.de/
