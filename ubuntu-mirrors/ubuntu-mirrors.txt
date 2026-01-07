@@ -455,6 +455,7 @@ mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
 mirrors.opensource.is/
 mirrors.pardisco.co/
+mirrors.piconets.webwerks.in/
 mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
 mirrors.ptisp.pt/
@@ -474,6 +475,7 @@ mirrors.united.cd/
 mirrors.up.pt/
 mirrors.upr.edu/
 mirrors.us.kernel.org/
+mirrors.usinternet.com/
 mirrors.ustc.edu.cn/
 mirrors.vcea.wsu.edu/
 mirrors.webhs.pt/
