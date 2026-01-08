@@ -437,7 +437,6 @@ mirrors.ipserverone.com/
 mirrors.ircam.fr/
 mirrors.iu13.net/
 mirrors.jlu.edu.cn/
-mirrors.krnk.org/
 mirrors.layeronline.com/
 mirrors.liquidweb.com/
 mirrors.lug.mtu.edu/
@@ -606,7 +605,6 @@ ubuntu.otenet.gr/
 ubuntu.pars.host/
 ubuntu.parsvds.com/
 ubuntu.phoenixnap.com/
-ubuntu.pishgaman.net/
 ubuntu.repo.cure.edu.uy/
 ubuntu.rsync.kr/
 ubuntu.securedservers.com/
