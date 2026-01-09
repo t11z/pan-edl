@@ -24,7 +24,6 @@ deb.campolargo.pr.gov.br/
 debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
 distrohub.kyiv.ua/
-download.nus.edu.sg/
 download.nust.na/
 drmirror.physi.uni-heidelberg.de/
 edgeuno-bog2.mm.fcix.net/
@@ -106,7 +105,6 @@ gpl.savoirfairelinux.net/
 http.krfoss.org/
 in.mirror.coganng.com/
 ir.archive.ubuntu.com/
-ir.ubuntu.sindad.cloud/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
@@ -141,7 +139,6 @@ mirror.amscloud.co.id/
 mirror.anigil.com/
 mirror.aptus.co.tz/
 mirror.arizona.edu/
-mirror.arvancloud.ir/
 mirror.as.kamatera.com/
 mirror.as24220.net/
 mirror.as29550.net/
@@ -550,7 +547,6 @@ ubuntu.cica.es/
 ubuntu.cs.nctu.edu.tw/
 ubuntu.cs.utah.edu/
 ubuntu.dcc.fc.up.pt/
-ubuntu.dts.mg/
 ubuntu.ethz.ch/
 ubuntu.gjolly.dev/
 ubuntu.grad.hr/
