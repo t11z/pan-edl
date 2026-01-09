@@ -184,6 +184,7 @@ kartolo.sby.datautama.net.id/
 kebo.pens.ac.id/
 la.mirrors.clouvider.net/
 lethe.chinstrap.org/
+lidsol.fi-b.unam.mx/
 linux.purple-cat.net/
 linuxsoft.cern.ch/
 merlin.fit.vutbr.cz/
