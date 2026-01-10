@@ -450,7 +450,6 @@ mirrors.nxtgen.com/
 mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
 mirrors.opensource.is/
-mirrors.pardisco.co/
 mirrors.piconets.webwerks.in/
 mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
@@ -590,7 +589,6 @@ ubuntu.mirrors.omnilance.com/
 ubuntu.mirrors.ovh.net/
 ubuntu.mirrors.pair.com/
 ubuntu.mirrors.uk2.net/
-ubuntu.mobinhost.com/
 ubuntu.mti.mt.gov.br/
 ubuntu.netforce.hosting/
 ubuntu.org.ua/
