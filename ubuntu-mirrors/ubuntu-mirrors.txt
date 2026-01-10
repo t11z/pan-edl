@@ -13,7 +13,6 @@ archive.ubuntumirror.dei.uc.pt/
 artfiles.org/
 atl.mirrors.clouvider.net/
 aze.archive.ubuntu.com/
-cdn.repo.cloudeka.id/
 cdn.ubuntu.repo.cloudeka.id/
 cesium.di.uminho.pt/
 cz.archive.ubuntu.com/
@@ -104,7 +103,6 @@ glua.ua.pt/
 gpl.savoirfairelinux.net/
 http.krfoss.org/
 in.mirror.coganng.com/
-ir.archive.ubuntu.com/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
@@ -142,7 +140,6 @@ mirror.arizona.edu/
 mirror.as.kamatera.com/
 mirror.as24220.net/
 mirror.as29550.net/
-mirror.as43289.net/
 mirror.ati.tn/
 mirror.azvps.vn/
 mirror.bacloud.com/
@@ -198,7 +195,6 @@ mirror.eu-lo.kamatera.com/
 mirror.eu.4psacloud.com/
 mirror.eu.kamatera.com/
 mirror.famaserver.com/
-mirror.faraso.org/
 mirror.fcix.net/
 mirror.fi.ossplanet.net/
 mirror.flo.c-f.ro/
@@ -592,7 +588,6 @@ ubuntu.netforce.hosting/
 ubuntu.org.ua/
 ubuntu.osuosl.org/
 ubuntu.otenet.gr/
-ubuntu.pars.host/
 ubuntu.phoenixnap.com/
 ubuntu.repo.cure.edu.uy/
 ubuntu.rsync.kr/
