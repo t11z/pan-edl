@@ -64,6 +64,7 @@ ftp.mirror.tw/
 ftp.mirrorservice.org/
 ftp.muug.ca/
 ftp.nluug.nl/
+ftp.ntua.gr/
 ftp.otenet.gr/
 ftp.psnc.pl/
 ftp.riken.jp/
@@ -258,6 +259,7 @@ mirror.limda.net/
 mirror.linux.ncsu.edu/
 mirror.liquidrp.de/
 mirror.logol.ru/
+mirror.lstn.net/
 mirror.lyrahosting.com/
 mirror.maeen.sa/
 mirror.marcusn.net/
