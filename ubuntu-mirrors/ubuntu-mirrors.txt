@@ -248,7 +248,6 @@ mirror.kamp.de/
 mirror.kapteyan.com.tr/
 mirror.katapult.io/
 mirror.keiminem.com/
-mirror.kernel.ir/
 mirror.kkg.berlin/
 mirror.kku.ac.th/
 mirror.krfoss.org/
@@ -526,7 +525,6 @@ ubuntu-mirror.ati.tn/
 ubuntu-mirror.bhtelecom.ba/
 ubuntu-mirror.puq.apoapsis.cl/
 ubuntu.anexia.at/
-ubuntu.avalicense.com/
 ubuntu.btit.nz/
 ubuntu.c3sl.ufpr.br/
 ubuntu.ccns.ncku.edu.tw/
