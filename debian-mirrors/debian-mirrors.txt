@@ -88,7 +88,6 @@ debian.web.trex.fi/
 debian.xtdv.net/
 debianmirror.una.ac.cr/
 debpkg.libranext.com/
-dennou-k.gfd-dennou.org/
 depot-debian.univ-reunion.fr/
 free.hands.com/
 ftp-stud.hs-esslingen.de/
