@@ -166,6 +166,7 @@ mirror.cloudhosting.lv/
 mirror.cmkl.ac.th/
 mirror.coganng.com/
 mirror.cogentco.com/
+mirror.colocenter.nl/
 mirror.corbina.net/
 mirror.cov.ukservers.com/
 mirror.creoline.net/
@@ -300,6 +301,7 @@ mirror.one.com/
 mirror.ordunet.ge/
 mirror.ossplanet.net/
 mirror.ourhost.az/
+mirror.overthewire.com.au/
 mirror.ox.ac.uk/
 mirror.papua.go.id/
 mirror.pilotfiber.com/
