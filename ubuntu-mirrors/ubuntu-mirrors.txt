@@ -547,6 +547,7 @@ ubuntu.grn.cat/
 ubuntu.hi.no/
 ubuntu.hysing.is/
 ubuntu.ip-connect.vn.ua/
+ubuntu.ipacct.com/
 ubuntu.koyanet.lv/
 ubuntu.lafibre.info/
 ubuntu.lagis.at/
@@ -593,7 +594,6 @@ ubuntu.rsync.kr/
 ubuntu.securedservers.com/
 ubuntu.syxpi.fr/
 ubuntu.task.gda.pl/
-ubuntu.tuxuri.com/
 ubuntu.ucr.ac.cr/
 ubuntu.uib.no/
 ubuntu.unc.edu.ar/
