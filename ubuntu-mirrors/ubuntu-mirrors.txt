@@ -166,7 +166,6 @@ mirror.cloudhosting.lv/
 mirror.cmkl.ac.th/
 mirror.coganng.com/
 mirror.cogentco.com/
-mirror.colocenter.nl/
 mirror.corbina.net/
 mirror.cov.ukservers.com/
 mirror.creoline.net/
@@ -608,7 +607,6 @@ ubuntu.vpsttt.com/
 ubuntu.web.trex.fi/
 ubuntu.zero.com.ar/
 ubuntutym.u-toyama.ac.jp/
-ucho.ignum.cz/
 ucmirror.canterbury.ac.nz/
 uk.mirrors.clouvider.net/
 vn-mirrors.vhost.vn/
