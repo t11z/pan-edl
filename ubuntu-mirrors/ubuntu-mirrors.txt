@@ -261,6 +261,7 @@ mirror.kumi.systems/
 mirror.lc/
 mirror.library.ucy.ac.cy/
 mirror.limda.net/
+mirror.linkdata.com/
 mirror.linux.ncsu.edu/
 mirror.liquidrp.de/
 mirror.logol.ru/
@@ -500,6 +501,7 @@ repo.extreme-ix.org/
 repo.huaweicloud.com/
 repo.ialab.dsu.edu/
 repo.jztkft.hu/
+repo.linuxmirrors.ir/
 repo.morgan.kr/
 repo.ugm.ac.id/
 repo.usk.ac.id/
