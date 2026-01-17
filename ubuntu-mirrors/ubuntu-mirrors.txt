@@ -11,7 +11,6 @@ archive.ubuntumirror.dei.uc.pt/
 artfiles.org/
 atl.mirrors.clouvider.net/
 aze.archive.ubuntu.com/
-cdn.repo.cloudeka.id/
 cdn.ubuntu.repo.cloudeka.id/
 cesium.di.uminho.pt/
 cz.archive.ubuntu.com/
@@ -497,7 +496,6 @@ repo.extreme-ix.org/
 repo.huaweicloud.com/
 repo.ialab.dsu.edu/
 repo.jztkft.hu/
-repo.linuxmirrors.ir/
 repo.morgan.kr/
 repo.ugm.ac.id/
 repo.usk.ac.id/
@@ -592,6 +590,7 @@ ubuntu.rsync.kr/
 ubuntu.securedservers.com/
 ubuntu.syxpi.fr/
 ubuntu.task.gda.pl/
+ubuntu.tuxuri.com/
 ubuntu.ucr.ac.cr/
 ubuntu.uib.no/
 ubuntu.unc.edu.ar/
