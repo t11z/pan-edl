@@ -198,7 +198,6 @@ mirror.aarnet.edu.au/
 mirror.abaclouda.net/
 mirror.alwyzon.net/
 mirror.amaze.com.au/
-mirror.ams.macarne.com/
 mirror.applebred.net/
 mirror.as35701.net/
 mirror.bgp.rodeo/
