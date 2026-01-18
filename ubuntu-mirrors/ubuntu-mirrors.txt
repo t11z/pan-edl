@@ -426,6 +426,7 @@ mirrors.ipserverone.com/
 mirrors.ircam.fr/
 mirrors.iu13.net/
 mirrors.jlu.edu.cn/
+mirrors.krnk.org/
 mirrors.layeronline.com/
 mirrors.liquidweb.com/
 mirrors.lug.mtu.edu/
@@ -471,7 +472,6 @@ mirrors.xjtu.edu.cn/
 mirrors.xmission.com/
 mirrors.xtom.com/
 mirrors.xtom.de/
-mirrors.xtom.ee/
 mirrors.xtom.nl/
 mr.heru.id/
 muug.ca/
