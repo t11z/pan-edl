@@ -20,6 +20,7 @@ de.mirrors.clouvider.net/
 deb.campolargo.pr.gov.br/
 debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
+distrohub.kyiv.ua/
 download.nus.edu.sg/
 download.nust.na/
 drmirror.physi.uni-heidelberg.de/
@@ -138,7 +139,6 @@ mirror.anigil.com/
 mirror.aptus.co.tz/
 mirror.arizona.edu/
 mirror.as.kamatera.com/
-mirror.as24220.net/
 mirror.as29550.net/
 mirror.as43289.net/
 mirror.ati.tn/
@@ -445,6 +445,7 @@ mirrors.nxtgen.com/
 mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
 mirrors.opensource.is/
+mirrors.piconets.webwerks.in/
 mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
 mirrors.ptisp.pt/
