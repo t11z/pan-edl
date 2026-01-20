@@ -292,7 +292,6 @@ mirror.nl.as215296.net/
 mirror.nl.leaseweb.net/
 mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
-mirror.nus.edu.sg/
 mirror.nyist.edu.cn/
 mirror.one.com/
 mirror.ordunet.ge/
@@ -312,6 +311,7 @@ mirror.raiolanetworks.com/
 mirror.rcg.sfu.ca/
 mirror.realcompute.io/
 mirror.reenigne.net/
+mirror.renu.ac.ug/
 mirror.rise.ph/
 mirror.root.lu/
 mirror.rustytel.net/
@@ -475,6 +475,7 @@ mirrors.xjtu.edu.cn/
 mirrors.xmission.com/
 mirrors.xtom.com/
 mirrors.xtom.de/
+mirrors.xtom.ee/
 mirrors.xtom.nl/
 mr.heru.id/
 muug.ca/
@@ -525,7 +526,6 @@ ubuntu-archive.interhost.co.il/
 ubuntu-archive.locaweb.com.br/
 ubuntu-archive.mirror.liquidtelecom.com/
 ubuntu-archive.mirror.serveriai.lt/
-ubuntu-mirror.bhtelecom.ba/
 ubuntu-mirror.puq.apoapsis.cl/
 ubuntu.anexia.at/
 ubuntu.btit.nz/
