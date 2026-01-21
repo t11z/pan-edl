@@ -52,7 +52,6 @@ ftp.iinet.net.au/
 ftp.iitm.ac.in/
 ftp.jaist.ac.jp/
 ftp.kaist.ac.kr/
-ftp.klid.dk/
 ftp.lanet.kr/
 ftp.linux.cz/
 ftp.linux.edu.lv/
@@ -166,6 +165,7 @@ mirror.cmkl.ac.th/
 mirror.coganng.com/
 mirror.cogentco.com/
 mirror.corbina.net/
+mirror.cosmiclinux.com/
 mirror.cov.ukservers.com/
 mirror.creoline.net/
 mirror.cs.jmu.edu/
@@ -388,6 +388,7 @@ mirror2.tuxinator.org/
 mirrors-ubuntu.behostings.com/
 mirrors.accretive-networks.net/
 mirrors.aliyun.com/
+mirrors.arcuslayer.com/
 mirrors.arpnetworks.com/
 mirrors.asnet.am/
 mirrors.atlas.net.co/
