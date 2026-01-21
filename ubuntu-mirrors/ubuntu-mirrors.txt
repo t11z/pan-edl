@@ -526,6 +526,7 @@ ubuntu-archive.interhost.co.il/
 ubuntu-archive.locaweb.com.br/
 ubuntu-archive.mirror.liquidtelecom.com/
 ubuntu-archive.mirror.serveriai.lt/
+ubuntu-mirror.ati.tn/
 ubuntu-mirror.puq.apoapsis.cl/
 ubuntu.anexia.at/
 ubuntu.btit.nz/
