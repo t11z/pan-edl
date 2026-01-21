@@ -308,6 +308,7 @@ mirrors.asnet.am/
 mirrors.bfsu.edu.cn/
 mirrors.cloudforest.co.th/
 mirrors.coreix.net/
+mirrors.datapark.ro/
 mirrors.dotsrc.org/
 mirrors.egr.msu.edu/
 mirrors.glesys.net/
@@ -334,7 +335,6 @@ mirrors.ustc.edu.cn/
 mirrors.vcea.wsu.edu/
 mirrors.wikimedia.org/
 mirrors.xtom.au/
-mirrors.xtom.com/
 mirrors.xtom.de/
 mirrors.xtom.jp/
 mirrors.xtom.nl/
