@@ -290,7 +290,6 @@ mirror.nju.edu.cn/
 mirror.nl.altushost.com/
 mirror.nl.as215296.net/
 mirror.nl.leaseweb.net/
-mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
 mirror.nyist.edu.cn/
 mirror.one.com/
