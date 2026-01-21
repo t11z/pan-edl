@@ -229,6 +229,7 @@ mirror.ihost.md/
 mirror.il-ha.kamatera.com/
 mirror.il-pt.kamatera.com/
 mirror.il-rh.kamatera.com/
+mirror.il-ta.kamatera.com/
 mirror.il.kamatera.com/
 mirror.improve.nordlo.cloud/
 mirror.infomaniak.ch/
