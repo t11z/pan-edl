@@ -32,7 +32,6 @@ ftp-stud.hs-esslingen.de/
 ftp.acc.umu.se/
 ftp.agh.edu.pl/
 ftp.arnes.si/
-ftp.belnet.be/
 ftp.byfly.by/
 ftp.caliu.cat/
 ftp.cc.uoc.gr/
@@ -530,6 +529,7 @@ ubuntu-archive.mirror.serveriai.lt/
 ubuntu-mirror.ati.tn/
 ubuntu-mirror.bhtelecom.ba/
 ubuntu-mirror.puq.apoapsis.cl/
+ubuntu-mirror.snu.edu.in/
 ubuntu.anexia.at/
 ubuntu.btit.nz/
 ubuntu.c3sl.ufpr.br/
