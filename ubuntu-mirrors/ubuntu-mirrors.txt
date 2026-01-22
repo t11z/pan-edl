@@ -590,7 +590,6 @@ ubuntu.phoenixnap.com/
 ubuntu.repo.cure.edu.uy/
 ubuntu.rsync.kr/
 ubuntu.securedservers.com/
-ubuntu.syxpi.fr/
 ubuntu.task.gda.pl/
 ubuntu.tuxuri.com/
 ubuntu.ucr.ac.cr/
