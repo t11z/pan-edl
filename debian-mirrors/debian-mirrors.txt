@@ -28,7 +28,6 @@ debian.ethz.ch/
 debian.grena.ge/
 debian.grn.cat/
 debian.inf.tu-dresden.de/
-debian.intergenia.de/
 debian.interhost.co.il/
 debian.ipacct.com/
 debian.ipsys.bf/
