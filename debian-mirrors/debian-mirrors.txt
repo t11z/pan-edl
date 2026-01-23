@@ -5,7 +5,6 @@ deb-mir1.naitways.net/
 deb.bbxnet.sk/
 deb.debian.org/
 deb.nextgen.ch/
-deb.syxpi.fr/
 debian-archive.trafficmanager.net/
 debian-mirror.behostings.net/
 debian-mirror.puq.apoapsis.cl/
@@ -336,6 +335,7 @@ mirrors.vcea.wsu.edu/
 mirrors.wikimedia.org/
 mirrors.xtom.au/
 mirrors.xtom.de/
+mirrors.xtom.ee/
 mirrors.xtom.jp/
 mirrors.xtom.nl/
 mirrors.zju.edu.cn/
