@@ -265,7 +265,6 @@ mirror.logol.ru/
 mirror.lstn.net/
 mirror.lyrahosting.com/
 mirror.maeen.sa/
-mirror.marcusn.net/
 mirror.marwan.ma/
 mirror.math.princeton.edu/
 mirror.math.ucdavis.edu/
