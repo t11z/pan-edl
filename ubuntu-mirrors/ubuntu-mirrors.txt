@@ -216,7 +216,6 @@ mirror.gsl.icu/
 mirror.hashy0917.net/
 mirror.hep.gg/
 mirror.hnd.cl/
-mirror.hoobly.com/
 mirror.hostafrica.co.za/
 mirror.hoster.kz/
 mirror.hosthink.net/
@@ -499,7 +498,6 @@ repo.extreme-ix.org/
 repo.huaweicloud.com/
 repo.ialab.dsu.edu/
 repo.jztkft.hu/
-repo.linuxmirrors.ir/
 repo.morgan.kr/
 repo.ugm.ac.id/
 repo.usk.ac.id/
