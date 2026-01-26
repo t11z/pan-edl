@@ -5,6 +5,7 @@ archive.linux.duke.edu/
 archive.ubuntu.com/
 archive.ubuntu.mirror.ba/
 archive.ubuntu.mirror.rafal.ca/
+archive.ubuntu.mirrors.zagrio.net/
 archive.ubuntu.moon127.net/
 archive.ubuntu.nautile.nc/
 archive.ubuntumirror.dei.uc.pt/
@@ -163,6 +164,7 @@ mirror.cloudhosting.lv/
 mirror.cmkl.ac.th/
 mirror.coganng.com/
 mirror.cogentco.com/
+mirror.colocenter.nl/
 mirror.corbina.net/
 mirror.cosmiclinux.com/
 mirror.cov.ukservers.com/
@@ -223,7 +225,6 @@ mirror.hostiko.network/
 mirror.hostnet.nl/
 mirror.hyperdedic.ru/
 mirror.icn.com.bd/
-mirror.ietlucknow.ac.in/
 mirror.ihost.md/
 mirror.il-ha.kamatera.com/
 mirror.il-pt.kamatera.com/
@@ -476,6 +477,7 @@ mirrors.xtom.com/
 mirrors.xtom.de/
 mirrors.xtom.ee/
 mirrors.xtom.nl/
+mirrors.zagrio.net/
 mr.heru.id/
 muug.ca/
 nl.archive.ubuntu.com/
