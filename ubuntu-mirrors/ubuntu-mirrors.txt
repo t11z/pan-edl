@@ -33,6 +33,7 @@ ftp-stud.hs-esslingen.de/
 ftp.acc.umu.se/
 ftp.agh.edu.pl/
 ftp.arnes.si/
+ftp.belnet.be/
 ftp.byfly.by/
 ftp.caliu.cat/
 ftp.cc.uoc.gr/
@@ -373,7 +374,6 @@ mirror.visiontech.com.bd/
 mirror.vnet.sk/
 mirror.vorboss.net/
 mirror.vpgrp.io/
-mirror.vpsnet.com/
 mirror.webworld.ie/
 mirror.wtnet.de/
 mirror.xeonbd.com/
@@ -592,6 +592,7 @@ ubuntu.phoenixnap.com/
 ubuntu.repo.cure.edu.uy/
 ubuntu.rsync.kr/
 ubuntu.securedservers.com/
+ubuntu.syxpi.fr/
 ubuntu.task.gda.pl/
 ubuntu.tuxuri.com/
 ubuntu.ucr.ac.cr/
