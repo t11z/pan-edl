@@ -106,6 +106,7 @@ glua.ua.pt/
 gpl.savoirfairelinux.net/
 http.krfoss.org/
 in.mirror.coganng.com/
+ir.archive.ubuntu.com/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
@@ -498,6 +499,7 @@ repo.extreme-ix.org/
 repo.huaweicloud.com/
 repo.ialab.dsu.edu/
 repo.jztkft.hu/
+repo.linuxmirrors.ir/
 repo.morgan.kr/
 repo.ugm.ac.id/
 repo.usk.ac.id/
