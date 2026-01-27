@@ -448,6 +448,7 @@ mirrors.piconets.webwerks.in/
 mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
 mirrors.ptisp.pt/
+mirrors.qlu.edu.cn/
 mirrors.rit.edu/
 mirrors.sarak.as/
 mirrors.sdu.edu.cn/
@@ -513,6 +514,8 @@ rsync.udc.es/
 rsync.uni-bayreuth.de/
 rsync.yuki.net.uk/
 security.ubuntu.com/
+sft.if.usp.br/
+sft.if.usp.br:/
 sg-mirrors.vhost.vn/
 softlibre.unizar.es/
 suro.ubaya.ac.id/
