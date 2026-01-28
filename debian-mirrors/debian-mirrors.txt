@@ -24,6 +24,7 @@ debian.cs.nycu.edu.tw/
 debian.csail.mit.edu/
 debian.csie.ntu.edu.tw/
 debian.dynamica.it/
+debian.envisagecloud.net.za/
 debian.ethz.ch/
 debian.grena.ge/
 debian.grn.cat/
@@ -341,7 +342,6 @@ mirrors.xtom.jp/
 mirrors.xtom.nl/
 mirrors.zju.edu.cn/
 mirrorservice.org/
-mr.heru.id/
 nl.mirror.flokinet.net/
 nl.mirrors.clouvider.net/
 nyc.mirrors.clouvider.net/
