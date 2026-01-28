@@ -9,6 +9,7 @@ archive.ubuntu.mirror.rafal.ca/
 archive.ubuntu.mirrors.zagrio.net/
 archive.ubuntu.moon127.net/
 archive.ubuntu.nautile.nc/
+archive.ubuntu.petiak.ir/
 archive.ubuntumirror.dei.uc.pt/
 artfiles.org/
 atl.mirrors.clouvider.net/
@@ -26,7 +27,6 @@ distrib-coffee.ipsl.jussieu.fr/
 distrohub.kyiv.ua/
 download.nus.edu.sg/
 download.nust.na/
-drmirror.physi.uni-heidelberg.de/
 edgeuno-bog2.mm.fcix.net/
 elmirror.cl/
 free.nchc.org.tw/
@@ -200,7 +200,6 @@ mirror.eu-fr.kamatera.com/
 mirror.eu-lo.kamatera.com/
 mirror.eu.4psacloud.com/
 mirror.eu.kamatera.com/
-mirror.fairway.ne.jp/
 mirror.fcix.net/
 mirror.fi.ossplanet.net/
 mirror.flo.c-f.ro/
