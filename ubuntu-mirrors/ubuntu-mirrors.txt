@@ -1,4 +1,5 @@
 *.archive.ubuntu.com/
+ae.archive.ubuntu.com/
 archive-ubuntu.scopesky.com/
 archive.g4t1.pro/
 archive.linux.duke.edu/
@@ -594,6 +595,7 @@ ubuntu.phoenixnap.com/
 ubuntu.repo.cure.edu.uy/
 ubuntu.rsync.kr/
 ubuntu.securedservers.com/
+ubuntu.servering.info/
 ubuntu.syxpi.fr/
 ubuntu.task.gda.pl/
 ubuntu.tuxuri.com/
