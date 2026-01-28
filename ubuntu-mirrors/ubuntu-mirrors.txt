@@ -126,6 +126,7 @@ mirror-gw.elastis.id/
 mirror-hk.koddos.net/
 mirror-mk.interspace.com/
 mirror-services.net/
+mirror.0-1.cloud/
 mirror.01link.hk/
 mirror.0x.sg/
 mirror.23m.com/
