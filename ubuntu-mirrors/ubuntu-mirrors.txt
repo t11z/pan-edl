@@ -35,7 +35,6 @@ ftp.acc.umu.se/
 ftp.agh.edu.pl/
 ftp.arnes.si/
 ftp.belnet.be/
-ftp.byfly.by/
 ftp.caliu.cat/
 ftp.cc.uoc.gr/
 ftp.corbina.net/
@@ -590,6 +589,7 @@ ubuntu.netforce.hosting/
 ubuntu.org.ua/
 ubuntu.osuosl.org/
 ubuntu.otenet.gr/
+ubuntu.pars.host/
 ubuntu.phoenixnap.com/
 ubuntu.repo.cure.edu.uy/
 ubuntu.rsync.kr/
