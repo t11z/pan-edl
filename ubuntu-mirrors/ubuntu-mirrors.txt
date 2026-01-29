@@ -1,7 +1,6 @@
 *.archive.ubuntu.com/
 ae.archive.ubuntu.com/
 archive-ubuntu.scopesky.com/
-archive.g4t1.pro/
 archive.linux.duke.edu/
 archive.ubuntu.com/
 archive.ubuntu.mirror.ba/
@@ -201,6 +200,7 @@ mirror.eu-fr.kamatera.com/
 mirror.eu-lo.kamatera.com/
 mirror.eu.4psacloud.com/
 mirror.eu.kamatera.com/
+mirror.famaserver.com/
 mirror.faraso.org/
 mirror.fcix.net/
 mirror.fi.ossplanet.net/
@@ -248,6 +248,7 @@ mirror.its-tps.fr:10000/
 mirror.its.dal.ca/
 mirror.its.umich.edu/
 mirror.ixirhost.com/
+mirror.jagoanhosting.id/
 mirror.jeonnam.school/
 mirror.johnnybegood.fr/
 mirror.kakao.com/
@@ -451,6 +452,7 @@ mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
 mirrors.opensource.is/
 mirrors.pardisco.co/
+mirrors.piconets.webwerks.in/
 mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
 mirrors.ptisp.pt/
