@@ -184,6 +184,7 @@ kartolo.sby.datautama.net.id/
 kebo.pens.ac.id/
 la.mirrors.clouvider.net/
 lethe.chinstrap.org/
+lidsol.fi-b.unam.mx/
 linux.purple-cat.net/
 linuxsoft.cern.ch/
 merlin.fit.vutbr.cz/
@@ -319,7 +320,6 @@ mirrors.ic.unicamp.br/
 mirrors.iitd.ac.in/
 mirrors.iu13.net/
 mirrors.jlu.edu.cn/
-mirrors.lug.mtu.edu/
 mirrors.nav.ro/
 mirrors.nepalicloud.com/
 mirrors.netix.net/
