@@ -241,6 +241,7 @@ mirror.init7.net/
 mirror.internet.asn.au/
 mirror.internode.on.net/
 mirror.ipb.de/
+mirror.iranserver.com/
 mirror.isoc.org.il/
 mirror.it.ubc.ca/
 mirror.its-tps.fr/
@@ -248,7 +249,6 @@ mirror.its-tps.fr:10000/
 mirror.its.dal.ca/
 mirror.its.umich.edu/
 mirror.ixirhost.com/
-mirror.jagoanhosting.id/
 mirror.jeonnam.school/
 mirror.johnnybegood.fr/
 mirror.kakao.com/
@@ -307,7 +307,6 @@ mirror.papua.go.id/
 mirror.pilotfiber.com/
 mirror.pit.teraswitch.com/
 mirror.plusserver.com/
-mirror.poliwangi.ac.id/
 mirror.previder.nl/
 mirror.ps.kz/
 mirror.rabisu.com/
@@ -606,7 +605,6 @@ ubuntu.phoenixnap.com/
 ubuntu.repo.cure.edu.uy/
 ubuntu.rsync.kr/
 ubuntu.securedservers.com/
-ubuntu.servering.info/
 ubuntu.syxpi.fr/
 ubuntu.task.gda.pl/
 ubuntu.tuxuri.com/
