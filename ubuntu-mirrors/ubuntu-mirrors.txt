@@ -601,6 +601,7 @@ ubuntu.org.ua/
 ubuntu.osuosl.org/
 ubuntu.otenet.gr/
 ubuntu.pars.host/
+ubuntu.parsvds.com/
 ubuntu.phoenixnap.com/
 ubuntu.repo.cure.edu.uy/
 ubuntu.rsync.kr/
