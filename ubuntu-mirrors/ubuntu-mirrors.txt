@@ -271,7 +271,6 @@ mirror.limda.net/
 mirror.linkdata.com/
 mirror.linux.ncsu.edu/
 mirror.logol.ru/
-mirror.lstn.net/
 mirror.lyrahosting.com/
 mirror.maeen.sa/
 mirror.marwan.ma/
