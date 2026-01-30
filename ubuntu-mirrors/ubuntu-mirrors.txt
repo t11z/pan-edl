@@ -14,6 +14,7 @@ artfiles.org/
 atl.mirrors.clouvider.net/
 aze.archive.ubuntu.com/
 cdn.repo.cloudeka.id/
+cdn.ubuntu.repo.cloudeka.id/
 cesium.di.uminho.pt/
 cz.archive.ubuntu.com/
 dafi.inf.um.es/
@@ -33,6 +34,7 @@ ftp.acc.umu.se/
 ftp.agh.edu.pl/
 ftp.arnes.si/
 ftp.belnet.be/
+ftp.byfly.by/
 ftp.caliu.cat/
 ftp.cc.uoc.gr/
 ftp.corbina.net/
@@ -394,7 +396,6 @@ mirrors-ubuntu.behostings.com/
 mirrors.accretive-networks.net/
 mirrors.aliyun.com/
 mirrors.arcuslayer.com/
-mirrors.arpnetworks.com/
 mirrors.asnet.am/
 mirrors.atlas.net.co/
 mirrors.bangmod.cloud/
