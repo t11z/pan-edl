@@ -237,7 +237,6 @@ mirror.il-rh.kamatera.com/
 mirror.il-ta.kamatera.com/
 mirror.il.kamatera.com/
 mirror.improve.nordlo.cloud/
-mirror.infomaniak.ch/
 mirror.informatik.tu-freiberg.de/
 mirror.init7.net/
 mirror.internet.asn.au/
