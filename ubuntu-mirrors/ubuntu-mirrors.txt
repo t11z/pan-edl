@@ -106,7 +106,6 @@ gpl.savoirfairelinux.net/
 http.krfoss.org/
 in.mirror.coganng.com/
 ir.archive.ubuntu.com/
-ir.ubuntu.sindad.cloud/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
