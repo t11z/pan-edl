@@ -162,6 +162,7 @@ mirror.cc.vt.edu/
 mirror.cedia.org.ec/
 mirror.chmuri.net/
 mirror.citrahost.com/
+mirror.clarkson.edu/
 mirror.clearsky.vn/
 mirror.clientvps.com/
 mirror.cloudhosting.lv/
@@ -486,6 +487,7 @@ mirrors.xtom.de/
 mirrors.xtom.ee/
 mirrors.xtom.nl/
 mirrors.zagrio.net/
+mirrors.zju.edu.cn/
 mr.heru.id/
 muug.ca/
 nl.archive.ubuntu.com/
