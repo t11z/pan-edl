@@ -527,6 +527,7 @@ sft.if.usp.br/
 sft.if.usp.br:/
 sg-mirrors.vhost.vn/
 softlibre.unizar.es/
+storage.dim.uchile.cl/
 suro.ubaya.ac.id/
 suse.uni-leipzig.de/
 tux.rainside.sk/
