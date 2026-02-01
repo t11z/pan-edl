@@ -319,7 +319,6 @@ mirrors.hostico.ro/
 mirrors.hostiserver.com/
 mirrors.ic.unicamp.br/
 mirrors.iitd.ac.in/
-mirrors.iu13.net/
 mirrors.jlu.edu.cn/
 mirrors.nav.ro/
 mirrors.nepalicloud.com/
