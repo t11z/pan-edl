@@ -24,6 +24,7 @@ distrib-coffee.ipsl.jussieu.fr/
 distrohub.kyiv.ua/
 download.nus.edu.sg/
 download.nust.na/
+drmirror.physi.uni-heidelberg.de/
 edgeuno-bog2.mm.fcix.net/
 elmirror.cl/
 free.nchc.org.tw/
@@ -51,6 +52,7 @@ ftp.iinet.net.au/
 ftp.iitm.ac.in/
 ftp.jaist.ac.jp/
 ftp.kaist.ac.kr/
+ftp.klid.dk/
 ftp.lanet.kr/
 ftp.linux.cz/
 ftp.linux.edu.lv/
@@ -600,6 +602,7 @@ ubuntu.otenet.gr/
 ubuntu.pars.host/
 ubuntu.parsvds.com/
 ubuntu.phoenixnap.com/
+ubuntu.pishgaman.net/
 ubuntu.repo.cure.edu.uy/
 ubuntu.rsync.kr/
 ubuntu.securedservers.com/
