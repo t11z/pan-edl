@@ -247,6 +247,7 @@ mirror.its-tps.fr:10000/
 mirror.its.dal.ca/
 mirror.its.umich.edu/
 mirror.ixirhost.com/
+mirror.jagoanhosting.id/
 mirror.jeonnam.school/
 mirror.johnnybegood.fr/
 mirror.kakao.com/
@@ -305,6 +306,7 @@ mirror.papua.go.id/
 mirror.pilotfiber.com/
 mirror.pit.teraswitch.com/
 mirror.plusserver.com/
+mirror.poliwangi.ac.id/
 mirror.previder.nl/
 mirror.ps.kz/
 mirror.rabisu.com/
