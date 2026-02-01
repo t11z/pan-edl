@@ -321,7 +321,6 @@ mirrors.ic.unicamp.br/
 mirrors.iitd.ac.in/
 mirrors.jlu.edu.cn/
 mirrors.nav.ro/
-mirrors.nepalicloud.com/
 mirrors.netix.net/
 mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
