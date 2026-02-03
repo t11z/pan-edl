@@ -367,7 +367,6 @@ mirror.us-ny2.kamatera.com/
 mirror.us-sc.kamatera.com/
 mirror.us-tx.kamatera.com/
 mirror.us.leaseweb.net/
-mirror.vcu.edu/
 mirror.veesp.com/
 mirror.verinomi.com/
 mirror.vietnix.vn/
