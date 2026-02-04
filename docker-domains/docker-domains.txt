@@ -6,6 +6,7 @@ auth.docker.io/
 cdn.auth0.com/
 cdn.segment.com/
 desktop.docker.com/
+dhi.io/
 docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com/
 docker-pinata-support.s3.amazonaws.com/
 download.docker.com/
@@ -14,4 +15,5 @@ login.docker.com/
 notify.bugsnag.com/
 production.cloudflare.docker.com/
 registry-1.docker.io/
+registry.scout.docker.com/
 sessions.bugsnag.com/
