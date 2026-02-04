@@ -155,6 +155,7 @@ mirror.bharatdatacenter.com/
 mirror.bizflycloud.vn/
 mirror.biznetgio.com/
 mirror.brightridge.com/
+mirror.bytemark.co.uk/
 mirror.ca-tr.kamatera.com/
 mirror.cc.vt.edu/
 mirror.cedia.org.ec/
@@ -210,6 +211,7 @@ mirror.freedif.org/
 mirror.freethought-internet.co.uk/
 mirror.fsmg.org.nz/
 mirror.fst.kz/
+mirror.fuckdmca.cc/
 mirror.funkfreundelandshut.de/
 mirror.geekonweb.fr/
 mirror.gi.co.id/
