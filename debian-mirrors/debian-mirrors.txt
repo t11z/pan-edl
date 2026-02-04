@@ -139,7 +139,6 @@ ftp.lanet.kr/
 ftp.linux.edu.lv/
 ftp.linux.it/
 ftp.lt.debian.org/
-ftp.nara.wide.ad.jp/
 ftp.nc.debian.org/
 ftp.nl.debian.org/
 ftp.nz.debian.org/
