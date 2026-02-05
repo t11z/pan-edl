@@ -144,7 +144,6 @@ mirror.arizona.edu/
 mirror.arvancloud.ir/
 mirror.as.kamatera.com/
 mirror.as29550.net/
-mirror.as43289.net/
 mirror.ati.tn/
 mirror.azvps.vn/
 mirror.bacloud.com/
