@@ -195,6 +195,7 @@ mirror.ekiphost.com/
 mirror.elice.io/
 mirror.eliv.digital/
 mirror.enzu.com/
+mirror.esecuredata.com/
 mirror.eu-fr.kamatera.com/
 mirror.eu-lo.kamatera.com/
 mirror.eu.4psacloud.com/
@@ -394,6 +395,7 @@ mirrors.atlas.net.co/
 mirrors.bangmod.cloud/
 mirrors.bfsu.edu.cn/
 mirrors.binaryracks.com/
+mirrors.bkns.vn/
 mirrors.bloomu.edu/
 mirrors.bmcc.edu/
 mirrors.c0urier.net/
