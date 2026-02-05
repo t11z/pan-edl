@@ -325,6 +325,7 @@ mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
 mirrors.rackhosting.com/
 mirrors.tuna.tsinghua.edu.cn/
+mirrors.ucr.ac.cr/
 mirrors.up.pt/
 mirrors.upr.edu/
 mirrors.ustc.edu.cn/
