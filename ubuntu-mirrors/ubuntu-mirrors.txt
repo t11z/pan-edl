@@ -306,7 +306,6 @@ mirror.papua.go.id/
 mirror.pilotfiber.com/
 mirror.pit.teraswitch.com/
 mirror.plusserver.com/
-mirror.poliwangi.ac.id/
 mirror.previder.nl/
 mirror.ps.kz/
 mirror.rabisu.com/
@@ -365,6 +364,7 @@ mirror.us-ny2.kamatera.com/
 mirror.us-sc.kamatera.com/
 mirror.us-tx.kamatera.com/
 mirror.us.leaseweb.net/
+mirror.vcu.edu/
 mirror.veesp.com/
 mirror.verinomi.com/
 mirror.vietnix.vn/
@@ -547,7 +547,6 @@ ubuntu.cs.utah.edu/
 ubuntu.dcc.fc.up.pt/
 ubuntu.dts.mg/
 ubuntu.ethz.ch/
-ubuntu.gjolly.dev/
 ubuntu.grad.hr/
 ubuntu.grena.ge/
 ubuntu.grn.cat/
