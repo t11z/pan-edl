@@ -139,6 +139,7 @@ mirror.alastyr.com/
 mirror.alwyzon.net/
 mirror.amscloud.co.id/
 mirror.anigil.com/
+mirror.aptus.co.tz/
 mirror.arizona.edu/
 mirror.arvancloud.ir/
 mirror.as.kamatera.com/
@@ -484,6 +485,7 @@ mirrors.zju.edu.cn/
 mr.heru.id/
 muug.ca/
 nl.archive.ubuntu.com/
+nl.mirror.flokinet.net/
 nl.mirrors.clouvider.net/
 nl3.archive.ubuntu.com/
 no.archive.ubuntu.com/
