@@ -5,6 +5,7 @@ deb-mir1.naitways.net/
 deb.bbxnet.sk/
 deb.debian.org/
 deb.nextgen.ch/
+deb.syxpi.fr/
 debian-archive.trafficmanager.net/
 debian-mirror.behostings.net/
 debian-mirror.puq.apoapsis.cl/
