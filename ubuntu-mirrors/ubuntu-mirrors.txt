@@ -220,7 +220,6 @@ mirror.funkfreundelandshut.de/
 mirror.geekonweb.fr/
 mirror.gi.co.id/
 mirror.gofoss.xyz/
-mirror.gotmyhost.com/
 mirror.greennet.gl/
 mirror.group.one/
 mirror.hashy0917.net/
@@ -300,6 +299,7 @@ mirror.nl.altushost.com/
 mirror.nl.as215296.net/
 mirror.nl.leaseweb.net/
 mirror.nodesdirect.com/
+mirror.nus.edu.sg/
 mirror.nyist.edu.cn/
 mirror.one.com/
 mirror.ordunet.ge/
@@ -623,6 +623,7 @@ ubuntu.volia.net/
 ubuntu.vpsttt.com/
 ubuntu.web.trex.fi/
 ubuntu.zero.com.ar/
+ucho.ignum.cz/
 ucmirror.canterbury.ac.nz/
 uk.mirrors.clouvider.net/
 vn-mirrors.vhost.vn/
