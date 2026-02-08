@@ -50,6 +50,7 @@ debian.mirror.lrz.de/
 debian.mirror.rafal.ca/
 debian.mirror.root.lu/
 debian.mirror.serversaustralia.com.au/
+debian.mirror.su.se/
 debian.mirror.uk.sargasso.net/
 debian.mirror.vu.lt/
 debian.mirror.web4u.cz/
