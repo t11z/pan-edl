@@ -1,7 +1,6 @@
 *.archive.ubuntu.com/
 ae.archive.ubuntu.com/
 archive-ubuntu.scopesky.com/
-archive.g4t1.pro/
 archive.linux.duke.edu/
 archive.ubuntu.com/
 archive.ubuntu.mirror.ba/
@@ -216,7 +215,6 @@ mirror.freedif.org/
 mirror.freethought-internet.co.uk/
 mirror.fsmg.org.nz/
 mirror.fst.kz/
-mirror.fuckdmca.cc/
 mirror.funkfreundelandshut.de/
 mirror.geekonweb.fr/
 mirror.gi.co.id/
@@ -555,7 +553,6 @@ ubuntu.cica.es/
 ubuntu.cs.nctu.edu.tw/
 ubuntu.cs.utah.edu/
 ubuntu.dcc.fc.up.pt/
-ubuntu.dts.mg/
 ubuntu.ethz.ch/
 ubuntu.grad.hr/
 ubuntu.grena.ge/
