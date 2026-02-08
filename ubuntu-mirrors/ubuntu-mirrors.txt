@@ -224,6 +224,7 @@ mirror.group.one/
 mirror.hashy0917.net/
 mirror.hep.gg/
 mirror.hnd.cl/
+mirror.hoobly.com/
 mirror.hostafrica.co.za/
 mirror.hoster.kz/
 mirror.hosthink.net/
@@ -511,7 +512,6 @@ repo.huaweicloud.com/
 repo.ialab.dsu.edu/
 repo.iut.ac.ir/
 repo.jztkft.hu/
-repo.linuxmirrors.ir/
 repo.morgan.kr/
 repo.ugm.ac.id/
 repo.usk.ac.id/
@@ -565,7 +565,6 @@ ubuntu.koyanet.lv/
 ubuntu.lafibre.info/
 ubuntu.lagis.at/
 ubuntu.lagoon.nc/
-ubuntu.letscloud.io/
 ubuntu.linux-bg.org/
 ubuntu.linux.n0c.ca/
 ubuntu.man.lodz.pl/
