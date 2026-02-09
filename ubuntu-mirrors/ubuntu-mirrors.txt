@@ -145,6 +145,7 @@ mirror.aptus.co.tz/
 mirror.arizona.edu/
 mirror.arvancloud.ir/
 mirror.as.kamatera.com/
+mirror.as210890.net/
 mirror.as29550.net/
 mirror.as43289.net/
 mirror.ati.tn/
@@ -305,7 +306,6 @@ mirror.one.com/
 mirror.ordunet.ge/
 mirror.ossplanet.net/
 mirror.ourhost.az/
-mirror.overthewire.com.au/
 mirror.ox.ac.uk/
 mirror.papua.go.id/
 mirror.pilotfiber.com/
@@ -373,6 +373,7 @@ mirror.us.leaseweb.net/
 mirror.vcu.edu/
 mirror.veesp.com/
 mirror.verinomi.com/
+mirror.veritescil.com.tr/
 mirror.vietnix.vn/
 mirror.viettelcloud.vn/
 mirror.vinehost.net/
