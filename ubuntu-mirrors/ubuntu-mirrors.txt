@@ -266,7 +266,6 @@ mirror.krfoss.org/
 mirror.kumi.systems/
 mirror.lc/
 mirror.liberty-connect.com/
-mirror.library.ucy.ac.cy/
 mirror.limda.net/
 mirror.linkdata.com/
 mirror.linux.ncsu.edu/
@@ -574,7 +573,6 @@ ubuntu.mirror.garr.it/
 ubuntu.mirror.globo.tech/
 ubuntu.mirror.gnc.am/
 ubuntu.mirror.intermax.nl/
-ubuntu.mirror.letscloud.io/
 ubuntu.mirror.linux.ro/
 ubuntu.mirror.lrz.de/
 ubuntu.mirror.net.za/
