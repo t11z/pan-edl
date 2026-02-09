@@ -258,7 +258,6 @@ mirror.jeonnam.school/
 mirror.johnnybegood.fr/
 mirror.kakao.com/
 mirror.kamp.de/
-mirror.kapteyan.com.tr/
 mirror.katapult.io/
 mirror.keiminem.com/
 mirror.kkg.berlin/
@@ -541,7 +540,6 @@ ubuntu-archive.locaweb.com.br/
 ubuntu-archive.mirror.liquidtelecom.com/
 ubuntu-archive.mirror.serveriai.lt/
 ubuntu-mirror.ati.tn/
-ubuntu-mirror.bhtelecom.ba/
 ubuntu-mirror.kimiahost.com/
 ubuntu-mirror.puq.apoapsis.cl/
 ubuntu-mirror.snu.edu.in/
@@ -622,7 +620,6 @@ ubuntu.volia.net/
 ubuntu.vpsttt.com/
 ubuntu.web.trex.fi/
 ubuntu.zero.com.ar/
-ucho.ignum.cz/
 ucmirror.canterbury.ac.nz/
 uk.mirrors.clouvider.net/
 vn-mirrors.vhost.vn/
