@@ -353,13 +353,13 @@ mirror.ubuntu.ikoula.com/
 mirror.ubuntu.serverforge.org/
 mirror.uchile.cl/
 mirror.uepg.br/
+mirror.ufam.edu.br/
 mirror.ufro.cl/
 mirror.ufscar.br/
 mirror.umd.edu/
 mirror.unair.ac.id/
 mirror.unesp.br/
 mirror.unet.by/
-mirror.unimagdalena.edu.co/
 mirror.united-gameserver.de/
 mirror.unix-solutions.be/
 mirror.uoregon.edu/
@@ -445,7 +445,6 @@ mirrors.nav.ro/
 mirrors.neterra.net/
 mirrors.netix.net/
 mirrors.neusoft.edu.cn/
-mirrors.nhanhoa.com/
 mirrors.nic.funet.fi/
 mirrors.njupt.edu.cn/
 mirrors.nxtgen.com/
@@ -507,7 +506,6 @@ rep-ubuntu-il.upress.io/
 repo.extreme-ix.org/
 repo.huaweicloud.com/
 repo.ialab.dsu.edu/
-repo.iut.ac.ir/
 repo.jztkft.hu/
 repo.morgan.kr/
 repo.ugm.ac.id/
