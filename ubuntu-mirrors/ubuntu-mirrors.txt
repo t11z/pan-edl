@@ -1,6 +1,7 @@
 *.archive.ubuntu.com/
 ae.archive.ubuntu.com/
 archive-ubuntu.scopesky.com/
+archive.g4t1.pro/
 archive.linux.duke.edu/
 archive.ubuntu.com/
 archive.ubuntu.mirror.ba/
@@ -411,7 +412,6 @@ mirrors.cloudforest.co.th/
 mirrors.cmich.edu/
 mirrors.cn99.com/
 mirrors.coreix.net/
-mirrors.cqu.edu.cn/
 mirrors.datapark.ro/
 mirrors.dc.clear.net.ar/
 mirrors.dgut.edu.cn/
