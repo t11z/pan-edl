@@ -41,7 +41,6 @@ debian.lth.se/
 debian.ludost.net/
 debian.mirror.ac.ke/
 debian.mirror.constant.com/
-debian.mirror.digitalpacific.com.au/
 debian.mirror.garr.it/
 debian.mirror.globo.tech/
 debian.mirror.iphh.net/
