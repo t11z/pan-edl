@@ -169,7 +169,6 @@ ftp.udc.es/
 ftp.uk.debian.org/
 ftp.uni-hannover.de/
 ftp.uni-kl.de/
-ftp.uni-mainz.de/
 ftp.uni-sofia.bg/
 ftp.uni-stuttgart.de/
 ftp.univ-pau.fr/
