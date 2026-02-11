@@ -221,6 +221,7 @@ mirror.gi.co.id/
 mirror.gofoss.xyz/
 mirror.greennet.gl/
 mirror.group.one/
+mirror.gsl.icu/
 mirror.hashy0917.net/
 mirror.hep.gg/
 mirror.hnd.cl/
