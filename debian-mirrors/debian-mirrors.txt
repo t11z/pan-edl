@@ -229,6 +229,7 @@ mirror.gitoyen.net/
 mirror.gsl.icu/
 mirror.hnd.cl/
 mirror.hoster.kz/
+mirror.hostiko.network/
 mirror.ibcp.fr/
 mirror.informatik.tu-freiberg.de/
 mirror.init7.net/
