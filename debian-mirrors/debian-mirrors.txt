@@ -144,6 +144,7 @@ ftp.linux.it/
 ftp.lt.debian.org/
 ftp.nc.debian.org/
 ftp.nl.debian.org/
+ftp.no.debian.org/
 ftp.nz.debian.org/
 ftp.pl.debian.org/
 ftp.psn.ru/
@@ -167,6 +168,7 @@ ftp.tw.debian.org/
 ftp.u-picardie.fr/
 ftp.u-strasbg.fr/
 ftp.udc.es/
+ftp.uio.no/
 ftp.uk.debian.org/
 ftp.uni-hannover.de/
 ftp.uni-kl.de/
@@ -291,6 +293,7 @@ mirror.uepg.br/
 mirror.ufscar.br/
 mirror.ukrnames.com/
 mirror.unair.ac.id/
+mirror.undernet.uy/
 mirror.united-gameserver.de/
 mirror.units.it/
 mirror.unix-solutions.be/
@@ -351,6 +354,7 @@ pubmirror.plutex.de/
 repo.ialab.dsu.edu/
 repo.ifca.es/
 repo.jztkft.hu/
+repos.interior.edu.uy/
 repository.su/
 ro.mirror.flokinet.net/
 security.debian.org/
