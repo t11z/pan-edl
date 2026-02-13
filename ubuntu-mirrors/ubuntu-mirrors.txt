@@ -108,7 +108,6 @@ gpl.savoirfairelinux.net/
 http.krfoss.org/
 in.mirror.coganng.com/
 ir.archive.ubuntu.com/
-ir.ubuntu.sindad.cloud/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
@@ -405,7 +404,6 @@ mirrors.bfsu.edu.cn/
 mirrors.binaryracks.com/
 mirrors.bkns.vn/
 mirrors.bloomu.edu/
-mirrors.bmcc.edu/
 mirrors.c0urier.net/
 mirrors.cat.pdx.edu/
 mirrors.chroot.ro/
