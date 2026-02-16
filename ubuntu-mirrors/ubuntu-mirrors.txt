@@ -514,6 +514,7 @@ repo.huaweicloud.com/
 repo.ialab.dsu.edu/
 repo.iut.ac.ir/
 repo.jztkft.hu/
+repo.linuxmirrors.ir/
 repo.morgan.kr/
 repo.ugm.ac.id/
 repo.usk.ac.id/
