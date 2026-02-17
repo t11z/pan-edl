@@ -23,7 +23,6 @@ debian.connesi.it/
 debian.cs.binghamton.edu/
 debian.cs.nycu.edu.tw/
 debian.csail.mit.edu/
-debian.csie.ntu.edu.tw/
 debian.dynamica.it/
 debian.envisagecloud.net.za/
 debian.ethz.ch/
@@ -344,7 +343,6 @@ mirrorservice.org/
 nl.mirror.flokinet.net/
 nl.mirrors.clouvider.net/
 nyc.mirrors.clouvider.net/
-opensource.nchc.org.tw/
 packages.hs-regensburg.de/
 pkg.adfinis-on-exoscale.ch/
 pubmirror.plutex.de/
