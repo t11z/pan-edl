@@ -162,7 +162,6 @@ ftp.sk.debian.org/
 ftp.stw-bonn.de/
 ftp.task.gda.pl/
 ftp.ticklers.org/
-ftp.tku.edu.tw/
 ftp.tu-chemnitz.de/
 ftp.tu-graz.ac.at/
 ftp.tw.debian.org/
