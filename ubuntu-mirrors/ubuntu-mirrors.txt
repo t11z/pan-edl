@@ -267,7 +267,6 @@ mirror.krfoss.org/
 mirror.kumi.systems/
 mirror.lc/
 mirror.liberty-connect.com/
-mirror.library.ucy.ac.cy/
 mirror.limda.net/
 mirror.linkdata.com/
 mirror.linux.ncsu.edu/
@@ -460,6 +459,7 @@ mirrors.opensource.is/
 mirrors.pardisco.co/
 mirrors.piconets.webwerks.in/
 mirrors.pidginhost.com/
+mirrors.powernet.com.ru/
 mirrors.ptisp.pt/
 mirrors.qlu.edu.cn/
 mirrors.rit.edu/
