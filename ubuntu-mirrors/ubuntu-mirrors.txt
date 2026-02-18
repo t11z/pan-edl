@@ -7,7 +7,6 @@ archive.ubuntu.mirror.ba/
 archive.ubuntu.mirror.rafal.ca/
 archive.ubuntu.moon127.net/
 archive.ubuntu.nautile.nc/
-archive.ubuntu.petiak.ir/
 archive.ubuntumirror.dei.uc.pt/
 artfiles.org/
 atl.mirrors.clouvider.net/
