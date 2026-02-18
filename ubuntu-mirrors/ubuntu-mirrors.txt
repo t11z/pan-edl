@@ -97,7 +97,6 @@ ftp.usf.edu/
 ftp.ussg.iu.edu/
 ftp.uvigo.es/
 ftp5.gwdg.de/
-ftpmirror1.infania.net/
 ftpserv.tudelft.nl/
 giano.com.dist.unige.it/
 glua.ua.pt/
@@ -412,7 +411,6 @@ mirrors.cloudforest.co.th/
 mirrors.cmich.edu/
 mirrors.cn99.com/
 mirrors.coreix.net/
-mirrors.cqu.edu.cn/
 mirrors.datapark.ro/
 mirrors.dc.clear.net.ar/
 mirrors.dgut.edu.cn/
