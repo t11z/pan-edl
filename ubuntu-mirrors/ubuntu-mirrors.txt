@@ -252,7 +252,6 @@ mirror.its.dal.ca/
 mirror.its.umich.edu/
 mirror.ixirhost.com/
 mirror.jagoanhosting.id/
-mirror.jeonnam.school/
 mirror.johnnybegood.fr/
 mirror.kakao.com/
 mirror.kamp.de/
@@ -381,6 +380,7 @@ mirror.vnet.sk/
 mirror.vorboss.net/
 mirror.vpgrp.io/
 mirror.webworld.ie/
+mirror.wonchan.net/
 mirror.wtnet.de/
 mirror.xeonbd.com/
 mirror.xtom.com.hk/
