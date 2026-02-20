@@ -187,6 +187,7 @@ mirror.docker.ru/
 mirror.dogado.de/
 mirror.domainhizmetleri.com/
 mirror.easyname.at/
+mirror.edatel.net.co/
 mirror.efect.ro/
 mirror.ekiphost.com/
 mirror.elice.io/
