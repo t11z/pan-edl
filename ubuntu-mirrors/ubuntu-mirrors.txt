@@ -265,7 +265,6 @@ mirror.library.ucy.ac.cy/
 mirror.limda.net/
 mirror.linkdata.com/
 mirror.linux.ncsu.edu/
-mirror.liquidrp.de/
 mirror.logol.ru/
 mirror.lyrahosting.com/
 mirror.maeen.sa/
