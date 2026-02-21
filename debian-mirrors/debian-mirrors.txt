@@ -245,7 +245,6 @@ mirror.keiminem.com/
 mirror.keystealth.org/
 mirror.kku.ac.th/
 mirror.kpfu.ru/
-mirror.lagoon.nc/
 mirror.lchost.net/
 mirror.limda.net/
 mirror.linux.org.au/
