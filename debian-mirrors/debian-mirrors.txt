@@ -79,6 +79,7 @@ debian.tu-bs.de/
 debian.tuxuri.com/
 debian.uchicago.edu/
 debian.uevora.pt/
+debian.uni-due.de/
 debian.univ-tlse2.fr/
 debian.unnoba.edu.ar/
 debian.uvigo.es/
@@ -216,6 +217,7 @@ mirror.creoline.net/
 mirror.csclub.uwaterloo.ca/
 mirror.de.leaseweb.net/
 mirror.debian.ikoula.com/
+mirror.djvg.sg/
 mirror.dkm.cz/
 mirror.docker.ru/
 mirror.dogado.de/
@@ -335,6 +337,7 @@ mirrors.ustc.edu.cn/
 mirrors.vcea.wsu.edu/
 mirrors.wikimedia.org/
 mirrors.xtom.au/
+mirrors.xtom.com/
 mirrors.xtom.de/
 mirrors.xtom.ee/
 mirrors.xtom.jp/
