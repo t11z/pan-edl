@@ -310,6 +310,7 @@ mirror2.infomaniak.com/
 mirrors.accretive-networks.net/
 mirrors.asnet.am/
 mirrors.bfsu.edu.cn/
+mirrors.bloomu.edu/
 mirrors.cloudforest.co.th/
 mirrors.coreix.net/
 mirrors.datapark.ro/
