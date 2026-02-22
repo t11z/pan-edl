@@ -133,9 +133,11 @@ mirror.2degrees.nz/
 mirror.5i.fi/
 mirror.a1.mk/
 mirror.aarnet.edu.au/
+mirror.aktkn.sg/
 mirror.alastyr.com/
 mirror.alwyzon.net/
 mirror.amscloud.co.id/
+mirror.aptus.co.tz/
 mirror.arizona.edu/
 mirror.arvancloud.ir/
 mirror.as.kamatera.com/
