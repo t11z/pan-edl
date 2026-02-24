@@ -138,6 +138,7 @@ mirror.aktkn.sg/
 mirror.alastyr.com/
 mirror.alwyzon.net/
 mirror.amscloud.co.id/
+mirror.anigil.com/
 mirror.aptus.co.tz/
 mirror.arizona.edu/
 mirror.arvancloud.ir/
@@ -328,6 +329,7 @@ mirror.sg.gs/
 mirror.siati.ch/
 mirror.siena.edu/
 mirror.sitsa.com.ar/
+mirror.siwoo.org/
 mirror.solnet.ch/
 mirror.solnode.io/
 mirror.soonkeat.sg/
