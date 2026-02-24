@@ -52,7 +52,6 @@ ftp.iinet.net.au/
 ftp.iitm.ac.in/
 ftp.jaist.ac.jp/
 ftp.kaist.ac.kr/
-ftp.klid.dk/
 ftp.lanet.kr/
 ftp.linux.cz/
 ftp.linux.edu.lv/
@@ -200,6 +199,7 @@ mirror.eu-fr.kamatera.com/
 mirror.eu-lo.kamatera.com/
 mirror.eu.4psacloud.com/
 mirror.eu.kamatera.com/
+mirror.fairway.ne.jp/
 mirror.famaserver.com/
 mirror.faraso.org/
 mirror.fcix.net/
