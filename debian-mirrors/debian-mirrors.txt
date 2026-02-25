@@ -163,7 +163,6 @@ ftp.stw-bonn.de/
 ftp.task.gda.pl/
 ftp.ticklers.org/
 ftp.tu-chemnitz.de/
-ftp.tu-graz.ac.at/
 ftp.tw.debian.org/
 ftp.u-picardie.fr/
 ftp.u-strasbg.fr/
