@@ -19,6 +19,7 @@ cz.archive.ubuntu.com/
 dafi.inf.um.es/
 dal.mirrors.clouvider.net/
 de.mirrors.clouvider.net/
+deb-mirror.habari.co.tz/
 deb.campolargo.pr.gov.br/
 debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
@@ -144,6 +145,7 @@ mirror.arvancloud.ir/
 mirror.as.kamatera.com/
 mirror.as210890.net/
 mirror.as29550.net/
+mirror.as43289.net/
 mirror.ati.tn/
 mirror.azvps.vn/
 mirror.bacloud.com/
@@ -183,6 +185,7 @@ mirror.datacenter.mn/
 mirror.datamossa.io/
 mirror.de.leaseweb.net/
 mirror.dewabiz.com/
+mirror.digitaloceans.dev/
 mirror.dkm.cz/
 mirror.docker.ru/
 mirror.dogado.de/
