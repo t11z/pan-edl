@@ -357,6 +357,7 @@ mirror.ubuntu.ikoula.com/
 mirror.ubuntu.serverforge.org/
 mirror.uchile.cl/
 mirror.uepg.br/
+mirror.ufam.edu.br/
 mirror.ufro.cl/
 mirror.ufscar.br/
 mirror.umd.edu/
@@ -546,7 +547,6 @@ ubuntu-mirror.ati.tn/
 ubuntu-mirror.bhtelecom.ba/
 ubuntu-mirror.kimiahost.com/
 ubuntu-mirror.puq.apoapsis.cl/
-ubuntu-mirror.snu.edu.in/
 ubuntu.anexia.at/
 ubuntu.btit.nz/
 ubuntu.c3sl.ufpr.br/
