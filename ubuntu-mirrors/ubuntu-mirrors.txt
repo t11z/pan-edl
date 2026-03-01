@@ -454,7 +454,6 @@ mirrors.nxtgen.com/
 mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
 mirrors.opensource.is/
-mirrors.pardisco.co/
 mirrors.piconets.webwerks.in/
 mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
@@ -551,6 +550,7 @@ ubuntu.cica.es/
 ubuntu.cs.nctu.edu.tw/
 ubuntu.cs.utah.edu/
 ubuntu.dcc.fc.up.pt/
+ubuntu.dts.mg/
 ubuntu.ethz.ch/
 ubuntu.grad.hr/
 ubuntu.grena.ge/
@@ -592,7 +592,6 @@ ubuntu.mirrors.omnilance.com/
 ubuntu.mirrors.ovh.net/
 ubuntu.mirrors.pair.com/
 ubuntu.mirrors.uk2.net/
-ubuntu.mobinhost.com/
 ubuntu.mti.mt.gov.br/
 ubuntu.netforce.hosting/
 ubuntu.ntc.net.np/
