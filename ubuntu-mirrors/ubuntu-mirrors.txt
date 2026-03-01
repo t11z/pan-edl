@@ -129,7 +129,6 @@ mirror-services.net/
 mirror.01link.hk/
 mirror.0x.sg/
 mirror.23m.com/
-mirror.2degrees.nz/
 mirror.5i.fi/
 mirror.a1.mk/
 mirror.aarnet.edu.au/
@@ -140,7 +139,6 @@ mirror.amscloud.co.id/
 mirror.anigil.com/
 mirror.aptus.co.tz/
 mirror.arizona.edu/
-mirror.arvancloud.ir/
 mirror.as.kamatera.com/
 mirror.as210890.net/
 mirror.as29550.net/
@@ -601,7 +599,6 @@ ubuntu.ntc.net.np/
 ubuntu.org.ua/
 ubuntu.osuosl.org/
 ubuntu.otenet.gr/
-ubuntu.pars.host/
 ubuntu.phoenixnap.com/
 ubuntu.repo.cure.edu.uy/
 ubuntu.rsync.kr/
