@@ -6,7 +6,6 @@ archive.ubuntu.mirror.ba/
 archive.ubuntu.mirror.rafal.ca/
 archive.ubuntu.moon127.net/
 archive.ubuntu.nautile.nc/
-archive.ubuntu.petiak.ir/
 archive.ubuntumirror.dei.uc.pt/
 artfiles.org/
 atl.mirrors.clouvider.net/
@@ -18,7 +17,6 @@ cz.archive.ubuntu.com/
 dafi.inf.um.es/
 dal.mirrors.clouvider.net/
 de.mirrors.clouvider.net/
-deb-mirror.habari.co.tz/
 deb.campolargo.pr.gov.br/
 debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
@@ -299,7 +297,6 @@ mirror.one.com/
 mirror.ordunet.ge/
 mirror.ossplanet.net/
 mirror.ourhost.az/
-mirror.overthewire.com.au/
 mirror.ox.ac.uk/
 mirror.papua.go.id/
 mirror.pilotfiber.com/
@@ -383,7 +380,6 @@ mirror.wtnet.de/
 mirror.xeonbd.com/
 mirror.xtom.com.hk/
 mirror.yandex.ru/
-mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.ku.ac.th/
 mirror1.sox.rs/
@@ -466,7 +462,6 @@ mirrors.storpool.com/
 mirrors.teamcloud.am/
 mirrors.tino.org/
 mirrors.tuna.tsinghua.edu.cn/
-mirrors.ubuntu.dimit.cloud/
 mirrors.ukfast.co.uk/
 mirrors.united.cd/
 mirrors.up.pt/
