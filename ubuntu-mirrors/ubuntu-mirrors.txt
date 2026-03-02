@@ -194,7 +194,6 @@ mirror.eu-fr.kamatera.com/
 mirror.eu-lo.kamatera.com/
 mirror.eu.4psacloud.com/
 mirror.eu.kamatera.com/
-mirror.famaserver.com/
 mirror.faraso.org/
 mirror.fcix.net/
 mirror.fi.ossplanet.net/
@@ -365,6 +364,7 @@ mirror.us-tx.kamatera.com/
 mirror.us.leaseweb.net/
 mirror.vcu.edu/
 mirror.veesp.com/
+mirror.velden.media/
 mirror.verinomi.com/
 mirror.veritescil.com.tr/
 mirror.vietnix.vn/
@@ -517,8 +517,6 @@ rsync.udc.es/
 rsync.uni-bayreuth.de/
 rsync.yuki.net.uk/
 security.ubuntu.com/
-sft.if.usp.br/
-sft.if.usp.br:/
 sg-mirrors.vhost.vn/
 softlibre.unizar.es/
 storage.dim.uchile.cl/
@@ -544,7 +542,6 @@ ubuntu.dcc.fc.up.pt/
 ubuntu.dts.mg/
 ubuntu.ethz.ch/
 ubuntu.grad.hr/
-ubuntu.grena.ge/
 ubuntu.grn.cat/
 ubuntu.hi.no/
 ubuntu.hysing.is/
