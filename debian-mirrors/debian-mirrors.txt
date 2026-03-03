@@ -90,6 +90,7 @@ debianmirror.una.ac.cr/
 debpkg.libranext.com/
 dennou-k.gfd-dennou.org/
 depot-debian.univ-reunion.fr/
+distrohub.kyiv.ua/
 free.hands.com/
 ftp-stud.hs-esslingen.de/
 ftp.acc.umu.se/
@@ -339,6 +340,7 @@ mirrors.xtom.jp/
 mirrors.xtom.nl/
 mirrors.zju.edu.cn/
 mirrorservice.org/
+mr.heru.id/
 nl.mirror.flokinet.net/
 nl.mirrors.clouvider.net/
 nyc.mirrors.clouvider.net/
