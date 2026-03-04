@@ -19,7 +19,6 @@ debian.cc.lehigh.edu/
 debian.ccns.ncku.edu.tw/
 debian.charite.de/
 debian.connesi.it/
-debian.cs.binghamton.edu/
 debian.cs.nycu.edu.tw/
 debian.csail.mit.edu/
 debian.dynamica.it/
