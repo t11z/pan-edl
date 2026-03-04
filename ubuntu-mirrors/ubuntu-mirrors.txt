@@ -512,6 +512,8 @@ rsync.udc.es/
 rsync.uni-bayreuth.de/
 rsync.yuki.net.uk/
 security.ubuntu.com/
+sft.if.usp.br/
+sft.if.usp.br:/
 sg-mirrors.vhost.vn/
 softlibre.unizar.es/
 storage.dim.uchile.cl/
@@ -536,6 +538,7 @@ ubuntu.cs.utah.edu/
 ubuntu.dcc.fc.up.pt/
 ubuntu.ethz.ch/
 ubuntu.grad.hr/
+ubuntu.grena.ge/
 ubuntu.grn.cat/
 ubuntu.hi.no/
 ubuntu.hysing.is/
