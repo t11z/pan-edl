@@ -196,7 +196,6 @@ mirror.eu-fr.kamatera.com/
 mirror.eu-lo.kamatera.com/
 mirror.eu.4psacloud.com/
 mirror.eu.kamatera.com/
-mirror.faraso.org/
 mirror.fcix.net/
 mirror.fi.ossplanet.net/
 mirror.flo.c-f.ro/
@@ -237,7 +236,6 @@ mirror.init7.net/
 mirror.internet.asn.au/
 mirror.internode.on.net/
 mirror.ipb.de/
-mirror.iranserver.com/
 mirror.isoc.org.il/
 mirror.it.ubc.ca/
 mirror.its-tps.fr/
@@ -378,6 +376,7 @@ mirror.wtnet.de/
 mirror.xeonbd.com/
 mirror.xtom.com.hk/
 mirror.yandex.ru/
+mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.ku.ac.th/
 mirror1.sox.rs/
