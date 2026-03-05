@@ -407,6 +407,7 @@ mirrors.cn99.com/
 mirrors.coreix.net/
 mirrors.cqu.edu.cn/
 mirrors.datapark.ro/
+mirrors.dc.clear.net.ar/
 mirrors.dgut.edu.cn/
 mirrors.dotsrc.org/
 mirrors.egr.msu.edu/
@@ -460,7 +461,6 @@ mirrors.teamcloud.am/
 mirrors.tino.org/
 mirrors.tuna.tsinghua.edu.cn/
 mirrors.ukfast.co.uk/
-mirrors.united.cd/
 mirrors.up.pt/
 mirrors.upr.edu/
 mirrors.us.kernel.org/
