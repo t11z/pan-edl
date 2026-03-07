@@ -5,95 +5,52 @@ on:
   workflow_dispatch:
 
 jobs:
-  debian-mirrors:
+  update-edls:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v4
       with:
-        python-version: '3.8'
+        python-version: '3.12'
     - name: Install dependencies
       run: pip install requests beautifulsoup4
-    - name: Pull latest changes
+    - name: Configure git
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git pull origin main
-    - name: Generate hash before changes
-      run: sha256sum debian-mirrors/debian-mirrors.txt > before.txt
-    - name: Run fetcher script and generate EDL
+    - name: Run Debian mirrors script
       run: python debian-mirrors/debian-mirrors.py
-    - name: Generate hash after changes
-      run: sha256sum debian-mirrors/debian-mirrors.txt > after.txt
-    - name: Commit and push if changes
-      run: |
-        if cmp -s before.txt after.txt; then
-          echo "No changes to commit"
-        else
-          git add debian-mirrors/debian-mirrors.txt
-          git commit -m "Update Debian Mirror list" -a
-          git push origin main || echo "Push failed, retrying..." && git pull --rebase origin main && git push origin main
-        fi
-
-  ubuntu-mirrors:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v2
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.8'
-    - name: Install dependencies
-      run: pip install requests beautifulsoup4
-    - name: Pull latest changes
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git pull origin main
-    - name: Generate hash before changes
-      run: sha256sum ubuntu-mirrors/ubuntu-mirrors.txt > before.txt
-    - name: Run fetcher script and generate EDL
+    - name: Run Ubuntu mirrors script
       run: python ubuntu-mirrors/ubuntu-mirrors.py
-    - name: Generate hash after changes
-      run: sha256sum ubuntu-mirrors/ubuntu-mirrors.txt > after.txt
-    - name: Commit and push if changes
+    - name: Run Docker domains script
+      run: python docker-domains/docker-domains.py
+    - name: Commit and push changed EDL files
       run: |
-        if cmp -s before.txt after.txt; then
-          echo "No changes to commit"
-        else
-          git add ubuntu-mirrors/ubuntu-mirrors.txt
-          git commit -m "Update Ubuntu Mirror list" -a
-          git push origin main || echo "Push failed, retrying..." && git pull --rebase origin main && git push origin main
+        updated=()
+
+        if ! git diff --exit-code -- debian-mirrors/debian-mirrors.txt > /dev/null 2>&1; then
+          git add debian-mirrors/debian-mirrors.txt
+          updated+=("Debian mirrors")
         fi
 
-  docker-domains:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v2
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.8'
-    - name: Install dependencies
-      run: pip install requests beautifulsoup4
-    - name: Pull latest changes
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git pull origin main
-    - name: Generate hash before changes
-      run: sha256sum docker-domains/docker-domains.txt > before.txt
-    - name: Run fetcher script and generate EDL
-      run: python docker-domains/docker-domains.py
-    - name: Generate hash after changes
-      run: sha256sum docker-domains/docker-domains.txt > after.txt
-    - name: Commit and push if changes
-      run: |
-        if cmp -s before.txt after.txt; then
+        if ! git diff --exit-code -- ubuntu-mirrors/ubuntu-mirrors.txt > /dev/null 2>&1; then
+          git add ubuntu-mirrors/ubuntu-mirrors.txt
+          updated+=("Ubuntu mirrors")
+        fi
+
+        if ! git diff --exit-code -- docker-domains/docker-domains.txt > /dev/null 2>&1; then
+          git add docker-domains/docker-domains.txt
+          updated+=("Docker domains")
+        fi
+
+        if [ ${#updated[@]} -eq 0 ]; then
           echo "No changes to commit"
         else
-          git add docker-domains/docker-domains.txt
-          git commit -m "Update Docker Domain list" -a
-          git push origin main || echo "Push failed, retrying..." && git pull --rebase origin main && git push origin main
+          msg="Update EDL: $(IFS=', '; echo "${updated[*]}")"
+          git commit -m "$msg"
+          if ! git push -u origin main; then
+            git pull --rebase origin main
+            git push -u origin main
+          fi
         fi
