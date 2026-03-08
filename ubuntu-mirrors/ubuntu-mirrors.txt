@@ -402,7 +402,6 @@ mirrors.cloudforest.co.th/
 mirrors.cmich.edu/
 mirrors.cn99.com/
 mirrors.coreix.net/
-mirrors.cqu.edu.cn/
 mirrors.datapark.ro/
 mirrors.dc.clear.net.ar/
 mirrors.dgut.edu.cn/
@@ -576,7 +575,6 @@ ubuntu.mirrors.ovh.net/
 ubuntu.mirrors.pair.com/
 ubuntu.mirrors.uk2.net/
 ubuntu.netforce.hosting/
-ubuntu.ntc.net.np/
 ubuntu.org.ua/
 ubuntu.osuosl.org/
 ubuntu.otenet.gr/
