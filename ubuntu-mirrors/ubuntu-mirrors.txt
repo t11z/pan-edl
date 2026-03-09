@@ -31,7 +31,6 @@ ftp-stud.hs-esslingen.de/
 ftp.acc.umu.se/
 ftp.agh.edu.pl/
 ftp.arnes.si/
-ftp.belnet.be/
 ftp.byfly.by/
 ftp.caliu.cat/
 ftp.cc.uoc.gr/
@@ -344,7 +343,6 @@ mirror.uchile.cl/
 mirror.uepg.br/
 mirror.ufro.cl/
 mirror.ufscar.br/
-mirror.umd.edu/
 mirror.unair.ac.id/
 mirror.unesp.br/
 mirror.unet.by/
