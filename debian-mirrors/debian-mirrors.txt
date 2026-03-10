@@ -234,6 +234,7 @@ mirror.keiminem.com/
 mirror.keystealth.org/
 mirror.kku.ac.th/
 mirror.kpfu.ru/
+mirror.lagoon.nc/
 mirror.lchost.net/
 mirror.limda.net/
 mirror.linux.org.au/
@@ -342,6 +343,7 @@ nl.mirrors.clouvider.net/
 nyc.mirrors.clouvider.net/
 packages.hs-regensburg.de/
 pkg.adfinis-on-exoscale.ch/
+plug-mirror.rcac.purdue.edu/
 pubmirror.plutex.de/
 repo.ialab.dsu.edu/
 repo.ifca.es/
