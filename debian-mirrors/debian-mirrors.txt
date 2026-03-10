@@ -250,6 +250,7 @@ mirror.netzwerge.de/
 mirror.nforce.com/
 mirror.nitc.ac.in/
 mirror.nju.edu.cn/
+mirror.nl.cdn-perfprod.com/
 mirror.nl.leaseweb.net/
 mirror.nl.mirhosting.net/
 mirror.nyist.edu.cn/
@@ -311,6 +312,7 @@ mirrors.hostiserver.com/
 mirrors.ic.unicamp.br/
 mirrors.iitd.ac.in/
 mirrors.jlu.edu.cn/
+mirrors.lug.mtu.edu/
 mirrors.nav.ro/
 mirrors.netix.net/
 mirrors.nxthost.com/
