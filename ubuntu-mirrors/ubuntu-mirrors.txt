@@ -244,7 +244,6 @@ mirror.its.dal.ca/
 mirror.its.umich.edu/
 mirror.ixirhost.com/
 mirror.jagoanhosting.id/
-mirror.johnnybegood.fr/
 mirror.kakao.com/
 mirror.kamp.de/
 mirror.kapteyan.com.tr/
@@ -583,6 +582,7 @@ ubuntu.phoenixnap.com/
 ubuntu.repo.cure.edu.uy/
 ubuntu.rsync.kr/
 ubuntu.securedservers.com/
+ubuntu.syxpi.fr/
 ubuntu.task.gda.pl/
 ubuntu.tuxuri.com/
 ubuntu.ucr.ac.cr/
