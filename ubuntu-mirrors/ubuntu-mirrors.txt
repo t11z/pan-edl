@@ -366,7 +366,6 @@ mirror.veritescil.com.tr/
 mirror.vietnix.vn/
 mirror.viettelcloud.vn/
 mirror.vinehost.net/
-mirror.visiontech.com.bd/
 mirror.vnet.sk/
 mirror.vorboss.net/
 mirror.vpgrp.io/
