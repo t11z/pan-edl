@@ -101,7 +101,6 @@ giano.com.dist.unige.it/
 glua.ua.pt/
 gpl.savoirfairelinux.net/
 http.krfoss.org/
-in.mirror.coganng.com/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
@@ -399,6 +398,7 @@ mirrors.cloudforest.co.th/
 mirrors.cmich.edu/
 mirrors.cn99.com/
 mirrors.coreix.net/
+mirrors.cqu.edu.cn/
 mirrors.datapark.ro/
 mirrors.dc.clear.net.ar/
 mirrors.dgut.edu.cn/
@@ -577,6 +577,7 @@ ubuntu.osuosl.org/
 ubuntu.otenet.gr/
 ubuntu.phoenixnap.com/
 ubuntu.repo.cure.edu.uy/
+ubuntu.repo.unpas.ac.id/
 ubuntu.rsync.kr/
 ubuntu.securedservers.com/
 ubuntu.syxpi.fr/
