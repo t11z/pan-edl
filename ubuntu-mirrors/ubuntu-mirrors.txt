@@ -341,6 +341,7 @@ mirror.uchile.cl/
 mirror.uepg.br/
 mirror.ufro.cl/
 mirror.ufscar.br/
+mirror.umd.edu/
 mirror.unair.ac.id/
 mirror.unesp.br/
 mirror.unet.by/
