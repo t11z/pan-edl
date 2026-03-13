@@ -138,6 +138,7 @@ mirror.as.kamatera.com/
 mirror.as210890.net/
 mirror.as29550.net/
 mirror.as43289.net/
+mirror.ati.tn/
 mirror.azvps.vn/
 mirror.bacloud.com/
 mirror.bahnhof.net/
@@ -528,6 +529,7 @@ ubuntu.cica.es/
 ubuntu.cs.nctu.edu.tw/
 ubuntu.cs.utah.edu/
 ubuntu.dcc.fc.up.pt/
+ubuntu.dts.mg/
 ubuntu.ethz.ch/
 ubuntu.grad.hr/
 ubuntu.grena.ge/

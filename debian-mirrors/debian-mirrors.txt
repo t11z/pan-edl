@@ -200,7 +200,6 @@ mirror.bgp.rodeo/
 mirror.bizflycloud.vn/
 mirror.blue3.com.br/
 mirror.braindrainlan.nu/
-mirror.coganng.com/
 mirror.cogentco.com/
 mirror.corbina.net/
 mirror.cov.ukservers.com/
