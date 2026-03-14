@@ -201,7 +201,6 @@ mirror.bizflycloud.vn/
 mirror.blue3.com.br/
 mirror.braindrainlan.nu/
 mirror.cogentco.com/
-mirror.corbina.net/
 mirror.cov.ukservers.com/
 mirror.cpsc.ucalgary.ca/
 mirror.creoline.net/
