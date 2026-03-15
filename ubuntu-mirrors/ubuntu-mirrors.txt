@@ -159,6 +159,7 @@ mirror.clarkson.edu/
 mirror.clearsky.vn/
 mirror.clientvps.com/
 mirror.cloudhosting.lv/
+mirror.coganng.com/
 mirror.cogentco.com/
 mirror.colocenter.nl/
 mirror.corbina.net/
@@ -585,6 +586,7 @@ ubuntu.repo.cure.edu.uy/
 ubuntu.repo.unpas.ac.id/
 ubuntu.rsync.kr/
 ubuntu.securedservers.com/
+ubuntu.syxpi.fr/
 ubuntu.task.gda.pl/
 ubuntu.tuxuri.com/
 ubuntu.ucr.ac.cr/
