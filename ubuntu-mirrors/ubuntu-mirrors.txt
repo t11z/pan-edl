@@ -294,7 +294,6 @@ mirror.openweb.co.za/
 mirror.ordunet.ge/
 mirror.ossplanet.net/
 mirror.ourhost.az/
-mirror.overthewire.com.au/
 mirror.ox.ac.uk/
 mirror.papua.go.id/
 mirror.pilotfiber.com/
@@ -465,6 +464,7 @@ mirrors.us.kernel.org/
 mirrors.usinternet.com/
 mirrors.ustc.edu.cn/
 mirrors.vcea.wsu.edu/
+mirrors.webhs.pt/
 mirrors.wikimedia.org/
 mirrors.xjtu.edu.cn/
 mirrors.xmission.com/
