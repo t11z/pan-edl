@@ -86,7 +86,6 @@ debian.web.trex.fi/
 debian.xtdv.net/
 debianmirror.una.ac.cr/
 debpkg.libranext.com/
-dennou-k.gfd-dennou.org/
 depot-debian.univ-reunion.fr/
 distrohub.kyiv.ua/
 free.hands.com/
@@ -324,7 +323,6 @@ mirrors.qlu.edu.cn/
 mirrors.rackhosting.com/
 mirrors.tuna.tsinghua.edu.cn/
 mirrors.ucr.ac.cr/
-mirrors.up.pt/
 mirrors.upr.edu/
 mirrors.ustc.edu.cn/
 mirrors.vcea.wsu.edu/
