@@ -318,7 +318,6 @@ mirrors.ocf.berkeley.edu/
 mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
 mirrors.qlu.edu.cn/
-mirrors.rackhosting.com/
 mirrors.tuna.tsinghua.edu.cn/
 mirrors.ucr.ac.cr/
 mirrors.upr.edu/
