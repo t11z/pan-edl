@@ -177,7 +177,6 @@ mirror.datacenter.by/
 mirror.datacenter.mn/
 mirror.datamossa.io/
 mirror.de.leaseweb.net/
-mirror.dewabiz.com/
 mirror.digitaloceans.dev/
 mirror.dkm.cz/
 mirror.docker.ru/
@@ -245,7 +244,6 @@ mirror.ixirhost.com/
 mirror.jagoanhosting.id/
 mirror.kakao.com/
 mirror.kamp.de/
-mirror.kapteyan.com.tr/
 mirror.katapult.io/
 mirror.keiminem.com/
 mirror.kkg.berlin/
