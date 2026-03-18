@@ -123,6 +123,7 @@ mirror-hk.koddos.net/
 mirror-mk.interspace.com/
 mirror-services.net/
 mirror.01link.hk/
+mirror.0x.sg/
 mirror.23m.com/
 mirror.2degrees.nz/
 mirror.5i.fi/
@@ -292,6 +293,7 @@ mirror.openweb.co.za/
 mirror.ordunet.ge/
 mirror.ossplanet.net/
 mirror.ourhost.az/
+mirror.overthewire.com.au/
 mirror.ox.ac.uk/
 mirror.papua.go.id/
 mirror.pilotfiber.com/
