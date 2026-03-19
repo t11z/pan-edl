@@ -99,7 +99,6 @@ giano.com.dist.unige.it/
 glua.ua.pt/
 gpl.savoirfairelinux.net/
 http.krfoss.org/
-in.mirror.coganng.com/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
@@ -431,6 +430,7 @@ mirrors.mivocloud.com/
 mirrors.nav.ro/
 mirrors.neterra.net/
 mirrors.netix.net/
+mirrors.neusoft.edu.cn/
 mirrors.nhanhoa.com/
 mirrors.nic.funet.fi/
 mirrors.njupt.edu.cn/
@@ -571,6 +571,7 @@ ubuntu.mirrors.pair.com/
 ubuntu.mirrors.uk2.net/
 ubuntu.mti.mt.gov.br/
 ubuntu.netforce.hosting/
+ubuntu.ntc.net.np/
 ubuntu.org.ua/
 ubuntu.osuosl.org/
 ubuntu.otenet.gr/

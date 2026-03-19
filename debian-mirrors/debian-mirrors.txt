@@ -13,13 +13,12 @@ debian.a1.bg/
 debian.anexia.at/
 debian.balt.net/
 debian.c3sl.ufpr.br/
-debian.carnet.hr/
 debian.cc.lehigh.edu/
-debian.ccns.ncku.edu.tw/
 debian.charite.de/
 debian.connesi.it/
 debian.cs.nycu.edu.tw/
 debian.csail.mit.edu/
+debian.csie.ntu.edu.tw/
 debian.dynamica.it/
 debian.envisagecloud.net.za/
 debian.ethz.ch/
@@ -28,8 +27,6 @@ debian.grn.cat/
 debian.inf.tu-dresden.de/
 debian.interhost.co.il/
 debian.ipacct.com/
-debian.ipsys.bf/
-debian.iskon.hr/
 debian.koyanet.lv/
 debian.lagis.at/
 debian.linux.n0c.ca/
@@ -50,21 +47,17 @@ debian.mirror.vu.lt/
 debian.mirror.web4u.cz/
 debian.mirrors.ovh.net/
 debian.mirrors.uk2.net/
-debian.mithril.re/
 debian.mnet.bg/
 debian.mur.at/
 debian.nautile.nc/
 debian.netcologne.de/
 debian.netforce.hosting/
 debian.nic.cz/
-debian.obspm.fr/
 debian.osuosl.org/
 debian.otenet.gr/
 debian.polytech-lille.fr/
 debian.pop-sc.rnp.br/
-debian.proxad.net/
 debian.redimadrid.es/
-debian.redparra.com/
 debian.repo.cure.edu.uy/
 debian.saix.net/
 debian.sil.at/
@@ -74,7 +67,6 @@ debian.telecoms.bg/
 debian.tu-bs.de/
 debian.tuxuri.com/
 debian.uchicago.edu/
-debian.uevora.pt/
 debian.uni-due.de/
 debian.unnoba.edu.ar/
 debian.uvigo.es/
@@ -84,8 +76,8 @@ debian.web.trex.fi/
 debian.xtdv.net/
 debianmirror.una.ac.cr/
 debpkg.libranext.com/
-depot-debian.univ-reunion.fr/
 distrohub.kyiv.ua/
+elmirror.cl/
 free.hands.com/
 ftp-stud.hs-esslingen.de/
 ftp.acc.umu.se/
@@ -117,12 +109,10 @@ ftp.eenet.ee/
 ftp.eq.uc.pt/
 ftp.fau.de/
 ftp.fi.debian.org/
-ftp.fr.debian.org/
 ftp.gwdg.de/
 ftp.halifax.rwth-aachen.de/
 ftp.hk.debian.org/
 ftp.hosteurope.de/
-ftp.hr.debian.org/
 ftp.icm.edu.pl/
 ftp.is.debian.org/
 ftp.it.debian.org/
@@ -133,7 +123,6 @@ ftp.kr.debian.org/
 ftp.lanet.kr/
 ftp.linux.edu.lv/
 ftp.linux.it/
-ftp.lip6.fr/
 ftp.lt.debian.org/
 ftp.nc.debian.org/
 ftp.nl.debian.org/
@@ -141,7 +130,6 @@ ftp.nz.debian.org/
 ftp.pl.debian.org/
 ftp.psn.ru/
 ftp.psnc.pl/
-ftp.pt.debian.org/
 ftp.rezopole.net/
 ftp.riken.jp/
 ftp.rnl.tecnico.ulisboa.pt/
@@ -154,8 +142,6 @@ ftp.stw-bonn.de/
 ftp.task.gda.pl/
 ftp.ticklers.org/
 ftp.tu-chemnitz.de/
-ftp.tw.debian.org/
-ftp.u-picardie.fr/
 ftp.u-strasbg.fr/
 ftp.uk.debian.org/
 ftp.uni-hannover.de/
@@ -163,14 +149,12 @@ ftp.uni-kl.de/
 ftp.uni-mainz.de/
 ftp.uni-sofia.bg/
 ftp.uni-stuttgart.de/
-ftp.univ-pau.fr/
 ftp.us.debian.org/
 ftp.wrz.de/
 ftp.yz.yamagata-u.ac.jp/
 ftp.zcu.cz/
 ftp2.de.debian.org/
 ftpmirror1.infania.net/
-giano.com.dist.unige.it/
 is.mirror.flokinet.net/
 kartolo.sby.datautama.net.id/
 kebo.pens.ac.id/
@@ -180,7 +164,6 @@ lidsol.fi-b.unam.mx/
 linux.purple-cat.net/
 linuxsoft.cern.ch/
 merlin.fit.vutbr.cz/
-miroir.univ-lorraine.fr/
 mirror-mk.interspace.com/
 mirror-prg.webglobe.com/
 mirror.0x626b.com/
@@ -188,7 +171,6 @@ mirror.23m.com/
 mirror.5i.fi/
 mirror.a1.mk/
 mirror.aarnet.edu.au/
-mirror.abaclouda.net/
 mirror.alwyzon.net/
 mirror.amaze.com.au/
 mirror.applebred.net/
@@ -259,7 +241,6 @@ mirror.plusserver.com/
 mirror.pmf.kg.ac.rs/
 mirror.positive-internet.com/
 mirror.ps.kz/
-mirror.raiolanetworks.com/
 mirror.realcompute.io/
 mirror.rustytel.net/
 mirror.sabay.com.kh/
@@ -273,7 +254,6 @@ mirror.steadfast.net/
 mirror.telepoint.bg/
 mirror.tngnet.com/
 mirror.truenetwork.ru/
-mirror.twds.com.tw/
 mirror.uepg.br/
 mirror.ufscar.br/
 mirror.ukrnames.com/
@@ -314,7 +294,6 @@ mirrors.nav.ro/
 mirrors.netix.net/
 mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
-mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
 mirrors.qlu.edu.cn/
 mirrors.tuna.tsinghua.edu.cn/
@@ -330,7 +309,6 @@ mirrors.xtom.ee/
 mirrors.xtom.jp/
 mirrors.xtom.nl/
 mirrors.zju.edu.cn/
-mirrorservice.org/
 mr.heru.id/
 nl.mirror.flokinet.net/
 nl.mirrors.clouvider.net/
