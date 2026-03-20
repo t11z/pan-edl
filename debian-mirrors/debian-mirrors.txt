@@ -27,6 +27,7 @@ debian.grn.cat/
 debian.inf.tu-dresden.de/
 debian.interhost.co.il/
 debian.ipacct.com/
+debian.iskon.hr/
 debian.koyanet.lv/
 debian.lagis.at/
 debian.linux.n0c.ca/
@@ -58,6 +59,7 @@ debian.otenet.gr/
 debian.polytech-lille.fr/
 debian.pop-sc.rnp.br/
 debian.redimadrid.es/
+debian.redparra.com/
 debian.repo.cure.edu.uy/
 debian.saix.net/
 debian.sil.at/
