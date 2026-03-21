@@ -73,7 +73,6 @@ debian.uni-due.de/
 debian.unnoba.edu.ar/
 debian.uvigo.es/
 debian.volia.net/
-debian.vranetworks.lat/
 debian.web.trex.fi/
 debian.xtdv.net/
 debianmirror.una.ac.cr/
