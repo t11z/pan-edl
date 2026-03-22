@@ -146,6 +146,7 @@ ftp.stw-bonn.de/
 ftp.task.gda.pl/
 ftp.ticklers.org/
 ftp.tu-chemnitz.de/
+ftp.tw.debian.org/
 ftp.u-strasbg.fr/
 ftp.uk.debian.org/
 ftp.uni-hannover.de/
@@ -263,6 +264,7 @@ mirror.steadfast.net/
 mirror.telepoint.bg/
 mirror.tngnet.com/
 mirror.truenetwork.ru/
+mirror.twds.com.tw/
 mirror.uepg.br/
 mirror.ufscar.br/
 mirror.ukrnames.com/
@@ -319,6 +321,7 @@ mirrors.xtom.ee/
 mirrors.xtom.jp/
 mirrors.xtom.nl/
 mirrors.zju.edu.cn/
+mirrorservice.org/
 mr.heru.id/
 nl.mirror.flokinet.net/
 nl.mirrors.clouvider.net/
