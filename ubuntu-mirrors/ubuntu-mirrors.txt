@@ -432,7 +432,6 @@ mirrors.mivocloud.com/
 mirrors.nav.ro/
 mirrors.neterra.net/
 mirrors.netix.net/
-mirrors.neusoft.edu.cn/
 mirrors.nic.funet.fi/
 mirrors.njupt.edu.cn/
 mirrors.nxtgen.com/
@@ -569,7 +568,6 @@ ubuntu.mirrors.ovh.net/
 ubuntu.mirrors.pair.com/
 ubuntu.mirrors.uk2.net/
 ubuntu.netforce.hosting/
-ubuntu.ntc.net.np/
 ubuntu.org.ua/
 ubuntu.osuosl.org/
 ubuntu.otenet.gr/
