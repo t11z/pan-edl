@@ -38,7 +38,6 @@ debian.ludost.net/
 debian.mirror.ac.ke/
 debian.mirror.constant.com/
 debian.mirror.garr.it/
-debian.mirror.globo.tech/
 debian.mirror.iphh.net/
 debian.mirror.liquidtelecom.com/
 debian.mirror.lrz.de/
