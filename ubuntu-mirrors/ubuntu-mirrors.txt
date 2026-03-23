@@ -17,6 +17,7 @@ cz.archive.ubuntu.com/
 dafi.inf.um.es/
 dal.mirrors.clouvider.net/
 de.mirrors.clouvider.net/
+deb-mirror.habari.co.tz/
 deb.campolargo.pr.gov.br/
 debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
@@ -117,6 +118,7 @@ labs.eif.urjc.es/
 linux.domainesia.com/
 linux.yz.yamagata-u.ac.jp/
 lug.mines.edu/
+mir.linux.kg/
 miroir.univ-lorraine.fr/
 mirror-gw.elastis.id/
 mirror-hk.koddos.net/
@@ -212,7 +214,6 @@ mirror.greennet.gl/
 mirror.group.one/
 mirror.gsl.icu/
 mirror.hashy0917.net/
-mirror.hep.gg/
 mirror.hnd.cl/
 mirror.hoobly.com/
 mirror.hostafrica.co.za/
@@ -293,6 +294,7 @@ mirror.openweb.co.za/
 mirror.ordunet.ge/
 mirror.ossplanet.net/
 mirror.ourhost.az/
+mirror.overthewire.com.au/
 mirror.ox.ac.uk/
 mirror.papua.go.id/
 mirror.pilotfiber.com/
@@ -461,6 +463,7 @@ mirrors.ukfast.co.uk/
 mirrors.up.pt/
 mirrors.upr.edu/
 mirrors.us.kernel.org/
+mirrors.usinternet.com/
 mirrors.ustc.edu.cn/
 mirrors.vcea.wsu.edu/
 mirrors.webhs.pt/
