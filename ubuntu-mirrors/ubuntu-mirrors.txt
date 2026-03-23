@@ -221,6 +221,7 @@ mirror.hoster.kz/
 mirror.hosthink.net/
 mirror.hostiko.network/
 mirror.hostnic.id/
+mirror.hplink.com.bd/
 mirror.icn.com.bd/
 mirror.ietlucknow.ac.in/
 mirror.ihost.md/
@@ -254,7 +255,6 @@ mirror.krfoss.org/
 mirror.kumi.systems/
 mirror.lc/
 mirror.liberty-connect.com/
-mirror.library.ucy.ac.cy/
 mirror.limda.net/
 mirror.linkdata.com/
 mirror.linux.ncsu.edu/
