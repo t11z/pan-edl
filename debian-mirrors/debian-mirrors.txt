@@ -62,6 +62,7 @@ debian.osuosl.org/
 debian.otenet.gr/
 debian.polytech-lille.fr/
 debian.pop-sc.rnp.br/
+debian.proxad.net/
 debian.redimadrid.es/
 debian.redparra.com/
 debian.repo.cure.edu.uy/
@@ -73,6 +74,7 @@ debian.telecoms.bg/
 debian.tu-bs.de/
 debian.tuxuri.com/
 debian.uchicago.edu/
+debian.uevora.pt/
 debian.uni-due.de/
 debian.unnoba.edu.ar/
 debian.uvigo.es/
@@ -114,6 +116,7 @@ ftp.eenet.ee/
 ftp.eq.uc.pt/
 ftp.fau.de/
 ftp.fi.debian.org/
+ftp.fr.debian.org/
 ftp.gwdg.de/
 ftp.halifax.rwth-aachen.de/
 ftp.hk.debian.org/
@@ -136,6 +139,7 @@ ftp.nz.debian.org/
 ftp.pl.debian.org/
 ftp.psn.ru/
 ftp.psnc.pl/
+ftp.pt.debian.org/
 ftp.rezopole.net/
 ftp.riken.jp/
 ftp.rnl.tecnico.ulisboa.pt/
