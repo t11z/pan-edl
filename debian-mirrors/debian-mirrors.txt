@@ -50,6 +50,7 @@ debian.mirror.vu.lt/
 debian.mirror.web4u.cz/
 debian.mirrors.ovh.net/
 debian.mirrors.uk2.net/
+debian.mithril.re/
 debian.mnet.bg/
 debian.mur.at/
 debian.nautile.nc/
