@@ -312,6 +312,7 @@ mirrors.nav.ro/
 mirrors.netix.net/
 mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
+mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
 mirrors.qlu.edu.cn/
 mirrors.tuna.tsinghua.edu.cn/
