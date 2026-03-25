@@ -154,6 +154,7 @@ ftp.task.gda.pl/
 ftp.ticklers.org/
 ftp.tu-chemnitz.de/
 ftp.tw.debian.org/
+ftp.u-picardie.fr/
 ftp.u-strasbg.fr/
 ftp.uk.debian.org/
 ftp.uni-hannover.de/
@@ -243,7 +244,6 @@ mirror.neftm.ru/
 mirror.netzwerge.de/
 mirror.nforce.com/
 mirror.nitc.ac.in/
-mirror.nju.edu.cn/
 mirror.nl.cdn-perfprod.com/
 mirror.nl.leaseweb.net/
 mirror.nl.mirhosting.net/
