@@ -11,6 +11,7 @@ debian-mirror.puq.apoapsis.cl/
 debian-mirror.sakura.ne.jp/
 debian.a1.bg/
 debian.anexia.at/
+debian.apt-mirror.de/
 debian.balt.net/
 debian.c3sl.ufpr.br/
 debian.carnet.hr/
@@ -83,7 +84,6 @@ debian.vranetworks.lat/
 debian.web.trex.fi/
 debian.xtdv.net/
 debianmirror.una.ac.cr/
-debpkg.libranext.com/
 distrohub.kyiv.ua/
 elmirror.cl/
 free.hands.com/
