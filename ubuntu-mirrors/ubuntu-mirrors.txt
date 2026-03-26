@@ -256,6 +256,7 @@ mirror.krfoss.org/
 mirror.kumi.systems/
 mirror.lc/
 mirror.liberty-connect.com/
+mirror.library.ucy.ac.cy/
 mirror.limda.net/
 mirror.linkdata.com/
 mirror.linux.ncsu.edu/
@@ -359,6 +360,7 @@ mirror.us-ny2.kamatera.com/
 mirror.us-sc.kamatera.com/
 mirror.us-tx.kamatera.com/
 mirror.us.leaseweb.net/
+mirror.usetelecom.com.br/
 mirror.vcu.edu/
 mirror.veesp.com/
 mirror.velden.media/
@@ -578,6 +580,7 @@ ubuntu.mirrors.omnilance.com/
 ubuntu.mirrors.ovh.net/
 ubuntu.mirrors.pair.com/
 ubuntu.mirrors.uk2.net/
+ubuntu.mti.mt.gov.br/
 ubuntu.netforce.hosting/
 ubuntu.org.ua/
 ubuntu.osuosl.org/
