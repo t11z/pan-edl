@@ -136,7 +136,6 @@ mirror.alastyr.com/
 mirror.alwyzon.net/
 mirror.amscloud.co.id/
 mirror.anigil.com/
-mirror.aptus.co.tz/
 mirror.arizona.edu/
 mirror.as.kamatera.com/
 mirror.as210890.net/
