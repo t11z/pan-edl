@@ -358,6 +358,7 @@ mirror.us-ny2.kamatera.com/
 mirror.us-sc.kamatera.com/
 mirror.us-tx.kamatera.com/
 mirror.us.leaseweb.net/
+mirror.us.mirhosting.net/
 mirror.usetelecom.com.br/
 mirror.vcu.edu/
 mirror.veesp.com/
