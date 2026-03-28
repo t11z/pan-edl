@@ -67,7 +67,6 @@ debian.redimadrid.es/
 debian.redparra.com/
 debian.repo.cure.edu.uy/
 debian.saix.net/
-debian.sil.at/
 debian.snt.utwente.nl/
 debian.superhosting.cz/
 debian.telecoms.bg/
@@ -91,7 +90,6 @@ ftp.acc.umu.se/
 ftp.agh.edu.pl/
 ftp.am.debian.org/
 ftp.antik.sk/
-ftp.at.debian.org/
 ftp.au.debian.org/
 ftp.be.debian.org/
 ftp.bg.debian.org/
@@ -147,7 +145,6 @@ ftp.rnl.tecnico.ulisboa.pt/
 ftp.ru.debian.org/
 ftp.se.debian.org/
 ftp.sh.cvut.cz/
-ftp.si.debian.org/
 ftp.sk.debian.org/
 ftp.stw-bonn.de/
 ftp.task.gda.pl/
@@ -187,7 +184,6 @@ mirror.5i.fi/
 mirror.a1.mk/
 mirror.aarnet.edu.au/
 mirror.abaclouda.net/
-mirror.alwyzon.net/
 mirror.amaze.com.au/
 mirror.applebred.net/
 mirror.as35701.net/
@@ -216,7 +212,6 @@ mirror.gitoyen.net/
 mirror.gsl.icu/
 mirror.hnd.cl/
 mirror.hoster.kz/
-mirror.hostiko.network/
 mirror.ibcp.fr/
 mirror.informatik.tu-freiberg.de/
 mirror.init7.net/
