@@ -155,6 +155,7 @@ mirror.bytemark.co.uk/
 mirror.ca-tr.kamatera.com/
 mirror.cc.vt.edu/
 mirror.cedia.org.ec/
+mirror.cepatcloud.id/
 mirror.citrahost.com/
 mirror.clarkson.edu/
 mirror.clearsky.vn/
@@ -217,7 +218,6 @@ mirror.hnd.cl/
 mirror.hoobly.com/
 mirror.hostafrica.co.za/
 mirror.hoster.kz/
-mirror.hosthink.net/
 mirror.hostiko.network/
 mirror.hostnic.id/
 mirror.hplink.com.bd/
@@ -535,6 +535,7 @@ ubuntu.cica.es/
 ubuntu.cs.nctu.edu.tw/
 ubuntu.cs.utah.edu/
 ubuntu.dcc.fc.up.pt/
+ubuntu.dts.mg/
 ubuntu.ethz.ch/
 ubuntu.grad.hr/
 ubuntu.grena.ge/
