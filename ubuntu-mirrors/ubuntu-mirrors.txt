@@ -183,6 +183,7 @@ mirror.datamossa.io/
 mirror.de.leaseweb.net/
 mirror.dewabiz.com/
 mirror.digitaloceans.dev/
+mirror.dkm.cz/
 mirror.docker.ru/
 mirror.dogado.de/
 mirror.domainhizmetleri.com/
