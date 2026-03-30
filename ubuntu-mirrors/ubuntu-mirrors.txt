@@ -180,6 +180,7 @@ mirror.datacenter.by/
 mirror.datacenter.mn/
 mirror.datamossa.io/
 mirror.de.leaseweb.net/
+mirror.dewabiz.com/
 mirror.digitaloceans.dev/
 mirror.docker.ru/
 mirror.dogado.de/
