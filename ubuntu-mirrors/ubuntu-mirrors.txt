@@ -151,9 +151,7 @@ mirror.bizflycloud.vn/
 mirror.biznetgio.com/
 mirror.bytemark.co.uk/
 mirror.ca-tr.kamatera.com/
-mirror.cc.vt.edu/
 mirror.cedia.org.ec/
-mirror.cepatcloud.id/
 mirror.citrahost.com/
 mirror.clarkson.edu/
 mirror.clearsky.vn/
@@ -218,6 +216,7 @@ mirror.hnd.cl/
 mirror.hoobly.com/
 mirror.hostafrica.co.za/
 mirror.hoster.kz/
+mirror.hosthink.net/
 mirror.hostiko.network/
 mirror.hostnic.id/
 mirror.hplink.com.bd/
@@ -323,7 +322,6 @@ mirror.sitsa.com.ar/
 mirror.siwoo.org/
 mirror.solnet.ch/
 mirror.solnode.io/
-mirror.soonkeat.sg/
 mirror.steadfastnet.com/
 mirror.t-home.mk/
 mirror.team-cymru.com/
