@@ -1,5 +1,4 @@
 *.archive.ubuntu.com/
-archive.g4t1.pro/
 archive.linux.duke.edu/
 archive.ubuntu.com/
 archive.ubuntu.mirror.ba/
@@ -61,7 +60,6 @@ ftp.linux.ro/
 ftp.lip6.fr/
 ftp.litnet.lt/
 ftp.ludd.ltu.se/
-ftp.lysator.liu.se/
 ftp.mirror.tw/
 ftp.mirrorservice.org/
 ftp.muug.ca/
@@ -581,7 +579,6 @@ ubuntu.mirrors.pair.com/
 ubuntu.mirrors.uk2.net/
 ubuntu.mti.mt.gov.br/
 ubuntu.netforce.hosting/
-ubuntu.ntc.net.np/
 ubuntu.org.ua/
 ubuntu.osuosl.org/
 ubuntu.otenet.gr/
