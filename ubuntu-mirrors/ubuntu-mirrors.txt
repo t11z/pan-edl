@@ -66,7 +66,6 @@ ftp.mirror.tw/
 ftp.mirrorservice.org/
 ftp.muug.ca/
 ftp.nluug.nl/
-ftp.ntua.gr/
 ftp.otenet.gr/
 ftp.psnc.pl/
 ftp.riken.jp/
@@ -415,7 +414,6 @@ mirrors.dc.clear.net.ar/
 mirrors.dgut.edu.cn/
 mirrors.dotsrc.org/
 mirrors.egr.msu.edu/
-mirrors.esto.network/
 mirrors.evoluso.com/
 mirrors.fibianet.dk/
 mirrors.gbnetwork.com/
