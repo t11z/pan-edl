@@ -222,7 +222,6 @@ mirror.ipb.de/
 mirror.it.ubc.ca/
 mirror.it4i.cz/
 mirror.iway.ch/
-mirror.keiminem.com/
 mirror.keystealth.org/
 mirror.kku.ac.th/
 mirror.kpfu.ru/
