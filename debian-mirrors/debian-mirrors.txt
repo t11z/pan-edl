@@ -305,7 +305,6 @@ mirrors.iitd.ac.in/
 mirrors.jlu.edu.cn/
 mirrors.lug.mtu.edu/
 mirrors.mwcampbell.us/
-mirrors.nav.ro/
 mirrors.netix.net/
 mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
