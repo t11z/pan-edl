@@ -91,6 +91,7 @@ ftp.acc.umu.se/
 ftp.agh.edu.pl/
 ftp.am.debian.org/
 ftp.antik.sk/
+ftp.at.debian.org/
 ftp.au.debian.org/
 ftp.be.debian.org/
 ftp.bg.debian.org/
