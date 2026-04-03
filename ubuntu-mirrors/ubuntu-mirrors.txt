@@ -61,6 +61,7 @@ ftp.linux.ro/
 ftp.lip6.fr/
 ftp.litnet.lt/
 ftp.ludd.ltu.se/
+ftp.lysator.liu.se/
 ftp.mirror.tw/
 ftp.mirrorservice.org/
 ftp.muug.ca/
@@ -103,7 +104,6 @@ giano.com.dist.unige.it/
 glua.ua.pt/
 gpl.savoirfairelinux.net/
 http.krfoss.org/
-in.mirror.coganng.com/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
@@ -304,6 +304,7 @@ mirror.previder.nl/
 mirror.ps.kz/
 mirror.rabisu.com/
 mirror.raiolanetworks.com/
+mirror.ratiokontakt.de/
 mirror.rcg.sfu.ca/
 mirror.realcompute.io/
 mirror.reenigne.net/
@@ -324,6 +325,7 @@ mirror.sitsa.com.ar/
 mirror.siwoo.org/
 mirror.solnet.ch/
 mirror.solnode.io/
+mirror.soonkeat.sg/
 mirror.steadfastnet.com/
 mirror.t-home.mk/
 mirror.team-cymru.com/
