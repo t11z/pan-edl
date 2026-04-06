@@ -21,7 +21,6 @@ debian.charite.de/
 debian.connesi.it/
 debian.cs.nycu.edu.tw/
 debian.csail.mit.edu/
-debian.csie.ntu.edu.tw/
 debian.dynamica.it/
 debian.envisagecloud.net.za/
 debian.ethz.ch/
