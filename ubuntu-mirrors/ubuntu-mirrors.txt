@@ -292,6 +292,7 @@ mirror.openweb.co.za/
 mirror.ordunet.ge/
 mirror.ossplanet.net/
 mirror.ourhost.az/
+mirror.overthewire.com.au/
 mirror.ox.ac.uk/
 mirror.papua.go.id/
 mirror.pilotfiber.com/
@@ -490,6 +491,7 @@ pkg.adfinis.com/
 plug-mirror.rcac.purdue.edu/
 ports.ubuntu.moon127.net/
 pubmirrors.dal.corespace.com/
+rep-ubuntu-il.upress.io/
 repo.huaweicloud.com/
 repo.ialab.dsu.edu/
 repo.jztkft.hu/
