@@ -109,6 +109,7 @@ jp.mirror.coganng.com/
 kartolo.sby.datautama.net.id/
 kebo.pens.ac.id/
 kebo.vlsm.org/
+kozyatagi.mirror.guzel.net.tr/
 kr.mirror.tefexia.net/
 la.mirrors.clouvider.net/
 labs.eif.urjc.es/
@@ -488,6 +489,7 @@ pkg.adfinis-on-exoscale.ch/
 pkg.adfinis.com/
 plug-mirror.rcac.purdue.edu/
 ports.ubuntu.moon127.net/
+pubmirrors.dal.corespace.com/
 repo.huaweicloud.com/
 repo.ialab.dsu.edu/
 repo.jztkft.hu/
