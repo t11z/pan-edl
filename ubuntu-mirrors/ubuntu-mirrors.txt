@@ -157,6 +157,7 @@ mirror.clearsky.vn/
 mirror.clientvps.com/
 mirror.cloudhosting.lv/
 mirror.cmkl.ac.th/
+mirror.coganng.com/
 mirror.cogentco.com/
 mirror.colocenter.nl/
 mirror.corbina.net/
@@ -422,7 +423,6 @@ mirrors.huaweicloud.com/
 mirrors.ipserverone.com/
 mirrors.ircam.fr/
 mirrors.iu13.net/
-mirrors.jcut.edu.cn/
 mirrors.jlu.edu.cn/
 mirrors.krnk.org/
 mirrors.layeronline.com/
