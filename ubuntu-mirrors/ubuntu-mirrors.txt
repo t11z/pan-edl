@@ -416,7 +416,6 @@ mirrors.egr.msu.edu/
 mirrors.evoluso.com/
 mirrors.fibianet.dk/
 mirrors.gbnetwork.com/
-mirrors.gethosted.online/
 mirrors.gigenet.com/
 mirrors.gofiber.vn/
 mirrors.hosterion.ro/
