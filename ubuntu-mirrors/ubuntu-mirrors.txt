@@ -37,7 +37,6 @@ ftp.cc.uoc.gr/
 ftp.corbina.net/
 ftp.csuc.cat/
 ftp.cvut.cz/
-ftp.daum.net/
 ftp.dei.uc.pt/
 ftp.energotel.sk/
 ftp.fau.de/
@@ -246,7 +245,6 @@ mirror.jagoanhosting.id/
 mirror.johnnybegood.fr/
 mirror.kakao.com/
 mirror.kamp.de/
-mirror.kapteyan.com.tr/
 mirror.keiminem.com/
 mirror.kkg.berlin/
 mirror.kku.ac.th/
@@ -525,7 +523,6 @@ ubuntu-archive.locaweb.com.br/
 ubuntu-archive.mirror.liquidtelecom.com/
 ubuntu-archive.mirror.serveriai.lt/
 ubuntu-mirror.ati.tn/
-ubuntu-mirror.bhtelecom.ba/
 ubuntu-mirror.puq.apoapsis.cl/
 ubuntu-ports.mirror.net.in/
 ubuntu.anexia.at/
