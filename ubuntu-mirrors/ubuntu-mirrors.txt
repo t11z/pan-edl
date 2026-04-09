@@ -332,7 +332,6 @@ mirror.team-cymru.org/
 mirror.team-host.ru/
 mirror.techlabs.co.kr/
 mirror.telepoint.bg/
-mirror.thunderhosting.cloud/
 mirror.timeweb.ru/
 mirror.tngnet.com/
 mirror.transip.net/
