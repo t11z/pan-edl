@@ -445,6 +445,7 @@ mirrors.ocf.berkeley.edu/
 mirrors.opensource.is/
 mirrors.piconets.webwerks.in/
 mirrors.pidginhost.com/
+mirrors.pol.hostinja.com/
 mirrors.powernet.com.ru/
 mirrors.ptisp.pt/
 mirrors.qlu.edu.cn/
