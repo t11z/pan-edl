@@ -1,4 +1,5 @@
 *.archive.ubuntu.com/
+archive.eibly.com/
 archive.g4t1.pro/
 archive.linux.duke.edu/
 archive.ubuntu.com/
