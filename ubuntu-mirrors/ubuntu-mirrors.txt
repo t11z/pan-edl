@@ -245,7 +245,7 @@ mirror.jagoanhosting.id/
 mirror.johnnybegood.fr/
 mirror.kakao.com/
 mirror.kamp.de/
-mirror.keiminem.com/
+mirror.kapteyan.com.tr/
 mirror.kkg.berlin/
 mirror.kku.ac.th/
 mirror.krfoss.org/
@@ -522,6 +522,7 @@ ubuntu-archive.locaweb.com.br/
 ubuntu-archive.mirror.liquidtelecom.com/
 ubuntu-archive.mirror.serveriai.lt/
 ubuntu-mirror.ati.tn/
+ubuntu-mirror.bhtelecom.ba/
 ubuntu-mirror.puq.apoapsis.cl/
 ubuntu-ports.mirror.net.in/
 ubuntu.anexia.at/
