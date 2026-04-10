@@ -21,7 +21,6 @@ deb.campolargo.pr.gov.br/
 debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
 distrohub.kyiv.ua/
-download.nus.edu.sg/
 download.nust.na/
 drmirror.physi.uni-heidelberg.de/
 edgeuno-bog2.mm.fcix.net/
@@ -149,7 +148,6 @@ mirror.bg.host.ag/
 mirror.bharatdatacenter.com/
 mirror.bizflycloud.vn/
 mirror.biznetgio.com/
-mirror.bytemark.co.uk/
 mirror.ca-tr.kamatera.com/
 mirror.cc.vt.edu/
 mirror.cedia.org.ec/
@@ -221,7 +219,6 @@ mirror.hoster.kz/
 mirror.hosthink.net/
 mirror.hostiko.network/
 mirror.hostnic.id/
-mirror.hplink.com.bd/
 mirror.icn.com.bd/
 mirror.ietlucknow.ac.in/
 mirror.ihost.md/
@@ -412,7 +409,6 @@ mirrors.dc.clear.net.ar/
 mirrors.dgut.edu.cn/
 mirrors.dotsrc.org/
 mirrors.egr.msu.edu/
-mirrors.evoluso.com/
 mirrors.fibianet.dk/
 mirrors.gbnetwork.com/
 mirrors.gigenet.com/
