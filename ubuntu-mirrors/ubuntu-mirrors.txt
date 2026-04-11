@@ -291,7 +291,6 @@ mirror.openweb.co.za/
 mirror.ordunet.ge/
 mirror.ossplanet.net/
 mirror.ourhost.az/
-mirror.overthewire.com.au/
 mirror.ox.ac.uk/
 mirror.papua.go.id/
 mirror.pilotfiber.com/
@@ -528,7 +527,6 @@ ubuntu-ports.mirror.net.in/
 ubuntu.anexia.at/
 ubuntu.btit.nz/
 ubuntu.c3sl.ufpr.br/
-ubuntu.ccns.ncku.edu.tw/
 ubuntu.cica.es/
 ubuntu.cs.nctu.edu.tw/
 ubuntu.cs.utah.edu/
