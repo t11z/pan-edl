@@ -308,6 +308,7 @@ mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
 mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
+mirrors.ptisp.pt/
 mirrors.qlu.edu.cn/
 mirrors.tuna.tsinghua.edu.cn/
 mirrors.ucr.ac.cr/
