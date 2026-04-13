@@ -491,7 +491,6 @@ pubmirrors.dal.corespace.com/
 rep-ubuntu-il.upress.io/
 repo.huaweicloud.com/
 repo.ialab.dsu.edu/
-repo.jztkft.hu/
 repo.morgan.kr/
 repo.ugm.ac.id/
 repo.usk.ac.id/
