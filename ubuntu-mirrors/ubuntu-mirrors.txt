@@ -112,6 +112,7 @@ kartolo.sby.datautama.net.id/
 kebo.pens.ac.id/
 kebo.vlsm.org/
 kozyatagi.mirror.guzel.net.tr/
+kr.mirror.tefexia.net/
 la.mirrors.clouvider.net/
 labs.eif.urjc.es/
 linux.domainesia.com/
@@ -137,7 +138,6 @@ mirror.anigil.com/
 mirror.aptus.co.tz/
 mirror.arizona.edu/
 mirror.as.kamatera.com/
-mirror.as210890.net/
 mirror.as29550.net/
 mirror.as43289.net/
 mirror.ati.tn/
