@@ -482,6 +482,7 @@ nyc.mirrors.clouvider.net/
 opensource.xtdv.net/
 ossmirror.mycloud.services/
 packages.oth-regensburg.de/
+park-mirror.duckdns.org/
 pkg.adfinis-on-exoscale.ch/
 pkg.adfinis.com/
 plug-mirror.rcac.purdue.edu/
@@ -575,7 +576,6 @@ ubuntu.mirrors.pair.com/
 ubuntu.mirrors.uk2.net/
 ubuntu.mti.mt.gov.br/
 ubuntu.netforce.hosting/
-ubuntu.ntc.net.np/
 ubuntu.org.ua/
 ubuntu.osuosl.org/
 ubuntu.otenet.gr/
