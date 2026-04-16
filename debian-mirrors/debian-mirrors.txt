@@ -81,6 +81,7 @@ debian.vranetworks.lat/
 debian.web.trex.fi/
 debian.xtdv.net/
 debianmirror.una.ac.cr/
+debpkg.libranext.com/
 depot-debian.univ-reunion.fr/
 distrohub.kyiv.ua/
 elmirror.cl/
