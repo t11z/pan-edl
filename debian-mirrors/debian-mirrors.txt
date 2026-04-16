@@ -4,7 +4,6 @@ de.mirrors.clouvider.net/
 deb-mir1.naitways.net/
 deb.bbxnet.sk/
 deb.debian.org/
-deb.nextgen.ch/
 debian-archive.trafficmanager.net/
 debian-mirror.behostings.net/
 debian-mirror.puq.apoapsis.cl/
@@ -185,7 +184,6 @@ mirror-mk.interspace.com/
 mirror-prg.webglobe.com/
 mirror.0x626b.com/
 mirror.23m.com/
-mirror.5i.fi/
 mirror.a1.mk/
 mirror.aarnet.edu.au/
 mirror.abaclouda.net/
