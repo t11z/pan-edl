@@ -205,6 +205,7 @@ mirror.de.leaseweb.net/
 mirror.debian.ikoula.com/
 mirror.dkm.cz/
 mirror.docker.ru/
+mirror.dogado.de/
 mirror.dst.ca/
 mirror.duocast.net/
 mirror.estone.ca/
@@ -232,7 +233,6 @@ mirror.limda.net/
 mirror.linux.org.au/
 mirror.linux.ro/
 mirror.litnet.lt/
-mirror.lzu.edu.cn/
 mirror.maeen.sa/
 mirror.marwan.ma/
 mirror.mephi.ru/
