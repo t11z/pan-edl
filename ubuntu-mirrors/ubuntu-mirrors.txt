@@ -290,7 +290,6 @@ mirror.ordunet.ge/
 mirror.ossplanet.net/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
-mirror.papua.go.id/
 mirror.pilotfiber.com/
 mirror.pit.teraswitch.com/
 mirror.plusserver.com/
