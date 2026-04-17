@@ -1,5 +1,6 @@
 *.archive.ubuntu.com/
 archive.eibly.com/
+archive.g4t1.pro/
 archive.linux.duke.edu/
 archive.ubuntu.com/
 archive.ubuntu.mirror.ba/
@@ -242,6 +243,8 @@ mirror.jagoanhosting.id/
 mirror.johnnybegood.fr/
 mirror.kakao.com/
 mirror.kamp.de/
+mirror.kapteyan.com.tr/
+mirror.keiminem.com/
 mirror.kkg.berlin/
 mirror.kku.ac.th/
 mirror.krfoss.org/
