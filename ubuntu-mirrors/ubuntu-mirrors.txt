@@ -287,6 +287,7 @@ mirror.openweb.co.za/
 mirror.ordunet.ge/
 mirror.ossplanet.net/
 mirror.ourhost.az/
+mirror.overthewire.com.au/
 mirror.ox.ac.uk/
 mirror.pilotfiber.com/
 mirror.pit.teraswitch.com/
