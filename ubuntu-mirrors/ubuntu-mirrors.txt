@@ -1,5 +1,4 @@
 *.archive.ubuntu.com/
-archive.eibly.com/
 archive.g4t1.pro/
 archive.linux.duke.edu/
 archive.ubuntu.com/
@@ -11,6 +10,7 @@ archive.ubuntumirror.dei.uc.pt/
 artfiles.org/
 atl.mirrors.clouvider.net/
 aze.archive.ubuntu.com/
+cdn.repo.cloudeka.id/
 cdn.ubuntu.repo.cloudeka.id/
 cesium.di.uminho.pt/
 cz.archive.ubuntu.com/
