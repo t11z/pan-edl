@@ -600,7 +600,6 @@ ubuntu.vpsttt.com/
 ubuntu.web.trex.fi/
 ubuntu.zero.com.ar/
 ucho.ignum.cz/
-ucmirror.canterbury.ac.nz/
 uk.mirrors.clouvider.net/
 vn-mirrors.vhost.vn/
 www-ftp.lip6.fr/
