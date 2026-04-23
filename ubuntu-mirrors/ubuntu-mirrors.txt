@@ -252,6 +252,7 @@ mirror.lc/
 mirror.liberty-connect.com/
 mirror.library.ucy.ac.cy/
 mirror.limda.net/
+mirror.linkdata.com/
 mirror.linux.ncsu.edu/
 mirror.logol.ru/
 mirror.lyrahosting.com/
