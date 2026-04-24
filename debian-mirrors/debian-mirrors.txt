@@ -165,6 +165,7 @@ ftp.uni-kl.de/
 ftp.uni-mainz.de/
 ftp.uni-sofia.bg/
 ftp.uni-stuttgart.de/
+ftp.univ-pau.fr/
 ftp.us.debian.org/
 ftp.wrz.de/
 ftp.yz.yamagata-u.ac.jp/
