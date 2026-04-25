@@ -243,7 +243,6 @@ mirror.mythic-beasts.com/
 mirror.neftm.ru/
 mirror.nforce.com/
 mirror.nitc.ac.in/
-mirror.nl.cdn-perfprod.com/
 mirror.nl.leaseweb.net/
 mirror.nl.mirhosting.net/
 mirror.ourhost.az/
