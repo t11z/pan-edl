@@ -97,8 +97,6 @@ ftp.be.debian.org/
 ftp.bg.debian.org/
 ftp.bme.hu/
 ftp.br.debian.org/
-ftp.by.debian.org/
-ftp.byfly.by/
 ftp.ca.debian.org/
 ftp.ch.debian.org/
 ftp.cica.es/
@@ -246,7 +244,6 @@ mirror.nitc.ac.in/
 mirror.nl.leaseweb.net/
 mirror.nl.mirhosting.net/
 mirror.ourhost.az/
-mirror.overthewire.com.au/
 mirror.ox.ac.uk/
 mirror.pangkin.com/
 mirror.plusline.net/
