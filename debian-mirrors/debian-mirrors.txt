@@ -186,7 +186,6 @@ mirror.0x626b.com/
 mirror.23m.com/
 mirror.5i.fi/
 mirror.a1.mk/
-mirror.aarnet.edu.au/
 mirror.abaclouda.net/
 mirror.amaze.com.au/
 mirror.applebred.net/
