@@ -335,7 +335,6 @@ pubmirror.plutex.de/
 repo.ialab.dsu.edu/
 repo.jztkft.hu/
 repos.interior.edu.uy/
-repository.su/
 ro.mirror.flokinet.net/
 security.debian.org/
 tw1.mirror.blendbyte.net/
