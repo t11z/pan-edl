@@ -235,6 +235,7 @@ mirror.limda.net/
 mirror.linux.org.au/
 mirror.linux.ro/
 mirror.litnet.lt/
+mirror.lzu.edu.cn/
 mirror.maeen.sa/
 mirror.marwan.ma/
 mirror.mephi.ru/
