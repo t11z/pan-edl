@@ -255,6 +255,7 @@ mirror.limda.net/
 mirror.linkdata.com/
 mirror.linux.ncsu.edu/
 mirror.logol.ru/
+mirror.lstn.net/
 mirror.lyrahosting.com/
 mirror.maeen.sa/
 mirror.marwan.ma/
@@ -295,7 +296,6 @@ mirror.papua.go.id/
 mirror.pilotfiber.com/
 mirror.pit.teraswitch.com/
 mirror.plusserver.com/
-mirror.poliwangi.ac.id/
 mirror.previder.nl/
 mirror.ps.kz/
 mirror.rabisu.com/
@@ -458,6 +458,7 @@ mirrors.sonic.net/
 mirrors.storpool.com/
 mirrors.teamcloud.am/
 mirrors.tino.org/
+mirrors.tscak.com/
 mirrors.ukfast.co.uk/
 mirrors.up.pt/
 mirrors.upr.edu/
