@@ -249,7 +249,6 @@ mirror.nl.leaseweb.net/
 mirror.nl.mirhosting.net/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
-mirror.pangkin.com/
 mirror.plusline.net/
 mirror.plusserver.com/
 mirror.positive-internet.com/
