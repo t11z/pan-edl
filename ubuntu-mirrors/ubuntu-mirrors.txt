@@ -145,6 +145,7 @@ mirror.bacloud.com/
 mirror.bahnhof.net/
 mirror.battern.eu/
 mirror.bg.host.ag/
+mirror.bharatdatacenter.com/
 mirror.bizflycloud.vn/
 mirror.biznetgio.com/
 mirror.bytemark.co.uk/
@@ -218,7 +219,6 @@ mirror.hosthink.net/
 mirror.hostiko.network/
 mirror.hostnic.id/
 mirror.icn.com.bd/
-mirror.ietlucknow.ac.in/
 mirror.ihost.md/
 mirror.il-ha.kamatera.com/
 mirror.il-pt.kamatera.com/

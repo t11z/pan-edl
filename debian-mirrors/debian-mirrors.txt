@@ -270,7 +270,6 @@ mirror.truenetwork.ru/
 mirror.twds.com.tw/
 mirror.uepg.br/
 mirror.ufscar.br/
-mirror.ukrnames.com/
 mirror.unair.ac.id/
 mirror.undernet.uy/
 mirror.united-gameserver.de/
