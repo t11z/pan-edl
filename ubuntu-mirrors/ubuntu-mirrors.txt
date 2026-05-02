@@ -423,7 +423,6 @@ mirrors.huaweicloud.com/
 mirrors.ipserverone.com/
 mirrors.ircam.fr/
 mirrors.iu13.net/
-mirrors.jcut.edu.cn/
 mirrors.jlu.edu.cn/
 mirrors.krnk.org/
 mirrors.layeronline.com/
@@ -601,6 +600,7 @@ ubuntu.uvigo.es/
 ubuntu.volia.net/
 ubuntu.vpsttt.com/
 ubuntu.web.trex.fi/
+ubuntu.zero.com.ar/
 ucho.ignum.cz/
 uk.mirrors.clouvider.net/
 vn-mirrors.vhost.vn/
