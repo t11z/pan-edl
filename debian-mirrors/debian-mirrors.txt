@@ -335,6 +335,7 @@ repo.jztkft.hu/
 repos.interior.edu.uy/
 ro.mirror.flokinet.net/
 security.debian.org/
+softlibre.unizar.es/
 tw1.mirror.blendbyte.net/
 uk.mirrors.clouvider.net/
 www.nic.funet.fi/
