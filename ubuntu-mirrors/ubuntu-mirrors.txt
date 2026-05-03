@@ -42,7 +42,6 @@ ftp.cvut.cz/
 ftp.dei.uc.pt/
 ftp.energotel.sk/
 ftp.fau.de/
-ftp.fu-berlin.de/
 ftp.gtlib.gatech.edu/
 ftp.halifax.rwth-aachen.de/
 ftp.hosteurope.de/
@@ -99,7 +98,6 @@ ftp5.gwdg.de/
 ftpmirror1.infania.net/
 ftpserv.tudelft.nl/
 giano.com.dist.unige.it/
-glua.ua.pt/
 gpl.savoirfairelinux.net/
 http.krfoss.org/
 is.mirror.flokinet.net/
@@ -255,7 +253,6 @@ mirror.limda.net/
 mirror.linkdata.com/
 mirror.linux.ncsu.edu/
 mirror.logol.ru/
-mirror.lstn.net/
 mirror.lyrahosting.com/
 mirror.maeen.sa/
 mirror.marwan.ma/
@@ -520,6 +517,7 @@ tw1.mirror.blendbyte.net/
 ubuntu-archive.interhost.co.il/
 ubuntu-archive.locaweb.com.br/
 ubuntu-archive.mirror.liquidtelecom.com/
+ubuntu-archive.mirror.serveriai.lt/
 ubuntu-mirror.ati.tn/
 ubuntu-mirror.bhtelecom.ba/
 ubuntu-mirror.puq.apoapsis.cl/
