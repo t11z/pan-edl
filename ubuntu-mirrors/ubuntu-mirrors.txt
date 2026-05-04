@@ -191,6 +191,7 @@ mirror.eu-fr.kamatera.com/
 mirror.eu-lo.kamatera.com/
 mirror.eu.4psacloud.com/
 mirror.eu.kamatera.com/
+mirror.fairway.ne.jp/
 mirror.fcix.net/
 mirror.fi.ossplanet.net/
 mirror.flo.c-f.ro/
@@ -454,6 +455,7 @@ mirrors.storpool.com/
 mirrors.teamcloud.am/
 mirrors.tino.org/
 mirrors.tscak.com/
+mirrors.tuna.tsinghua.edu.cn/
 mirrors.ukfast.co.uk/
 mirrors.up.pt/
 mirrors.upr.edu/
