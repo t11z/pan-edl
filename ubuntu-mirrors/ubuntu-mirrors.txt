@@ -96,6 +96,7 @@ ftp.uvigo.es/
 ftp5.gwdg.de/
 ftpmirror1.infania.net/
 giano.com.dist.unige.it/
+glua.ua.pt/
 gpl.savoirfairelinux.net/
 http.krfoss.org/
 is.mirror.flokinet.net/
