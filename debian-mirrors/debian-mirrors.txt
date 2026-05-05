@@ -1,6 +1,5 @@
 apt.tetaneutral.net/
 atl.mirrors.clouvider.net/
-de.mirrors.clouvider.net/
 deb-mir1.naitways.net/
 deb.bbxnet.sk/
 deb.debian.org/
@@ -254,7 +253,6 @@ mirror.positive-internet.com/
 mirror.ps.kz/
 mirror.raiolanetworks.com/
 mirror.realcompute.io/
-mirror.rustytel.net/
 mirror.sabay.com.kh/
 mirror.sg.gs/
 mirror.siena.edu/
@@ -321,7 +319,6 @@ mirrors.zju.edu.cn/
 mirrorservice.org/
 mr.heru.id/
 nl.mirror.flokinet.net/
-nl.mirrors.clouvider.net/
 nyc.mirrors.clouvider.net/
 opensource.nchc.org.tw/
 packages.hs-regensburg.de/
@@ -334,5 +331,4 @@ ro.mirror.flokinet.net/
 security.debian.org/
 softlibre.unizar.es/
 tw1.mirror.blendbyte.net/
-uk.mirrors.clouvider.net/
 www.nic.funet.fi/
