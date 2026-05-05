@@ -299,6 +299,7 @@ mirrors.iitd.ac.in/
 mirrors.jlu.edu.cn/
 mirrors.lug.mtu.edu/
 mirrors.mwcampbell.us/
+mirrors.nav.ro/
 mirrors.netix.net/
 mirrors.ocf.berkeley.edu/
 mirrors.pidginhost.com/
