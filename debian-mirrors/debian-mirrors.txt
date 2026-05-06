@@ -88,7 +88,6 @@ ftp-stud.hs-esslingen.de/
 ftp.acc.umu.se/
 ftp.agh.edu.pl/
 ftp.am.debian.org/
-ftp.antik.sk/
 ftp.at.debian.org/
 ftp.au.debian.org/
 ftp.be.debian.org/
@@ -202,6 +201,7 @@ mirror.csclub.uwaterloo.ca/
 mirror.datacenter.by/
 mirror.de.leaseweb.net/
 mirror.debian.ikoula.com/
+mirror.djvg.sg/
 mirror.dkm.cz/
 mirror.docker.ru/
 mirror.dogado.de/
