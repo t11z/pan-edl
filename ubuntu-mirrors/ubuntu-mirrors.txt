@@ -198,7 +198,6 @@ mirror.freethought-internet.co.uk/
 mirror.fsmg.org.nz/
 mirror.fst.kz/
 mirror.funkfreundelandshut.de/
-mirror.geekonweb.fr/
 mirror.gi.co.id/
 mirror.gofoss.xyz/
 mirror.greennet.gl/
@@ -418,6 +417,7 @@ mirrors.huaweicloud.com/
 mirrors.ipserverone.com/
 mirrors.ircam.fr/
 mirrors.iu13.net/
+mirrors.jcut.edu.cn/
 mirrors.jlu.edu.cn/
 mirrors.krnk.org/
 mirrors.layeronline.com/
@@ -589,7 +589,6 @@ ubuntu.tuxuri.com/
 ubuntu.ucr.ac.cr/
 ubuntu.uib.no/
 ubuntu.unc.edu.ar/
-ubuntu.uni-klu.ac.at/
 ubuntu.univ-nantes.fr/
 ubuntu.univ-reims.fr/
 ubuntu.uvigo.es/
