@@ -150,6 +150,7 @@ mirror.ca-tr.kamatera.com/
 mirror.cc.vt.edu/
 mirror.cedia.org.ec/
 mirror.citrahost.com/
+mirror.clarkson.edu/
 mirror.clearsky.vn/
 mirror.clientvps.com/
 mirror.cloudhosting.lv/
@@ -199,6 +200,7 @@ mirror.freethought-internet.co.uk/
 mirror.fsmg.org.nz/
 mirror.fst.kz/
 mirror.funkfreundelandshut.de/
+mirror.geekonweb.fr/
 mirror.gi.co.id/
 mirror.gofoss.xyz/
 mirror.greennet.gl/
