@@ -237,6 +237,7 @@ mirror.lzu.edu.cn/
 mirror.maeen.sa/
 mirror.marwan.ma/
 mirror.mephi.ru/
+mirror.metanet.ch/
 mirror.mirohost.net/
 mirror.mythic-beasts.com/
 mirror.neftm.ru/
