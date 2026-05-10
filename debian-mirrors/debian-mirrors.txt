@@ -305,6 +305,7 @@ mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
 mirrors.ptisp.pt/
 mirrors.qlu.edu.cn/
+mirrors.rackhosting.com/
 mirrors.tuna.tsinghua.edu.cn/
 mirrors.upr.edu/
 mirrors.ustc.edu.cn/
