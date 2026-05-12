@@ -248,7 +248,6 @@ mirror.nl.mirhosting.net/
 mirror.ox.ac.uk/
 mirror.plusline.net/
 mirror.plusserver.com/
-mirror.positive-internet.com/
 mirror.ps.kz/
 mirror.raiolanetworks.com/
 mirror.realcompute.io/
