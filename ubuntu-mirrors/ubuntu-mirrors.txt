@@ -300,6 +300,7 @@ mirror.rcg.sfu.ca/
 mirror.realcompute.io/
 mirror.reenigne.net/
 mirror.renu.ac.ug/
+mirror.retentionrange.co.bw/
 mirror.rise.ph/
 mirror.root.lu/
 mirror.rustytel.net/
@@ -428,7 +429,6 @@ mirrors.lug.mtu.edu/
 mirrors.maine.edu/
 mirrors.melbourne.co.uk/
 mirrors.mit.edu/
-mirrors.mivocloud.com/
 mirrors.nav.ro/
 mirrors.neterra.net/
 mirrors.netix.net/
