@@ -1,4 +1,3 @@
-apt.tetaneutral.net/
 deb-mir1.naitways.net/
 deb.bbxnet.sk/
 deb.debian.org/
