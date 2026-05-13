@@ -243,7 +243,6 @@ mirror.nforce.com/
 mirror.nitc.ac.in/
 mirror.nl.leaseweb.net/
 mirror.nl.mirhosting.net/
-mirror.ourhost.az/
 mirror.ox.ac.uk/
 mirror.plusline.net/
 mirror.plusserver.com/
