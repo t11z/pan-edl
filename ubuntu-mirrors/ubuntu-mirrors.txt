@@ -239,6 +239,7 @@ mirror.jagoanhosting.id/
 mirror.johnnybegood.fr/
 mirror.kakao.com/
 mirror.kamp.de/
+mirror.kapteyan.com.tr/
 mirror.keiminem.com/
 mirror.kkg.berlin/
 mirror.kku.ac.th/
