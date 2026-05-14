@@ -173,6 +173,7 @@ mirror.datamossa.io/
 mirror.de.leaseweb.net/
 mirror.dewabiz.com/
 mirror.digitaloceans.dev/
+mirror.digitalpacific.com.au/
 mirror.dkm.cz/
 mirror.docker.ru/
 mirror.dogado.de/
@@ -551,6 +552,7 @@ ubuntu.linux.n0c.ca/
 ubuntu.man.lodz.pl/
 ubuntu.mirror.ac.ke/
 ubuntu.mirror.constant.com/
+ubuntu.mirror.digitalpacific.com.au/
 ubuntu.mirror.frontiernet.net/
 ubuntu.mirror.garr.it/
 ubuntu.mirror.globo.tech/
@@ -596,6 +598,7 @@ ubuntu.uvigo.es/
 ubuntu.volia.net/
 ubuntu.vpsttt.com/
 ubuntu.web.trex.fi/
+ubuntu.zero.com.ar/
 ucho.ignum.cz/
 uk.mirrors.clouvider.net/
 vn-mirrors.vhost.vn/
