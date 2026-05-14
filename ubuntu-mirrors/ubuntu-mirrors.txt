@@ -64,6 +64,7 @@ ftp.lysator.liu.se/
 ftp.mirror.tw/
 ftp.mirrorservice.org/
 ftp.muug.ca/
+ftp.nluug.nl/
 ftp.ntua.gr/
 ftp.otenet.gr/
 ftp.psnc.pl/
@@ -117,6 +118,7 @@ lug.mines.edu/
 mir.linux.kg/
 miroir.univ-lorraine.fr/
 mirror-gw.elastis.id/
+mirror-hk.koddos.net/
 mirror-mk.interspace.com/
 mirror.01link.hk/
 mirror.0x.sg/
@@ -164,6 +166,7 @@ mirror.creoline.net/
 mirror.cs.jmu.edu/
 mirror.cs.odu.edu/
 mirror.csclub.uwaterloo.ca/
+mirror.cse.iitk.ac.in/
 mirror.d.umn.edu/
 mirror.dal.nexril.net/
 mirror.daniel-jost.net/
@@ -249,6 +252,7 @@ mirror.krfoss.org/
 mirror.kumi.systems/
 mirror.lc/
 mirror.liberty-connect.com/
+mirror.library.ucy.ac.cy/
 mirror.limda.net/
 mirror.linkdata.com/
 mirror.linux.ncsu.edu/
@@ -579,6 +583,7 @@ ubuntu.mirrors.omnilance.com/
 ubuntu.mirrors.ovh.net/
 ubuntu.mirrors.pair.com/
 ubuntu.mirrors.uk2.net/
+ubuntu.mti.mt.gov.br/
 ubuntu.netforce.hosting/
 ubuntu.org.ua/
 ubuntu.osuosl.org/
