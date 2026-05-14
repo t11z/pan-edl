@@ -47,7 +47,6 @@ ftp.gtlib.gatech.edu/
 ftp.halifax.rwth-aachen.de/
 ftp.hosteurope.de/
 ftp.icm.edu.pl/
-ftp.iinet.net.au/
 ftp.iitm.ac.in/
 ftp.jaist.ac.jp/
 ftp.kaist.ac.kr/
@@ -400,7 +399,6 @@ mirrors.bfsu.edu.cn/
 mirrors.binaryracks.com/
 mirrors.bkns.vn/
 mirrors.bloomu.edu/
-mirrors.bmcc.edu/
 mirrors.c0urier.net/
 mirrors.cat.pdx.edu/
 mirrors.chroot.ro/
@@ -437,6 +435,7 @@ mirrors.lug.mtu.edu/
 mirrors.maine.edu/
 mirrors.melbourne.co.uk/
 mirrors.mit.edu/
+mirrors.mivocloud.com/
 mirrors.nav.ro/
 mirrors.neterra.net/
 mirrors.netix.net/
