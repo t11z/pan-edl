@@ -29,6 +29,11 @@ External Dynamic Lists that can be consumed by Palo Alto Networks firewalls
 | RubyGems Domains | Endpoints for the RubyGems registry | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/rubygems-domains/rubygems-domains.txt |
 | Tor Exit Nodes | Exit-relay IPs from the Tor Project bulk exit list (deny use case) | IP List | https://raw.githubusercontent.com/t11z/pan-edl/main/tor-exit-nodes/tor-exit-nodes.txt |
 | Tor Relays | All running Tor relay IPs from the Tor Project Onionoo API | IP List | https://raw.githubusercontent.com/t11z/pan-edl/main/tor-relays/tor-relays.txt |
+| Quay.io Domains | Endpoints for the Quay.io container registry (Red Hat) | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/quay-io-domains/quay-io-domains.txt |
+| GHCR Domains | Endpoints for the GitHub Container Registry | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/ghcr-domains/ghcr-domains.txt |
+| GCR Domains | Endpoints for Google Container Registry and Artifact Registry | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/gcr-domains/gcr-domains.txt |
+| MCR Domains | Endpoints for Microsoft Container Registry | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/mcr-microsoft-domains/mcr-microsoft-domains.txt |
+| Red Hat Registry Domains | Endpoints for the Red Hat container registries | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/redhat-registry-domains/redhat-registry-domains.txt |
 
 ## Contributing a new list
 

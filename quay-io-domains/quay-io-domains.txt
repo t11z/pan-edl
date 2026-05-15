@@ -1,0 +1,6 @@
+*.quay.io/
+cdn.quay.io/
+cdn01.quay.io/
+cdn02.quay.io/
+cdn03.quay.io/
+quay.io/

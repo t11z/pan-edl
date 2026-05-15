@@ -1,0 +1,9 @@
+*.pkg.dev/
+asia.gcr.io/
+eu.gcr.io/
+gcr.io/
+k8s.gcr.io/
+marketplace.gcr.io/
+registry.k8s.io/
+storage.googleapis.com/
+us.gcr.io/
