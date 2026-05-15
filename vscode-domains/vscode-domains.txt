@@ -1,0 +1,14 @@
+*.gallery.vsassets.io/
+*.gallerycdn.vsassets.io/
+*.vscode-cdn.net/
+*.vscode-unpkg.net/
+code.visualstudio.com/
+download.visualstudio.microsoft.com/
+github.com/
+go.microsoft.com/
+marketplace.visualstudio.com/
+raw.githubusercontent.com/
+update.code.visualstudio.com/
+vscode-sync.trafficmanager.net/
+vscode.dev/
+vscode.download.prss.microsoft.com/

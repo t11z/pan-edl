@@ -1,0 +1,15 @@
+accounts.fedoraproject.org/
+ask.fedoraproject.org/
+developer.fedoraproject.org/
+discussion.fedoraproject.org/
+dl.fedoraproject.org/
+download.fedoraproject.org/
+fedoramagazine.org/
+fedoraplanet.org/
+fedoraproject.org/
+getfedora.org/
+github.com/
+mirrormanager.readthedocs.org/
+mirrormanager.rtfd.org/
+mirrors.fedoraproject.org/
+www.redhat.com/

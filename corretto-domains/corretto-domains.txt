@@ -1,0 +1,2 @@
+corretto.aws/
+downloads.corretto.aws/
