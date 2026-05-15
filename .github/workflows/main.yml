@@ -50,11 +50,13 @@ jobs:
 
     - name: Commit and push changed EDL files
       run: |
+        # Stage all .txt files (covers both modified-tracked and new-untracked),
+        # then derive the change list from what's actually staged.
+        git add -- '*/*.txt'
+
         updated=()
-        for txt in $(git diff --name-only -- '*/*.txt'); do
-          slug="$(dirname "$txt")"
-          git add "$txt"
-          updated+=("$slug")
+        for txt in $(git diff --cached --name-only -- '*/*.txt'); do
+          updated+=("$(dirname "$txt")")
         done
 
         if [ ${#updated[@]} -eq 0 ]; then
