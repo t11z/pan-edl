@@ -20,7 +20,6 @@ debian.csail.mit.edu/
 debian.dynamica.it/
 debian.envisagecloud.net.za/
 debian.ethz.ch/
-debian.grena.ge/
 debian.grn.cat/
 debian.inf.tu-dresden.de/
 debian.interhost.co.il/
@@ -231,7 +230,6 @@ mirror.limda.net/
 mirror.linux.org.au/
 mirror.linux.ro/
 mirror.litnet.lt/
-mirror.lzu.edu.cn/
 mirror.maeen.sa/
 mirror.marwan.ma/
 mirror.mephi.ru/
