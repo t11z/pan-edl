@@ -1,27 +1,36 @@
 #!/usr/bin/env python3.12
-"""Generate the RubyGems domains EDL.
+"""Generate the RubyGems domains EDL by scraping the RubyGems guides.
 
-Hosts curated from the RubyGems vendor documentation:
-- https://rubygems.org/
-- https://guides.rubygems.org/
-- https://guides.rubygems.org/rubygems-org-api/  (canonical API endpoints)
+Source: https://guides.rubygems.org/rubygems-org-api/
+RubyGems.org's own guides — describes the public API endpoints
+served by rubygems.org and friends.
 """
 import sys
 
-from lib.edl_utils import EDLType, write_edl
+from bs4 import BeautifulSoup
+
+from lib.edl_utils import EDLType, fetch_html, write_edl
+from lib.scraping import extract_host_tokens, filter_hosts, find_anchor
 
 
+SOURCE_URL = 'https://guides.rubygems.org/rubygems-org-api/'
 OUTPUT_PATH = 'rubygems-domains/rubygems-domains.txt'
 
-HOSTS = [
+ALLOW_SUFFIXES = (
     'rubygems.org',
-    'index.rubygems.org',
-    'fastly.rubygems.org',
-]
+)
+
+
+def parse_rubygems_guides_page(html: str) -> list[str]:
+    soup = BeautifulSoup(html, 'html.parser')
+    article = find_anchor(soup, ['main', 'article', 'div#content', 'body'])
+    tokens = extract_host_tokens(article)
+    return filter_hosts(tokens, allow_suffixes=ALLOW_SUFFIXES)
 
 
 def main() -> None:
-    report = write_edl(HOSTS, OUTPUT_PATH, EDLType.URL_LIST, strict=True)
+    hosts = parse_rubygems_guides_page(fetch_html(SOURCE_URL))
+    report = write_edl(hosts, OUTPUT_PATH, EDLType.URL_LIST, strict=True, min_entries=2)
     print(report)
 
 

@@ -1,28 +1,41 @@
 #!/usr/bin/env python3.12
 """Generate the GitHub Container Registry domains EDL.
 
-Hosts curated from GitHub vendor documentation:
-- https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-container-registry
-- https://docs.github.com/en/actions/learn-github-actions/usage-limits-billing-and-administration#about-github-hosted-runners-networking
-- https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-githubs-ip-addresses
+Source: https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-container-registry
+GitHub's own container-registry docs. References ghcr.io and the
+container blob CDN hostnames inline.
 """
 import sys
 
-from lib.edl_utils import EDLType, write_edl
+from bs4 import BeautifulSoup
+
+from lib.edl_utils import EDLType, fetch_html, write_edl
+from lib.scraping import extract_host_tokens, filter_hosts, find_anchor
 
 
+SOURCE_URL = 'https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-container-registry'
 OUTPUT_PATH = 'ghcr-domains/ghcr-domains.txt'
 
-HOSTS = [
+ALLOW_SUFFIXES = (
     'ghcr.io',
-    '*.ghcr.io',
-    'pkg-containers.githubusercontent.com',
-    'pkg.github.com',
-]
+    'githubusercontent.com',
+    'github.com',
+)
+
+
+def parse_ghcr_docs_page(html: str) -> list[str]:
+    soup = BeautifulSoup(html, 'html.parser')
+    article = find_anchor(soup, ['article', 'main', 'div.article-body', 'body'])
+    tokens = extract_host_tokens(article)
+    hosts = filter_hosts(tokens, allow_suffixes=ALLOW_SUFFIXES)
+    # github.com proper is too broad for a container-registry EDL; only keep
+    # subdomains that are container/package related.
+    return [h for h in hosts if not (h == 'github.com' or h == 'www.github.com')]
 
 
 def main() -> None:
-    report = write_edl(HOSTS, OUTPUT_PATH, EDLType.URL_LIST, strict=True)
+    hosts = parse_ghcr_docs_page(fetch_html(SOURCE_URL))
+    report = write_edl(hosts, OUTPUT_PATH, EDLType.URL_LIST, strict=True, min_entries=1)
     print(report)
 
 

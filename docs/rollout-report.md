@@ -95,9 +95,44 @@ generator fails loudly and the existing `.txt` is preserved.
   successful changes have been pushed. Each failed generator is
   reported in the workflow log.
 
+## Batch A + B retrofit — static → dynamic scrapers
+
+All twelve generators from the original Batch A and B PRs are now real
+vendor-doc scrapers (using `lib/scraping.py`'s defensive helpers), not
+hardcoded constants. Each one scrapes a vendor-native page and filters
+the result through an allow-suffix list to reject unrelated example
+hostnames. The never-write-empty safety net keeps the published .txt
+unchanged when the scrape can't produce enough valid entries.
+
+| Slug | Source (vendor-native) |
+| --- | --- |
+| `pypi-domains` | pypi.org/help + pypi.org/simple/pip/ (binary-CDN reference) |
+| `npm-domains` | docs.npmjs.com/cli/v10/configuring-npm/npmrc |
+| `maven-central-domains` | central.sonatype.org/ |
+| `nuget-domains` | api.nuget.org/v3/index.json (clean JSON service index) |
+| `crates-io-domains` | doc.rust-lang.org/cargo/reference/registries.html |
+| `go-proxy-domains` | go.dev/ref/mod |
+| `rubygems-domains` | guides.rubygems.org/rubygems-org-api/ |
+| `quay-io-domains` | docs.projectquay.io/welcome.html |
+| `ghcr-domains` | docs.github.com/en/packages/.../working-with-the-container-registry |
+| `gcr-domains` | cloud.google.com/artifact-registry/docs/docker/authentication |
+| `mcr-microsoft-domains` | learn.microsoft.com/en-us/azure/container-registry/container-registry-firewall-access-rules |
+| `redhat-registry-domains` | access.redhat.com/RegistryAuthentication |
+
+## Auto-issue bot
+
+New workflow `.github/workflows/auto-issue.yml` + script
+`.github/scripts/auto_issue_bot.py`. After every hourly run that turns
+red, the bot downloads the per-slug stderr artifact, asks Claude to
+diagnose each failure, and files one GitHub issue per affected slug.
+Open issues for the same slug short-circuit — the bot raises problems
+once and lets humans take it from there.
+
+Requires repo secret `ANTHROPIC_API_KEY`. The hourly update workflow
+itself has no Claude dependency.
+
 ## Pending batches
 
 | Batch | Slug | Status | Notes |
 | --- | --- | --- | --- |
 | F | AnyDesk (CT-logs + DNS) | 🟡 pending | |
-| Retrofit | Batch A + B static lists → dynamic scrapers | 🟡 pending | Track separately |
