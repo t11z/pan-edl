@@ -67,12 +67,14 @@ Run locally with `PYTHONPATH=. python <slug>/<slug>.py`. Validator tests: `pytho
 
 ## Auto-issue bot
 
-The `.github/workflows/auto-issue.yml` workflow runs after every hourly update. When the update workflow turns red — for example because a vendor's documentation page changed structure and a scraper can no longer find its anchor — the bot:
+The `.github/workflows/auto-issue.yml` workflow runs after every hourly update and:
 
 1. Downloads the per-generator stderr artifact uploaded by the hourly job.
-2. Invokes the official [Claude Code GitHub Action](https://github.com/anthropics/claude-code-action) with a natural-language brief. Claude reads each failed generator's source code and captured error, diagnoses the root cause, and files an issue via `gh` CLI from inside the action.
+2. If at least one generator failed during that run, invokes the official [Claude Code GitHub Action](https://github.com/anthropics/claude-code-action) with a natural-language brief. Claude reads each failed generator's source code and captured error, diagnoses the root cause, and files an issue via `gh` CLI from inside the action.
 3. Issues are tagged `generator-failure`. If an open issue for the same slug already exists, the bot stays silent — humans investigate, the bot doesn't spam.
 
 This means the published `raw.githubusercontent.com/.../<slug>/<slug>.txt` URLs keep serving the last known-good list (the `write_edl` safety net refuses to truncate on empty parser output), while maintainers get a structured, actionable issue with proposed next steps within an hour of a regression.
 
-Required repo secret: **`CLAUDE_CODE_OAUTH_TOKEN`** (generate with `claude code setup-token` and add it under Settings → Secrets and variables → Actions). The hourly update workflow itself has no Claude dependency.
+The hourly workflow stays green even when individual generators fail — the per-list status badges in the table above are the per-slug signal, and the workflow itself only turns red when something CI-mechanical breaks (tests, git push, infra). Likewise the auto-issue workflow stays green if there's nothing to file or if `CLAUDE_CODE_OAUTH_TOKEN` isn't configured (a warning is logged instead).
+
+Required repo secret: **`CLAUDE_CODE_OAUTH_TOKEN`** (generate with `claude code setup-token` and add it under Settings → Secrets and variables → Actions). Without it the bot logs a warning and does nothing; the rest of the system keeps working.

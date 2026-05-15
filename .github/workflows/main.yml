@@ -91,36 +91,47 @@ jobs:
 
     - name: Commit and push changed EDL files
       run: |
-        # Stage all .txt files (covers both modified-tracked and new-untracked)
-        # plus the status badges. Generators that failed earlier left their
-        # .txt untouched, so they don't appear here and the last known-good
-        # content stays on main. The badge JSON for those slugs *does* appear
-        # in the diff when status flips between passing↔failing.
+        # Stage .txt outputs + the per-slug status badges. Generators that
+        # failed earlier left their .txt untouched, so they don't appear here
+        # and the last known-good content stays on main. Badge JSON files
+        # *do* change when a scraper flips passing↔failing even if the .txt
+        # is byte-stable — we detect that via .badges/ in the change list.
         git add -- '*/*.txt' .badges/
 
-        updated=()
+        updated_txt=()
         for txt in $(git diff --cached --name-only -- '*/*.txt'); do
-          updated+=("$(dirname "$txt")")
+          updated_txt+=("$(dirname "$txt")")
         done
+        badge_changes=$(git diff --cached --name-only -- '.badges/*.json' | wc -l)
 
-        if [ ${#updated[@]} -eq 0 ]; then
+        if [ ${#updated_txt[@]} -eq 0 ] && [ "$badge_changes" -eq 0 ]; then
           echo "No changes to commit"
           exit 0
         fi
 
-        msg="Update EDL: $(IFS=', '; echo "${updated[*]}")"
+        if [ ${#updated_txt[@]} -gt 0 ]; then
+          msg="Update EDL: $(IFS=', '; echo "${updated_txt[*]}")"
+        else
+          msg="Update EDL badges only ($badge_changes file(s))"
+        fi
+
         git commit -m "$msg"
         if ! git push -u origin "${GITHUB_REF_NAME}"; then
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push -u origin "${GITHUB_REF_NAME}"
         fi
 
-    - name: Fail workflow if any generator failed
+    - name: Summarise generator outcome
       if: always()
       run: |
+        # Individual generator failures don't fail the workflow: they're
+        # visible via the per-list status badges (red 'failing' for the
+        # affected slug), and the auto-issue workflow picks up the artifact
+        # and files an issue. The hourly workflow itself only goes red when
+        # something CI-mechanical breaks (tests, git push, infra).
         if [ -s .ci-artifacts/failed_generators.txt ]; then
-          echo "::error::Generators that failed this run (existing .txt preserved):"
+          echo "::warning::Generators that failed this run (existing .txt preserved, auto-issue will file an issue):"
           sed 's/^/  - /' .ci-artifacts/failed_generators.txt
-          exit 1
+        else
+          echo "All generators succeeded."
         fi
-        echo "All generators succeeded."

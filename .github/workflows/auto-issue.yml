@@ -1,12 +1,11 @@
 name: Auto-issue on generator failure
 
-# Triggers after the hourly update workflow finishes. When it concludes
-# with failure, we run the Claude Code GitHub Action with a natural-
-# language brief: read the failure artifact, diagnose each broken
-# generator from its source + captured stderr, and file one GitHub
-# issue per affected slug. Existing open issues for the same slug
-# short-circuit — the bot surfaces problems once, humans take it from
-# there.
+# Runs after every hourly update (regardless of conclusion) and downloads
+# the per-slug stderr artifact. If at least one generator failed AND the
+# CLAUDE_CODE_OAUTH_TOKEN secret is configured, the Claude Code GitHub
+# Action diagnoses each failure and files a GitHub issue. Missing
+# failures → quick clean exit. Missing secret → warning, clean exit.
+# This workflow only goes red on a real bot bug, never on configuration.
 
 on:
   workflow_run:
@@ -21,7 +20,6 @@ permissions:
 jobs:
   file-issue:
     runs-on: ubuntu-latest
-    if: ${{ github.event.workflow_run.conclusion == 'failure' }}
     steps:
     - uses: actions/checkout@v4
 
@@ -32,8 +30,36 @@ jobs:
         path: .failures
         run-id: ${{ github.event.workflow_run.id }}
         github-token: ${{ secrets.GITHUB_TOKEN }}
+      continue-on-error: true
+
+    - name: Check whether any generator failed
+      id: check_failures
+      run: |
+        if [ -s .failures/failed_generators.txt ]; then
+          echo "Detected failed generators in triggering run:"
+          sed 's/^/  - /' .failures/failed_generators.txt
+          echo "any_failures=true" >> "$GITHUB_OUTPUT"
+        else
+          echo "No failed generators in triggering run; nothing to do."
+          echo "any_failures=false" >> "$GITHUB_OUTPUT"
+        fi
+
+    - name: Check whether CLAUDE_CODE_OAUTH_TOKEN secret is set
+      id: check_token
+      if: steps.check_failures.outputs.any_failures == 'true'
+      env:
+        TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+      run: |
+        if [ -z "$TOKEN" ]; then
+          echo "::warning::CLAUDE_CODE_OAUTH_TOKEN is not configured for this repository. Skipping Claude Code action. Run 'claude code setup-token' and add the token under Settings → Secrets and variables → Actions to enable the auto-issue bot."
+          echo "token_set=false" >> "$GITHUB_OUTPUT"
+        else
+          echo "Token is configured; will invoke Claude Code action."
+          echo "token_set=true" >> "$GITHUB_OUTPUT"
+        fi
 
     - name: Ensure 'generator-failure' label exists
+      if: steps.check_failures.outputs.any_failures == 'true' && steps.check_token.outputs.token_set == 'true'
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
@@ -42,20 +68,23 @@ jobs:
           --color FF6B6B || true
 
     - name: Diagnose failures and file issues
+      if: steps.check_failures.outputs.any_failures == 'true' && steps.check_token.outputs.token_set == 'true'
       uses: anthropics/claude-code-action@v1
       with:
         claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
         github_token: ${{ secrets.GITHUB_TOKEN }}
         prompt: |
-          The hourly update workflow for this pan-edl repository just failed. The
-          `.failures/` directory contains the artifact uploaded by that run:
-          - `.failures/failed_generators.txt` — one slug per line, the generators
-            that failed this run.
+          The hourly update workflow for this pan-edl repository just ran and
+          at least one generator failed. The `.failures/` directory contains
+          the artifact uploaded by that run:
+          - `.failures/failed_generators.txt` — one slug per line, the
+            generators that failed this run.
           - `.failures/generator-logs/<slug>.err` — captured stderr for each
             failed generator.
 
-          Your task: for every slug in `failed_generators.txt`, decide whether to
-          file a GitHub issue, and do so when warranted. Be careful and concise.
+          Your task: for every slug in `failed_generators.txt`, decide whether
+          to file a GitHub issue, and do so when warranted. Be careful and
+          concise.
 
           Steps for each slug:
 
@@ -64,35 +93,36 @@ jobs:
              and look for any title starting with "Generator failed: <slug>".
              The bot is here to surface problems, not to spam.
 
-          2. Otherwise, read the generator script at `<slug>/<slug>.py` (look at
-             SOURCE_URL, the parse_* function, ALLOW_SUFFIXES) and the captured
-             error at `.failures/generator-logs/<slug>.err`. The library being
-             used is `lib/scraping.py` (defensive helpers) and `lib/edl_utils.py`
-             (write_edl with min_entries safety net).
+          2. Otherwise, read the generator script at `<slug>/<slug>.py` (look
+             at SOURCE_URL, the parse_* function, ALLOW_SUFFIXES) and the
+             captured error at `.failures/generator-logs/<slug>.err`. The
+             library is `lib/scraping.py` (defensive helpers) and
+             `lib/edl_utils.py` (write_edl with min_entries safety net).
 
-          3. Diagnose the most plausible root cause. The common ones are:
-             - PageStructureError → anchor selectors no longer match the vendor's
-               HTML (vendor renamed a class, moved content).
-             - EmptyEDLError → the parser ran but found fewer than `min_entries`
-               valid hosts. Either ALLOW_SUFFIXES is too narrow, or the vendor
-               page reorganised and the relevant section moved out of the anchor.
-             - Network / HTTPError → vendor moved the URL, or transient outage.
-             - Validation errors → a host with an unexpected shape leaked through.
+          3. Diagnose the most plausible root cause. Common cases:
+             - PageStructureError → anchor selectors no longer match the
+               vendor's HTML.
+             - EmptyEDLError → parser ran but found fewer than `min_entries`
+               valid hosts. Either ALLOW_SUFFIXES is too narrow or the page
+               reorganised and the relevant section moved out of the anchor.
+             - Network / HTTPError → vendor moved the URL or transient outage.
+             - Validation errors → a host with an unexpected shape leaked
+               through.
 
           4. File one issue per slug. Use:
              `gh issue create --label generator-failure --title "..." --body "..."`
              - Title: `Generator failed: <slug> — <short cause>`
              - Body: markdown, under 250 words. Include (a) the most plausible
                root cause in one paragraph, (b) what to check first (specific
-               anchor selectors / ALLOW_SUFFIXES / the SOURCE_URL response), and
-               (c) one suggested next step. Embed the captured stderr verbatim
-               in a fenced code block. End with a footer line:
+               anchor selectors / ALLOW_SUFFIXES / the SOURCE_URL response),
+               and (c) one suggested next step. Embed the captured stderr
+               verbatim in a fenced code block. End with a footer line:
                `_Filed automatically by the auto-issue workflow._`
 
-          Do not modify any code in the repository. Your only side effect is the
-          `gh issue create` call per warranted failure.
+          Do not modify any code in the repository. Your only side effect is
+          the `gh issue create` call per warranted failure.
 
-          When you have processed every slug, print a one-line summary of what
-          you did and exit.
+          When you have processed every slug, print a one-line summary of
+          what you did and exit.
         claude_args: |
           --max-turns 40
