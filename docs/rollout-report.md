@@ -34,11 +34,20 @@ or removing a host is reflected via a PR to the generator script.
 The Tor lists are dynamic because the Tor Project publishes the data
 machine-readably (bulk exit list + Onionoo JSON API).
 
+## Batch B — Container registries
+
+| Slug | Status | Source | EDL Type | Size | Notes |
+| --- | --- | --- | --- | --- | --- |
+| `quay-io-domains` | ✅ merged | docs.quay.io, access.redhat.com/articles/2477561 | URL List | 6 entries | Static, vendor-cited |
+| `ghcr-domains` | ✅ merged | docs.github.com (container registry docs) | URL List | 4 entries | Static, vendor-cited |
+| `gcr-domains` | ✅ merged | cloud.google.com/container-registry, /artifact-registry | URL List | 9 entries | Static, includes Artifact Registry |
+| `mcr-microsoft-domains` | ✅ merged | learn.microsoft.com (azure/container-registry firewall doc) | URL List | 2 entries | Static, vendor-cited |
+| `redhat-registry-domains` | ✅ merged | access.redhat.com/RegistryAuthentication, /articles/2208611 | URL List | 7 entries | Static, vendor-cited |
+
 ## Pending batches
 
 | Batch | Slug | Status | Notes |
 | --- | --- | --- | --- |
-| B | Container registries (quay, ghcr, gcr, mcr, redhat) | 🟡 pending | |
 | C | Linux distros (rocky, alma, fedora, opensuse, alpine, arch, kali) | 🟡 pending | |
 | D | JDK / dev tools (adoptium, azul, corretto, jetbrains, vscode) | 🟡 pending | |
 | E | Browser/update CDNs (mozilla, chrome, edge) | 🟡 pending | |

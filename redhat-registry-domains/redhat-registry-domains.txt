@@ -1,0 +1,7 @@
+access.redhat.com/
+catalog.redhat.com/
+cdn.registry.redhat.io/
+registry.access.redhat.com/
+registry.connect.redhat.com/
+registry.redhat.io/
+sso.redhat.com/

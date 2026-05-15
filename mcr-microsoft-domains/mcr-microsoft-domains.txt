@@ -1,0 +1,2 @@
+*.data.mcr.microsoft.com/
+mcr.microsoft.com/
