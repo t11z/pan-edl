@@ -20,3 +20,15 @@ External Dynamic Lists that can be consumed by Palo Alto Networks firewalls
 | Debian Mirrors | List of all official Debian repository mirrors | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/debian-mirrors/debian-mirrors.txt |
 | Ubuntu Mirrors | List of all official Ubuntu repository mirrors | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/ubuntu-mirrors/ubuntu-mirrors.txt |
 | Docker URLs | List of all URLs used in Docker Engine and Docker Desktop | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/docker-domains/docker-domains.txt |
+
+## Contributing a new list
+
+Each EDL has its own directory at the repo root, containing a generator script and the produced `.txt` file. The hourly GitHub Actions workflow auto-discovers every `*/<dir>.py` script under the repo root, so adding a new list means: create a directory, drop in a generator, list it in the table above.
+
+A generator must:
+
+1. Source data only from vendor-native or authoritative public infrastructure (vendor docs/APIs, Certificate Transparency logs, RIR databases, DNS). Third-party aggregators and community-maintained lists are not accepted.
+2. Use `lib.edl_utils.write_edl(entries, path, EDLType.<TYPE>)` to produce the output. Validation against PAN-OS EDL formatting rules happens there.
+3. Live at `<slug>/<slug>.py` and write to `<slug>/<slug>.txt`.
+
+Run locally with `PYTHONPATH=. python <slug>/<slug>.py`. Validator tests: `python -m pytest tests/`.

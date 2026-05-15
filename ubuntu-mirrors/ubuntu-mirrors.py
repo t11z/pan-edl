@@ -1,39 +1,40 @@
 #!/usr/bin/env python3.12
+"""Generate the Ubuntu mirrors EDL from Launchpad's archive mirror list."""
 import sys
-import requests
-from bs4 import BeautifulSoup
 from urllib.parse import urlparse
-sys.path.insert(0, '.')
-from lib.edl_utils import write_edl
 
-url = 'https://launchpad.net/ubuntu/+archivemirrors'
+from bs4 import BeautifulSoup
 
-try:
-    response = requests.get(url, headers={'User-Agent': 'pan-edl/1.0 (github.com/t11z/pan-edl)'})
-    response.raise_for_status()
-except (requests.exceptions.RequestException, requests.exceptions.HTTPError) as err:
-    print(f"An error occurred while trying to fetch data: {err}")
-    sys.exit(1)
+from lib.edl_utils import EDLType, fetch_html, write_edl
 
-try:
-    soup = BeautifulSoup(response.text, 'html.parser')
-    tables = soup.find_all('table', attrs={'id': 'mirrors_list'})
 
-    domains = []
-    domains.append("archive.ubuntu.com")
-    domains.append("*.archive.ubuntu.com")
-    domains.append("security.ubuntu.com")
+SOURCE_URL = 'https://launchpad.net/ubuntu/+archivemirrors'
+OUTPUT_PATH = 'ubuntu-mirrors/ubuntu-mirrors.txt'
 
-    for table in tables:
-        links = table.find_all('a')
-        for link in links:
+
+def main() -> None:
+    soup = BeautifulSoup(fetch_html(SOURCE_URL), 'html.parser')
+
+    domains: list[str] = [
+        'archive.ubuntu.com',
+        '*.archive.ubuntu.com',
+        'security.ubuntu.com',
+    ]
+    for table in soup.find_all('table', attrs={'id': 'mirrors_list'}):
+        for link in table.find_all('a'):
             href = link.get('href')
             if href:
-                domain = urlparse(href).netloc
-                if domain:
-                    domains.append(domain)
+                netloc = urlparse(href).netloc
+                if netloc:
+                    domains.append(netloc)
 
-    write_edl(domains, 'ubuntu-mirrors/ubuntu-mirrors.txt')
-except Exception as err:
-    print(f"An error occurred while parsing the data: {err}")
-    sys.exit(1)
+    report = write_edl(domains, OUTPUT_PATH, EDLType.URL_LIST)
+    print(report)
+
+
+if __name__ == '__main__':
+    try:
+        main()
+    except Exception as exc:
+        print(f"error: {exc}", file=sys.stderr)
+        sys.exit(1)

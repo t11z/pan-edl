@@ -7,50 +7,64 @@ on:
 jobs:
   update-edls:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
     - uses: actions/checkout@v4
+
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
         python-version: '3.12'
+
     - name: Install dependencies
-      run: pip install requests beautifulsoup4
+      run: pip install -r requirements.txt pytest
+
+    - name: Run validator test suite
+      run: python -m pytest tests/
+
     - name: Configure git
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-    - name: Run Debian mirrors script
-      run: python debian-mirrors/debian-mirrors.py
-    - name: Run Ubuntu mirrors script
-      run: python ubuntu-mirrors/ubuntu-mirrors.py
-    - name: Run Docker domains script
-      run: python docker-domains/docker-domains.py
+
+    - name: Run all EDL generators
+      run: |
+        export PYTHONPATH=.
+        failed=()
+        for dir in */; do
+          slug="${dir%/}"
+          script="${dir}${slug}.py"
+          if [ -f "$script" ]; then
+            echo "::group::Running $script"
+            if ! python "$script"; then
+              failed+=("$slug")
+            fi
+            echo "::endgroup::"
+          fi
+        done
+        if [ ${#failed[@]} -gt 0 ]; then
+          echo "::error::Generators failed: ${failed[*]}"
+          exit 1
+        fi
+
     - name: Commit and push changed EDL files
       run: |
         updated=()
-
-        if ! git diff --exit-code -- debian-mirrors/debian-mirrors.txt > /dev/null 2>&1; then
-          git add debian-mirrors/debian-mirrors.txt
-          updated+=("Debian mirrors")
-        fi
-
-        if ! git diff --exit-code -- ubuntu-mirrors/ubuntu-mirrors.txt > /dev/null 2>&1; then
-          git add ubuntu-mirrors/ubuntu-mirrors.txt
-          updated+=("Ubuntu mirrors")
-        fi
-
-        if ! git diff --exit-code -- docker-domains/docker-domains.txt > /dev/null 2>&1; then
-          git add docker-domains/docker-domains.txt
-          updated+=("Docker domains")
-        fi
+        for txt in $(git diff --name-only -- '*/*.txt'); do
+          slug="$(dirname "$txt")"
+          git add "$txt"
+          updated+=("$slug")
+        done
 
         if [ ${#updated[@]} -eq 0 ]; then
           echo "No changes to commit"
-        else
-          msg="Update EDL: $(IFS=', '; echo "${updated[*]}")"
-          git commit -m "$msg"
-          if ! git push -u origin main; then
-            git pull --rebase origin main
-            git push -u origin main
-          fi
+          exit 0
+        fi
+
+        msg="Update EDL: $(IFS=', '; echo "${updated[*]}")"
+        git commit -m "$msg"
+        if ! git push -u origin "${GITHUB_REF_NAME}"; then
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push -u origin "${GITHUB_REF_NAME}"
         fi

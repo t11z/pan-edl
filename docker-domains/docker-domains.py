@@ -1,39 +1,47 @@
 #!/usr/bin/env python3.12
+"""Generate the Docker domains EDL from the official Docker Desktop allow-list."""
 import sys
-import requests
-from bs4 import BeautifulSoup
 from urllib.parse import urlparse
-sys.path.insert(0, '.')
-from lib.edl_utils import write_edl
 
-url = 'https://docs.docker.com/desktop/allow-list/'
+from bs4 import BeautifulSoup
 
-try:
-    response = requests.get(url, headers={'User-Agent': 'pan-edl/1.0 (github.com/t11z/pan-edl)'})
-    response.raise_for_status()
-except (requests.exceptions.RequestException, requests.exceptions.HTTPError) as err:
-    print(f"An error occurred while trying to fetch data: {err}")
-    sys.exit(1)
+from lib.edl_utils import EDLType, fetch_html, write_edl
 
-try:
-    soup = BeautifulSoup(response.text, 'html.parser')
+
+SOURCE_URL = 'https://docs.docker.com/desktop/allow-list/'
+OUTPUT_PATH = 'docker-domains/docker-domains.txt'
+
+
+def main() -> None:
+    soup = BeautifulSoup(fetch_html(SOURCE_URL), 'html.parser')
+
+    domains: list[str] = ['download.docker.com']
     h2 = soup.find('h2', attrs={'id': 'domain-urls-to-allow'})
+    if h2 is None:
+        raise RuntimeError("expected section 'domain-urls-to-allow' not found in source")
+
     div = h2.find_next('div', class_='overflow-x-auto')
+    if div is None:
+        raise RuntimeError("expected overflow-x-auto div not found in source")
 
-    domains = []
-    domains.append("download.docker.com")
+    table = div.find('table')
+    if table is None:
+        raise RuntimeError("expected table not found inside overflow-x-auto div")
 
-    if div:
-        table = div.find('table')
-        if table:
-            links = table.find_all('a')
-            for link in links:
-                href = link.get('href')
-                if href:
-                    domain = urlparse(href).netloc
-                    domains.append(domain)
+    for link in table.find_all('a'):
+        href = link.get('href')
+        if href:
+            netloc = urlparse(href).netloc
+            if netloc:
+                domains.append(netloc)
 
-    write_edl(domains, 'docker-domains/docker-domains.txt')
-except AttributeError as e:
-    print(f"An error occurred while parsing the HTML: {e}")
-    sys.exit(1)
+    report = write_edl(domains, OUTPUT_PATH, EDLType.URL_LIST)
+    print(report)
+
+
+if __name__ == '__main__':
+    try:
+        main()
+    except Exception as exc:
+        print(f"error: {exc}", file=sys.stderr)
+        sys.exit(1)

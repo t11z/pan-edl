@@ -1,38 +1,36 @@
 #!/usr/bin/env python3.12
+"""Generate the Debian mirrors EDL from the official mirror list."""
 import sys
-import requests
-from bs4 import BeautifulSoup
 from urllib.parse import urlparse
-sys.path.insert(0, '.')
-from lib.edl_utils import write_edl
 
-url = 'https://www.debian.org/mirror/list'
+from bs4 import BeautifulSoup
 
-try:
-    response = requests.get(url, headers={'User-Agent': 'pan-edl/1.0 (github.com/t11z/pan-edl)'})
-    response.raise_for_status()
-except (requests.exceptions.RequestException, requests.exceptions.HTTPError) as err:
-    print(f"An error occurred while trying to fetch data: {err}")
-    sys.exit(1)
+from lib.edl_utils import EDLType, fetch_html, write_edl
 
-try:
-    soup = BeautifulSoup(response.text, 'html.parser')
-    tables = soup.find_all('table')
 
-    domains = []
-    domains.append("deb.debian.org")
-    domains.append("security.debian.org")
+SOURCE_URL = 'https://www.debian.org/mirror/list'
+OUTPUT_PATH = 'debian-mirrors/debian-mirrors.txt'
 
-    for table in tables:
-        links = table.find_all('a')
-        for link in links:
+
+def main() -> None:
+    soup = BeautifulSoup(fetch_html(SOURCE_URL), 'html.parser')
+
+    domains: list[str] = ['deb.debian.org', 'security.debian.org']
+    for table in soup.find_all('table'):
+        for link in table.find_all('a'):
             href = link.get('href')
             if href:
-                domain = urlparse(href).netloc
-                if domain:
-                    domains.append(domain)
+                netloc = urlparse(href).netloc
+                if netloc:
+                    domains.append(netloc)
 
-    write_edl(domains, 'debian-mirrors/debian-mirrors.txt')
-except Exception as err:
-    print(f"An error occurred while parsing the data: {err}")
-    sys.exit(1)
+    report = write_edl(domains, OUTPUT_PATH, EDLType.URL_LIST)
+    print(report)
+
+
+if __name__ == '__main__':
+    try:
+        main()
+    except Exception as exc:
+        print(f"error: {exc}", file=sys.stderr)
+        sys.exit(1)
