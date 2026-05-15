@@ -39,12 +39,23 @@ def _format_entry(entry: str, edl_type: EDLType) -> str:
     return entry
 
 
+class EmptyEDLError(RuntimeError):
+    """Raised when write_edl would write fewer than min_entries.
+
+    Refusing the write protects users: the last known-good output stays
+    on disk so the published EDL URL keeps serving a usable list even
+    when a vendor's documentation page changes structure and the parser
+    suddenly produces nothing.
+    """
+
+
 def write_edl(
     entries: Iterable[str],
     filepath: str,
     edl_type: EDLType,
     *,
     strict: bool = False,
+    min_entries: int = 1,
 ) -> WriteReport:
     """Deduplicate, validate, sort and write EDL entries to a file.
 
@@ -57,6 +68,9 @@ def write_edl(
         edl_type: PAN-OS EDL type, governs validation and formatting.
         strict: if True, raise on any invalid entry; if False, skip invalid
                 entries silently (reported in the returned WriteReport).
+        min_entries: refuse to overwrite the file if fewer than this many
+                valid entries remain after validation. Existing file is
+                left untouched. Default 1 — i.e. never write empty.
     """
     validator = VALIDATORS[edl_type.value]
     unique = sorted({e.strip() for e in entries if e and e.strip()})
@@ -72,6 +86,13 @@ def write_edl(
             if strict:
                 raise ValueError(f"Invalid {edl_type.value} entry: {err.entry!r} ({err.reason})")
 
+    if len(valid) < min_entries:
+        raise EmptyEDLError(
+            f"refusing to write {filepath}: produced {len(valid)} valid entries "
+            f"(min_entries={min_entries}). Existing file preserved. "
+            f"Likely cause: source page structure changed or vendor endpoint moved."
+        )
+
     with open(filepath, 'w', encoding='utf-8', newline='') as f:
         for entry in valid:
             f.write(_format_entry(entry, edl_type) + '\n')
@@ -85,4 +106,4 @@ def write_edl(
     )
 
 
-__all__ = ['EDLType', 'WriteReport', 'write_edl', 'fetch_html', 'fetch_json']
+__all__ = ['EDLType', 'WriteReport', 'EmptyEDLError', 'write_edl', 'fetch_html', 'fetch_json']

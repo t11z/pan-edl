@@ -41,6 +41,14 @@ External Dynamic Lists that can be consumed by Palo Alto Networks firewalls
 | Alpine Linux Mirrors | List of official Alpine Linux repository mirrors | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/alpine-mirrors/alpine-mirrors.txt |
 | Arch Linux Mirrors | List of official Arch Linux repository mirrors | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/arch-mirrors/arch-mirrors.txt |
 | Kali Linux Mirrors | List of official Kali Linux repository mirrors | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/kali-mirrors/kali-mirrors.txt |
+| JetBrains Domains | Endpoints required by JetBrains IDEs (firewall allow-list) | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/jetbrains-domains/jetbrains-domains.txt |
+| VS Code Domains | Endpoints required by Visual Studio Code | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/vscode-domains/vscode-domains.txt |
+| Azul Domains | Endpoints for Azul Zulu / Platform JDK downloads | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/azul-domains/azul-domains.txt |
+| Adoptium Domains | Endpoints for Eclipse Adoptium (Temurin) JDK | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/adoptium-domains/adoptium-domains.txt |
+| Corretto Domains | Endpoints for Amazon Corretto JDK | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/corretto-domains/corretto-domains.txt |
+| Mozilla Update Domains | Endpoints for Firefox / Thunderbird updates and services | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/mozilla-update-domains/mozilla-update-domains.txt |
+| Chrome Update Domains | Endpoints for Google Chrome updates and Chrome Enterprise | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/chrome-update-domains/chrome-update-domains.txt |
+| Edge Update Domains | Endpoints for Microsoft Edge updates and services | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/edge-update-domains/edge-update-domains.txt |
 
 ## Contributing a new list
 
