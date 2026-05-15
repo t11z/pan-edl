@@ -121,15 +121,17 @@ unchanged when the scrape can't produce enough valid entries.
 
 ## Auto-issue bot
 
-New workflow `.github/workflows/auto-issue.yml` + script
-`.github/scripts/auto_issue_bot.py`. After every hourly run that turns
-red, the bot downloads the per-slug stderr artifact, asks Claude to
-diagnose each failure, and files one GitHub issue per affected slug.
-Open issues for the same slug short-circuit — the bot raises problems
-once and lets humans take it from there.
+Workflow `.github/workflows/auto-issue.yml`. After every hourly run that
+turns red, the official **Claude Code GitHub Action** runs with a
+natural-language brief: read the per-slug stderr artifact, diagnose
+each failure based on the generator source, and file one GitHub issue
+per affected slug. Open issues for the same slug short-circuit — the
+bot raises problems once and lets humans take it from there.
 
-Requires repo secret `ANTHROPIC_API_KEY`. The hourly update workflow
-itself has no Claude dependency.
+Requires repo secret `CLAUDE_CODE_OAUTH_TOKEN`. Generate with
+`claude code setup-token` and store under Settings → Secrets and
+variables → Actions. The hourly update workflow itself has no Claude
+dependency.
 
 ## Pending batches
 
