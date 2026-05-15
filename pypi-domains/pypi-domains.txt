@@ -1,0 +1,4 @@
+docs.pypi.org/
+files.pythonhosted.org/
+pypi.org/
+test.pypi.org/

@@ -20,6 +20,15 @@ External Dynamic Lists that can be consumed by Palo Alto Networks firewalls
 | Debian Mirrors | List of all official Debian repository mirrors | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/debian-mirrors/debian-mirrors.txt |
 | Ubuntu Mirrors | List of all official Ubuntu repository mirrors | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/ubuntu-mirrors/ubuntu-mirrors.txt |
 | Docker URLs | List of all URLs used in Docker Engine and Docker Desktop | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/docker-domains/docker-domains.txt |
+| PyPI Domains | Endpoints for installing Python packages via pip | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/pypi-domains/pypi-domains.txt |
+| npm Domains | Endpoints for the npm registry and CLI | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/npm-domains/npm-domains.txt |
+| Maven Central Domains | Endpoints for Maven Central (Apache Maven / Sonatype) | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/maven-central-domains/maven-central-domains.txt |
+| NuGet Domains | Endpoints for the NuGet package registry | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/nuget-domains/nuget-domains.txt |
+| crates.io Domains | Endpoints for the Rust crates.io registry | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/crates-io-domains/crates-io-domains.txt |
+| Go Proxy Domains | Endpoints for the official Go module proxy and checksum DB | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/go-proxy-domains/go-proxy-domains.txt |
+| RubyGems Domains | Endpoints for the RubyGems registry | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/rubygems-domains/rubygems-domains.txt |
+| Tor Exit Nodes | Exit-relay IPs from the Tor Project bulk exit list (deny use case) | IP List | https://raw.githubusercontent.com/t11z/pan-edl/main/tor-exit-nodes/tor-exit-nodes.txt |
+| Tor Relays | All running Tor relay IPs from the Tor Project Onionoo API | IP List | https://raw.githubusercontent.com/t11z/pan-edl/main/tor-relays/tor-relays.txt |
 
 ## Contributing a new list
 
