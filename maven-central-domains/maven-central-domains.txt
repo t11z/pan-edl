@@ -1,6 +1,5 @@
-central.sonatype.com/
-central.sonatype.org/
-repo.maven.apache.org/
-repo1.maven.org/
-repo2.maven.org/
+issues.sonatype.org/
+repository.sonatype.org/
 search.maven.org/
+secure.central.sonatype.com/
+www.sonatype.com/

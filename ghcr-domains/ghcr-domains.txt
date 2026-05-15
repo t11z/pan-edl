@@ -1,4 +1,1 @@
-*.ghcr.io/
 ghcr.io/
-pkg-containers.githubusercontent.com/
-pkg.github.com/

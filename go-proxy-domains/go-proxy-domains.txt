@@ -1,5 +1,4 @@
-go.dev/
 golang.org/
-index.golang.org/
+pkg.go.dev/
 proxy.golang.org/
 sum.golang.org/

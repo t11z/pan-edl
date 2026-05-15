@@ -1,9 +1,3 @@
-*.pkg.dev/
-asia.gcr.io/
-eu.gcr.io/
-gcr.io/
-k8s.gcr.io/
-marketplace.gcr.io/
-registry.k8s.io/
-storage.googleapis.com/
-us.gcr.io/
+asia-northeast1-docker.pkg.dev/
+docker.pkg.dev/
+us-west1-docker.pkg.dev/

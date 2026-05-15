@@ -1,0 +1,8 @@
+adoptium-domains
+alpine-mirrors
+azul-domains
+crates-io-domains
+jetbrains-domains
+mozilla-update-domains
+opensuse-mirrors
+rubygems-domains

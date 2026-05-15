@@ -1,2 +1,5 @@
-*.data.mcr.microsoft.com/
-mcr.microsoft.com/
+azurecr.io/
+data.azurecr.io/
+myregistry.azurecr.io/
+myregistry.eastus.data.azurecr.io/
+myregistry.westus.data.azurecr.io/

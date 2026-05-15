@@ -1,4 +1,3 @@
 npmjs.com/
-registry.npmjs.com/
 registry.npmjs.org/
-www.npmjs.com/
+status.npmjs.com/
