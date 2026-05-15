@@ -34,6 +34,13 @@ External Dynamic Lists that can be consumed by Palo Alto Networks firewalls
 | GCR Domains | Endpoints for Google Container Registry and Artifact Registry | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/gcr-domains/gcr-domains.txt |
 | MCR Domains | Endpoints for Microsoft Container Registry | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/mcr-microsoft-domains/mcr-microsoft-domains.txt |
 | Red Hat Registry Domains | Endpoints for the Red Hat container registries | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/redhat-registry-domains/redhat-registry-domains.txt |
+| Rocky Linux Mirrors | List of official Rocky Linux repository mirrors | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/rocky-linux-mirrors/rocky-linux-mirrors.txt |
+| AlmaLinux Mirrors | List of official AlmaLinux repository mirrors | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/almalinux-mirrors/almalinux-mirrors.txt |
+| Fedora Mirrors | List of official Fedora repository mirrors | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/fedora-mirrors/fedora-mirrors.txt |
+| openSUSE Mirrors | List of official openSUSE repository mirrors | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/opensuse-mirrors/opensuse-mirrors.txt |
+| Alpine Linux Mirrors | List of official Alpine Linux repository mirrors | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/alpine-mirrors/alpine-mirrors.txt |
+| Arch Linux Mirrors | List of official Arch Linux repository mirrors | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/arch-mirrors/arch-mirrors.txt |
+| Kali Linux Mirrors | List of official Kali Linux repository mirrors | URL List | https://raw.githubusercontent.com/t11z/pan-edl/main/kali-mirrors/kali-mirrors.txt |
 
 ## Contributing a new list
 

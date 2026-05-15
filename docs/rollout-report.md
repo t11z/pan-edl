@@ -44,11 +44,25 @@ machine-readably (bulk exit list + Onionoo JSON API).
 | `mcr-microsoft-domains` | ✅ merged | learn.microsoft.com (azure/container-registry firewall doc) | URL List | 2 entries | Static, vendor-cited |
 | `redhat-registry-domains` | ✅ merged | access.redhat.com/RegistryAuthentication, /articles/2208611 | URL List | 7 entries | Static, vendor-cited |
 
+## Batch C — Linux distro mirrors
+
+All dynamic — each generator scrapes the distro project's own mirror list
+endpoint and writes a fresh `.txt` every hour.
+
+| Slug | Status | Source | EDL Type | Notes |
+| --- | --- | --- | --- | --- |
+| `arch-mirrors` | ✅ merged | archlinux.org/mirrors/status/json/ | URL List | JSON API (machine-readable) |
+| `alpine-mirrors` | ✅ merged | mirrors.alpinelinux.org/MIRRORS.txt | URL List | Plain text |
+| `kali-mirrors` | ✅ merged | http.kali.org/README.mirrorlist | URL List | Plain text |
+| `rocky-linux-mirrors` | ✅ merged | mirrors.rockylinux.org/mirrormanager/mirrors | URL List | HTML scrape |
+| `almalinux-mirrors` | ✅ merged | mirrors.almalinux.org/ | URL List | HTML scrape |
+| `fedora-mirrors` | ✅ merged | mirrors.fedoraproject.org/publiclist/ | URL List | HTML scrape, follows release subpages |
+| `opensuse-mirrors` | ✅ merged | mirrors.opensuse.org/list/all.html | URL List | HTML scrape |
+
 ## Pending batches
 
 | Batch | Slug | Status | Notes |
 | --- | --- | --- | --- |
-| C | Linux distros (rocky, alma, fedora, opensuse, alpine, arch, kali) | 🟡 pending | |
 | D | JDK / dev tools (adoptium, azul, corretto, jetbrains, vscode) | 🟡 pending | |
 | E | Browser/update CDNs (mozilla, chrome, edge) | 🟡 pending | |
 | F | AnyDesk (CT-logs + DNS) | 🟡 pending | |
