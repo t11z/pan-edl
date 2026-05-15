@@ -59,10 +59,45 @@ endpoint and writes a fresh `.txt` every hour.
 | `fedora-mirrors` | ✅ merged | mirrors.fedoraproject.org/publiclist/ | URL List | HTML scrape, follows release subpages |
 | `opensuse-mirrors` | ✅ merged | mirrors.opensuse.org/list/all.html | URL List | HTML scrape |
 
+## Batch D — JDK / dev tools
+
+All dynamic scrapers using `lib/scraping.py` (anchor-based parsing with
+vendor-domain allow-list filter). On vendor page structure change the
+generator fails loudly and the existing `.txt` is preserved.
+
+| Slug | Status | Source | EDL Type | Notes |
+| --- | --- | --- | --- | --- |
+| `jetbrains-domains` | ✅ merged | intellij-support.jetbrains.com/.../360001214939 | URL List | Official JetBrains firewall allow-list article |
+| `vscode-domains` | ✅ merged | code.visualstudio.com/docs/setup/network | URL List | Microsoft network-config docs |
+| `azul-domains` | ✅ merged | docs.azul.com/core/getting-started | URL List | Azul Zulu install docs |
+| `adoptium-domains` | ✅ merged | adoptium.net/installation/ | URL List | Eclipse Adoptium install docs |
+| `corretto-domains` | ✅ merged | docs.aws.amazon.com/corretto/.../downloads-list.html | URL List | AWS Corretto downloads list |
+
+## Batch E — Browser / update CDNs
+
+| Slug | Status | Source | EDL Type | Notes |
+| --- | --- | --- | --- | --- |
+| `mozilla-update-domains` | ✅ merged | support.mozilla.org/.../configure-firewalls-... | URL List | Official Firefox firewall KB |
+| `chrome-update-domains` | ✅ merged | support.google.com/chrome/a/answer/6350036 | URL List | Chrome Enterprise admin help |
+| `edge-update-domains` | ✅ merged | learn.microsoft.com/deployedge/microsoft-edge-security-endpoints | URL List | Microsoft Edge security endpoints |
+
+## Library improvements (this batch)
+
+- `write_edl` now refuses to write fewer than `min_entries` (default 1).
+  When a parser produces an empty result the last known-good `.txt` is
+  preserved on disk. This guarantees published EDL URLs never serve an
+  empty file even when a vendor page changes structure.
+- New `lib/scraping.py` with defensive helpers: anchor selectors with
+  fallbacks, hostname-token extraction from DOM subtrees, and an
+  allow-suffix filter to reject unrelated example hostnames.
+- Workflow split: individual generator failures no longer block commits
+  from successful generators; the workflow turns red only after all
+  successful changes have been pushed. Each failed generator is
+  reported in the workflow log.
+
 ## Pending batches
 
 | Batch | Slug | Status | Notes |
 | --- | --- | --- | --- |
-| D | JDK / dev tools (adoptium, azul, corretto, jetbrains, vscode) | 🟡 pending | |
-| E | Browser/update CDNs (mozilla, chrome, edge) | 🟡 pending | |
 | F | AnyDesk (CT-logs + DNS) | 🟡 pending | |
+| Retrofit | Batch A + B static lists → dynamic scrapers | 🟡 pending | Track separately |
