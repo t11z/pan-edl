@@ -1,45 +1,98 @@
 name: Auto-issue on generator failure
 
 # Triggers after the hourly update workflow finishes. When it concludes
-# with failure, this job downloads the per-slug stderr artifact, asks
-# Claude to diagnose each failure, and files one GitHub issue per
-# affected generator. Existing open issues for the same slug are left
-# alone (the bot surfaces problems, it does not spam).
+# with failure, we run the Claude Code GitHub Action with a natural-
+# language brief: read the failure artifact, diagnose each broken
+# generator from its source + captured stderr, and file one GitHub
+# issue per affected slug. Existing open issues for the same slug
+# short-circuit — the bot surfaces problems once, humans take it from
+# there.
 
 on:
   workflow_run:
     workflows: ["Hourly update"]
     types: [completed]
 
+permissions:
+  contents: read
+  issues: write
+  actions: read
+
 jobs:
   file-issue:
     runs-on: ubuntu-latest
     if: ${{ github.event.workflow_run.conclusion == 'failure' }}
-    permissions:
-      contents: read
-      issues: write
-      actions: read
     steps:
     - uses: actions/checkout@v4
-
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.12'
-
-    - name: Install bot dependencies
-      run: pip install 'anthropic>=0.40,<1.0'
 
     - name: Download failure artifact from triggering run
       uses: actions/download-artifact@v4
       with:
         name: generator-failures
-        path: /tmp/failures
+        path: .failures
         run-id: ${{ github.event.workflow_run.id }}
         github-token: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: Diagnose failures and file issues
+    - name: Ensure 'generator-failure' label exists
       env:
-        ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: python .github/scripts/auto_issue_bot.py /tmp/failures
+      run: |
+        gh label create generator-failure \
+          --description "Auto-filed by the EDL generator failure bot" \
+          --color FF6B6B || true
+
+    - name: Diagnose failures and file issues
+      uses: anthropics/claude-code-action@v1
+      with:
+        claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        prompt: |
+          The hourly update workflow for this pan-edl repository just failed. The
+          `.failures/` directory contains the artifact uploaded by that run:
+          - `.failures/failed_generators.txt` — one slug per line, the generators
+            that failed this run.
+          - `.failures/generator-logs/<slug>.err` — captured stderr for each
+            failed generator.
+
+          Your task: for every slug in `failed_generators.txt`, decide whether to
+          file a GitHub issue, and do so when warranted. Be careful and concise.
+
+          Steps for each slug:
+
+          1. Skip silently if an open issue already exists for it. Check with
+             `gh issue list --label generator-failure --state open --json number,title`
+             and look for any title starting with "Generator failed: <slug>".
+             The bot is here to surface problems, not to spam.
+
+          2. Otherwise, read the generator script at `<slug>/<slug>.py` (look at
+             SOURCE_URL, the parse_* function, ALLOW_SUFFIXES) and the captured
+             error at `.failures/generator-logs/<slug>.err`. The library being
+             used is `lib/scraping.py` (defensive helpers) and `lib/edl_utils.py`
+             (write_edl with min_entries safety net).
+
+          3. Diagnose the most plausible root cause. The common ones are:
+             - PageStructureError → anchor selectors no longer match the vendor's
+               HTML (vendor renamed a class, moved content).
+             - EmptyEDLError → the parser ran but found fewer than `min_entries`
+               valid hosts. Either ALLOW_SUFFIXES is too narrow, or the vendor
+               page reorganised and the relevant section moved out of the anchor.
+             - Network / HTTPError → vendor moved the URL, or transient outage.
+             - Validation errors → a host with an unexpected shape leaked through.
+
+          4. File one issue per slug. Use:
+             `gh issue create --label generator-failure --title "..." --body "..."`
+             - Title: `Generator failed: <slug> — <short cause>`
+             - Body: markdown, under 250 words. Include (a) the most plausible
+               root cause in one paragraph, (b) what to check first (specific
+               anchor selectors / ALLOW_SUFFIXES / the SOURCE_URL response), and
+               (c) one suggested next step. Embed the captured stderr verbatim
+               in a fenced code block. End with a footer line:
+               `_Filed automatically by the auto-issue workflow._`
+
+          Do not modify any code in the repository. Your only side effect is the
+          `gh issue create` call per warranted failure.
+
+          When you have processed every slug, print a one-line summary of what
+          you did and exit.
+        claude_args: |
+          --max-turns 40
