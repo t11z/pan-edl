@@ -1,0 +1,5 @@
+go.dev/
+golang.org/
+index.golang.org/
+proxy.golang.org/
+sum.golang.org/
