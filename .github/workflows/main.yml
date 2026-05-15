@@ -59,13 +59,44 @@ jobs:
         retention-days: 7
         if-no-files-found: ignore
 
+    - name: Write per-list status badges
+      if: always()
+      run: |
+        # Per-slug shields.io endpoint badges. Files are byte-stable when
+        # status+count are unchanged, so a no-op run produces no badge diff
+        # and the commit step doesn't fire on badge files alone.
+        mkdir -p .badges
+        failed_file=.ci-artifacts/failed_generators.txt
+        for dir in */; do
+          slug="${dir%/}"
+          script="${dir}${slug}.py"
+          [ -f "$script" ] || continue
+          txt="${dir}${slug}.txt"
+
+          if [ -f "$failed_file" ] && grep -qx "$slug" "$failed_file"; then
+            message="failing"
+            color="red"
+          elif [ -f "$txt" ]; then
+            count=$(wc -l < "$txt" | tr -d ' ')
+            message="${count} entries"
+            color="brightgreen"
+          else
+            message="unknown"
+            color="lightgrey"
+          fi
+
+          printf '{"schemaVersion":1,"label":"%s","message":"%s","color":"%s"}\n' \
+            "$slug" "$message" "$color" > ".badges/$slug.json"
+        done
+
     - name: Commit and push changed EDL files
       run: |
-        # Stage all .txt files (covers both modified-tracked and new-untracked),
-        # then derive the change list from what's actually staged. Generators
-        # that failed earlier left their .txt untouched, so they don't appear
-        # here and the last known-good content stays on main.
-        git add -- '*/*.txt'
+        # Stage all .txt files (covers both modified-tracked and new-untracked)
+        # plus the status badges. Generators that failed earlier left their
+        # .txt untouched, so they don't appear here and the last known-good
+        # content stays on main. The badge JSON for those slugs *does* appear
+        # in the diff when status flips between passing↔failing.
+        git add -- '*/*.txt' .badges/
 
         updated=()
         for txt in $(git diff --cached --name-only -- '*/*.txt'); do
