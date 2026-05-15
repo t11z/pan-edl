@@ -31,19 +31,33 @@ jobs:
     - name: Run all EDL generators
       run: |
         export PYTHONPATH=.
-        : > /tmp/failed_generators.txt
+        mkdir -p .ci-artifacts/generator-logs
+        : > .ci-artifacts/failed_generators.txt
         for dir in */; do
           slug="${dir%/}"
           script="${dir}${slug}.py"
           if [ -f "$script" ]; then
             echo "::group::Running $script"
-            if ! python "$script"; then
-              echo "$slug" >> /tmp/failed_generators.txt
+            if ! python "$script" 2> ".ci-artifacts/generator-logs/$slug.err"; then
+              echo "$slug" >> .ci-artifacts/failed_generators.txt
               echo "::warning::Generator failed: $slug (existing output preserved)"
+              cat ".ci-artifacts/generator-logs/$slug.err"
+            else
+              # Generator succeeded — discard empty stderr log to keep the artifact small.
+              rm -f ".ci-artifacts/generator-logs/$slug.err"
             fi
             echo "::endgroup::"
           fi
         done
+
+    - name: Upload failure context for auto-issue bot
+      if: always()
+      uses: actions/upload-artifact@v4
+      with:
+        name: generator-failures
+        path: .ci-artifacts/
+        retention-days: 7
+        if-no-files-found: ignore
 
     - name: Commit and push changed EDL files
       run: |
@@ -73,9 +87,9 @@ jobs:
     - name: Fail workflow if any generator failed
       if: always()
       run: |
-        if [ -s /tmp/failed_generators.txt ]; then
+        if [ -s .ci-artifacts/failed_generators.txt ]; then
           echo "::error::Generators that failed this run (existing .txt preserved):"
-          sed 's/^/  - /' /tmp/failed_generators.txt
+          sed 's/^/  - /' .ci-artifacts/failed_generators.txt
           exit 1
         fi
         echo "All generators succeeded."

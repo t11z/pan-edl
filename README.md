@@ -61,3 +61,15 @@ A generator must:
 3. Live at `<slug>/<slug>.py` and write to `<slug>/<slug>.txt`.
 
 Run locally with `PYTHONPATH=. python <slug>/<slug>.py`. Validator tests: `python -m pytest tests/`.
+
+## Auto-issue bot
+
+The `.github/workflows/auto-issue.yml` workflow runs after every hourly update. When the update workflow turns red — for example because a vendor's documentation page changed structure and a scraper can no longer find its anchor — the auto-issue bot:
+
+1. Downloads the per-generator stderr artifact uploaded by the hourly job.
+2. For every failed slug, asks Claude (via the Anthropic API) to diagnose the root cause based on the script source and the captured error.
+3. Files a GitHub issue tagged `generator-failure`. If an open issue for the same slug already exists, the bot stays silent — humans investigate, the bot doesn't spam.
+
+This means the published `raw.githubusercontent.com/.../<slug>/<slug>.txt` URLs keep serving the last known-good list (the `write_edl` safety net refuses to truncate on empty parser output), while maintainers get a structured, actionable issue with proposed next steps within an hour of a regression.
+
+Required secret: `ANTHROPIC_API_KEY` (used only by the auto-issue workflow). The hourly update workflow itself has no Claude dependency.

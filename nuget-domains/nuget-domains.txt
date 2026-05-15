@@ -1,4 +1,4 @@
 api.nuget.org/
-nuget.org/
-pkgs.dev.azure.com/
+azuresearch-usnc.nuget.org/
+azuresearch-ussc.nuget.org/
 www.nuget.org/

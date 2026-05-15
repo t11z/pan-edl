@@ -1,30 +1,37 @@
 #!/usr/bin/env python3.12
-"""Generate the Quay.io domains EDL.
+"""Generate the Quay.io domains EDL by scraping Project Quay docs.
 
-Hosts curated from Red Hat / Quay vendor documentation:
-- https://docs.quay.io/  (Quay documentation)
-- https://access.redhat.com/articles/2477561  (Quay endpoints article)
-- https://access.redhat.com/solutions/3422001  (registry connectivity)
+Source: https://docs.projectquay.io/welcome.html
+Project Quay's own documentation. Quay.io is hosted by Red Hat;
+hosts appear inline in setup / registry-endpoint references.
 """
 import sys
 
-from lib.edl_utils import EDLType, write_edl
+from bs4 import BeautifulSoup
+
+from lib.edl_utils import EDLType, fetch_html, write_edl
+from lib.scraping import extract_host_tokens, filter_hosts, find_anchor
 
 
+SOURCE_URL = 'https://docs.projectquay.io/welcome.html'
 OUTPUT_PATH = 'quay-io-domains/quay-io-domains.txt'
 
-HOSTS = [
+ALLOW_SUFFIXES = (
     'quay.io',
-    '*.quay.io',
-    'cdn.quay.io',
-    'cdn01.quay.io',
-    'cdn02.quay.io',
-    'cdn03.quay.io',
-]
+    'projectquay.io',
+)
+
+
+def parse_quay_docs_page(html: str) -> list[str]:
+    soup = BeautifulSoup(html, 'html.parser')
+    article = find_anchor(soup, ['main', 'article', 'div.section', 'body'])
+    tokens = extract_host_tokens(article)
+    return filter_hosts(tokens, allow_suffixes=ALLOW_SUFFIXES)
 
 
 def main() -> None:
-    report = write_edl(HOSTS, OUTPUT_PATH, EDLType.URL_LIST, strict=True)
+    hosts = parse_quay_docs_page(fetch_html(SOURCE_URL))
+    report = write_edl(hosts, OUTPUT_PATH, EDLType.URL_LIST, strict=True, min_entries=1)
     print(report)
 
 

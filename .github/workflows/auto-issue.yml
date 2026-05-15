@@ -1,0 +1,45 @@
+name: Auto-issue on generator failure
+
+# Triggers after the hourly update workflow finishes. When it concludes
+# with failure, this job downloads the per-slug stderr artifact, asks
+# Claude to diagnose each failure, and files one GitHub issue per
+# affected generator. Existing open issues for the same slug are left
+# alone (the bot surfaces problems, it does not spam).
+
+on:
+  workflow_run:
+    workflows: ["Hourly update"]
+    types: [completed]
+
+jobs:
+  file-issue:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'failure' }}
+    permissions:
+      contents: read
+      issues: write
+      actions: read
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
+
+    - name: Install bot dependencies
+      run: pip install 'anthropic>=0.40,<1.0'
+
+    - name: Download failure artifact from triggering run
+      uses: actions/download-artifact@v4
+      with:
+        name: generator-failures
+        path: /tmp/failures
+        run-id: ${{ github.event.workflow_run.id }}
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Diagnose failures and file issues
+      env:
+        ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: python .github/scripts/auto_issue_bot.py /tmp/failures
