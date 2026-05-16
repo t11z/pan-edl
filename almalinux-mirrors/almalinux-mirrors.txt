@@ -103,6 +103,7 @@ doit.missouri.edu/
 domainesia.com/
 dotsrc.org/
 dsu.edu/
+edgeuno-bog2.mm.fcix.net/
 ekiphost.com/
 elice.io/
 elmirror.cl/
@@ -129,7 +130,6 @@ ftp.fau.de/
 ftp.gwdg.de/
 ftp.halifax.rwth-aachen.de/
 ftp.iij.ad.jp/
-ftp.linux.cz/
 ftp.lip6.fr/
 ftp.lug.ro/
 ftp.lysator.liu.se/
@@ -196,7 +196,6 @@ lidsol.fi-b.unam.mx/
 lidsol.unam.mx/
 linux-mirrors.fnal.gov/
 linux.domainesia.com/
-linux.duke.edu/
 linux.ncsu.edu/
 linuxpatch.com/
 linuxsoft.cern.ch/
@@ -214,7 +213,6 @@ mirror.23m.com/
 mirror.2degrees.nz/
 mirror.a1.mk/
 mirror.aarnet.edu.au/
-mirror.accum.se/
 mirror.africloud.com/
 mirror.airnet.uz/
 mirror.alastyr.com/
@@ -299,9 +297,9 @@ mirror.jingk.ai/
 mirror.junda.nl/
 mirror.karneval.cz/
 mirror.kku.ac.th/
+mirror.krfoss.org/
 mirror.lchs.network/
 mirror.limda.net/
-mirror.linux.duke.edu/
 mirror.linux.ec/
 mirror.linux.ncsu.edu/
 mirror.liteserver.nl/
@@ -320,7 +318,6 @@ mirror.net.za/
 mirror.netsite.dk/
 mirror.netweaver.uk/
 mirror.netzwerge.de/
-mirror.nevacloud.com/
 mirror.nforce.com/
 mirror.nishi.network/
 mirror.nl.altushost.com/
@@ -456,7 +453,6 @@ nc-mirror.iwebfusion.net/
 nchc.org.tw/
 net.sjtu.edu.cn/
 neterra.ne/
-nevacloud.com/
 nexril.net/
 nhanhoa.com/
 nl.mirror.flokinet.net/
@@ -558,7 +554,6 @@ www.4psa.com/
 www.Linux.ec/
 www.VPSnet.com/
 www.aarnet.edu.au/
-www.accum.se/
 www.alastyr.com/
 www.aliyun.com/
 www.almalinux.org/
@@ -598,7 +593,6 @@ www.elhacker.net/
 www.esecuredata.com/
 www.exoscale.com/
 www.fastly.com/
-www.fi.muni.cz/
 www.fiu.edu/
 www.fnal.gov/
 www.fysik.dtu.dk/
