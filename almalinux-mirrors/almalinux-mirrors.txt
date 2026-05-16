@@ -15,6 +15,7 @@ almalinux-mirror.unifique.cloud/
 almalinux-mirror.yucca.net/
 almalinux.elhacker.net/
 almalinux.interhost.co.il/
+almalinux.ip-connect.info/
 almalinux.ip-connect.vn.ua/
 almalinux.ipacct.com/
 almalinux.jetserver.co.il/
@@ -56,7 +57,6 @@ alpha-labs.net/
 amscloud.co.id/
 aptus.co.tz/
 ash.mirrors.clouvider.net/
-asnet.am/
 atl.mirrors.clouvider.net/
 atl.mirrors.ezscale.cloud/
 atl.mirrors.knownhost.com/
@@ -103,7 +103,6 @@ doit.missouri.edu/
 domainesia.com/
 dotsrc.org/
 dsu.edu/
-edgeuno-bog2.mm.fcix.net/
 ekiphost.com/
 elice.io/
 elmirror.cl/
@@ -173,12 +172,15 @@ incognet.io/
 insect.mm.fcix.net/
 interhost.co.il/
 internet.asn.au/
+ip-connect.info/
 ip-connect.vn.ua/
 ipacct.com/
+iphost.md/
 ipinfo.io/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
+itc.zju.edu.cn/
 ixirhost.com/
 jagoanhosting.com/
 jetserver.co.il/
@@ -289,6 +291,7 @@ mirror.init7.net/
 mirror.init7.net::almalinux/
 mirror.internet.asn.au/
 mirror.interserver.net/
+mirror.iphost.md/
 mirror.isoc.org.il/
 mirror.ixirhost.com/
 mirror.jagoanhosting.id/
@@ -387,8 +390,8 @@ mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
 mirror3.krfoss.org/
+mirrors.aliyun.com/
 mirrors.almalinux.org/
-mirrors.asnet.am/
 mirrors.atlas.net.co/
 mirrors.binaryracks.com/
 mirrors.bkns.vn/
@@ -443,6 +446,7 @@ mirrors.xtom.de/
 mirrors.xtom.ee/
 mirrors.xtom.jp/
 mirrors.xtom.nl/
+mirrors.zju.edu.cn/
 mnl.aws.repo.almalinux.org/
 mr.heru.id/
 msp.aws.repo.almalinux.org/
@@ -556,6 +560,7 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
+www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
