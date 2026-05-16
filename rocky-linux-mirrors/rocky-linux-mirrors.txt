@@ -10,7 +10,6 @@ br.dyi.ng/
 br.mirrors.cicku.me/
 ca.dyi.ng/
 ca.mirrors.cicku.me/
-cat.pdx.edu/
 cc.in2p3.fr/
 cicku.me/
 ciq.co/
@@ -110,7 +109,6 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror1.hs-esslingen.de/
 mirror1.isoc.org.il/
-mirrors.cat.pdx.edu/
 mirrors.dotsrc.org/
 mirrors.esto.network/
 mirrors.hostiserver.com/
