@@ -14,6 +14,7 @@ almalinux-mirror.unifique.cloud/
 almalinux-mirror.yucca.net/
 almalinux.elhacker.net/
 almalinux.interhost.co.il/
+almalinux.ip-connect.info/
 almalinux.ip-connect.vn.ua/
 almalinux.ipacct.com/
 almalinux.jetserver.co.il/
@@ -128,12 +129,13 @@ ftp.fau.de/
 ftp.gwdg.de/
 ftp.halifax.rwth-aachen.de/
 ftp.iij.ad.jp/
+ftp.jaist.ac.jp/
 ftp.linux.cz/
 ftp.lip6.fr/
 ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
-ftp.sakura.ad.jp/
+ftp.riken.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -170,6 +172,7 @@ incognet.io/
 insect.mm.fcix.net/
 interhost.co.il/
 internet.asn.au/
+ip-connect.info/
 ip-connect.vn.ua/
 ipacct.com/
 iphost.md/
@@ -185,6 +188,7 @@ jingk.ai/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
+kifu.gov.hu/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 la.mirrors.clouvider.net/
@@ -279,7 +283,6 @@ mirror.host4biz.eu/
 mirror.hoster.kz/
 mirror.hosthink.net/
 mirror.hostiko.network/
-mirror.hs-esslingen.de/
 mirror.ibcp.fr/
 mirror.ihost.md/
 mirror.in2p3.fr/
@@ -319,6 +322,7 @@ mirror.netweaver.uk/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nforce.com/
+mirror.niif.hu/
 mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
@@ -613,7 +617,6 @@ www.hoasted.com/
 www.host.ag/
 www.hosthink.net/
 www.hostiserver.com/
-www.hs-esslingen.de/
 www.ibcp.fr/
 www.idkom.de/
 www.iij.ad.jp/
@@ -624,6 +627,7 @@ www.isoc.org.il/
 www.itworxx.de/
 www.iu13.org/
 www.iwebfusion.net/
+www.jaist.ac.jp/
 www.junda.nl/
 www.kent.ac.uk/
 www.kku.ac.th/
@@ -663,9 +667,9 @@ www.previder.com/
 www.ps.kz/
 www.psnc.pl/
 www.rackspace.com/
+www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
-www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
