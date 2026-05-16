@@ -191,6 +191,7 @@ mirror.eu-fr.kamatera.com/
 mirror.eu-lo.kamatera.com/
 mirror.eu.4psacloud.com/
 mirror.eu.kamatera.com/
+mirror.exid.us/
 mirror.fcix.net/
 mirror.fi.ossplanet.net/
 mirror.flo.c-f.ro/
@@ -597,7 +598,6 @@ ubuntu.tuxuri.com/
 ubuntu.ucr.ac.cr/
 ubuntu.uib.no/
 ubuntu.unc.edu.ar/
-ubuntu.uni-klu.ac.at/
 ubuntu.univ-nantes.fr/
 ubuntu.univ-reims.fr/
 ubuntu.uvigo.es/

@@ -47,6 +47,7 @@ almalinux.ourhome.kiwi/
 almalinux.savoirfairelinux.net/
 almalinux.schlundtech.de/
 almalinux.si/
+almalinux.uib.no/
 almalinux.virtono.com/
 almalinux.vpsttt.com/
 almalinux.web.trex.fi/
@@ -188,7 +189,6 @@ jingk.ai/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
-kifu.gov.hu/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 la.mirrors.clouvider.net/
@@ -323,7 +323,6 @@ mirror.netweaver.uk/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nforce.com/
-mirror.niif.hu/
 mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
@@ -390,7 +389,6 @@ mirror.xeonbd.com/
 mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
-mirror1.sox.rs/
 mirror3.krfoss.org/
 mirrors.almalinux.org/
 mirrors.atlas.net.co/
@@ -433,6 +431,7 @@ mirrors.rit.edu/
 mirrors.ruk-com.cloud/
 mirrors.sonic.net/
 mirrors.storpool.com/
+mirrors.teamcloud.am/
 mirrors.tencent.com/
 mirrors.tino.org/
 mirrors.ucr.ac.cr/
@@ -679,9 +678,9 @@ www.siena.edu/
 www.sitsa.com.ar/
 www.siwoo.org/
 www.sonic.com/
-www.sox.rs/
 www.steadfast.net/
 www.swinburne.edu.au/
+www.telecomarmenia.am/
 www.tencent.com/
 www.thelefty.org/
 www.tier.net/
@@ -692,6 +691,7 @@ www.twds.com.tw/
 www.uam.es/
 www.ucr.ac.cr/
 www.ucsb.edu/
+www.uib.no/
 www.ukraine.com.ua/
 www.ukservers.com/
 www.uni-bayreuth.de/

@@ -98,7 +98,6 @@ mirror.reenigne.net/
 mirror.rnet.missouri.edu/
 mirror.servaxnet.com/
 mirror.siena.edu/
-mirror.siwoo.org/
 mirror.slu.cz/
 mirror.telepoint.bg/
 mirror.twds.com.tw/
@@ -210,7 +209,6 @@ www.adaptivedatanetworks.com/
 www.admax.se/
 www.anexia.at/
 www.bahnhof.se/
-www.bluerack.org/
 www.chpc.utah.edu/
 www.clouvider.com/
 www.cogentco.com/
