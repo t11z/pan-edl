@@ -173,6 +173,7 @@ mirror.datacenter.by/
 mirror.datacenter.mn/
 mirror.datamossa.io/
 mirror.de.leaseweb.net/
+mirror.delorahosting.com/
 mirror.dewabiz.com/
 mirror.digitaloceans.dev/
 mirror.digitalpacific.com.au/
@@ -431,7 +432,6 @@ mirrors.krfoss.org/
 mirrors.krnk.org/
 mirrors.layeronline.com/
 mirrors.liquidweb.com/
-mirrors.lug.mtu.edu/
 mirrors.maine.edu/
 mirrors.melbourne.co.uk/
 mirrors.mit.edu/
