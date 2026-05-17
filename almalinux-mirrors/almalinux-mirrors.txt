@@ -48,7 +48,6 @@ almalinux.schlundtech.de/
 almalinux.si/
 almalinux.uib.no/
 almalinux.virtono.com/
-almalinux.vpsttt.com/
 almalinux.web.trex.fi/
 almamirror.netdirekt.com.tr/
 almamirror.phoenixnap.com/
@@ -145,6 +144,7 @@ ftp.uni-bayreuth.de/
 ftp.yz.yamagata-u.ac.jp/
 ge.mirror.cloud9.ge/
 gigenet.com/
+gigsouth.mm.fcix.net/
 github.com/
 globo.tech/
 gofiber.vn/
@@ -161,7 +161,6 @@ host4.biz/
 hoster.kz/
 hosterion.ro/
 hostico.ro/
-hostiko.com.ua/
 iad.mirror.rackspace.com/
 icscoe.jp/
 idhosting.pl/
@@ -279,7 +278,6 @@ mirror.host.ag/
 mirror.host4biz.eu/
 mirror.hoster.kz/
 mirror.hosthink.net/
-mirror.hostiko.network/
 mirror.hs-esslingen.de/
 mirror.ibcp.fr/
 mirror.ihost.md/
@@ -298,6 +296,7 @@ mirror.karneval.cz/
 mirror.kku.ac.th/
 mirror.krfoss.org/
 mirror.lchs.network/
+mirror.limda.net/
 mirror.linux.duke.edu/
 mirror.linux.ec/
 mirror.linux.ncsu.edu/
@@ -544,7 +543,6 @@ veesp.com/
 vhost.vn/
 vn-mirrors.vhost.vn/
 volico.mm.fcix.net/
-vpsttt.com/
 vsys.host/
 wiki.almalinux.org/
 wiki.lug.ro/
@@ -628,6 +626,7 @@ www.kent.ac.uk/
 www.kku.ac.th/
 www.knownhost.com/
 www.lchs.com.au/
+www.limda.net/
 www.linkedin.com/
 www.lip6.fr/
 www.liquid.tech/
