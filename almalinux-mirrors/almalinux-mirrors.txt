@@ -76,6 +76,7 @@ brentk.io/
 bugs.almalinux.org/
 bytes.ua/
 capital.hoster.kz/
+cc.in2p3.fr/
 chi.almalinux.osuosl.org/
 citrahost.com/
 cloudforest.co.th/
@@ -230,6 +231,7 @@ mirror.amscloud.co.id::almalinux/
 mirror.anquan.cl/
 mirror.aptus.co.tz/
 mirror.as3741.net/
+mirror.ati.tn/
 mirror.az31.cloudpropeller.com/
 mirror.azvps.vn/
 mirror.bahnhof.net/
@@ -257,7 +259,6 @@ mirror.dk.team.blue/
 mirror.dk.team.blue::almalinux/
 mirror.docker.ru/
 mirror.dogado.de/
-mirror.domainhizmetleri.com/
 mirror.ekiphost.com/
 mirror.elice.io/
 mirror.esecuredata.com/
@@ -283,6 +284,7 @@ mirror.hostiko.network/
 mirror.hs-esslingen.de/
 mirror.ibcp.fr/
 mirror.ihost.md/
+mirror.in2p3.fr/
 mirror.init7.net/
 mirror.init7.net::almalinux/
 mirror.internet.asn.au/
@@ -564,6 +566,7 @@ www.ans.co.uk/
 www.anywair.com/
 www.archettitechnology.it/
 www.arnes.si/
+www.ati.tn/
 www.bahnhof.net/
 www.behostings.com/
 www.belnet.be/
@@ -586,7 +589,6 @@ www.cyberfolks.ro/
 www.deac.eu/
 www.digitalpacific.com.au/
 www.dogado.de/
-www.domainhizmetleri.com/
 www.edgoo.io/
 www.elhacker.net/
 www.esecuredata.com/

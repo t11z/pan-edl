@@ -383,7 +383,6 @@ mirror.terrahost.no/
 mirror.theash.xyz/
 mirror.thekinrar.fr/
 mirror.theo546.fr/
-mirror.thereisno.page/
 mirror.tiguinet.net/
 mirror.timtal.com.tr/
 mirror.trap.moe/
@@ -392,6 +391,7 @@ mirror.truenetwork.ru/
 mirror.tux.si/
 mirror.tux.si:8873/
 mirror.twds.com.tw/
+mirror.tzulo.com/
 mirror.ubrco.de/
 mirror.ufam.edu.br/
 mirror.ufro.cl/
