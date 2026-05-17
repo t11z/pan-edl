@@ -48,6 +48,7 @@ almalinux.schlundtech.de/
 almalinux.si/
 almalinux.uib.no/
 almalinux.virtono.com/
+almalinux.vpsttt.com/
 almalinux.web.trex.fi/
 almamirror.netdirekt.com.tr/
 almamirror.phoenixnap.com/
@@ -115,6 +116,7 @@ fleksibel.com/
 flokinet.is/
 for.aws.repo.almalinux.org/
 forksystems.mm.fcix.net/
+fr2.rpmfind.net/
 ftp.arnes.si/
 ftp.belnet.be/
 ftp.bme.hu/
@@ -161,6 +163,7 @@ host4.biz/
 hoster.kz/
 hosterion.ro/
 hostico.ro/
+hostiko.com.ua/
 iad.mirror.rackspace.com/
 icscoe.jp/
 idhosting.pl/
@@ -278,6 +281,7 @@ mirror.host.ag/
 mirror.host4biz.eu/
 mirror.hoster.kz/
 mirror.hosthink.net/
+mirror.hostiko.network/
 mirror.hs-esslingen.de/
 mirror.ibcp.fr/
 mirror.ihost.md/
@@ -386,7 +390,6 @@ mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
 mirror3.krfoss.org/
-mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.atlas.net.co/
@@ -494,6 +497,7 @@ repo.ifca.es/
 repo.shinjiru.com/
 rit.edu/
 ro.mirror.flokinet.net/
+rpmfind.net/
 rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
 rsync.gtlib.gatech.edu/
@@ -543,6 +547,7 @@ veesp.com/
 vhost.vn/
 vn-mirrors.vhost.vn/
 volico.mm.fcix.net/
+vpsttt.com/
 vsys.host/
 wiki.almalinux.org/
 wiki.lug.ro/
@@ -554,7 +559,6 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
-www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
