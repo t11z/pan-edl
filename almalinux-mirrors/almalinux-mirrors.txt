@@ -4,7 +4,6 @@ a2hosting.com/
 africloud.com/
 airnet.uz/
 al-mirror.a2hosting.com/
-alma.acidman.thelefty.org/
 alma.as3741.net/
 alma.idhosting.pl/
 alma.mirror.nyuad.nyu.edu/
@@ -133,6 +132,7 @@ ftp.jaist.ac.jp/
 ftp.linux.cz/
 ftp.lip6.fr/
 ftp.lug.ro/
+ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
 ftp.sakura.ad.jp/
@@ -639,6 +639,7 @@ www.lip6.fr/
 www.liquid.tech/
 www.liquidweb.com/
 www.liteserver.nl/
+www.lysator.liu.se/
 www.maeen.sa/
 www.melbourne.co.uk/
 www.meowsmp.net/
@@ -687,7 +688,6 @@ www.steadfast.net/
 www.swinburne.edu.au/
 www.telecomarmenia.am/
 www.tencent.com/
-www.thelefty.org/
 www.tier.net/
 www.tku.edu.tw/
 www.transip.nl/
