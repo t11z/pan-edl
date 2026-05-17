@@ -8,6 +8,7 @@ arch.hu.fo/
 arch.hugeblank.dev/
 arch.jensgutermuth.de/
 arch.jsc.mx/
+arch.ljkx.org/
 arch.midov.pl/
 arch.miningtcup.me/
 arch.mirror.cloud.thatcyberlynx.de/
