@@ -117,7 +117,6 @@ flokinet.is/
 for.aws.repo.almalinux.org/
 forksystems.mm.fcix.net/
 fr2.rpmfind.net/
-free.nchc.org.tw/
 ftp.arnes.si/
 ftp.belnet.be/
 ftp.bme.hu/
@@ -150,7 +149,6 @@ gigenet.com/
 gigsouth.mm.fcix.net/
 github.com/
 globo.tech/
-gofiber.vn/
 gsl-syd.mm.fcix.net/
 hcc-mirror.unl.edu/
 hcc.unl.edu/
@@ -239,6 +237,7 @@ mirror.bf-net.ch/
 mirror.bitency.nl/
 mirror.cedia.org.ec/
 mirror.ch.altushost.com/
+mirror.chpc.utah.edu/
 mirror.citrahost.com/
 mirror.clarkson.edu/
 mirror.cloudpropeller.com/
@@ -279,6 +278,7 @@ mirror.hnd.cl/
 mirror.hoasted.com/
 mirror.host.ag/
 mirror.host4biz.eu/
+mirror.hoster.kz/
 mirror.hosthink.net/
 mirror.hostiko.network/
 mirror.hs-esslingen.de/
@@ -405,7 +405,6 @@ mirrors.fibianet.dk/
 mirrors.ft.uam.es/
 mirrors.gbnetwork.com/
 mirrors.gigenet.com/
-mirrors.gofiber.vn/
 mirrors.hit.edu.cn/
 mirrors.hosterion.ro/
 mirrors.hostever.com/
@@ -420,6 +419,7 @@ mirrors.neterra.net/
 mirrors.nhanhoa.com/
 mirrors.nju.edu.cn/
 mirrors.nxthost.com/
+mirrors.nz.zappie.host/
 mirrors.oblivion.online/
 mirrors.ocf.berkeley.edu/
 mirrors.onenet.net/
@@ -451,7 +451,6 @@ msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
 muug.ca/
 nc-mirror.iwebfusion.net/
-nchc.org.tw/
 net.sjtu.edu.cn/
 neterra.ne/
 nevacloud.com/
@@ -575,6 +574,7 @@ www.bkns.vn/
 www.bme.hu/
 www.c0urier.net/
 www.cedia.edu.ec/
+www.chpc.utah.edu/
 www.chroot.ro/
 www.cixug.gal/
 www.cloud9.ge/
@@ -720,5 +720,6 @@ yandex.ru/
 yer.az/
 yuki.net.uk/
 yxeix.mm.fcix.net/
+zappiehost.com/
 ziply.mm.fcix.net/
 ziplyfiber.com/
