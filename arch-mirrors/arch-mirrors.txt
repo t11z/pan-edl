@@ -269,6 +269,7 @@ mirror.givebytes.net/
 mirror.group.one/
 mirror.guillaumea.fr/
 mirror.hafeezh.com/
+mirror.hashy0917.net/
 mirror.hasphetica.win/
 mirror.hb9hil.org/
 mirror.hemino.net/
