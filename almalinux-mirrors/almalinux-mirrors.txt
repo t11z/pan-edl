@@ -42,7 +42,6 @@ almalinux.mirrors.ovh.net/
 almalinux.mirrorservice.org/
 almalinux.nic.cz/
 almalinux.org/
-almalinux.ourhome.kiwi/
 almalinux.savoirfairelinux.net/
 almalinux.schlundtech.de/
 almalinux.si/
@@ -109,7 +108,6 @@ elmirror.cl/
 eng.mephi.ru/
 extreme-ix.org/
 ezscale.cloud/
-fam.org.nz/
 fcix.net/
 fibia.dk/
 fleksibel.com/
@@ -189,11 +187,12 @@ jingk.ai/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
-kifu.gov.hu/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 la.mirrors.clouvider.net/
 leaseweb.com/
+lidsol.fi-b.unam.mx/
+lidsol.unam.mx/
 linux-mirrors.fnal.gov/
 linux.domainesia.com/
 linux.duke.edu/
@@ -229,6 +228,7 @@ mirror.amscloud.co.id::almalinux/
 mirror.anquan.cl/
 mirror.aptus.co.tz/
 mirror.as3741.net/
+mirror.ati.tn/
 mirror.az31.cloudpropeller.com/
 mirror.azvps.vn/
 mirror.bahnhof.net/
@@ -315,12 +315,9 @@ mirror.mijn.host/
 mirror.moack.co.kr/
 mirror.mtl2.ca.leaseweb.net/
 mirror.net.za/
-mirror.netsite.dk/
 mirror.netweaver.uk/
 mirror.netzwerge.de/
-mirror.nevacloud.com/
 mirror.nforce.com/
-mirror.niif.hu/
 mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
@@ -328,6 +325,7 @@ mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
 mirror.nodespace.com/
 mirror.nyist.edu.cn/
+mirror.ossplanet.net/
 mirror.ox.ac.uk/
 mirror.papua.go.id/
 mirror.pit.teraswitch.com/
@@ -342,6 +340,7 @@ mirror.realcompute.io/
 mirror.reenigne.net/
 mirror.renu.ac.ug/
 mirror.rnet.missouri.edu/
+mirror.sabay.com.kh/
 mirror.se.altushost.com/
 mirror.servaxnet.com/
 mirror.server.net/
@@ -370,7 +369,6 @@ mirror.us-midwest-1.nexcess.net/
 mirror.us.mirhosting.net/
 mirror.usi.edu/
 mirror.veesp.com/
-mirror.veritescil.com.tr/
 mirror.vpsnet.com/
 mirror.vsys.host/
 mirror.vtti.vt.edu/
@@ -453,7 +451,6 @@ nc-mirror.iwebfusion.net/
 nchc.org.tw/
 net.sjtu.edu.cn/
 neterra.ne/
-nevacloud.com/
 nexril.net/
 nhanhoa.com/
 nl.mirror.flokinet.net/
@@ -471,6 +468,7 @@ opencolo.mm.fcix.net/
 opensource.fb.com/
 or-mirror.iwebfusion.net/
 ord.mirror.rackspace.com/
+ossplanet.net/
 osuosl.org/
 per.aws.repo.almalinux.org/
 phoenixnap.com/
@@ -493,7 +491,6 @@ repo.ialab.dsu.edu/
 repo.ifca.es/
 repo.shinjiru.com/
 rit.edu/
-ro.mirror.flokinet.net/
 rpmfind.net/
 rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
@@ -507,6 +504,7 @@ rsync.yuki.net.uk/
 rsyncbd.mirror.vanehost.com/
 ruk-com.cloud/
 rwth-aachen.de/
+sabay.com.kh/
 savoirfairelinux.com/
 sci.nju.edu.cn/
 seattle.crazyfast.us/
@@ -563,6 +561,7 @@ www.ans.co.uk/
 www.anywair.com/
 www.archettitechnology.it/
 www.arnes.si/
+www.ati.tn/
 www.bahnhof.net/
 www.behostings.com/
 www.belnet.be/
@@ -639,7 +638,6 @@ www.moack.co.kr/
 www.mvps.net/
 www.nav.ro/
 www.netdirekt.com.tr/
-www.netsite.dk/
 www.netweaver.uk/
 www.netzwerge.de/
 www.nforce.com/
@@ -695,7 +693,6 @@ www.uni-bayreuth.de/
 www.uni-ruse.bg/
 www.upr.edu/
 www.vanehost.com/
-www.veritescil.com.tr/
 www.vhosting-it.com/
 www.virtono.com/
 www.vodafone.cz/
