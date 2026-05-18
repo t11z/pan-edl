@@ -46,7 +46,6 @@ almalinux.ourhome.kiwi/
 almalinux.savoirfairelinux.net/
 almalinux.schlundtech.de/
 almalinux.si/
-almalinux.uib.no/
 almalinux.virtono.com/
 almalinux.vpsttt.com/
 almalinux.web.trex.fi/
@@ -122,7 +121,6 @@ ftp.arnes.si/
 ftp.belnet.be/
 ftp.bme.hu/
 ftp.cc.uoc.gr/
-ftp.cixug.es/
 ftp.csuc.cat/
 ftp.cwuni-bayreuth.de/
 ftp.fau.de/
@@ -214,6 +212,7 @@ mirror.23m.com/
 mirror.2degrees.nz/
 mirror.a1.mk/
 mirror.aarnet.edu.au/
+mirror.accum.se/
 mirror.africloud.com/
 mirror.airnet.uz/
 mirror.alastyr.com/
@@ -257,13 +256,13 @@ mirror.dk.team.blue/
 mirror.dk.team.blue::almalinux/
 mirror.docker.ru/
 mirror.dogado.de/
+mirror.domainhizmetleri.com/
 mirror.ekiphost.com/
 mirror.elice.io/
 mirror.esecuredata.com/
 mirror.eu.4psacloud.com/
 mirror.facebook.net/
 mirror.fcix.net/
-mirror.fiu.edu/
 mirror.flo.c-f.ro/
 mirror.fmt-2.serverforge.org/
 mirror.freedif.org/
@@ -331,12 +330,10 @@ mirror.ossplanet.net/
 mirror.ox.ac.uk/
 mirror.papua.go.id/
 mirror.pit.teraswitch.com/
-mirror.plusline.net/
 mirror.previder.nl/
 mirror.ps.kz/
 mirror.rackspeed.de/
 mirror.raiolanetworks.com/
-mirror.randhost.com/
 mirror.rcg.sfu.ca/
 mirror.realcompute.io/
 mirror.reenigne.net/
@@ -388,7 +385,6 @@ mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
 mirror3.krfoss.org/
-mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.atlas.net.co/
@@ -486,7 +482,6 @@ purduelug.org/
 qro.aws.repo.almalinux.org/
 rackspeed.de/
 raiolanetworks.com/
-randhost.com/
 rda.run/
 reenigne.net/
 renu.ac.ug/
@@ -556,8 +551,8 @@ www.4psa.com/
 www.Linux.ec/
 www.VPSnet.com/
 www.aarnet.edu.au/
+www.accum.se/
 www.alastyr.com/
-www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -577,7 +572,6 @@ www.c0urier.net/
 www.cedia.edu.ec/
 www.chpc.utah.edu/
 www.chroot.ro/
-www.cixug.gal/
 www.cloud9.ge/
 www.clouvider.com/
 www.codeforhost.com/
@@ -589,13 +583,13 @@ www.cyberfolks.ro/
 www.deac.eu/
 www.digitalpacific.com.au/
 www.dogado.de/
+www.domainhizmetleri.com/
 www.edgoo.io/
 www.elhacker.net/
 www.esecuredata.com/
 www.exoscale.com/
 www.fastly.com/
 www.fi.muni.cz/
-www.fiu.edu/
 www.fnal.gov/
 www.fysik.dtu.dk/
 www.garr.it/
@@ -657,7 +651,6 @@ www.ox.ac.uk/
 www.papua.go.id/
 www.peralex.com/
 www.physics.uoc.gr/
-www.plusline.net/
 www.previder.com/
 www.ps.kz/
 www.psnc.pl/
@@ -692,7 +685,6 @@ www.twds.com.tw/
 www.uam.es/
 www.ucr.ac.cr/
 www.ucsb.edu/
-www.uib.no/
 www.ukraine.com.ua/
 www.ukservers.com/
 www.uni-bayreuth.de/

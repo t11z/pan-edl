@@ -61,7 +61,6 @@ ftp.lip6.fr/
 ftp.litnet.lt/
 ftp.ludd.ltu.se/
 ftp.lysator.liu.se/
-ftp.mirror.tw/
 ftp.mirrorservice.org/
 ftp.muug.ca/
 ftp.nluug.nl/
@@ -366,7 +365,6 @@ mirror.velden.media/
 mirror.verinomi.com/
 mirror.veritescil.com.tr/
 mirror.vietnix.vn/
-mirror.viettelcloud.vn/
 mirror.vinehost.net/
 mirror.visiontech.com.bd/
 mirror.vnet.sk/
