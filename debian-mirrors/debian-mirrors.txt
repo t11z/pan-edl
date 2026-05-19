@@ -4,6 +4,7 @@ deb.debian.org/
 deb.nextgen.ch/
 debian-archive.trafficmanager.net/
 debian-mirror.behostings.net/
+debian-mirror.puq.apoapsis.cl/
 debian-mirror.sakura.ne.jp/
 debian.a1.bg/
 debian.anexia.at/
@@ -74,7 +75,6 @@ debian.unnoba.edu.ar/
 debian.volia.net/
 debian.vranetworks.lat/
 debian.web.trex.fi/
-debian.xtdv.net/
 debianmirror.una.ac.cr/
 debpkg.libranext.com/
 depot-debian.univ-reunion.fr/
@@ -117,7 +117,6 @@ ftp.hr.debian.org/
 ftp.icm.edu.pl/
 ftp.is.debian.org/
 ftp.it.debian.org/
-ftp.jaist.ac.jp/
 ftp.jp.debian.org/
 ftp.kaist.ac.kr/
 ftp.kr.debian.org/
@@ -210,7 +209,6 @@ mirror.gitoyen.net/
 mirror.gsl.icu/
 mirror.hnd.cl/
 mirror.hoster.kz/
-mirror.hostiko.network/
 mirror.ibcp.fr/
 mirror.informatik.tu-freiberg.de/
 mirror.init7.net/
@@ -284,6 +282,7 @@ mirrors.datapark.ro/
 mirrors.dotsrc.org/
 mirrors.egr.msu.edu/
 mirrors.glesys.net/
+mirrors.hit.edu.cn/
 mirrors.hosterion.ro/
 mirrors.hostico.ro/
 mirrors.hostiserver.com/
@@ -311,7 +310,6 @@ mirrors.xtom.nl/
 mirrors.zju.edu.cn/
 mirrorservice.org/
 mr.heru.id/
-nl.mirror.flokinet.net/
 opensource.nchc.org.tw/
 packages.hs-regensburg.de/
 pkg.adfinis-on-exoscale.ch/
@@ -323,4 +321,5 @@ ro.mirror.flokinet.net/
 security.debian.org/
 softlibre.unizar.es/
 tw1.mirror.blendbyte.net/
+werog.interkoneksimedia.co.id/
 www.nic.funet.fi/

@@ -53,7 +53,6 @@ it2.mirror.vhosting-it.com/
 krfoss.org/
 maeen.sa/
 marwan.ma/
-mir01.syntis.net/
 mirror.2degrees.nz/
 mirror.a1.mk/
 mirror.accum.se/
@@ -255,7 +254,6 @@ www.siena.edu/
 www.siliconhill.cz/
 www.slu.cz/
 www.swinburne.edu.au/
-www.syntis.net/
 www.twds.com.tw/
 www.tzulo.com/
 www.upr.edu/

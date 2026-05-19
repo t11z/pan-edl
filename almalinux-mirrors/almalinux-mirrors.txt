@@ -5,6 +5,7 @@ africloud.com/
 airnet.uz/
 al-mirror.a2hosting.com/
 alma.acidman.thelefty.org/
+alma.as3741.net/
 alma.idhosting.pl/
 alma.mirror.nyuad.nyu.edu/
 alma.mirror.serversaustralia.com.au/
@@ -61,7 +62,6 @@ atl.mirrors.knownhost.com/
 atlas.net.co/
 aws.amazon.com/
 azvps.vn/
-bd.mirror.vanehost.com/
 beltelecom.by/
 bitency.nl/
 blog.almalinux.org/
@@ -95,7 +95,6 @@ dewabiz.com/
 dinosaurus.fleksibel.com/
 distrohub.kyiv.ua/
 diyarciftci.xyz/
-docker.ru/
 doit.missouri.edu/
 domainesia.com/
 dotsrc.org/
@@ -128,7 +127,6 @@ ftp.gwdg.de/
 ftp.halifax.rwth-aachen.de/
 ftp.iij.ad.jp/
 ftp.jaist.ac.jp/
-ftp.linux.cz/
 ftp.lip6.fr/
 ftp.lug.ro/
 ftp.lysator.liu.se/
@@ -228,6 +226,7 @@ mirror.amscloud.co.id/
 mirror.amscloud.co.id::almalinux/
 mirror.anquan.cl/
 mirror.aptus.co.tz/
+mirror.as3741.net/
 mirror.ati.tn/
 mirror.az31.cloudpropeller.com/
 mirror.azvps.vn/
@@ -254,7 +253,6 @@ mirror.digitalpacific.com.au/
 mirror.diyarciftci.xyz/
 mirror.dk.team.blue/
 mirror.dk.team.blue::almalinux/
-mirror.docker.ru/
 mirror.dogado.de/
 mirror.domainhizmetleri.com/
 mirror.ekiphost.com/
@@ -326,6 +324,8 @@ mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
 mirror.nodespace.com/
 mirror.nyist.edu.cn/
+mirror.ossplanet.net/
+mirror.ox.ac.uk/
 mirror.papua.go.id/
 mirror.pit.teraswitch.com/
 mirror.plusline.net/
@@ -384,6 +384,7 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
+mirror3.krfoss.org/
 mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
@@ -427,7 +428,6 @@ mirrors.rit.edu/
 mirrors.ruk-com.cloud/
 mirrors.sonic.net/
 mirrors.storpool.com/
-mirrors.teamcloud.am/
 mirrors.tencent.com/
 mirrors.tino.org/
 mirrors.ucr.ac.cr/
@@ -469,6 +469,7 @@ opencolo.mm.fcix.net/
 opensource.fb.com/
 or-mirror.iwebfusion.net/
 ord.mirror.rackspace.com/
+ossplanet.net/
 osuosl.org/
 per.aws.repo.almalinux.org/
 phoenixnap.com/
@@ -502,7 +503,6 @@ rsync.mirrorservice.org/
 rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
 rsync.yuki.net.uk/
-rsyncbd.mirror.vanehost.com/
 ruk-com.cloud/
 rwth-aachen.de/
 sabay.com.kh/
@@ -592,7 +592,6 @@ www.elhacker.net/
 www.esecuredata.com/
 www.exoscale.com/
 www.fastly.com/
-www.fi.muni.cz/
 www.fiu.edu/
 www.fnal.gov/
 www.fysik.dtu.dk/
@@ -651,6 +650,7 @@ www.nxthost.com/
 www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
+www.ox.ac.uk/
 www.papua.go.id/
 www.peralex.com/
 www.physics.uoc.gr/
@@ -678,7 +678,6 @@ www.sonic.com/
 www.sox.rs/
 www.steadfast.net/
 www.swinburne.edu.au/
-www.telecomarmenia.am/
 www.tencent.com/
 www.thelefty.org/
 www.tier.net/
@@ -695,7 +694,6 @@ www.ukservers.com/
 www.uni-bayreuth.de/
 www.uni-ruse.bg/
 www.upr.edu/
-www.vanehost.com/
 www.veritescil.com.tr/
 www.vhosting-it.com/
 www.virtono.com/
