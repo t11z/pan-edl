@@ -53,6 +53,7 @@ it2.mirror.vhosting-it.com/
 krfoss.org/
 maeen.sa/
 marwan.ma/
+mir01.syntis.net/
 mirror.2degrees.nz/
 mirror.a1.mk/
 mirror.accum.se/
@@ -177,6 +178,7 @@ rocky.mirror.liquidtelecom.com/
 rocky.mirror.shastacoe.net/
 rocky.mirror.thegigabit.com/
 rocky.reloumirrors.net/
+rocky.task.gda.pl/
 rockylinux.anexia.at/
 rockylinux.hi.no/
 rockylinux.mirrors.ovh.net/
@@ -192,6 +194,7 @@ sa.mirrors.cicku.me/
 serverforge.org/
 soflibre.unizar.es/
 softlibre.unizar.es/
+task.gda.pl/
 teamcloud.am/
 telepoint.bg/
 thegigabit.com/
@@ -252,6 +255,7 @@ www.siena.edu/
 www.siliconhill.cz/
 www.slu.cz/
 www.swinburne.edu.au/
+www.syntis.net/
 www.twds.com.tw/
 www.tzulo.com/
 www.upr.edu/
