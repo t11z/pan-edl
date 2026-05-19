@@ -270,6 +270,7 @@ mirror.neftm.ru/
 mirror.neolabs.kz/
 mirror.netcologne.de/
 mirror.netsite.dk/
+mirror.netspace.net.au/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nforce.com/
@@ -336,6 +337,7 @@ mirror.twds.com.tw/
 mirror.tzulo.com/
 mirror.ubuntu.ikoula.com/
 mirror.ubuntu.serverforge.org/
+mirror.uchile.cl/
 mirror.uepg.br/
 mirror.ufam.edu.br/
 mirror.ufro.cl/

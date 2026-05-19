@@ -4,6 +4,7 @@ a2hosting.com/
 africloud.com/
 airnet.uz/
 al-mirror.a2hosting.com/
+alma.acidman.thelefty.org/
 alma.as3741.net/
 alma.idhosting.pl/
 alma.mirror.nyuad.nyu.edu/
@@ -55,7 +56,6 @@ alpha-labs.net/
 amscloud.co.id/
 aptus.co.tz/
 ash.mirrors.clouvider.net/
-asnet.am/
 atl.mirrors.clouvider.net/
 atl.mirrors.ezscale.cloud/
 atl.mirrors.knownhost.com/
@@ -92,7 +92,6 @@ datautama.net.id/
 de.mirrors.clouvider.net/
 den.aws.repo.almalinux.org/
 dewabiz.com/
-dinosaurus.fleksibel.com/
 distrohub.kyiv.ua/
 diyarciftci.xyz/
 docker.ru/
@@ -110,7 +109,6 @@ ezscale.cloud/
 fam.org.nz/
 fcix.net/
 fibia.dk/
-fleksibel.com/
 flokinet.is/
 for.aws.repo.almalinux.org/
 forksystems.mm.fcix.net/
@@ -134,7 +132,6 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
-ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -390,7 +387,6 @@ mirror.yuki.net.uk/
 mirror3.krfoss.org/
 mirrors.aliyun.com/
 mirrors.almalinux.org/
-mirrors.asnet.am/
 mirrors.atlas.net.co/
 mirrors.binaryracks.com/
 mirrors.bkns.vn/
@@ -433,6 +429,7 @@ mirrors.sonic.net/
 mirrors.storpool.com/
 mirrors.teamcloud.am/
 mirrors.tencent.com/
+mirrors.tino.org/
 mirrors.ucr.ac.cr/
 mirrors.ukfast.co.uk/
 mirrors.uni-ruse.bg/
@@ -531,6 +528,7 @@ telepoint.bg/
 teraswitch.com/
 terrahost.no/
 thegigabit.com/
+tino.org/
 truenetwork.ru/
 tx-mirror.tier.net/
 tzulo.com/
@@ -665,7 +663,6 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
-www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
@@ -682,6 +679,7 @@ www.steadfast.net/
 www.swinburne.edu.au/
 www.telecomarmenia.am/
 www.tencent.com/
+www.thelefty.org/
 www.tier.net/
 www.tku.edu.tw/
 www.transip.nl/
