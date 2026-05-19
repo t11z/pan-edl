@@ -12,6 +12,7 @@ hub.docker.com/
 login.docker.com/
 notify.bugsnag.com/
 production.cloudflare.docker.com/
+production.cloudfront.docker.com/
 registry-1.docker.io/
 registry.scout.docker.com/
 sessions.bugsnag.com/
