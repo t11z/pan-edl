@@ -5,7 +5,6 @@ africloud.com/
 airnet.uz/
 al-mirror.a2hosting.com/
 alma.acidman.thelefty.org/
-alma.as3741.net/
 alma.idhosting.pl/
 alma.mirror.nyuad.nyu.edu/
 alma.mirror.serversaustralia.com.au/
@@ -214,6 +213,7 @@ mirror.23m.com/
 mirror.2degrees.nz/
 mirror.a1.mk/
 mirror.aarnet.edu.au/
+mirror.accum.se/
 mirror.africloud.com/
 mirror.airnet.uz/
 mirror.alastyr.com/
@@ -228,7 +228,6 @@ mirror.amscloud.co.id/
 mirror.amscloud.co.id::almalinux/
 mirror.anquan.cl/
 mirror.aptus.co.tz/
-mirror.as3741.net/
 mirror.ati.tn/
 mirror.az31.cloudpropeller.com/
 mirror.azvps.vn/
@@ -301,6 +300,7 @@ mirror.krfoss.org/
 mirror.lchs.network/
 mirror.limda.net/
 mirror.linux.duke.edu/
+mirror.linux.ec/
 mirror.linux.ncsu.edu/
 mirror.liteserver.nl/
 mirror.lyrahosting.com/
@@ -326,8 +326,6 @@ mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
 mirror.nodespace.com/
 mirror.nyist.edu.cn/
-mirror.ossplanet.net/
-mirror.ox.ac.uk/
 mirror.papua.go.id/
 mirror.pit.teraswitch.com/
 mirror.plusline.net/
@@ -386,7 +384,6 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
-mirror3.krfoss.org/
 mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
@@ -472,7 +469,6 @@ opencolo.mm.fcix.net/
 opensource.fb.com/
 or-mirror.iwebfusion.net/
 ord.mirror.rackspace.com/
-ossplanet.net/
 osuosl.org/
 per.aws.repo.almalinux.org/
 phoenixnap.com/
@@ -553,8 +549,10 @@ wiki.lug.ro/
 www.01link.net/
 www.2degrees.nz/
 www.4psa.com/
+www.Linux.ec/
 www.VPSnet.com/
 www.aarnet.edu.au/
+www.accum.se/
 www.alastyr.com/
 www.aliyun.com/
 www.almalinux.org/
@@ -653,7 +651,6 @@ www.nxthost.com/
 www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
-www.ox.ac.uk/
 www.papua.go.id/
 www.peralex.com/
 www.physics.uoc.gr/
