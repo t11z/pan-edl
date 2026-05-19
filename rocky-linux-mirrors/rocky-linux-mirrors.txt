@@ -119,7 +119,6 @@ mirrors.melbourne.co.uk/
 mirrors.neterra.net/
 mirrors.nxthost.com/
 mirrors.pidginhost.com/
-mirrors.qlu.edu.cn/
 mirrors.rit.edu/
 mirrors.rockylinux.org/
 mirrors.teamcloud.am/
@@ -240,7 +239,6 @@ www.ovhcloud.com/
 www.plusline.net/
 www.ps.kz/
 www.puzzle.ch/
-www.qlu.edu.cn/
 www.rabisu.com/
 www.rackspace.com/
 www.reloumirrors.net/
