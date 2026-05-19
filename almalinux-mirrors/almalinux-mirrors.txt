@@ -56,6 +56,7 @@ alpha-labs.net/
 amscloud.co.id/
 aptus.co.tz/
 ash.mirrors.clouvider.net/
+asnet.am/
 atl.mirrors.clouvider.net/
 atl.mirrors.ezscale.cloud/
 atl.mirrors.knownhost.com/
@@ -92,6 +93,7 @@ datautama.net.id/
 de.mirrors.clouvider.net/
 den.aws.repo.almalinux.org/
 dewabiz.com/
+dinosaurus.fleksibel.com/
 distrohub.kyiv.ua/
 diyarciftci.xyz/
 docker.ru/
@@ -109,6 +111,7 @@ ezscale.cloud/
 fam.org.nz/
 fcix.net/
 fibia.dk/
+fleksibel.com/
 flokinet.is/
 for.aws.repo.almalinux.org/
 forksystems.mm.fcix.net/
@@ -132,7 +135,6 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
-ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -177,7 +179,6 @@ ipinfo.io/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
-itc.zju.edu.cn/
 ixirhost.com/
 jagoanhosting.com/
 jetserver.co.il/
@@ -211,6 +212,7 @@ mirror.23m.com/
 mirror.2degrees.nz/
 mirror.a1.mk/
 mirror.aarnet.edu.au/
+mirror.accum.se/
 mirror.africloud.com/
 mirror.airnet.uz/
 mirror.alastyr.com/
@@ -230,7 +232,6 @@ mirror.ati.tn/
 mirror.az31.cloudpropeller.com/
 mirror.azvps.vn/
 mirror.bahnhof.net/
-mirror.bf-net.ch/
 mirror.bitency.nl/
 mirror.cedia.org.ec/
 mirror.ch.altushost.com/
@@ -324,6 +325,7 @@ mirror.nl.leaseweb.net/
 mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
 mirror.nodespace.com/
+mirror.nyist.edu.cn/
 mirror.ossplanet.net/
 mirror.ox.ac.uk/
 mirror.papua.go.id/
@@ -387,6 +389,7 @@ mirror1.sox.rs/
 mirror3.krfoss.org/
 mirrors.aliyun.com/
 mirrors.almalinux.org/
+mirrors.asnet.am/
 mirrors.atlas.net.co/
 mirrors.binaryracks.com/
 mirrors.bkns.vn/
@@ -441,7 +444,6 @@ mirrors.xtom.de/
 mirrors.xtom.ee/
 mirrors.xtom.jp/
 mirrors.xtom.nl/
-mirrors.zju.edu.cn/
 mnl.aws.repo.almalinux.org/
 mr.heru.id/
 msp.aws.repo.almalinux.org/
@@ -552,6 +554,7 @@ www.4psa.com/
 www.Linux.ec/
 www.VPSnet.com/
 www.aarnet.edu.au/
+www.accum.se/
 www.alastyr.com/
 www.aliyun.com/
 www.almalinux.org/
@@ -647,6 +650,7 @@ www.nic.cz/
 www.nic.funet.fi/
 www.nodespace.com/
 www.nxthost.com/
+www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
 www.ox.ac.uk/
@@ -661,7 +665,6 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
-www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
