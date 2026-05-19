@@ -105,7 +105,6 @@ ftp.dk.debian.org/
 ftp.ec-m.fr/
 ftp.ee.debian.org/
 ftp.eenet.ee/
-ftp.eq.uc.pt/
 ftp.fau.de/
 ftp.fi.debian.org/
 ftp.fr.debian.org/
@@ -194,7 +193,6 @@ mirror.cpsc.ucalgary.ca/
 mirror.creoline.net/
 mirror.csclub.uwaterloo.ca/
 mirror.datacenter.by/
-mirror.de.leaseweb.net/
 mirror.debian.ikoula.com/
 mirror.djvg.sg/
 mirror.dkm.cz/
@@ -236,7 +234,6 @@ mirror.mythic-beasts.com/
 mirror.neftm.ru/
 mirror.nforce.com/
 mirror.nitc.ac.in/
-mirror.nl.leaseweb.net/
 mirror.nl.mirhosting.net/
 mirror.ox.ac.uk/
 mirror.plusline.net/
@@ -266,7 +263,6 @@ mirror.us.mirhosting.net/
 mirror.us.oneandone.net/
 mirror.veesp.com/
 mirror.vinehost.net/
-mirror.vpgrp.io/
 mirror.wtnet.de/
 mirror.xeonbd.com/
 mirror.xtom.com.hk/
@@ -319,7 +315,6 @@ repo.jztkft.hu/
 repos.interior.edu.uy/
 ro.mirror.flokinet.net/
 security.debian.org/
-softlibre.unizar.es/
 tw1.mirror.blendbyte.net/
 werog.interkoneksimedia.co.id/
 www.nic.funet.fi/
