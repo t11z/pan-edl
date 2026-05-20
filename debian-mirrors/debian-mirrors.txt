@@ -18,7 +18,6 @@ debian.charite.de/
 debian.connesi.it/
 debian.cs.nycu.edu.tw/
 debian.csail.mit.edu/
-debian.dynamica.it/
 debian.envisagecloud.net.za/
 debian.ethz.ch/
 debian.grn.cat/
@@ -187,7 +186,6 @@ mirror.blue3.com.br/
 mirror.braindrainlan.nu/
 mirror.cloudhosting.lv/
 mirror.cogentco.com/
-mirror.corbina.net/
 mirror.cov.ukservers.com/
 mirror.cpsc.ucalgary.ca/
 mirror.creoline.net/

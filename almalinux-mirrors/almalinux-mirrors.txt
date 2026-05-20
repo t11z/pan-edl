@@ -260,6 +260,7 @@ mirror.dogado.de/
 mirror.domainhizmetleri.com/
 mirror.ekiphost.com/
 mirror.elice.io/
+mirror.esecuredata.com/
 mirror.eu.4psacloud.com/
 mirror.facebook.net/
 mirror.fcix.net/
@@ -448,7 +449,6 @@ mnl.aws.repo.almalinux.org/
 mr.heru.id/
 msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
-muug.ca/
 nc-mirror.iwebfusion.net/
 nchc.org.tw/
 neterra.ne/
@@ -464,6 +464,7 @@ nyc.almalinux.osuosl.org/
 nyc.mirrors.clouvider.net/
 nyuad.nyu.edu/
 ocf.berkeley.edu/
+ohioix.mm.fcix.net/
 oit.gatech.edu/
 opencolo.mm.fcix.net/
 opensource.fb.com/
@@ -589,6 +590,7 @@ www.dogado.de/
 www.domainhizmetleri.com/
 www.edgoo.io/
 www.elhacker.net/
+www.esecuredata.com/
 www.exoscale.com/
 www.fastly.com/
 www.fi.muni.cz/
