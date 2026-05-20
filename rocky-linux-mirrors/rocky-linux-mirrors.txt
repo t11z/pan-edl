@@ -73,6 +73,7 @@ mirror.eu.ossplanet.net/
 mirror.freedif.org/
 mirror.hashy0917.net/
 mirror.hnd.cl/
+mirror.hosthink.net/
 mirror.iad-1.serverforge.org/
 mirror.in2p3.fr/
 mirror.karneval.cz/
@@ -216,6 +217,7 @@ www.etf.bg.ac.rs/
 www.fi.muni.cz/
 www.hashy0917.net/
 www.hi.no/
+www.hosthink.net/
 www.hostiserver.com/
 www.hs-esslingen.de/
 www.ibiblio.org/
