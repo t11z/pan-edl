@@ -174,7 +174,6 @@ internet.asn.au/
 ip-connect.info/
 ip-connect.vn.ua/
 ipacct.com/
-iphost.md/
 ipinfo.io/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
@@ -253,8 +252,6 @@ mirror.de.leaseweb.net/
 mirror.dewabiz.com/
 mirror.digitalpacific.com.au/
 mirror.diyarciftci.xyz/
-mirror.dk.team.blue/
-mirror.dk.team.blue::almalinux/
 mirror.docker.ru/
 mirror.dogado.de/
 mirror.domainhizmetleri.com/
@@ -289,7 +286,6 @@ mirror.init7.net/
 mirror.init7.net::almalinux/
 mirror.internet.asn.au/
 mirror.interserver.net/
-mirror.iphost.md/
 mirror.isoc.org.il/
 mirror.ixirhost.com/
 mirror.jagoanhosting.id/
@@ -525,7 +521,6 @@ storpool.com/
 syd.mirror.rackspace.com/
 tc.edu.tw/
 team-cymru.com/
-team.blue/
 teamhydra.dev/
 telepoint.bg/
 teraswitch.com/
