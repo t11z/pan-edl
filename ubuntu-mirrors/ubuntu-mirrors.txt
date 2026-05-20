@@ -142,7 +142,6 @@ mirror.battern.eu/
 mirror.bg.host.ag/
 mirror.bizflycloud.vn/
 mirror.biznetgio.com/
-mirror.bytemark.co.uk/
 mirror.ca-tr.kamatera.com/
 mirror.cc.vt.edu/
 mirror.cedia.org.ec/
@@ -446,7 +445,6 @@ mirrors.piconets.webwerks.in/
 mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
 mirrors.ptisp.pt/
-mirrors.qlu.edu.cn/
 mirrors.rit.edu/
 mirrors.sarak.as/
 mirrors.sdu.edu.cn/
