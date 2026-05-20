@@ -30,7 +30,6 @@ almalinux.mirror.katapult.io/
 almalinux.mirror.liquidtelecom.com/
 almalinux.mirror.liteserver.nl/
 almalinux.mirror.net.za/
-almalinux.mirror.scopesky.com/
 almalinux.mirror.shastacoe.net/
 almalinux.mirror.sofia.incognet.io/
 almalinux.mirror.thegigabit.com/
@@ -77,7 +76,6 @@ bytes.ua/
 capital.hoster.kz/
 cc.in2p3.fr/
 chi.almalinux.osuosl.org/
-citrahost.com/
 cloudforest.co.th/
 cloudpropeller.com/
 cofractal-ewr.mm.fcix.net/
@@ -101,7 +99,6 @@ doit.missouri.edu/
 domainesia.com/
 dotsrc.org/
 dsu.edu/
-edgeuno-bog2.mm.fcix.net/
 ekiphost.com/
 elice.io/
 elmirror.cl/
@@ -238,10 +235,8 @@ mirror.bitency.nl/
 mirror.cedia.org.ec/
 mirror.ch.altushost.com/
 mirror.chpc.utah.edu/
-mirror.citrahost.com/
 mirror.clarkson.edu/
 mirror.cloudpropeller.com/
-mirror.cogentco.com/
 mirror.colocenter.nl/
 mirror.cov.ukservers.com/
 mirror.cpsc.ucalgary.ca/
@@ -314,12 +309,10 @@ mirror.mephi.ru/
 mirror.mia11.us.leaseweb.net/
 mirror.mijn.host/
 mirror.moack.co.kr/
-mirror.mtl2.ca.leaseweb.net/
 mirror.net.za/
 mirror.netsite.dk/
 mirror.netweaver.uk/
 mirror.netzwerge.de/
-mirror.nevacloud.com/
 mirror.nforce.com/
 mirror.nishi.network/
 mirror.nl.altushost.com/
@@ -327,7 +320,6 @@ mirror.nl.leaseweb.net/
 mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
 mirror.nodespace.com/
-mirror.nyist.edu.cn/
 mirror.ossplanet.net/
 mirror.ox.ac.uk/
 mirror.papua.go.id/
@@ -339,7 +331,6 @@ mirror.rackspeed.de/
 mirror.raiolanetworks.com/
 mirror.randhost.com/
 mirror.rcg.sfu.ca/
-mirror.realcompute.io/
 mirror.reenigne.net/
 mirror.renu.ac.ug/
 mirror.rnet.missouri.edu/
@@ -387,6 +378,7 @@ mirror.xeonbd.com/
 mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
+mirror1.sox.rs/
 mirror3.krfoss.org/
 mirrors.aliyun.com/
 mirrors.almalinux.org/
@@ -455,7 +447,6 @@ nc-mirror.iwebfusion.net/
 nchc.org.tw/
 net.sjtu.edu.cn/
 neterra.ne/
-nevacloud.com/
 nexril.net/
 nhanhoa.com/
 nl.mirror.flokinet.net/
@@ -496,6 +487,7 @@ repo.ialab.dsu.edu/
 repo.ifca.es/
 repo.shinjiru.com/
 rit.edu/
+ro.mirror.flokinet.net/
 rpmfind.net/
 rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
@@ -580,7 +572,6 @@ www.cixug.gal/
 www.cloud9.ge/
 www.clouvider.com/
 www.codeforhost.com/
-www.cogentco.com/
 www.coreix.net/
 www.csc.fi/
 www.csuc.cat/
@@ -650,7 +641,6 @@ www.nic.cz/
 www.nic.funet.fi/
 www.nodespace.com/
 www.nxthost.com/
-www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
 www.ox.ac.uk/
@@ -664,10 +654,8 @@ www.psnc.pl/
 www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
-www.rwts.com.au/
 www.sakura.ad.jp/
 www.schlundtech.de/
-www.scopesky.iq/
 www.servaxnet.com/
 www.server.net/
 www.serverion.com/
@@ -678,6 +666,7 @@ www.siena.edu/
 www.sitsa.com.ar/
 www.siwoo.org/
 www.sonic.com/
+www.sox.rs/
 www.steadfast.net/
 www.swinburne.edu.au/
 www.telecomarmenia.am/
