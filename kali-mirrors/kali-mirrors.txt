@@ -1,7 +1,10 @@
 archive.kali.org/
-blog.cloudflare.com/
 cdimage.kali.org/
+cdnjs.cloudflare.com/
+creativecommons.org/
+fonts.googleapis.com/
+github.com/
 http.kali.org/
-kali.download/
-old.kali.org/
+openstreetmap.org/
 www.kali.org/
+{s}.tile.openstreetmap.org/

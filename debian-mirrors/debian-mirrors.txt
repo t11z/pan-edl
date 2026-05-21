@@ -26,7 +26,6 @@ debian.inf.tu-dresden.de/
 debian.interhost.co.il/
 debian.ipacct.com/
 debian.ipsys.bf/
-debian.iskon.hr/
 debian.koyanet.lv/
 debian.lagis.at/
 debian.linux.n0c.ca/
