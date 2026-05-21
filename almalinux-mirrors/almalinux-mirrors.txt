@@ -29,7 +29,6 @@ almalinux.mirror.globo.tech/
 almalinux.mirror.katapult.io/
 almalinux.mirror.liquidtelecom.com/
 almalinux.mirror.liteserver.nl/
-almalinux.mirror.scopesky.com/
 almalinux.mirror.shastacoe.net/
 almalinux.mirror.sofia.incognet.io/
 almalinux.mirror.thegigabit.com/
@@ -75,7 +74,6 @@ bugs.almalinux.org/
 bytes.ua/
 capital.hoster.kz/
 cat.pdx.edu/
-cc.in2p3.fr/
 chi.almalinux.osuosl.org/
 citrahost.com/
 cloudforest.co.th/
@@ -118,7 +116,6 @@ forksystems.mm.fcix.net/
 fr2.rpmfind.net/
 free.nchc.org.tw/
 ftp.arnes.si/
-ftp.belnet.be/
 ftp.bme.hu/
 ftp.cc.uoc.gr/
 ftp.cixug.es/
@@ -241,7 +238,6 @@ mirror.chpc.utah.edu/
 mirror.citrahost.com/
 mirror.clarkson.edu/
 mirror.cloudpropeller.com/
-mirror.cogentco.com/
 mirror.colocenter.nl/
 mirror.cov.ukservers.com/
 mirror.cpsc.ucalgary.ca/
@@ -284,7 +280,6 @@ mirror.hostiko.network/
 mirror.hs-esslingen.de/
 mirror.ibcp.fr/
 mirror.ihost.md/
-mirror.in2p3.fr/
 mirror.init7.net/
 mirror.init7.net::almalinux/
 mirror.internet.asn.au/
@@ -318,6 +313,7 @@ mirror.mtl2.ca.leaseweb.net/
 mirror.netsite.dk/
 mirror.netweaver.uk/
 mirror.netzwerge.de/
+mirror.nevacloud.com/
 mirror.nforce.com/
 mirror.nishi.network/
 mirror.nl.altushost.com/
@@ -374,7 +370,6 @@ mirror.veritescil.com.tr/
 mirror.vpsnet.com/
 mirror.vsys.host/
 mirror.vtti.vt.edu/
-mirror.wd6.net/
 mirror.wdc2.us.leaseweb.net/
 mirror.webworld.ie/
 mirror.wiseglobalsolutions.com/
@@ -387,6 +382,7 @@ mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
 mirror3.krfoss.org/
+mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.atlas.net.co/
@@ -419,7 +415,6 @@ mirrors.neterra.net/
 mirrors.nhanhoa.com/
 mirrors.nju.edu.cn/
 mirrors.nxthost.com/
-mirrors.nz.zappie.host/
 mirrors.oblivion.online/
 mirrors.ocf.berkeley.edu/
 mirrors.onenet.net/
@@ -454,6 +449,7 @@ nc-mirror.iwebfusion.net/
 nchc.org.tw/
 net.sjtu.edu.cn/
 neterra.ne/
+nevacloud.com/
 nexril.net/
 nhanhoa.com/
 nl.mirror.flokinet.net/
@@ -494,6 +490,7 @@ repo.ialab.dsu.edu/
 repo.ifca.es/
 repo.shinjiru.com/
 rit.edu/
+ro.mirror.flokinet.net/
 rpmfind.net/
 rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
@@ -554,6 +551,7 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
+www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -565,7 +563,6 @@ www.arnes.si/
 www.ati.tn/
 www.bahnhof.net/
 www.behostings.com/
-www.belnet.be/
 www.binaryracks.com/
 www.bkns.vn/
 www.bme.hu/
@@ -576,7 +573,6 @@ www.chroot.ro/
 www.cixug.gal/
 www.clouvider.com/
 www.codeforhost.com/
-www.cogentco.com/
 www.coreix.net/
 www.csc.fi/
 www.csuc.cat/
@@ -664,7 +660,6 @@ www.rrze.fau.de/
 www.rwts.com.au/
 www.sakura.ad.jp/
 www.schlundtech.de/
-www.scopesky.iq/
 www.servaxnet.com/
 www.server.net/
 www.serverion.com/
@@ -700,7 +695,6 @@ www.vhosting-it.com/
 www.virtono.com/
 www.vodafone.cz/
 www.vtti.vt.edu/
-www.wd6.net/
 www.wearetriple.com/
 www.web-hosting.net.my/
 www.webworld.ie/
@@ -716,6 +710,5 @@ yandex.ru/
 yer.az/
 yuki.net.uk/
 yxeix.mm.fcix.net/
-zappiehost.com/
 ziply.mm.fcix.net/
 ziplyfiber.com/
