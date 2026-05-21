@@ -95,6 +95,7 @@ datautama.net.id/
 de.mirrors.clouvider.net/
 den.aws.repo.almalinux.org/
 dewabiz.com/
+dinosaurus.fleksibel.com/
 distrohub.kyiv.ua/
 diyarciftci.xyz/
 docker.ru/
@@ -112,6 +113,7 @@ ezscale.cloud/
 fam.org.nz/
 fcix.net/
 fibia.dk/
+fleksibel.com/
 flokinet.is/
 for.aws.repo.almalinux.org/
 forksystems.mm.fcix.net/
@@ -157,7 +159,6 @@ heru.id/
 hivelocity.net/
 hkg.mirror.rackspace.com/
 hnd.cl/
-hnl.fastly.repo.almalinux.org/
 home.cern/
 host4.biz/
 hoster.kz/
@@ -167,7 +168,6 @@ hostiko.com.ua/
 iad.mirror.rackspace.com/
 icscoe.jp/
 idhosting.pl/
-ihost.md/
 incognet.io/
 insect.mm.fcix.net/
 interhost.co.il/
@@ -265,7 +265,6 @@ mirror.elice.io/
 mirror.esecuredata.com/
 mirror.eu.4psacloud.com/
 mirror.facebook.net/
-mirror.fcix.net/
 mirror.fiu.edu/
 mirror.flo.c-f.ro/
 mirror.fmt-2.serverforge.org/
@@ -285,7 +284,6 @@ mirror.hosthink.net/
 mirror.hostiko.network/
 mirror.hs-esslingen.de/
 mirror.ibcp.fr/
-mirror.ihost.md/
 mirror.in2p3.fr/
 mirror.init7.net/
 mirror.init7.net::almalinux/
@@ -388,7 +386,9 @@ mirror.xcobean.co.ke/
 mirror.xenyth.net/
 mirror.xeonbd.com/
 mirror.yandex.ru/
+mirror.yer.az/
 mirror.yuki.net.uk/
+mirror1.sox.rs/
 mirror3.krfoss.org/
 mirrors.aliyun.com/
 mirrors.almalinux.org/
@@ -427,6 +427,7 @@ mirrors.nz.zappie.host/
 mirrors.oblivion.online/
 mirrors.ocf.berkeley.edu/
 mirrors.onenet.net/
+mirrors.pt/
 mirrors.ptisp.pt/
 mirrors.rda.poa.br/
 mirrors.rit.edu/
@@ -471,6 +472,7 @@ nyuad.nyu.edu/
 ocf.berkeley.edu/
 ohioix.mm.fcix.net/
 oit.gatech.edu/
+opencolo.mm.fcix.net/
 opensource.fb.com/
 or-mirror.iwebfusion.net/
 ord.mirror.rackspace.com/
@@ -592,6 +594,7 @@ www.deac.eu/
 www.digitalpacific.com.au/
 www.dogado.de/
 www.domainhizmetleri.com/
+www.edgoo.io/
 www.elhacker.net/
 www.esecuredata.com/
 www.exoscale.com/
@@ -681,6 +684,7 @@ www.siena.edu/
 www.sitsa.com.ar/
 www.siwoo.org/
 www.sonic.com/
+www.sox.rs/
 www.steadfast.net/
 www.swinburne.edu.au/
 www.telecomarmenia.am/
@@ -718,6 +722,7 @@ xcobean.co.ke/
 xenyth.net/
 xtom.com/
 yandex.ru/
+yer.az/
 yuki.net.uk/
 yxeix.mm.fcix.net/
 zappiehost.com/

@@ -43,6 +43,7 @@ ftp.cvut.cz/
 ftp.dei.uc.pt/
 ftp.energotel.sk/
 ftp.fau.de/
+ftp.fu-berlin.de/
 ftp.gtlib.gatech.edu/
 ftp.halifax.rwth-aachen.de/
 ftp.hosteurope.de/
@@ -161,7 +162,6 @@ mirror.creoline.net/
 mirror.cs.jmu.edu/
 mirror.cs.odu.edu/
 mirror.csclub.uwaterloo.ca/
-mirror.cse.iitk.ac.in/
 mirror.d.umn.edu/
 mirror.dal.nexril.net/
 mirror.daniel-jost.net/
@@ -248,7 +248,6 @@ mirror.krfoss.org/
 mirror.kumi.systems/
 mirror.lc/
 mirror.liberty-connect.com/
-mirror.library.ucy.ac.cy/
 mirror.limda.net/
 mirror.linkdata.com/
 mirror.linux.ncsu.edu/
@@ -575,7 +574,6 @@ ubuntu.mirrors.omnilance.com/
 ubuntu.mirrors.ovh.net/
 ubuntu.mirrors.pair.com/
 ubuntu.mirrors.uk2.net/
-ubuntu.mti.mt.gov.br/
 ubuntu.netforce.hosting/
 ubuntu.ntc.net.np/
 ubuntu.org.ua/
