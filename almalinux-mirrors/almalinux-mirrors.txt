@@ -91,6 +91,7 @@ csclub.uwaterloo.ca/
 cvo.almalinux.osuosl.org/
 dal.mirrors.clouvider.net/
 datamossa.com/
+datautama.net.id/
 de.mirrors.clouvider.net/
 den.aws.repo.almalinux.org/
 dewabiz.com/
@@ -102,8 +103,6 @@ doit.missouri.edu/
 domainesia.com/
 dotsrc.org/
 dsu.edu/
-edgeuno-bog2.mm.fcix.net/
-ekiphost.com/
 elice.io/
 elmirror.cl/
 eng.mephi.ru/
@@ -121,7 +120,6 @@ free.nchc.org.tw/
 ftp.arnes.si/
 ftp.belnet.be/
 ftp.bme.hu/
-ftp.cc.uoc.gr/
 ftp.cixug.es/
 ftp.csuc.cat/
 ftp.cwuni-bayreuth.de/
@@ -185,6 +183,7 @@ jagoanhosting.com/
 jetserver.co.il/
 jingk.ai/
 jurassicinnovations.com/
+kartolo.sby.datautama.net.id/
 katapult.io/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
@@ -258,7 +257,6 @@ mirror.dk.team.blue::almalinux/
 mirror.docker.ru/
 mirror.dogado.de/
 mirror.domainhizmetleri.com/
-mirror.ekiphost.com/
 mirror.elice.io/
 mirror.eu.4psacloud.com/
 mirror.facebook.net/
@@ -386,7 +384,6 @@ mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
 mirror3.krfoss.org/
-mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.atlas.net.co/
@@ -555,7 +552,6 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
-www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -655,7 +651,6 @@ www.ovhcloud.com/
 www.ox.ac.uk/
 www.papua.go.id/
 www.peralex.com/
-www.physics.uoc.gr/
 www.plusline.net/
 www.previder.com/
 www.ps.kz/
