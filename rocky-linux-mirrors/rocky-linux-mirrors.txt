@@ -123,7 +123,6 @@ mirrors.qlu.edu.cn/
 mirrors.rit.edu/
 mirrors.rockylinux.org/
 mirrors.teamcloud.am/
-mirrors.upr.edu/
 mirrors.vcea.wsu.edu/
 missouri.edu/
 neterra.net/
@@ -259,7 +258,6 @@ www.swinburne.edu.au/
 www.syntis.net/
 www.twds.com.tw/
 www.tzulo.com/
-www.upr.edu/
 www.uv.es/
 www.vhosting.com/
 www.vodafone.cz/
