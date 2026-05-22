@@ -231,6 +231,7 @@ mirror.mythic-beasts.com/
 mirror.neftm.ru/
 mirror.nforce.com/
 mirror.nitc.ac.in/
+mirror.nju.edu.cn/
 mirror.nl.mirhosting.net/
 mirror.nyist.edu.cn/
 mirror.ourhost.az/
@@ -295,6 +296,7 @@ mirrors.rackhosting.com/
 mirrors.tuna.tsinghua.edu.cn/
 mirrors.upr.edu/
 mirrors.ustc.edu.cn/
+mirrors.vcea.wsu.edu/
 mirrors.wikimedia.org/
 mirrors.xtom.au/
 mirrors.xtom.com/
