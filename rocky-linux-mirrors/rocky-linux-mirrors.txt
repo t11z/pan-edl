@@ -110,7 +110,6 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror1.hs-esslingen.de/
 mirror1.isoc.org.il/
-mirrors-1.nkn.in/
 mirrors.dotsrc.org/
 mirrors.esto.network/
 mirrors.hostiserver.com/
@@ -179,6 +178,7 @@ rocky.mirror.liquidtelecom.com/
 rocky.mirror.shastacoe.net/
 rocky.mirror.thegigabit.com/
 rocky.reloumirrors.net/
+rocky.task.gda.pl/
 rockylinux.anexia.at/
 rockylinux.hi.no/
 rockylinux.mirrors.ovh.net/
@@ -194,6 +194,7 @@ sa.mirrors.cicku.me/
 serverforge.org/
 soflibre.unizar.es/
 softlibre.unizar.es/
+task.gda.pl/
 teamcloud.am/
 telepoint.bg/
 thegigabit.com/
