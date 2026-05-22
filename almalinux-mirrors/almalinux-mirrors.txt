@@ -288,6 +288,7 @@ mirror.in2p3.fr/
 mirror.init7.net/
 mirror.init7.net::almalinux/
 mirror.internet.asn.au/
+mirror.interserver.net/
 mirror.iphost.md/
 mirror.isoc.org.il/
 mirror.ixirhost.com/
@@ -328,7 +329,6 @@ mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
 mirror.nodespace.com/
 mirror.nyist.edu.cn/
-mirror.ossplanet.net/
 mirror.ox.ac.uk/
 mirror.papua.go.id/
 mirror.pit.teraswitch.com/
@@ -475,7 +475,6 @@ opencolo.mm.fcix.net/
 opensource.fb.com/
 or-mirror.iwebfusion.net/
 ord.mirror.rackspace.com/
-ossplanet.net/
 osuosl.org/
 per.aws.repo.almalinux.org/
 phoenixnap.com/
@@ -620,6 +619,7 @@ www.ibcp.fr/
 www.idkom.de/
 www.iij.ad.jp/
 www.init7.net/
+www.interserver.net/
 www.ipserverone.com/
 www.isoc.org.il/
 www.itworxx.de/
