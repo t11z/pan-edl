@@ -6,6 +6,7 @@ airnet.uz/
 al-mirror.a2hosting.com/
 alma.acidman.thelefty.org/
 alma.as3741.net/
+alma.idhosting.pl/
 alma.mirror.nyuad.nyu.edu/
 alma.mirror.serversaustralia.com.au/
 almalinux-mirror.tpa.hivelocity.net/
@@ -102,7 +103,6 @@ domainesia.com/
 dotsrc.org/
 dsu.edu/
 edgeuno-bog2.mm.fcix.net/
-ekiphost.com/
 elice.io/
 elmirror.cl/
 eng.mephi.ru/
@@ -166,6 +166,7 @@ hostico.ro/
 hostiko.com.ua/
 iad.mirror.rackspace.com/
 icscoe.jp/
+idhosting.pl/
 incognet.io/
 insect.mm.fcix.net/
 interhost.co.il/
@@ -178,6 +179,7 @@ ipinfo.io/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
+itc.zju.edu.cn/
 ixirhost.com/
 jagoanhosting.com/
 jetserver.co.il/
@@ -256,7 +258,6 @@ mirror.dk.team.blue::almalinux/
 mirror.docker.ru/
 mirror.dogado.de/
 mirror.domainhizmetleri.com/
-mirror.ekiphost.com/
 mirror.elice.io/
 mirror.esecuredata.com/
 mirror.eu.4psacloud.com/
@@ -445,6 +446,7 @@ mirrors.xtom.de/
 mirrors.xtom.ee/
 mirrors.xtom.jp/
 mirrors.xtom.nl/
+mirrors.zju.edu.cn/
 mnl.aws.repo.almalinux.org/
 mr.heru.id/
 msp.aws.repo.almalinux.org/
