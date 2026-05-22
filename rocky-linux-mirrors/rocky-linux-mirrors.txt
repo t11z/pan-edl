@@ -103,7 +103,6 @@ mirror.telepoint.bg/
 mirror.twds.com.tw/
 mirror.tzulo.com/
 mirror.uv.es/
-mirror.volia.net/
 mirror.web-ster.com/
 mirror.wonchan.net/
 mirror.yandex.ru/
@@ -183,7 +182,6 @@ rockylinux.mirrors.ovh.net/
 rockylinux.mirrorservice.org/
 rockylinux.org/
 rockylinux.uni-sofia.bg/
-rockylinux.volia.net/
 rsync.mirrorservice.org/
 ru.dyi.ng/
 ru.mirrors.cicku.me/
