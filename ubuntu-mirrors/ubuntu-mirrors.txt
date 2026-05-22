@@ -145,6 +145,7 @@ mirror.bacloud.com/
 mirror.bahnhof.net/
 mirror.battern.eu/
 mirror.bg.host.ag/
+mirror.bharatdatacenter.com/
 mirror.bizflycloud.vn/
 mirror.biznetgio.com/
 mirror.ca-tr.kamatera.com/
@@ -258,6 +259,7 @@ mirror.linkdata.com/
 mirror.linux.ncsu.edu/
 mirror.logol.ru/
 mirror.lstn.net/
+mirror.lug.umbc.edu/
 mirror.lyrahosting.com/
 mirror.maeen.sa/
 mirror.marwan.ma/
@@ -450,6 +452,7 @@ mirrors.piconets.webwerks.in/
 mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
 mirrors.ptisp.pt/
+mirrors.qlu.edu.cn/
 mirrors.rit.edu/
 mirrors.sarak.as/
 mirrors.sdu.edu.cn/
