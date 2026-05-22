@@ -232,6 +232,7 @@ mirror.neftm.ru/
 mirror.nforce.com/
 mirror.nitc.ac.in/
 mirror.nl.mirhosting.net/
+mirror.nyist.edu.cn/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
 mirror.plusline.net/
