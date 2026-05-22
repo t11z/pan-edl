@@ -74,7 +74,6 @@ mirror.freedif.org/
 mirror.hashy0917.net/
 mirror.hnd.cl/
 mirror.hosthink.net/
-mirror.iad-1.serverforge.org/
 mirror.in2p3.fr/
 mirror.karneval.cz/
 mirror.krfoss.org/
