@@ -118,6 +118,7 @@ flokinet.is/
 for.aws.repo.almalinux.org/
 forksystems.mm.fcix.net/
 fr2.rpmfind.net/
+free.nchc.org.tw/
 ftp.arnes.si/
 ftp.belnet.be/
 ftp.bme.hu/
@@ -180,6 +181,7 @@ ipinfo.io/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
+itc.zju.edu.cn/
 ixirhost.com/
 jagoanhosting.com/
 jetserver.co.il/
@@ -334,6 +336,7 @@ mirror.papua.go.id/
 mirror.pit.teraswitch.com/
 mirror.plusline.net/
 mirror.previder.nl/
+mirror.ps.kz/
 mirror.rackspeed.de/
 mirror.raiolanetworks.com/
 mirror.randhost.com/
@@ -386,7 +389,6 @@ mirror.xeonbd.com/
 mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
-mirror1.sox.rs/
 mirror3.krfoss.org/
 mirrors.aliyun.com/
 mirrors.almalinux.org/
@@ -446,12 +448,14 @@ mirrors.xtom.de/
 mirrors.xtom.ee/
 mirrors.xtom.jp/
 mirrors.xtom.nl/
+mirrors.zju.edu.cn/
 mnl.aws.repo.almalinux.org/
 mr.heru.id/
 msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
 muug.ca/
 nc-mirror.iwebfusion.net/
+nchc.org.tw/
 net.sjtu.edu.cn/
 neterra.ne/
 nevacloud.com/
@@ -661,6 +665,7 @@ www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
 www.previder.com/
+www.ps.kz/
 www.psnc.pl/
 www.rackspace.com/
 www.riken.jp/
@@ -679,7 +684,6 @@ www.siena.edu/
 www.sitsa.com.ar/
 www.siwoo.org/
 www.sonic.com/
-www.sox.rs/
 www.steadfast.net/
 www.swinburne.edu.au/
 www.telecomarmenia.am/
