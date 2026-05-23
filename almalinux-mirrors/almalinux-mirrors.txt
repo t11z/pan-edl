@@ -63,7 +63,6 @@ atl.mirrors.ezscale.cloud/
 atl.mirrors.knownhost.com/
 atlas.net.co/
 aws.amazon.com/
-azvps.vn/
 beltelecom.by/
 bitency.nl/
 blog.almalinux.org/
@@ -117,7 +116,6 @@ fibia.dk/
 fleksibel.com/
 flokinet.is/
 for.aws.repo.almalinux.org/
-forksystems.mm.fcix.net/
 fr2.rpmfind.net/
 free.nchc.org.tw/
 ftp.arnes.si/
@@ -193,8 +191,6 @@ kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 la.mirrors.clouvider.net/
 leaseweb.com/
-lidsol.fi-b.unam.mx/
-lidsol.unam.mx/
 linux-mirrors.fnal.gov/
 linux.domainesia.com/
 linux.duke.edu/
@@ -234,7 +230,6 @@ mirror.aptus.co.tz/
 mirror.as3741.net/
 mirror.ati.tn/
 mirror.az31.cloudpropeller.com/
-mirror.azvps.vn/
 mirror.bahnhof.net/
 mirror.bf-net.ch/
 mirror.bitency.nl/
@@ -391,7 +386,7 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
-mirror3.krfoss.org/
+mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.atlas.net.co/
@@ -421,7 +416,6 @@ mirrors.melbourne.co.uk/
 mirrors.mvps.net/
 mirrors.nav.ro/
 mirrors.neterra.net/
-mirrors.nhanhoa.com/
 mirrors.nju.edu.cn/
 mirrors.nxthost.com/
 mirrors.nz.zappie.host/
@@ -460,7 +454,6 @@ net.sjtu.edu.cn/
 neterra.ne/
 nevacloud.com/
 nexril.net/
-nhanhoa.com/
 nl.mirror.flokinet.net/
 nl.mirrors.clouvider.net/
 nnenix.mm.fcix.net/
@@ -547,7 +540,6 @@ unilak.ac.id/
 usi.edu/
 veesp.com/
 vhost.vn/
-vn-mirrors.vhost.vn/
 volico.mm.fcix.net/
 vpsttt.com/
 vsys.host/
@@ -561,6 +553,7 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
+www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/

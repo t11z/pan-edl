@@ -349,6 +349,7 @@ mirror.ourhost.az/
 mirror.pagenotfound.de/
 mirror.papua.go.id/
 mirror.peeres-telecom.fr/
+mirror.pileus.kr/
 mirror.pilotfiber.com/
 mirror.pit.teraswitch.com/
 mirror.pmf.kg.ac.rs/
@@ -438,6 +439,7 @@ mirrors.cqu.edu.cn/
 mirrors.dotsrc.org/
 mirrors.eric.ovh/
 mirrors.evoluso.com/
+mirrors.foxmire.space/
 mirrors.gandi.net/
 mirrors.gigenet.com/
 mirrors.hit.edu.cn/
