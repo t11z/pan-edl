@@ -248,7 +248,6 @@ mirror.cloudpropeller.com/
 mirror.cogentco.com/
 mirror.colocenter.nl/
 mirror.cov.ukservers.com/
-mirror.cpsc.ucalgary.ca/
 mirror.csclub.uwaterloo.ca/
 mirror.dal.nexril.net/
 mirror.datacenter.by/
@@ -541,7 +540,6 @@ tino.org/
 truenetwork.ru/
 tx-mirror.tier.net/
 tzulo.com/
-ucalgary.ca/
 uepg.br/
 uk.mirrors.clouvider.net/
 unifique.com.br/
