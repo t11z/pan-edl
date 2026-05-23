@@ -63,6 +63,7 @@ atl.mirrors.ezscale.cloud/
 atl.mirrors.knownhost.com/
 atlas.net.co/
 aws.amazon.com/
+azvps.vn/
 beltelecom.by/
 bitency.nl/
 blog.almalinux.org/
@@ -116,6 +117,7 @@ fibia.dk/
 fleksibel.com/
 flokinet.is/
 for.aws.repo.almalinux.org/
+forksystems.mm.fcix.net/
 fr2.rpmfind.net/
 free.nchc.org.tw/
 ftp.arnes.si/
@@ -180,6 +182,7 @@ ipinfo.io/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
+itc.zju.edu.cn/
 ixirhost.com/
 jagoanhosting.com/
 jetserver.co.il/
@@ -191,6 +194,8 @@ kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 la.mirrors.clouvider.net/
 leaseweb.com/
+lidsol.fi-b.unam.mx/
+lidsol.unam.mx/
 linux-mirrors.fnal.gov/
 linux.domainesia.com/
 linux.duke.edu/
@@ -230,6 +235,7 @@ mirror.aptus.co.tz/
 mirror.as3741.net/
 mirror.ati.tn/
 mirror.az31.cloudpropeller.com/
+mirror.azvps.vn/
 mirror.bahnhof.net/
 mirror.bf-net.ch/
 mirror.bitency.nl/
@@ -352,7 +358,6 @@ mirror.sg.gs/
 mirror.shedmtl.com/
 mirror.siena.edu/
 mirror.sitsa.com.ar/
-mirror.siwoo.org/
 mirror.sjtu.edu.cn/
 mirror.soonkeat.sg/
 mirror.speedkom.de/
@@ -386,6 +391,7 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
+mirror3.krfoss.org/
 mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
@@ -416,6 +422,7 @@ mirrors.melbourne.co.uk/
 mirrors.mvps.net/
 mirrors.nav.ro/
 mirrors.neterra.net/
+mirrors.nhanhoa.com/
 mirrors.nju.edu.cn/
 mirrors.nxthost.com/
 mirrors.nz.zappie.host/
@@ -443,6 +450,7 @@ mirrors.xtom.de/
 mirrors.xtom.ee/
 mirrors.xtom.jp/
 mirrors.xtom.nl/
+mirrors.zju.edu.cn/
 mnl.aws.repo.almalinux.org/
 mr.heru.id/
 msp.aws.repo.almalinux.org/
@@ -454,6 +462,7 @@ net.sjtu.edu.cn/
 neterra.ne/
 nevacloud.com/
 nexril.net/
+nhanhoa.com/
 nl.mirror.flokinet.net/
 nl.mirrors.clouvider.net/
 nnenix.mm.fcix.net/
@@ -540,6 +549,7 @@ unilak.ac.id/
 usi.edu/
 veesp.com/
 vhost.vn/
+vn-mirrors.vhost.vn/
 volico.mm.fcix.net/
 vpsttt.com/
 vsys.host/
@@ -674,7 +684,6 @@ www.shastacoe.org/
 www.shinjiru.com/
 www.siena.edu/
 www.sitsa.com.ar/
-www.siwoo.org/
 www.sonic.com/
 www.sox.rs/
 www.steadfast.net/
