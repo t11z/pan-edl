@@ -8,7 +8,6 @@ alma.acidman.thelefty.org/
 alma.as3741.net/
 alma.idhosting.pl/
 alma.mirror.nyuad.nyu.edu/
-alma.mirror.serversaustralia.com.au/
 almalinux-mirror.tpa.hivelocity.net/
 almalinux-mirror.unifique.cloud/
 almalinux-mirror.yucca.net/
@@ -385,6 +384,7 @@ mirror.wonchan.net/
 mirror.xcobean.co.ke/
 mirror.xenyth.net/
 mirror.xeonbd.com/
+mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
@@ -516,7 +516,6 @@ savoirfairelinux.com/
 sci.nju.edu.cn/
 seattle.crazyfast.us/
 serverforge.org/
-serversaustralia.com.au/
 sg-mirrors.vhost.vn/
 sg.gs/
 shedmtl.com/
@@ -720,6 +719,7 @@ wwww.wonchan.net/
 xcobean.co.ke/
 xenyth.net/
 xtom.com/
+yandex.ru/
 yer.az/
 yuki.net.uk/
 yxeix.mm.fcix.net/
