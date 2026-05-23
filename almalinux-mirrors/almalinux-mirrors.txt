@@ -102,6 +102,7 @@ doit.missouri.edu/
 domainesia.com/
 dotsrc.org/
 dsu.edu/
+edgeuno-bog2.mm.fcix.net/
 elice.io/
 elmirror.cl/
 eng.mephi.ru/
@@ -325,13 +326,11 @@ mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
 mirror.nodespace.com/
 mirror.nyist.edu.cn/
-mirror.ossplanet.net/
 mirror.ox.ac.uk/
 mirror.papua.go.id/
 mirror.pit.teraswitch.com/
 mirror.plusline.net/
 mirror.previder.nl/
-mirror.ps.kz/
 mirror.rackspeed.de/
 mirror.raiolanetworks.com/
 mirror.randhost.com/
@@ -351,6 +350,7 @@ mirror.sg.gs/
 mirror.shedmtl.com/
 mirror.siena.edu/
 mirror.sitsa.com.ar/
+mirror.siwoo.org/
 mirror.sjtu.edu.cn/
 mirror.soonkeat.sg/
 mirror.speedkom.de/
@@ -385,6 +385,7 @@ mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
 mirror3.krfoss.org/
+mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.atlas.net.co/
@@ -469,7 +470,6 @@ opencolo.mm.fcix.net/
 opensource.fb.com/
 or-mirror.iwebfusion.net/
 ord.mirror.rackspace.com/
-ossplanet.net/
 osuosl.org/
 per.aws.repo.almalinux.org/
 phoenixnap.com/
@@ -554,6 +554,7 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
+www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -657,7 +658,6 @@ www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
 www.previder.com/
-www.ps.kz/
 www.psnc.pl/
 www.rackspace.com/
 www.riken.jp/
@@ -674,6 +674,7 @@ www.shastacoe.org/
 www.shinjiru.com/
 www.siena.edu/
 www.sitsa.com.ar/
+www.siwoo.org/
 www.sonic.com/
 www.sox.rs/
 www.steadfast.net/
