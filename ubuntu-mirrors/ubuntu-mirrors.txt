@@ -141,7 +141,6 @@ mirror.bacloud.com/
 mirror.bahnhof.net/
 mirror.battern.eu/
 mirror.bg.host.ag/
-mirror.bharatdatacenter.com/
 mirror.bizflycloud.vn/
 mirror.biznetgio.com/
 mirror.ca-tr.kamatera.com/
@@ -253,7 +252,6 @@ mirror.library.ucy.ac.cy/
 mirror.limda.net/
 mirror.linkdata.com/
 mirror.linux.ncsu.edu/
-mirror.logol.ru/
 mirror.lstn.net/
 mirror.lug.umbc.edu/
 mirror.lyrahosting.com/
