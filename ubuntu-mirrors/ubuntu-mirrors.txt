@@ -119,7 +119,6 @@ mirror-gw.elastis.id/
 mirror-hk.koddos.net/
 mirror-mk.interspace.com/
 mirror.01link.hk/
-mirror.0x.sg/
 mirror.23m.com/
 mirror.2degrees.nz/
 mirror.5i.fi/
@@ -294,7 +293,6 @@ mirror.ossplanet.net/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
 mirror.papua.go.id/
-mirror.pilotfiber.com/
 mirror.pit.teraswitch.com/
 mirror.plusserver.com/
 mirror.poliwangi.ac.id/
@@ -302,6 +300,7 @@ mirror.previder.nl/
 mirror.ps.kz/
 mirror.rabisu.com/
 mirror.raiolanetworks.com/
+mirror.rasanegar.com/
 mirror.ratiokontakt.de/
 mirror.rcg.sfu.ca/
 mirror.realcompute.io/
