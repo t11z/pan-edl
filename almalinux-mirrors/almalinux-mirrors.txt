@@ -80,6 +80,7 @@ cat.pdx.edu/
 cc.in2p3.fr/
 chi.almalinux.osuosl.org/
 citrahost.com/
+cloudforest.co.th/
 cloudpropeller.com/
 cofractal-ewr.mm.fcix.net/
 cofractal-sea.mm.fcix.net/
@@ -244,6 +245,7 @@ mirror.clarkson.edu/
 mirror.cloudpropeller.com/
 mirror.cogentco.com/
 mirror.colocenter.nl/
+mirror.cov.ukservers.com/
 mirror.cpsc.ucalgary.ca/
 mirror.csclub.uwaterloo.ca/
 mirror.dal.nexril.net/
@@ -268,7 +270,6 @@ mirror.flo.c-f.ro/
 mirror.fmt-2.serverforge.org/
 mirror.freedif.org/
 mirror.fysik.dtu.dk/
-mirror.gi.co.id/
 mirror.grid.uchicago.edu/
 mirror.group.one/
 mirror.hashy0917.net/
@@ -316,6 +317,7 @@ mirror.moack.co.kr/
 mirror.mtl2.ca.leaseweb.net/
 mirror.net.za/
 mirror.netsite.dk/
+mirror.netweaver.uk/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nforce.com/
@@ -328,7 +330,6 @@ mirror.nodespace.com/
 mirror.nyist.edu.cn/
 mirror.ossplanet.net/
 mirror.ox.ac.uk/
-mirror.papua.go.id/
 mirror.pit.teraswitch.com/
 mirror.plusline.net/
 mirror.previder.nl/
@@ -378,6 +379,7 @@ mirror.wdc2.us.leaseweb.net/
 mirror.webworld.ie/
 mirror.wiseglobalsolutions.com/
 mirror.wonchan.net/
+mirror.xcobean.co.ke/
 mirror.xenyth.net/
 mirror.xeonbd.com/
 mirror.yandex.ru/
@@ -396,6 +398,7 @@ mirrors.bytes.ua/
 mirrors.c0urier.net/
 mirrors.cat.pdx.edu/
 mirrors.chroot.ro/
+mirrors.cloudforest.co.th/
 mirrors.coreix.net/
 mirrors.dotsrc.org/
 mirrors.fibianet.dk/
@@ -498,8 +501,6 @@ rpmfind.net/
 rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
 rsync.gtlib.gatech.edu/
-rsync.mirror.gi.co.id/
-rsync.mirror.papua.go.id/
 rsync.mirrorservice.org/
 rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
@@ -599,7 +600,6 @@ www.fnal.gov/
 www.fysik.dtu.dk/
 www.garr.it/
 www.gbnetwork.com/
-www.gi.co.id/
 www.group.one/
 www.gtlib.gatech.edu/
 www.guzel.net.tr/
@@ -643,6 +643,7 @@ www.mvps.net/
 www.nav.ro/
 www.netdirekt.com.tr/
 www.netsite.dk/
+www.netweaver.uk/
 www.netzwerge.de/
 www.nforce.com/
 www.nic.cz/
@@ -653,7 +654,6 @@ www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
 www.ox.ac.uk/
-www.papua.go.id/
 www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
@@ -692,6 +692,7 @@ www.ucr.ac.cr/
 www.ucsb.edu/
 www.uib.no/
 www.ukraine.com.ua/
+www.ukservers.com/
 www.uni-bayreuth.de/
 www.uni-ruse.bg/
 www.upr.edu/
@@ -709,6 +710,7 @@ www.xeonbd.com/
 www.yamagata-u.ac.jp/
 www.yuccatelecom.com/
 wwww.wonchan.net/
+xcobean.co.ke/
 xenyth.net/
 xtom.com/
 yandex.ru/
