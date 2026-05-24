@@ -96,14 +96,12 @@ de.mirrors.clouvider.net/
 den.aws.repo.almalinux.org/
 dewabiz.com/
 dinosaurus.fleksibel.com/
-distrohub.kyiv.ua/
 diyarciftci.xyz/
 docker.ru/
 doit.missouri.edu/
 domainesia.com/
 dotsrc.org/
 dsu.edu/
-edgeuno-bog2.mm.fcix.net/
 elice.io/
 elmirror.cl/
 eng.mephi.ru/
