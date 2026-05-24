@@ -384,9 +384,7 @@ mirror.xeonbd.com/
 mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
-mirror1.sox.rs/
 mirror3.krfoss.org/
-mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.atlas.net.co/
 mirrors.binaryracks.com/
@@ -540,6 +538,7 @@ unilak.ac.id/
 usi.edu/
 veesp.com/
 vhost.vn/
+vn-mirrors.vhost.vn/
 volico.mm.fcix.net/
 vpsttt.com/
 vsys.host/
@@ -553,7 +552,6 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
-www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -675,7 +673,6 @@ www.siena.edu/
 www.sitsa.com.ar/
 www.siwoo.org/
 www.sonic.com/
-www.sox.rs/
 www.steadfast.net/
 www.swinburne.edu.au/
 www.telecomarmenia.am/
