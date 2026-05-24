@@ -56,7 +56,6 @@ alpha-labs.net/
 amscloud.co.id/
 aptus.co.tz/
 ash.mirrors.clouvider.net/
-asnet.am/
 atl.mirrors.clouvider.net/
 atl.mirrors.ezscale.cloud/
 atl.mirrors.knownhost.com/
@@ -64,6 +63,7 @@ atlas.net.co/
 aws.amazon.com/
 azvps.vn/
 beltelecom.by/
+bharatdatacenter.com/
 bitency.nl/
 blog.almalinux.org/
 blowfishtechnology.com/
@@ -96,6 +96,7 @@ dewabiz.com/
 dinosaurus.fleksibel.com/
 distrohub.kyiv.ua/
 diyarciftci.xyz/
+docker.ru/
 doit.missouri.edu/
 domainesia.com/
 dotsrc.org/
@@ -114,7 +115,6 @@ flokinet.is/
 for.aws.repo.almalinux.org/
 forksystems.mm.fcix.net/
 fr2.rpmfind.net/
-free.nchc.org.tw/
 ftp.arnes.si/
 ftp.belnet.be/
 ftp.bme.hu/
@@ -232,6 +232,7 @@ mirror.az31.cloudpropeller.com/
 mirror.azvps.vn/
 mirror.bahnhof.net/
 mirror.bf-net.ch/
+mirror.bharatdatacenter.com/
 mirror.bitency.nl/
 mirror.cedia.org.ec/
 mirror.ch.altushost.com/
@@ -253,6 +254,7 @@ mirror.digitalpacific.com.au/
 mirror.diyarciftci.xyz/
 mirror.dk.team.blue/
 mirror.dk.team.blue::almalinux/
+mirror.docker.ru/
 mirror.dogado.de/
 mirror.domainhizmetleri.com/
 mirror.elice.io/
@@ -384,8 +386,8 @@ mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
 mirror3.krfoss.org/
+mirrors.aliyun.com/
 mirrors.almalinux.org/
-mirrors.asnet.am/
 mirrors.atlas.net.co/
 mirrors.binaryracks.com/
 mirrors.bkns.vn/
@@ -447,7 +449,6 @@ msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
 muug.ca/
 nc-mirror.iwebfusion.net/
-nchc.org.tw/
 net.sjtu.edu.cn/
 neterra.ne/
 nevacloud.com/
@@ -539,7 +540,6 @@ unilak.ac.id/
 usi.edu/
 veesp.com/
 vhost.vn/
-vn-mirrors.vhost.vn/
 volico.mm.fcix.net/
 vpsttt.com/
 vsys.host/
@@ -553,6 +553,7 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
+www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
