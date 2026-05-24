@@ -16,7 +16,6 @@ ciq.co/
 co.ge/
 cs.vt.edu/
 dc.uz/
-delska.com/
 distro.ibiblio.org/
 distrohub.kyiv.ua/
 dl.rockylinux.org/
@@ -98,6 +97,7 @@ mirror.randhost.com/
 mirror.reenigne.net/
 mirror.rnet.missouri.edu/
 mirror.servaxnet.com/
+mirror.shomepower.com/
 mirror.siena.edu/
 mirror.slu.cz/
 mirror.telepoint.bg/
@@ -172,7 +172,6 @@ rocky-linux-us-west1.production.gcp.mirrors.ctrliq.cloud/
 rocky-linux-us-west2.production.gcp.mirrors.ctrliq.cloud/
 rocky-linux-us-west3.production.gcp.mirrors.ctrliq.cloud/
 rocky-linux-us-west4.production.gcp.mirrors.ctrliq.cloud/
-rocky-linux.koyanet.lv/
 rocky.mirror.co.ge/
 rocky.mirror.liquidtelecom.com/
 rocky.mirror.shastacoe.net/
