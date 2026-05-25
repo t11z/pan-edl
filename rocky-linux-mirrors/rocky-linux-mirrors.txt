@@ -97,7 +97,6 @@ mirror.randhost.com/
 mirror.reenigne.net/
 mirror.rnet.missouri.edu/
 mirror.servaxnet.com/
-mirror.shomepower.com/
 mirror.siena.edu/
 mirror.slu.cz/
 mirror.telepoint.bg/
