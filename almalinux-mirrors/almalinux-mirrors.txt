@@ -39,6 +39,7 @@ almalinux.mirror.wearetriple.com/
 almalinux.mirrors.behostings.net/
 almalinux.mirrors.itworxx.de/
 almalinux.mirrors.ovh.net/
+almalinux.mirrorservice.org/
 almalinux.nic.cz/
 almalinux.org/
 almalinux.ourhome.kiwi/
@@ -210,6 +211,7 @@ mirhosting.com/
 mirror.01link.hk/
 mirror.0x626b.com/
 mirror.23m.com/
+mirror.2degrees.nz/
 mirror.a1.mk/
 mirror.aarnet.edu.au/
 mirror.accum.se/
@@ -257,6 +259,7 @@ mirror.dk.team.blue/
 mirror.dk.team.blue::almalinux/
 mirror.docker.ru/
 mirror.dogado.de/
+mirror.domainhizmetleri.com/
 mirror.elice.io/
 mirror.esecuredata.com/
 mirror.eu.4psacloud.com/
@@ -293,7 +296,6 @@ mirror.jingk.ai/
 mirror.junda.nl/
 mirror.karneval.cz/
 mirror.kku.ac.th/
-mirror.krfoss.org/
 mirror.lchs.network/
 mirror.limda.net/
 mirror.linux.duke.edu/
@@ -316,7 +318,6 @@ mirror.net.za/
 mirror.netsite.dk/
 mirror.netweaver.uk/
 mirror.netzwerge.de/
-mirror.nevacloud.com/
 mirror.nforce.com/
 mirror.nishi.network/
 mirror.nl.altushost.com/
@@ -324,7 +325,6 @@ mirror.nl.leaseweb.net/
 mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
 mirror.nodespace.com/
-mirror.nyist.edu.cn/
 mirror.ossplanet.net/
 mirror.ox.ac.uk/
 mirror.pit.teraswitch.com/
@@ -451,7 +451,6 @@ nc-mirror.iwebfusion.net/
 nchc.org.tw/
 net.sjtu.edu.cn/
 neterra.ne/
-nevacloud.com/
 nexril.net/
 nhanhoa.com/
 nl.mirror.flokinet.net/
@@ -497,6 +496,7 @@ rpmfind.net/
 rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
 rsync.gtlib.gatech.edu/
+rsync.mirrorservice.org/
 rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
 rsync.yuki.net.uk/
@@ -544,6 +544,7 @@ vsys.host/
 wiki.almalinux.org/
 wiki.lug.ro/
 www.01link.net/
+www.2degrees.nz/
 www.4psa.com/
 www.Linux.ec/
 www.VPSnet.com/
@@ -582,6 +583,7 @@ www.cyberfolks.ro/
 www.deac.eu/
 www.digitalpacific.com.au/
 www.dogado.de/
+www.domainhizmetleri.com/
 www.edgoo.io/
 www.elhacker.net/
 www.esecuredata.com/
@@ -616,6 +618,7 @@ www.iu13.org/
 www.iwebfusion.net/
 www.jaist.ac.jp/
 www.junda.nl/
+www.kent.ac.uk/
 www.kku.ac.th/
 www.knownhost.com/
 www.lchs.com.au/
@@ -642,7 +645,6 @@ www.nic.cz/
 www.nic.funet.fi/
 www.nodespace.com/
 www.nxthost.com/
-www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
 www.ox.ac.uk/
