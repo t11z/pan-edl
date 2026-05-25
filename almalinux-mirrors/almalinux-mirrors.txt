@@ -39,7 +39,6 @@ almalinux.mirror.wearetriple.com/
 almalinux.mirrors.behostings.net/
 almalinux.mirrors.itworxx.de/
 almalinux.mirrors.ovh.net/
-almalinux.mirrorservice.org/
 almalinux.nic.cz/
 almalinux.org/
 almalinux.ourhome.kiwi/
@@ -103,6 +102,7 @@ doit.missouri.edu/
 domainesia.com/
 dotsrc.org/
 dsu.edu/
+edgeuno-bog2.mm.fcix.net/
 elice.io/
 elmirror.cl/
 eng.mephi.ru/
@@ -187,7 +187,6 @@ jingk.ai/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
-kifu.gov.hu/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 la.mirrors.clouvider.net/
@@ -211,7 +210,6 @@ mirhosting.com/
 mirror.01link.hk/
 mirror.0x626b.com/
 mirror.23m.com/
-mirror.2degrees.nz/
 mirror.a1.mk/
 mirror.aarnet.edu.au/
 mirror.accum.se/
@@ -259,7 +257,6 @@ mirror.dk.team.blue/
 mirror.dk.team.blue::almalinux/
 mirror.docker.ru/
 mirror.dogado.de/
-mirror.domainhizmetleri.com/
 mirror.elice.io/
 mirror.esecuredata.com/
 mirror.eu.4psacloud.com/
@@ -321,7 +318,6 @@ mirror.netweaver.uk/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nforce.com/
-mirror.niif.hu/
 mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
@@ -359,6 +355,7 @@ mirror.soonkeat.sg/
 mirror.speedkom.de/
 mirror.steadfastnet.com/
 mirror.team-cymru.com/
+mirror.telepoint.bg/
 mirror.terrahost.no/
 mirror.transip.net/
 mirror.truenetwork.ru/
@@ -500,7 +497,6 @@ rpmfind.net/
 rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
 rsync.gtlib.gatech.edu/
-rsync.mirrorservice.org/
 rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
 rsync.yuki.net.uk/
@@ -525,6 +521,7 @@ tc.edu.tw/
 team-cymru.com/
 team.blue/
 teamhydra.dev/
+telepoint.bg/
 teraswitch.com/
 terrahost.no/
 thegigabit.com/
@@ -547,7 +544,6 @@ vsys.host/
 wiki.almalinux.org/
 wiki.lug.ro/
 www.01link.net/
-www.2degrees.nz/
 www.4psa.com/
 www.Linux.ec/
 www.VPSnet.com/
@@ -586,7 +582,6 @@ www.cyberfolks.ro/
 www.deac.eu/
 www.digitalpacific.com.au/
 www.dogado.de/
-www.domainhizmetleri.com/
 www.edgoo.io/
 www.elhacker.net/
 www.esecuredata.com/
@@ -621,7 +616,6 @@ www.iu13.org/
 www.iwebfusion.net/
 www.jaist.ac.jp/
 www.junda.nl/
-www.kent.ac.uk/
 www.kku.ac.th/
 www.knownhost.com/
 www.lchs.com.au/
