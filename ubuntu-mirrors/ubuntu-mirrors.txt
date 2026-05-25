@@ -318,7 +318,6 @@ mirror.server.net/
 mirror.serverloft.eu/
 mirror.sg.gs/
 mirror.sh.com.tr/
-mirror.siati.ch/
 mirror.siena.edu/
 mirror.sitsa.com.ar/
 mirror.siwoo.org/
@@ -529,7 +528,6 @@ ubuntu-archive.mirror.serveriai.lt/
 ubuntu-mirror.ati.tn/
 ubuntu-mirror.bhtelecom.ba/
 ubuntu-mirror.puq.apoapsis.cl/
-ubuntu-ports.mirror.net.in/
 ubuntu.anexia.at/
 ubuntu.btit.nz/
 ubuntu.c3sl.ufpr.br/
