@@ -15,7 +15,6 @@ almalinux-mirror.yucca.net/
 almalinux.elhacker.net/
 almalinux.interhost.co.il/
 almalinux.ip-connect.info/
-almalinux.ip-connect.vn.ua/
 almalinux.ipacct.com/
 almalinux.jetserver.co.il/
 almalinux.koyanet.lv/
@@ -53,11 +52,9 @@ almalinux.vpsttt.com/
 almalinux.web.trex.fi/
 almamirror.netdirekt.com.tr/
 almamirror.phoenixnap.com/
-alpha-labs.net/
 amscloud.co.id/
 aptus.co.tz/
 ash.mirrors.clouvider.net/
-asnet.am/
 atl.mirrors.clouvider.net/
 atl.mirrors.ezscale.cloud/
 atl.mirrors.knownhost.com/
@@ -96,7 +93,6 @@ datamossa.com/
 datautama.net.id/
 de.mirrors.clouvider.net/
 den.aws.repo.almalinux.org/
-dewabiz.com/
 dinosaurus.fleksibel.com/
 distrohub.kyiv.ua/
 diyarciftci.xyz/
@@ -106,7 +102,6 @@ domainesia.com/
 dotsrc.org/
 dsu.edu/
 edgeuno-bog2.mm.fcix.net/
-ekiphost.com/
 elice.io/
 elmirror.cl/
 eng.mephi.ru/
@@ -176,7 +171,6 @@ insect.mm.fcix.net/
 interhost.co.il/
 internet.asn.au/
 ip-connect.info/
-ip-connect.vn.ua/
 ipacct.com/
 iphost.md/
 ipinfo.io/
@@ -226,8 +220,6 @@ mirror.alma.iad1.serverforge.org/
 mirror.alma.lax1.serverforge.org/
 mirror.almalinux.peralex.com/
 mirror.almalinux.si/
-mirror.alpha-labs.net/
-mirror.alpha-labs.net::almalinux/
 mirror.alwyzon.net/
 mirror.amscloud.co.id/
 mirror.amscloud.co.id::almalinux/
@@ -255,7 +247,6 @@ mirror.dal.nexril.net/
 mirror.datacenter.by/
 mirror.datamossa.io/
 mirror.de.leaseweb.net/
-mirror.dewabiz.com/
 mirror.digitalpacific.com.au/
 mirror.diyarciftci.xyz/
 mirror.dk.team.blue/
@@ -263,7 +254,6 @@ mirror.dk.team.blue::almalinux/
 mirror.docker.ru/
 mirror.dogado.de/
 mirror.domainhizmetleri.com/
-mirror.ekiphost.com/
 mirror.elice.io/
 mirror.esecuredata.com/
 mirror.eu.4psacloud.com/
@@ -324,6 +314,7 @@ mirror.net.za/
 mirror.netsite.dk/
 mirror.netweaver.uk/
 mirror.netzwerge.de/
+mirror.nevacloud.com/
 mirror.nforce.com/
 mirror.nishi.network/
 mirror.nl.altushost.com/
@@ -333,7 +324,6 @@ mirror.nodesdirect.com/
 mirror.nodespace.com/
 mirror.nyist.edu.cn/
 mirror.ossplanet.net/
-mirror.ox.ac.uk/
 mirror.papua.go.id/
 mirror.pit.teraswitch.com/
 mirror.plusline.net/
@@ -364,7 +354,6 @@ mirror.speedkom.de/
 mirror.steadfastnet.com/
 mirror.team-cymru.com/
 mirror.telepoint.bg/
-mirror.terrahost.no/
 mirror.transip.net/
 mirror.truenetwork.ru/
 mirror.twds.com.tw/
@@ -394,7 +383,6 @@ mirror1.sox.rs/
 mirror3.krfoss.org/
 mirrors.aliyun.com/
 mirrors.almalinux.org/
-mirrors.asnet.am/
 mirrors.atlas.net.co/
 mirrors.binaryracks.com/
 mirrors.bkns.vn/
@@ -460,6 +448,7 @@ nc-mirror.iwebfusion.net/
 nchc.org.tw/
 net.sjtu.edu.cn/
 neterra.ne/
+nevacloud.com/
 nexril.net/
 nhanhoa.com/
 nl.mirror.flokinet.net/
@@ -534,7 +523,6 @@ team.blue/
 teamhydra.dev/
 telepoint.bg/
 teraswitch.com/
-terrahost.no/
 thegigabit.com/
 tino.org/
 truenetwork.ru/
@@ -659,7 +647,6 @@ www.nxthost.com/
 www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
-www.ox.ac.uk/
 www.papua.go.id/
 www.peralex.com/
 www.physics.uoc.gr/
