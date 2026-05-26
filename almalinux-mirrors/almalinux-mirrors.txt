@@ -54,7 +54,6 @@ almamirror.netdirekt.com.tr/
 almamirror.phoenixnap.com/
 aptus.co.tz/
 ash.mirrors.clouvider.net/
-asnet.am/
 atl.mirrors.clouvider.net/
 atl.mirrors.ezscale.cloud/
 atl.mirrors.knownhost.com/
@@ -83,6 +82,7 @@ cloudforest.co.th/
 cloudpropeller.com/
 cofractal-ewr.mm.fcix.net/
 cofractal-sea.mm.fcix.net/
+colocenter.nl/
 computing.ifca.es/
 cosi.clarkson.edu/
 csclub.uwaterloo.ca/
@@ -200,7 +200,6 @@ linuxsoft.cern.ch/
 lon.mirror.rackspace.com/
 lug.hit.edu.cn/
 lyrahosting.com/
-mangohost.net/
 maniaclab.uchicago.edu/
 marwan.ma/
 mijn.host/
@@ -238,6 +237,7 @@ mirror.citrahost.com/
 mirror.clarkson.edu/
 mirror.cloudpropeller.com/
 mirror.cogentco.com/
+mirror.colocenter.nl/
 mirror.cov.ukservers.com/
 mirror.cpsc.ucalgary.ca/
 mirror.csclub.uwaterloo.ca/
@@ -262,7 +262,6 @@ mirror.fiu.edu/
 mirror.flo.c-f.ro/
 mirror.fmt-2.serverforge.org/
 mirror.freedif.org/
-mirror.fysik.dtu.dk/
 mirror.gi.co.id/
 mirror.grid.uchicago.edu/
 mirror.group.one/
@@ -299,7 +298,6 @@ mirror.linux.ncsu.edu/
 mirror.liteserver.nl/
 mirror.lyrahosting.com/
 mirror.maeen.sa/
-mirror.mangohost.net/
 mirror.maple-hosting.com/
 mirror.marwan.ma/
 mirror.mci-1.serverforge.org/
@@ -359,7 +357,6 @@ mirror.twds.com.tw/
 mirror.tzulo.com/
 mirror.uepg.br/
 mirror.unilak.ac.id/
-mirror.us-midwest-1.nexcess.net/
 mirror.us.mirhosting.net/
 mirror.usi.edu/
 mirror.veesp.com/
@@ -379,10 +376,8 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
-mirror3.krfoss.org/
 mirrors.aliyun.com/
 mirrors.almalinux.org/
-mirrors.asnet.am/
 mirrors.atlas.net.co/
 mirrors.binaryracks.com/
 mirrors.bkns.vn/
@@ -591,7 +586,6 @@ www.fastly.com/
 www.fi.muni.cz/
 www.fiu.edu/
 www.fnal.gov/
-www.fysik.dtu.dk/
 www.garr.it/
 www.gbnetwork.com/
 www.gi.co.id/
@@ -626,7 +620,6 @@ www.limda.net/
 www.linkedin.com/
 www.lip6.fr/
 www.liquid.tech/
-www.liquidweb.com/
 www.liteserver.nl/
 www.lysator.liu.se/
 www.maeen.sa/
