@@ -144,6 +144,7 @@ mirror.bacloud.com/
 mirror.bahnhof.net/
 mirror.battern.eu/
 mirror.bg.host.ag/
+mirror.bharatdatacenter.com/
 mirror.bizflycloud.vn/
 mirror.biznetgio.com/
 mirror.bytemark.co.uk/
@@ -257,6 +258,7 @@ mirror.library.ucy.ac.cy/
 mirror.limda.net/
 mirror.linkdata.com/
 mirror.linux.ncsu.edu/
+mirror.logol.ru/
 mirror.lstn.net/
 mirror.lug.umbc.edu/
 mirror.lyrahosting.com/
@@ -405,6 +407,7 @@ mirrors.c0urier.net/
 mirrors.cat.pdx.edu/
 mirrors.chroot.ro/
 mirrors.cloud.tencent.com/
+mirrors.cloudforest.co.th/
 mirrors.cmich.edu/
 mirrors.cn99.com/
 mirrors.coreix.net/
@@ -544,6 +547,7 @@ ubuntu.hi.no/
 ubuntu.hysing.is/
 ubuntu.ip-connect.vn.ua/
 ubuntu.ipacct.com/
+ubuntu.joy.services/
 ubuntu.koyanet.lv/
 ubuntu.lafibre.info/
 ubuntu.lagis.at/
@@ -579,7 +583,6 @@ ubuntu.mirrors.pair.com/
 ubuntu.mirrors.uk2.net/
 ubuntu.mti.mt.gov.br/
 ubuntu.netforce.hosting/
-ubuntu.ntc.net.np/
 ubuntu.org.ua/
 ubuntu.osuosl.org/
 ubuntu.otenet.gr/
