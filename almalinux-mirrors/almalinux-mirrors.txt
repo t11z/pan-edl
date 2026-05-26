@@ -46,7 +46,6 @@ almalinux.org/
 almalinux.ourhome.kiwi/
 almalinux.savoirfairelinux.net/
 almalinux.schlundtech.de/
-almalinux.si/
 almalinux.uib.no/
 almalinux.virtono.com/
 almalinux.vpsttt.com/
@@ -57,6 +56,7 @@ alpha-labs.net/
 amscloud.co.id/
 aptus.co.tz/
 ash.mirrors.clouvider.net/
+asnet.am/
 atl.mirrors.clouvider.net/
 atl.mirrors.ezscale.cloud/
 atl.mirrors.knownhost.com/
@@ -224,13 +224,11 @@ mirror.alastyr.com/
 mirror.alma.iad1.serverforge.org/
 mirror.alma.lax1.serverforge.org/
 mirror.almalinux.peralex.com/
-mirror.almalinux.si/
 mirror.alpha-labs.net/
 mirror.alpha-labs.net::almalinux/
 mirror.alwyzon.net/
 mirror.amscloud.co.id/
 mirror.amscloud.co.id::almalinux/
-mirror.anquan.cl/
 mirror.aptus.co.tz/
 mirror.as3741.net/
 mirror.ati.tn/
@@ -333,7 +331,6 @@ mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
 mirror.nodespace.com/
 mirror.nyist.edu.cn/
-mirror.ossplanet.net/
 mirror.ox.ac.uk/
 mirror.papua.go.id/
 mirror.pit.teraswitch.com/
@@ -391,8 +388,11 @@ mirror.xeonbd.com/
 mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
+mirror1.sox.rs/
+mirror3.krfoss.org/
 mirrors.aliyun.com/
 mirrors.almalinux.org/
+mirrors.asnet.am/
 mirrors.atlas.net.co/
 mirrors.binaryracks.com/
 mirrors.bkns.vn/
@@ -476,7 +476,6 @@ opencolo.mm.fcix.net/
 opensource.fb.com/
 or-mirror.iwebfusion.net/
 ord.mirror.rackspace.com/
-ossplanet.net/
 osuosl.org/
 per.aws.repo.almalinux.org/
 phoenixnap.com/
@@ -565,7 +564,6 @@ www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
-www.anquan.cl/
 www.ans.co.uk/
 www.anywair.com/
 www.archettitechnology.it/
@@ -683,6 +681,7 @@ www.siena.edu/
 www.sitsa.com.ar/
 www.siwoo.org/
 www.sonic.com/
+www.sox.rs/
 www.steadfast.net/
 www.swinburne.edu.au/
 www.telecomarmenia.am/
@@ -724,5 +723,4 @@ yer.az/
 yuki.net.uk/
 yxeix.mm.fcix.net/
 zappiehost.com/
-ziply.mm.fcix.net/
 ziplyfiber.com/
