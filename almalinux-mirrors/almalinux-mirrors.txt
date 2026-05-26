@@ -23,6 +23,7 @@ almalinux.linuxpatch.com/
 almalinux.mirror-services.net/
 almalinux.mirror.archettitechnology.it/
 almalinux.mirror.blowfish.network/
+almalinux.mirror.digitalpacific.com.au/
 almalinux.mirror.garr.it/
 almalinux.mirror.globo.tech/
 almalinux.mirror.katapult.io/
@@ -53,6 +54,7 @@ almamirror.netdirekt.com.tr/
 almamirror.phoenixnap.com/
 aptus.co.tz/
 ash.mirrors.clouvider.net/
+asnet.am/
 atl.mirrors.clouvider.net/
 atl.mirrors.ezscale.cloud/
 atl.mirrors.knownhost.com/
@@ -81,7 +83,6 @@ cloudforest.co.th/
 cloudpropeller.com/
 cofractal-ewr.mm.fcix.net/
 cofractal-sea.mm.fcix.net/
-colocenter.nl/
 computing.ifca.es/
 cosi.clarkson.edu/
 csclub.uwaterloo.ca/
@@ -237,7 +238,6 @@ mirror.citrahost.com/
 mirror.clarkson.edu/
 mirror.cloudpropeller.com/
 mirror.cogentco.com/
-mirror.colocenter.nl/
 mirror.cov.ukservers.com/
 mirror.cpsc.ucalgary.ca/
 mirror.csclub.uwaterloo.ca/
@@ -245,6 +245,7 @@ mirror.dal.nexril.net/
 mirror.datacenter.by/
 mirror.datamossa.io/
 mirror.de.leaseweb.net/
+mirror.digitalpacific.com.au/
 mirror.diyarciftci.xyz/
 mirror.dk.team.blue/
 mirror.dk.team.blue::almalinux/
@@ -381,6 +382,7 @@ mirror1.sox.rs/
 mirror3.krfoss.org/
 mirrors.aliyun.com/
 mirrors.almalinux.org/
+mirrors.asnet.am/
 mirrors.atlas.net.co/
 mirrors.binaryracks.com/
 mirrors.bkns.vn/
@@ -578,6 +580,7 @@ www.csc.fi/
 www.csuc.cat/
 www.cyberfolks.ro/
 www.deac.eu/
+www.digitalpacific.com.au/
 www.dogado.de/
 www.domainhizmetleri.com/
 www.edgoo.io/
