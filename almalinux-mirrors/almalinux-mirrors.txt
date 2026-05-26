@@ -54,7 +54,6 @@ almamirror.netdirekt.com.tr/
 almamirror.phoenixnap.com/
 aptus.co.tz/
 ash.mirrors.clouvider.net/
-asnet.am/
 atl.mirrors.clouvider.net/
 atl.mirrors.ezscale.cloud/
 atl.mirrors.knownhost.com/
@@ -92,14 +91,13 @@ datamossa.com/
 datautama.net.id/
 de.mirrors.clouvider.net/
 den.aws.repo.almalinux.org/
-dinosaurus.fleksibel.com/
 distrohub.kyiv.ua/
 diyarciftci.xyz/
-docker.ru/
 doit.missouri.edu/
 domainesia.com/
 dotsrc.org/
 dsu.edu/
+edgeuno-bog2.mm.fcix.net/
 ekiphost.com/
 elice.io/
 elmirror.cl/
@@ -109,7 +107,6 @@ ezscale.cloud/
 fam.org.nz/
 fcix.net/
 fibia.dk/
-fleksibel.com/
 flokinet.is/
 for.aws.repo.almalinux.org/
 fr2.rpmfind.net/
@@ -171,6 +168,7 @@ interhost.co.il/
 internet.asn.au/
 ip-connect.info/
 ipacct.com/
+iphost.md/
 ipinfo.io/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
@@ -247,7 +245,6 @@ mirror.digitalpacific.com.au/
 mirror.diyarciftci.xyz/
 mirror.dk.team.blue/
 mirror.dk.team.blue::almalinux/
-mirror.docker.ru/
 mirror.dogado.de/
 mirror.domainhizmetleri.com/
 mirror.ekiphost.com/
@@ -260,7 +257,6 @@ mirror.fiu.edu/
 mirror.flo.c-f.ro/
 mirror.fmt-2.serverforge.org/
 mirror.freedif.org/
-mirror.fysik.dtu.dk/
 mirror.gi.co.id/
 mirror.grid.uchicago.edu/
 mirror.group.one/
@@ -281,6 +277,7 @@ mirror.init7.net/
 mirror.init7.net::almalinux/
 mirror.internet.asn.au/
 mirror.interserver.net/
+mirror.iphost.md/
 mirror.isoc.org.il/
 mirror.ixirhost.com/
 mirror.jagoanhosting.id/
@@ -376,10 +373,10 @@ mirror.xeonbd.com/
 mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
+mirror1.sox.rs/
 mirror3.krfoss.org/
 mirrors.aliyun.com/
 mirrors.almalinux.org/
-mirrors.asnet.am/
 mirrors.atlas.net.co/
 mirrors.binaryracks.com/
 mirrors.bkns.vn/
@@ -451,11 +448,13 @@ nhanhoa.com/
 nl.mirror.flokinet.net/
 nl.mirrors.clouvider.net/
 nnenix.mm.fcix.net/
+nocix.mm.fcix.net/
 nodesdirect.com/
 nyc.almalinux.osuosl.org/
 nyc.mirrors.clouvider.net/
 nyuad.nyu.edu/
 ocf.berkeley.edu/
+ohioix.mm.fcix.net/
 oit.gatech.edu/
 opencolo.mm.fcix.net/
 opensource.fb.com/
@@ -507,6 +506,7 @@ sg.gs/
 shedmtl.com/
 siliconhill.cz/
 soonkeat.sg/
+southfront.mm.fcix.net/
 stix.mm.fcix.net/
 storpool.com/
 syd.mirror.rackspace.com/
@@ -531,6 +531,7 @@ usi.edu/
 veesp.com/
 vhost.vn/
 vn-mirrors.vhost.vn/
+volico.mm.fcix.net/
 vpsttt.com/
 vsys.host/
 wiki.almalinux.org/
@@ -584,7 +585,6 @@ www.fastly.com/
 www.fi.muni.cz/
 www.fiu.edu/
 www.fnal.gov/
-www.fysik.dtu.dk/
 www.garr.it/
 www.gbnetwork.com/
 www.gi.co.id/
@@ -663,6 +663,7 @@ www.siena.edu/
 www.sitsa.com.ar/
 www.siwoo.org/
 www.sonic.com/
+www.sox.rs/
 www.steadfast.net/
 www.swinburne.edu.au/
 www.telecomarmenia.am/
