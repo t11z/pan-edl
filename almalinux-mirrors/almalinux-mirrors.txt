@@ -24,6 +24,7 @@ almalinux.linuxpatch.com/
 almalinux.mirror-services.net/
 almalinux.mirror.archettitechnology.it/
 almalinux.mirror.blowfish.network/
+almalinux.mirror.digitalpacific.com.au/
 almalinux.mirror.garr.it/
 almalinux.mirror.globo.tech/
 almalinux.mirror.katapult.io/
@@ -101,6 +102,8 @@ doit.missouri.edu/
 domainesia.com/
 dotsrc.org/
 dsu.edu/
+edgeuno-bog2.mm.fcix.net/
+ekiphost.com/
 elice.io/
 elmirror.cl/
 eng.mephi.ru/
@@ -133,7 +136,6 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
-ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -190,7 +192,6 @@ kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 la.mirrors.clouvider.net/
 leaseweb.com/
-linux-mirrors.fnal.gov/
 linux.domainesia.com/
 linux.duke.edu/
 linux.ncsu.edu/
@@ -245,12 +246,14 @@ mirror.dal.nexril.net/
 mirror.datamossa.io/
 mirror.de.leaseweb.net/
 mirror.dewabiz.com/
+mirror.digitalpacific.com.au/
 mirror.diyarciftci.xyz/
 mirror.dk.team.blue/
 mirror.dk.team.blue::almalinux/
 mirror.docker.ru/
 mirror.dogado.de/
 mirror.domainhizmetleri.com/
+mirror.ekiphost.com/
 mirror.elice.io/
 mirror.esecuredata.com/
 mirror.eu.4psacloud.com/
@@ -353,7 +356,6 @@ mirror.team-cymru.com/
 mirror.telepoint.bg/
 mirror.terrahost.no/
 mirror.transip.net/
-mirror.truenetwork.ru/
 mirror.twds.com.tw/
 mirror.tzulo.com/
 mirror.uepg.br/
@@ -524,7 +526,6 @@ teraswitch.com/
 terrahost.no/
 thegigabit.com/
 tino.org/
-truenetwork.ru/
 tx-mirror.tier.net/
 tzulo.com/
 ucalgary.ca/
@@ -579,6 +580,7 @@ www.csc.fi/
 www.csuc.cat/
 www.cyberfolks.ro/
 www.deac.eu/
+www.digitalpacific.com.au/
 www.dogado.de/
 www.domainhizmetleri.com/
 www.edgoo.io/
@@ -588,7 +590,6 @@ www.exoscale.com/
 www.fastly.com/
 www.fi.muni.cz/
 www.fiu.edu/
-www.fnal.gov/
 www.fysik.dtu.dk/
 www.garr.it/
 www.gbnetwork.com/
@@ -656,7 +657,6 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
-www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
