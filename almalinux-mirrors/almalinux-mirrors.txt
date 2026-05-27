@@ -98,6 +98,7 @@ dewabiz.com/
 dinosaurus.fleksibel.com/
 distrohub.kyiv.ua/
 diyarciftci.xyz/
+docker.ru/
 doit.missouri.edu/
 domainesia.com/
 dotsrc.org/
@@ -117,7 +118,6 @@ flokinet.is/
 for.aws.repo.almalinux.org/
 forksystems.mm.fcix.net/
 fr2.rpmfind.net/
-free.nchc.org.tw/
 ftp.arnes.si/
 ftp.belnet.be/
 ftp.bme.hu/
@@ -145,7 +145,6 @@ ftp.ucsb.edu/
 ftp.udx.icscoe.jp/
 ftp.uni-bayreuth.de/
 ftp.yz.yamagata-u.ac.jp/
-ge.mirror.cloud9.ge/
 gigenet.com/
 gigsouth.mm.fcix.net/
 github.com/
@@ -254,6 +253,7 @@ mirror.digitalpacific.com.au/
 mirror.diyarciftci.xyz/
 mirror.dk.team.blue/
 mirror.dk.team.blue::almalinux/
+mirror.docker.ru/
 mirror.dogado.de/
 mirror.domainhizmetleri.com/
 mirror.ekiphost.com/
@@ -317,6 +317,7 @@ mirror.net.za/
 mirror.netsite.dk/
 mirror.netweaver.uk/
 mirror.netzwerge.de/
+mirror.nevacloud.com/
 mirror.nforce.com/
 mirror.nishi.network/
 mirror.nl.altushost.com/
@@ -383,7 +384,6 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
-mirror3.krfoss.org/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.atlas.net.co/
@@ -448,9 +448,9 @@ msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
 muug.ca/
 nc-mirror.iwebfusion.net/
-nchc.org.tw/
 net.sjtu.edu.cn/
 neterra.ne/
+nevacloud.com/
 nexril.net/
 nhanhoa.com/
 nl.mirror.flokinet.net/
@@ -573,7 +573,6 @@ www.cedia.edu.ec/
 www.chpc.utah.edu/
 www.chroot.ro/
 www.cixug.gal/
-www.cloud9.ge/
 www.clouvider.com/
 www.codeforhost.com/
 www.cogentco.com/

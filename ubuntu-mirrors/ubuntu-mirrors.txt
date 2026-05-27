@@ -7,6 +7,7 @@ archive.ubuntu.mirror.ba/
 archive.ubuntu.mirror.rafal.ca/
 archive.ubuntu.moon127.net/
 archive.ubuntu.nautile.nc/
+archive.ubuntu.petiak.ir/
 archive.ubuntumirror.dei.uc.pt/
 artfiles.org/
 atl.mirrors.clouvider.net/
@@ -234,6 +235,7 @@ mirror.informatik.tu-freiberg.de/
 mirror.init7.net/
 mirror.internet.asn.au/
 mirror.ipb.de/
+mirror.iranserver.com/
 mirror.isoc.org.il/
 mirror.it.ubc.ca/
 mirror.it4i.cz/
