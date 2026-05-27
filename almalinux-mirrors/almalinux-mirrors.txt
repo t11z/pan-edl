@@ -15,13 +15,13 @@ almalinux-mirror.yucca.net/
 almalinux.elhacker.net/
 almalinux.interhost.co.il/
 almalinux.ip-connect.info/
+almalinux.ip-connect.vn.ua/
 almalinux.ipacct.com/
 almalinux.jetserver.co.il/
 almalinux.koyanet.lv/
 almalinux.linux.n0c.ca/
 almalinux.linuxpatch.com/
 almalinux.mirror-services.net/
-almalinux.mirror.archettitechnology.it/
 almalinux.mirror.blowfish.network/
 almalinux.mirror.digitalpacific.com.au/
 almalinux.mirror.garr.it/
@@ -102,7 +102,6 @@ domainesia.com/
 dotsrc.org/
 dsu.edu/
 edgeuno-bog2.mm.fcix.net/
-ekiphost.com/
 elice.io/
 elmirror.cl/
 eng.mephi.ru/
@@ -173,6 +172,7 @@ insect.mm.fcix.net/
 interhost.co.il/
 internet.asn.au/
 ip-connect.info/
+ip-connect.vn.ua/
 ipacct.com/
 iphost.md/
 ipinfo.io/
@@ -256,7 +256,6 @@ mirror.dk.team.blue::almalinux/
 mirror.docker.ru/
 mirror.dogado.de/
 mirror.domainhizmetleri.com/
-mirror.ekiphost.com/
 mirror.elice.io/
 mirror.esecuredata.com/
 mirror.eu.4psacloud.com/
@@ -327,7 +326,7 @@ mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
 mirror.nodespace.com/
 mirror.nyist.edu.cn/
-mirror.papua.go.id/
+mirror.ossplanet.net/
 mirror.pit.teraswitch.com/
 mirror.plusline.net/
 mirror.previder.nl/
@@ -383,7 +382,6 @@ mirror.xeonbd.com/
 mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
-mirror1.sox.rs/
 mirror3.krfoss.org/
 mirrors.aliyun.com/
 mirrors.almalinux.org/
@@ -470,6 +468,7 @@ opencolo.mm.fcix.net/
 opensource.fb.com/
 or-mirror.iwebfusion.net/
 ord.mirror.rackspace.com/
+ossplanet.net/
 osuosl.org/
 per.aws.repo.almalinux.org/
 phoenixnap.com/
@@ -498,7 +497,6 @@ rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
 rsync.gtlib.gatech.edu/
 rsync.mirror.gi.co.id/
-rsync.mirror.papua.go.id/
 rsync.mirrorservice.org/
 rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
@@ -561,7 +559,6 @@ www.alwyzon.com/
 www.anquan.cl/
 www.ans.co.uk/
 www.anywair.com/
-www.archettitechnology.it/
 www.arnes.si/
 www.ati.tn/
 www.bahnhof.net/
@@ -652,7 +649,6 @@ www.nxthost.com/
 www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
-www.papua.go.id/
 www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
@@ -675,7 +671,6 @@ www.siena.edu/
 www.sitsa.com.ar/
 www.siwoo.org/
 www.sonic.com/
-www.sox.rs/
 www.steadfast.net/
 www.swinburne.edu.au/
 www.telecomarmenia.am/
