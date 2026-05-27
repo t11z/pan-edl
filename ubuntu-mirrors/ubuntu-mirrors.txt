@@ -222,7 +222,6 @@ mirror.hosthink.net/
 mirror.hostiko.network/
 mirror.hostnic.id/
 mirror.icn.com.bd/
-mirror.idealhosting.net.tr/
 mirror.ihost.md/
 mirror.il-ha.kamatera.com/
 mirror.il-pt.kamatera.com/
