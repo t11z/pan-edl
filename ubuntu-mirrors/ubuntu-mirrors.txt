@@ -498,6 +498,7 @@ ports.ubuntu.moon127.net/
 rep-ubuntu-il.upress.io/
 repo.huaweicloud.com/
 repo.ialab.dsu.edu/
+repo.iut.ac.ir/
 repo.jztkft.hu/
 repo.morgan.kr/
 repo.ugm.ac.id/
@@ -595,6 +596,7 @@ ubuntu.tuxuri.com/
 ubuntu.ucr.ac.cr/
 ubuntu.uib.no/
 ubuntu.unc.edu.ar/
+ubuntu.uni-klu.ac.at/
 ubuntu.univ-nantes.fr/
 ubuntu.univ-reims.fr/
 ubuntu.uvigo.es/
