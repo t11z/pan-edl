@@ -188,10 +188,14 @@ jingk.ai/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
+kifu.gov.hu/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 la.mirrors.clouvider.net/
 leaseweb.com/
+lidsol.fi-b.unam.mx/
+lidsol.unam.mx/
+linux-mirrors.fnal.gov/
 linux.domainesia.com/
 linux.duke.edu/
 linux.ncsu.edu/
@@ -317,6 +321,7 @@ mirror.netweaver.uk/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nforce.com/
+mirror.niif.hu/
 mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
@@ -324,7 +329,6 @@ mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
 mirror.nodespace.com/
 mirror.nyist.edu.cn/
-mirror.ossplanet.net/
 mirror.pit.teraswitch.com/
 mirror.plusline.net/
 mirror.previder.nl/
@@ -356,11 +360,11 @@ mirror.team-cymru.com/
 mirror.telepoint.bg/
 mirror.terrahost.no/
 mirror.transip.net/
+mirror.truenetwork.ru/
 mirror.twds.com.tw/
 mirror.tzulo.com/
 mirror.uepg.br/
 mirror.unilak.ac.id/
-mirror.us-midwest-1.nexcess.net/
 mirror.us.mirhosting.net/
 mirror.usi.edu/
 mirror.veesp.com/
@@ -467,7 +471,6 @@ opencolo.mm.fcix.net/
 opensource.fb.com/
 or-mirror.iwebfusion.net/
 ord.mirror.rackspace.com/
-ossplanet.net/
 osuosl.org/
 per.aws.repo.almalinux.org/
 phoenixnap.com/
@@ -526,6 +529,7 @@ teraswitch.com/
 terrahost.no/
 thegigabit.com/
 tino.org/
+truenetwork.ru/
 tx-mirror.tier.net/
 tzulo.com/
 ucalgary.ca/
@@ -590,6 +594,7 @@ www.exoscale.com/
 www.fastly.com/
 www.fi.muni.cz/
 www.fiu.edu/
+www.fnal.gov/
 www.fysik.dtu.dk/
 www.garr.it/
 www.gbnetwork.com/
@@ -625,7 +630,6 @@ www.limda.net/
 www.linkedin.com/
 www.lip6.fr/
 www.liquid.tech/
-www.liquidweb.com/
 www.liteserver.nl/
 www.lysator.liu.se/
 www.maeen.sa/
