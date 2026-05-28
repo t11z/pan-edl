@@ -61,6 +61,7 @@ atl.mirrors.ezscale.cloud/
 atl.mirrors.knownhost.com/
 atlas.net.co/
 aws.amazon.com/
+azvps.vn/
 beltelecom.by/
 bharatdatacenter.com/
 bitency.nl/
@@ -102,7 +103,6 @@ doit.missouri.edu/
 domainesia.com/
 dotsrc.org/
 dsu.edu/
-edgeuno-bog2.mm.fcix.net/
 ekiphost.com/
 elice.io/
 elmirror.cl/
@@ -136,6 +136,7 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
+ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -228,6 +229,7 @@ mirror.aptus.co.tz/
 mirror.as3741.net/
 mirror.ati.tn/
 mirror.az31.cloudpropeller.com/
+mirror.azvps.vn/
 mirror.bahnhof.net/
 mirror.bf-net.ch/
 mirror.bharatdatacenter.com/
@@ -241,7 +243,6 @@ mirror.cloudpropeller.com/
 mirror.cogentco.com/
 mirror.colocenter.nl/
 mirror.cov.ukservers.com/
-mirror.cpsc.ucalgary.ca/
 mirror.csclub.uwaterloo.ca/
 mirror.dal.nexril.net/
 mirror.datacenter.by/
@@ -294,7 +295,6 @@ mirror.jingk.ai/
 mirror.junda.nl/
 mirror.karneval.cz/
 mirror.kku.ac.th/
-mirror.krfoss.org/
 mirror.lchs.network/
 mirror.limda.net/
 mirror.linux.duke.edu/
@@ -335,6 +335,7 @@ mirror.rackspeed.de/
 mirror.raiolanetworks.com/
 mirror.randhost.com/
 mirror.rcg.sfu.ca/
+mirror.realcompute.io/
 mirror.reenigne.net/
 mirror.renu.ac.ug/
 mirror.rnet.missouri.edu/
@@ -347,6 +348,7 @@ mirror.sfo12.us.leaseweb.net/
 mirror.sg.gs/
 mirror.shedmtl.com/
 mirror.siena.edu/
+mirror.sitsa.com.ar/
 mirror.siwoo.org/
 mirror.sjtu.edu.cn/
 mirror.soonkeat.sg/
@@ -529,7 +531,6 @@ tino.org/
 truenetwork.ru/
 tx-mirror.tier.net/
 tzulo.com/
-ucalgary.ca/
 uepg.br/
 uk.mirrors.clouvider.net/
 unifique.com.br/
@@ -657,6 +658,8 @@ www.psnc.pl/
 www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
+www.rwts.com.au/
+www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
@@ -665,6 +668,7 @@ www.sfu.ca/
 www.shastacoe.org/
 www.shinjiru.com/
 www.siena.edu/
+www.sitsa.com.ar/
 www.siwoo.org/
 www.sonic.com/
 www.sox.rs/
