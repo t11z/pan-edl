@@ -103,6 +103,7 @@ giano.com.dist.unige.it/
 glua.ua.pt/
 gpl.savoirfairelinux.net/
 http.krfoss.org/
+ir.archive.ubuntu.com/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
@@ -468,6 +469,7 @@ mirrors.tscak.com/
 mirrors.tuna.tsinghua.edu.cn/
 mirrors.ubuntu.dimit.cloud/
 mirrors.ukfast.co.uk/
+mirrors.united.cd/
 mirrors.up.pt/
 mirrors.upr.edu/
 mirrors.us.kernel.org/
