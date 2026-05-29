@@ -366,6 +366,7 @@ mirror.us.mirhosting.net/
 mirror.usetelecom.com.br/
 mirror.vcu.edu/
 mirror.veesp.com/
+mirror.velden.media/
 mirror.verinomi.com/
 mirror.veritescil.com.tr/
 mirror.vietnix.vn/
