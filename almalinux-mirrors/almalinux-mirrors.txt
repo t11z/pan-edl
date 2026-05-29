@@ -97,6 +97,7 @@ de.mirrors.clouvider.net/
 den.aws.repo.almalinux.org/
 dewabiz.com/
 dinosaurus.fleksibel.com/
+distrohub.kyiv.ua/
 diyarciftci.xyz/
 doit.missouri.edu/
 domainesia.com/
@@ -258,6 +259,7 @@ mirror.ekiphost.com/
 mirror.elice.io/
 mirror.esecuredata.com/
 mirror.eu.4psacloud.com/
+mirror.facebook.net/
 mirror.fcix.net/
 mirror.fiu.edu/
 mirror.flo.c-f.ro/
@@ -328,6 +330,7 @@ mirror.ox.ac.uk/
 mirror.pit.teraswitch.com/
 mirror.plusline.net/
 mirror.previder.nl/
+mirror.ps.kz/
 mirror.rackspeed.de/
 mirror.raiolanetworks.com/
 mirror.randhost.com/
@@ -427,7 +430,6 @@ mirrors.sonic.net/
 mirrors.storpool.com/
 mirrors.teamcloud.am/
 mirrors.tencent.com/
-mirrors.tino.org/
 mirrors.ucr.ac.cr/
 mirrors.ukfast.co.uk/
 mirrors.uni-ruse.bg/
@@ -463,6 +465,7 @@ ocf.berkeley.edu/
 ohioix.mm.fcix.net/
 oit.gatech.edu/
 opencolo.mm.fcix.net/
+opensource.fb.com/
 or-mirror.iwebfusion.net/
 ord.mirror.rackspace.com/
 ossplanet.net/
@@ -523,7 +526,6 @@ telepoint.bg/
 teraswitch.com/
 terrahost.no/
 thegigabit.com/
-tino.org/
 truenetwork.ru/
 tx-mirror.tier.net/
 tzulo.com/
@@ -652,6 +654,7 @@ www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
 www.previder.com/
+www.ps.kz/
 www.psnc.pl/
 www.rackspace.com/
 www.riken.jp/
