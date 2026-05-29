@@ -31,7 +31,6 @@ almalinux.mirror.katapult.io/
 almalinux.mirror.liquidtelecom.com/
 almalinux.mirror.liteserver.nl/
 almalinux.mirror.net.za/
-almalinux.mirror.scopesky.com/
 almalinux.mirror.shastacoe.net/
 almalinux.mirror.sofia.incognet.io/
 almalinux.mirror.thegigabit.com/
@@ -135,6 +134,7 @@ ftp.jaist.ac.jp/
 ftp.linux.cz/
 ftp.lip6.fr/
 ftp.lug.ro/
+ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
 ftp.sh.cvut.cz/
@@ -189,7 +189,6 @@ jingk.ai/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
-kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 la.mirrors.clouvider.net/
 leaseweb.com/
@@ -261,7 +260,6 @@ mirror.ekiphost.com/
 mirror.elice.io/
 mirror.esecuredata.com/
 mirror.eu.4psacloud.com/
-mirror.facebook.net/
 mirror.fcix.net/
 mirror.fiu.edu/
 mirror.flo.c-f.ro/
@@ -351,6 +349,7 @@ mirror.shedmtl.com/
 mirror.siena.edu/
 mirror.sitsa.com.ar/
 mirror.siwoo.org/
+mirror.sjtu.edu.cn/
 mirror.soonkeat.sg/
 mirror.speedkom.de/
 mirror.steadfastnet.com/
@@ -380,6 +379,7 @@ mirror.xcobean.co.ke/
 mirror.xenyth.net/
 mirror.xeonbd.com/
 mirror.yandex.ru/
+mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
 mirror3.krfoss.org/
@@ -448,6 +448,7 @@ msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
 muug.ca/
 nchc.org.tw/
+net.sjtu.edu.cn/
 neterra.ne/
 nevacloud.com/
 nexril.net/
@@ -464,7 +465,6 @@ ocf.berkeley.edu/
 ohioix.mm.fcix.net/
 oit.gatech.edu/
 opencolo.mm.fcix.net/
-opensource.fb.com/
 or-mirror.iwebfusion.net/
 ord.mirror.rackspace.com/
 osuosl.org/
@@ -596,7 +596,6 @@ www.gbnetwork.com/
 www.gi.co.id/
 www.group.one/
 www.gtlib.gatech.edu/
-www.guzel.net.tr/
 www.gwdg.de/
 www.hashy0917.net/
 www.hivelocity.net/
@@ -627,6 +626,7 @@ www.lip6.fr/
 www.liquid.tech/
 www.liquidweb.com/
 www.liteserver.nl/
+www.lysator.liu.se/
 www.maeen.sa/
 www.maple-hosting.com/
 www.melbourne.co.uk/
@@ -658,7 +658,6 @@ www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
 www.schlundtech.de/
-www.scopesky.iq/
 www.servaxnet.com/
 www.server.net/
 www.sfu.ca/
@@ -706,6 +705,7 @@ xcobean.co.ke/
 xenyth.net/
 xtom.com/
 yandex.ru/
+yer.az/
 yuki.net.uk/
 yxeix.mm.fcix.net/
 zappiehost.com/
