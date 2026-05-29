@@ -90,7 +90,6 @@ csclub.uwaterloo.ca/
 cvo.almalinux.osuosl.org/
 dal.mirrors.clouvider.net/
 datamossa.com/
-datautama.net.id/
 de.mirrors.clouvider.net/
 den.aws.repo.almalinux.org/
 dewabiz.com/
@@ -185,10 +184,8 @@ itc.zju.edu.cn/
 ixirhost.com/
 jagoanhosting.com/
 jetserver.co.il/
-jurassicinnovations.com/
-kartolo.sby.datautama.net.id/
+jingk.ai/
 katapult.io/
-kifu.gov.hu/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 la.mirrors.clouvider.net/
@@ -292,9 +289,11 @@ mirror.iphost.md/
 mirror.isoc.org.il/
 mirror.ixirhost.com/
 mirror.jagoanhosting.id/
+mirror.jingk.ai/
 mirror.junda.nl/
 mirror.karneval.cz/
 mirror.kku.ac.th/
+mirror.krfoss.org/
 mirror.lchs.network/
 mirror.limda.net/
 mirror.linux.duke.edu/
@@ -319,7 +318,6 @@ mirror.netweaver.uk/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nforce.com/
-mirror.niif.hu/
 mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
@@ -374,6 +372,7 @@ mirror.vtti.vt.edu/
 mirror.wd6.net/
 mirror.wdc2.us.leaseweb.net/
 mirror.webworld.ie/
+mirror.wiseglobalsolutions.com/
 mirror.wonchan.net/
 mirror.xcobean.co.ke/
 mirror.xenyth.net/
@@ -434,6 +433,7 @@ mirrors.ucr.ac.cr/
 mirrors.ukfast.co.uk/
 mirrors.uni-ruse.bg/
 mirrors.upr.edu/
+mirrors.webhs.pt/
 mirrors.xtom.au/
 mirrors.xtom.com/
 mirrors.xtom.de/
@@ -471,7 +471,6 @@ osuosl.org/
 per.aws.repo.almalinux.org/
 phoenixnap.com/
 phx.mirrors.clouvider.net/
-pit.mirror.jurassicinnovations.com/
 pkg.adfinis-on-exoscale.ch/
 planethoster.com/
 plug-mirror.rcac.purdue.edu/
@@ -697,6 +696,7 @@ www.wd6.net/
 www.wearetriple.com/
 www.web-hosting.net.my/
 www.webworld.ie/
+www.wiseglobalsolutions.com/
 www.xeonbd.com/
 www.yamagata-u.ac.jp/
 www.yuccatelecom.com/
