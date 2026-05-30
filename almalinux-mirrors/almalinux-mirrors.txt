@@ -134,7 +134,6 @@ ftp.jaist.ac.jp/
 ftp.linux.cz/
 ftp.lip6.fr/
 ftp.lug.ro/
-ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
 ftp.sh.cvut.cz/
@@ -234,6 +233,7 @@ mirror.bahnhof.net/
 mirror.bf-net.ch/
 mirror.bharatdatacenter.com/
 mirror.bitency.nl/
+mirror.cedia.org.ec/
 mirror.ch.altushost.com/
 mirror.chpc.utah.edu/
 mirror.citrahost.com/
@@ -327,6 +327,7 @@ mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
 mirror.nodespace.com/
 mirror.nyist.edu.cn/
+mirror.ossplanet.net/
 mirror.ox.ac.uk/
 mirror.pit.teraswitch.com/
 mirror.plusline.net/
@@ -351,7 +352,6 @@ mirror.shedmtl.com/
 mirror.siena.edu/
 mirror.sitsa.com.ar/
 mirror.siwoo.org/
-mirror.sjtu.edu.cn/
 mirror.soonkeat.sg/
 mirror.speedkom.de/
 mirror.steadfastnet.com/
@@ -446,9 +446,9 @@ mirrors.xtom.nl/
 mirrors.zju.edu.cn/
 mnl.aws.repo.almalinux.org/
 mr.heru.id/
+msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
 muug.ca/
-net.sjtu.edu.cn/
 neterra.ne/
 nevacloud.com/
 nexril.net/
@@ -468,6 +468,7 @@ opencolo.mm.fcix.net/
 opensource.fb.com/
 or-mirror.iwebfusion.net/
 ord.mirror.rackspace.com/
+ossplanet.net/
 osuosl.org/
 per.aws.repo.almalinux.org/
 phoenixnap.com/
@@ -567,6 +568,7 @@ www.binaryracks.com/
 www.bkns.vn/
 www.bme.hu/
 www.c0urier.net/
+www.cedia.edu.ec/
 www.chpc.utah.edu/
 www.chroot.ro/
 www.cixug.gal/
@@ -627,7 +629,6 @@ www.lip6.fr/
 www.liquid.tech/
 www.liquidweb.com/
 www.liteserver.nl/
-www.lysator.liu.se/
 www.maeen.sa/
 www.maple-hosting.com/
 www.melbourne.co.uk/
