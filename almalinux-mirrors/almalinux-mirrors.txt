@@ -104,6 +104,7 @@ doit.missouri.edu/
 domainesia.com/
 dotsrc.org/
 dsu.edu/
+edgeuno-bog2.mm.fcix.net/
 ekiphost.com/
 elice.io/
 elmirror.cl/
@@ -277,6 +278,7 @@ mirror.hoasted.com/
 mirror.host.ag/
 mirror.host4biz.eu/
 mirror.hostbaran.com/
+mirror.hoster.kz/
 mirror.hosthink.net/
 mirror.hostiko.network/
 mirror.hs-esslingen.de/
