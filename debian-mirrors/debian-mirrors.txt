@@ -298,6 +298,7 @@ mirrors.ptisp.pt/
 mirrors.qlu.edu.cn/
 mirrors.rackhosting.com/
 mirrors.tuna.tsinghua.edu.cn/
+mirrors.ucr.ac.cr/
 mirrors.upr.edu/
 mirrors.ustc.edu.cn/
 mirrors.vcea.wsu.edu/
