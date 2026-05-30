@@ -40,10 +40,10 @@ almalinux.mirror.wearetriple.com/
 almalinux.mirrors.behostings.net/
 almalinux.mirrors.itworxx.de/
 almalinux.mirrors.ovh.net/
+almalinux.mirrorservice.org/
 almalinux.netforce.hosting/
 almalinux.nic.cz/
 almalinux.org/
-almalinux.ourhome.kiwi/
 almalinux.savoirfairelinux.net/
 almalinux.schlundtech.de/
 almalinux.si/
@@ -110,7 +110,6 @@ elmirror.cl/
 eng.mephi.ru/
 extreme-ix.org/
 ezscale.cloud/
-fam.org.nz/
 fcix.net/
 fibia.dk/
 fleksibel.com/
@@ -136,6 +135,7 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
+ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -203,6 +203,7 @@ linuxsoft.cern.ch/
 lon.mirror.rackspace.com/
 lug.hit.edu.cn/
 lyrahosting.com/
+mangohost.net/
 maniaclab.uchicago.edu/
 marwan.ma/
 mijn.host/
@@ -303,6 +304,7 @@ mirror.linux.ncsu.edu/
 mirror.liteserver.nl/
 mirror.lyrahosting.com/
 mirror.maeen.sa/
+mirror.mangohost.net/
 mirror.maple-hosting.com/
 mirror.marwan.ma/
 mirror.mci-1.serverforge.org/
@@ -495,6 +497,7 @@ rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
 rsync.gtlib.gatech.edu/
 rsync.mirror.gi.co.id/
+rsync.mirrorservice.org/
 rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
 rsync.yuki.net.uk/
@@ -616,6 +619,7 @@ www.iu13.org/
 www.iwebfusion.net/
 www.jaist.ac.jp/
 www.junda.nl/
+www.kent.ac.uk/
 www.kku.ac.th/
 www.knownhost.com/
 www.lchs.com.au/
@@ -657,6 +661,7 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
+www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/

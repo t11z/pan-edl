@@ -17,7 +17,6 @@ co.ge/
 cs.vt.edu/
 dc.uz/
 deadbatteries.work/
-delska.com/
 distro.ibiblio.org/
 distrohub.kyiv.ua/
 dl.rockylinux.org/
@@ -172,7 +171,6 @@ rocky-linux-us-west1.production.gcp.mirrors.ctrliq.cloud/
 rocky-linux-us-west2.production.gcp.mirrors.ctrliq.cloud/
 rocky-linux-us-west3.production.gcp.mirrors.ctrliq.cloud/
 rocky-linux-us-west4.production.gcp.mirrors.ctrliq.cloud/
-rocky-linux.koyanet.lv/
 rocky.deadbatteries.work/
 rocky.mirror.co.ge/
 rocky.mirror.liquidtelecom.com/
