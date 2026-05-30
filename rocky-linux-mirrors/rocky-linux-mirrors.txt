@@ -179,7 +179,6 @@ rocky.mirror.thegigabit.com/
 rocky.reloumirrors.net/
 rockylinux.anexia.at/
 rockylinux.hi.no/
-rockylinux.mirrors.ovh.net/
 rockylinux.mirrorservice.org/
 rockylinux.netforce.hosting/
 rockylinux.org/
@@ -236,7 +235,6 @@ www.nluug.nl/
 www.nsc.liu.se/
 www.nxthost.com/
 www.nyist.edu.cn/
-www.ovhcloud.com/
 www.plusline.net/
 www.ps.kz/
 www.puzzle.ch/
