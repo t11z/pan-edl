@@ -40,7 +40,6 @@ almalinux.mirror.wearetriple.com/
 almalinux.mirrors.behostings.net/
 almalinux.mirrors.itworxx.de/
 almalinux.mirrors.ovh.net/
-almalinux.mirrorservice.org/
 almalinux.netforce.hosting/
 almalinux.nic.cz/
 almalinux.org/
@@ -204,7 +203,6 @@ linuxsoft.cern.ch/
 lon.mirror.rackspace.com/
 lug.hit.edu.cn/
 lyrahosting.com/
-mangohost.net/
 maniaclab.uchicago.edu/
 marwan.ma/
 mijn.host/
@@ -305,7 +303,6 @@ mirror.linux.ncsu.edu/
 mirror.liteserver.nl/
 mirror.lyrahosting.com/
 mirror.maeen.sa/
-mirror.mangohost.net/
 mirror.maple-hosting.com/
 mirror.marwan.ma/
 mirror.mci-1.serverforge.org/
@@ -383,6 +380,7 @@ mirror.xcobean.co.ke/
 mirror.xenyth.net/
 mirror.xeonbd.com/
 mirror.yandex.ru/
+mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
 mirror3.krfoss.org/
@@ -497,7 +495,6 @@ rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
 rsync.gtlib.gatech.edu/
 rsync.mirror.gi.co.id/
-rsync.mirrorservice.org/
 rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
 rsync.yuki.net.uk/
@@ -619,7 +616,6 @@ www.iu13.org/
 www.iwebfusion.net/
 www.jaist.ac.jp/
 www.junda.nl/
-www.kent.ac.uk/
 www.kku.ac.th/
 www.knownhost.com/
 www.lchs.com.au/
@@ -710,6 +706,7 @@ xcobean.co.ke/
 xenyth.net/
 xtom.com/
 yandex.ru/
+yer.az/
 yuki.net.uk/
 yxeix.mm.fcix.net/
 zappiehost.com/
