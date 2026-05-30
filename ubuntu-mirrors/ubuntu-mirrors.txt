@@ -224,6 +224,7 @@ mirror.hosthink.net/
 mirror.hostiko.network/
 mirror.hostnic.id/
 mirror.icn.com.bd/
+mirror.idealhosting.net.tr/
 mirror.ihost.md/
 mirror.il-ha.kamatera.com/
 mirror.il-pt.kamatera.com/
@@ -250,7 +251,6 @@ mirror.kakao.com/
 mirror.kamp.de/
 mirror.kapteyan.com.tr/
 mirror.keiminem.com/
-mirror.kkg.berlin/
 mirror.kku.ac.th/
 mirror.krfoss.org/
 mirror.kumi.systems/
