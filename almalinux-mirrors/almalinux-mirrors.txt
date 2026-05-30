@@ -330,7 +330,6 @@ mirror.nodespace.com/
 mirror.nyist.edu.cn/
 mirror.ossplanet.net/
 mirror.ox.ac.uk/
-mirror.papua.go.id/
 mirror.pit.teraswitch.com/
 mirror.plusline.net/
 mirror.previder.nl/
@@ -384,7 +383,6 @@ mirror.xcobean.co.ke/
 mirror.xenyth.net/
 mirror.xeonbd.com/
 mirror.yandex.ru/
-mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
 mirror3.krfoss.org/
@@ -499,7 +497,6 @@ rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
 rsync.gtlib.gatech.edu/
 rsync.mirror.gi.co.id/
-rsync.mirror.papua.go.id/
 rsync.mirrorservice.org/
 rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
@@ -654,7 +651,6 @@ www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
 www.ox.ac.uk/
-www.papua.go.id/
 www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
@@ -714,7 +710,6 @@ xcobean.co.ke/
 xenyth.net/
 xtom.com/
 yandex.ru/
-yer.az/
 yuki.net.uk/
 yxeix.mm.fcix.net/
 zappiehost.com/
