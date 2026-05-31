@@ -56,9 +56,9 @@ almamirror.netdirekt.com.tr/
 almamirror.phoenixnap.com/
 aptus.co.tz/
 ash.mirrors.clouvider.net/
-asnet.am/
 atl.mirrors.clouvider.net/
 atl.mirrors.ezscale.cloud/
+atl.mirrors.knownhost.com/
 atlas.net.co/
 aws.amazon.com/
 azvps.vn/
@@ -164,7 +164,6 @@ host4.biz/
 hostbaran.com/
 hoster.kz/
 hosterion.ro/
-hostico.ro/
 hostiko.com.ua/
 iad.mirror.rackspace.com/
 icscoe.jp/
@@ -185,7 +184,6 @@ itc.zju.edu.cn/
 ixirhost.com/
 jagoanhosting.com/
 jetserver.co.il/
-jingk.ai/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
@@ -292,7 +290,6 @@ mirror.iphost.md/
 mirror.isoc.org.il/
 mirror.ixirhost.com/
 mirror.jagoanhosting.id/
-mirror.jingk.ai/
 mirror.junda.nl/
 mirror.karneval.cz/
 mirror.kku.ac.th/
@@ -390,7 +387,6 @@ mirror1.sox.rs/
 mirror3.krfoss.org/
 mirrors.aliyun.com/
 mirrors.almalinux.org/
-mirrors.asnet.am/
 mirrors.atlas.net.co/
 mirrors.binaryracks.com/
 mirrors.bkns.vn/
@@ -410,7 +406,6 @@ mirrors.gofiber.vn/
 mirrors.hit.edu.cn/
 mirrors.hosterion.ro/
 mirrors.hostever.com/
-mirrors.hostico.ro/
 mirrors.hostiserver.com/
 mirrors.ipserverone.com/
 mirrors.iu13.net/
