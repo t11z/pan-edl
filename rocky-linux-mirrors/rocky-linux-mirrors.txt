@@ -52,6 +52,7 @@ insecure.nluug.nl/
 it.vcea.wsu.edu/
 it2.mirror.vhosting-it.com/
 krfoss.org/
+lug.ustc.edu.cn/
 maeen.sa/
 marwan.ma/
 mir01.syntis.net/
@@ -121,6 +122,7 @@ mirrors.qlu.edu.cn/
 mirrors.rit.edu/
 mirrors.rockylinux.org/
 mirrors.teamcloud.am/
+mirrors.ustc.edu.cn/
 mirrors.vcea.wsu.edu/
 missouri.edu/
 neterra.net/
@@ -181,6 +183,7 @@ rockylinux.mirrorservice.org/
 rockylinux.netforce.hosting/
 rockylinux.org/
 rockylinux.uni-sofia.bg/
+rsync.mirrors.ustc.edu.cn/
 rsync.mirrorservice.org/
 ru.dyi.ng/
 ru.mirrors.cicku.me/

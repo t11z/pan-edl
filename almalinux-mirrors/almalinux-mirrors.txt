@@ -32,7 +32,6 @@ almalinux.mirror.liquidtelecom.com/
 almalinux.mirror.liteserver.nl/
 almalinux.mirror.net.za/
 almalinux.mirror.scopesky.com/
-almalinux.mirror.shastacoe.net/
 almalinux.mirror.sofia.incognet.io/
 almalinux.mirror.thegigabit.com/
 almalinux.mirror.ukraine.com.ua/
@@ -99,6 +98,7 @@ dewabiz.com/
 dinosaurus.fleksibel.com/
 distrohub.kyiv.ua/
 diyarciftci.xyz/
+docker.ru/
 doit.missouri.edu/
 domainesia.com/
 dotsrc.org/
@@ -161,7 +161,6 @@ hnd.cl/
 hnl.fastly.repo.almalinux.org/
 home.cern/
 host4.biz/
-hostbaran.com/
 hoster.kz/
 hosterion.ro/
 hostico.ro/
@@ -253,6 +252,7 @@ mirror.digitalpacific.com.au/
 mirror.diyarciftci.xyz/
 mirror.dk.team.blue/
 mirror.dk.team.blue::almalinux/
+mirror.docker.ru/
 mirror.dogado.de/
 mirror.domainhizmetleri.com/
 mirror.ekiphost.com/
@@ -275,7 +275,6 @@ mirror.hnd.cl/
 mirror.hoasted.com/
 mirror.host.ag/
 mirror.host4biz.eu/
-mirror.hostbaran.com/
 mirror.hoster.kz/
 mirror.hosthink.net/
 mirror.hostiko.network/
@@ -327,7 +326,6 @@ mirror.nodespace.com/
 mirror.nyist.edu.cn/
 mirror.ossplanet.net/
 mirror.ox.ac.uk/
-mirror.papua.go.id/
 mirror.pit.teraswitch.com/
 mirror.plusline.net/
 mirror.previder.nl/
@@ -340,7 +338,6 @@ mirror.realcompute.io/
 mirror.reenigne.net/
 mirror.renu.ac.ug/
 mirror.rnet.missouri.edu/
-mirror.rootlicense.com/
 mirror.sabay.com.kh/
 mirror.se.altushost.com/
 mirror.servaxnet.com/
@@ -352,6 +349,7 @@ mirror.shedmtl.com/
 mirror.siena.edu/
 mirror.sitsa.com.ar/
 mirror.siwoo.org/
+mirror.sjtu.edu.cn/
 mirror.soonkeat.sg/
 mirror.speedkom.de/
 mirror.steadfastnet.com/
@@ -450,6 +448,7 @@ msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
 muug.ca/
 nchc.org.tw/
+net.sjtu.edu.cn/
 neterra.ne/
 nevacloud.com/
 nexril.net/
@@ -490,16 +489,13 @@ repo.almalinux.org/
 repo.extreme-ix.org/
 repo.ialab.dsu.edu/
 repo.ifca.es/
-repo.shinjiru.com/
 rit.edu/
 ro.mirror.flokinet.net/
-rootlicense.com/
 rpmfind.net/
 rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
 rsync.gtlib.gatech.edu/
 rsync.mirror.gi.co.id/
-rsync.mirror.papua.go.id/
 rsync.mirrorservice.org/
 rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
@@ -654,7 +650,6 @@ www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
 www.ox.ac.uk/
-www.papua.go.id/
 www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
@@ -670,8 +665,6 @@ www.scopesky.iq/
 www.servaxnet.com/
 www.server.net/
 www.sfu.ca/
-www.shastacoe.org/
-www.shinjiru.com/
 www.siena.edu/
 www.sitsa.com.ar/
 www.siwoo.org/
