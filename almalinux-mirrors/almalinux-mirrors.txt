@@ -81,6 +81,7 @@ cat.pdx.edu/
 cc.in2p3.fr/
 chi.almalinux.osuosl.org/
 citrahost.com/
+cloudforest.co.th/
 cloudpropeller.com/
 cofractal-ewr.mm.fcix.net/
 cofractal-sea.mm.fcix.net/
@@ -137,7 +138,6 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
-ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -297,6 +297,7 @@ mirror.jingk.ai/
 mirror.junda.nl/
 mirror.karneval.cz/
 mirror.kku.ac.th/
+mirror.krfoss.org/
 mirror.lchs.network/
 mirror.limda.net/
 mirror.linux.duke.edu/
@@ -328,6 +329,7 @@ mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
 mirror.nodespace.com/
 mirror.nyist.edu.cn/
+mirror.ossplanet.net/
 mirror.ox.ac.uk/
 mirror.pit.teraswitch.com/
 mirror.plusline.net/
@@ -366,6 +368,7 @@ mirror.twds.com.tw/
 mirror.tzulo.com/
 mirror.uepg.br/
 mirror.unilak.ac.id/
+mirror.us-midwest-1.nexcess.net/
 mirror.us.mirhosting.net/
 mirror.usi.edu/
 mirror.veesp.com/
@@ -397,6 +400,7 @@ mirrors.bytes.ua/
 mirrors.c0urier.net/
 mirrors.cat.pdx.edu/
 mirrors.chroot.ro/
+mirrors.cloudforest.co.th/
 mirrors.coreix.net/
 mirrors.dotsrc.org/
 mirrors.fibianet.dk/
@@ -416,6 +420,7 @@ mirrors.mvps.net/
 mirrors.nav.ro/
 mirrors.neterra.net/
 mirrors.nhanhoa.com/
+mirrors.nju.edu.cn/
 mirrors.nxthost.com/
 mirrors.nz.zappie.host/
 mirrors.oblivion.online/
@@ -469,6 +474,7 @@ opencolo.mm.fcix.net/
 opensource.fb.com/
 or-mirror.iwebfusion.net/
 ord.mirror.rackspace.com/
+ossplanet.net/
 osuosl.org/
 per.aws.repo.almalinux.org/
 phoenixnap.com/
@@ -506,6 +512,7 @@ ruk-com.cloud/
 rwth-aachen.de/
 sabay.com.kh/
 savoirfairelinux.com/
+sci.nju.edu.cn/
 seattle.crazyfast.us/
 serverforge.org/
 serversaustralia.com.au/
@@ -627,6 +634,7 @@ www.limda.net/
 www.linkedin.com/
 www.lip6.fr/
 www.liquid.tech/
+www.liquidweb.com/
 www.liteserver.nl/
 www.lysator.liu.se/
 www.maeen.sa/
@@ -660,7 +668,6 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
-www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
