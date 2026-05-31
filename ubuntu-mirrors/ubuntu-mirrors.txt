@@ -350,6 +350,7 @@ mirror.ubuntu.ikoula.com/
 mirror.ubuntu.serverforge.org/
 mirror.uchile.cl/
 mirror.uepg.br/
+mirror.ufam.edu.br/
 mirror.ufro.cl/
 mirror.ufscar.br/
 mirror.umd.edu/
@@ -433,7 +434,6 @@ mirrors.huaweicloud.com/
 mirrors.ipserverone.com/
 mirrors.ircam.fr/
 mirrors.iu13.net/
-mirrors.jcut.edu.cn/
 mirrors.jlu.edu.cn/
 mirrors.krfoss.org/
 mirrors.krnk.org/
@@ -447,6 +447,7 @@ mirrors.mivocloud.com/
 mirrors.nav.ro/
 mirrors.neterra.net/
 mirrors.netix.net/
+mirrors.nhanhoa.com/
 mirrors.nic.funet.fi/
 mirrors.njupt.edu.cn/
 mirrors.nxtgen.com/
@@ -506,6 +507,7 @@ pubmirrors.dal.corespace.com/
 rep-ubuntu-il.upress.io/
 repo.huaweicloud.com/
 repo.ialab.dsu.edu/
+repo.iut.ac.ir/
 repo.jztkft.hu/
 repo.morgan.kr/
 repo.ugm.ac.id/
@@ -538,7 +540,6 @@ ubuntu-archive.mirror.serveriai.lt/
 ubuntu-mirror.ati.tn/
 ubuntu-mirror.bhtelecom.ba/
 ubuntu-mirror.puq.apoapsis.cl/
-ubuntu-ports.mirror.net.in/
 ubuntu.anexia.at/
 ubuntu.btit.nz/
 ubuntu.c3sl.ufpr.br/
