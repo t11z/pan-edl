@@ -102,6 +102,7 @@ doit.missouri.edu/
 domainesia.com/
 dotsrc.org/
 dsu.edu/
+edgeuno-bog2.mm.fcix.net/
 ekiphost.com/
 elice.io/
 elmirror.cl/
@@ -135,7 +136,6 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
-ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -160,6 +160,7 @@ hnd.cl/
 hnl.fastly.repo.almalinux.org/
 home.cern/
 host4.biz/
+hostbaran.com/
 hoster.kz/
 hosterion.ro/
 hostico.ro/
@@ -258,6 +259,7 @@ mirror.ekiphost.com/
 mirror.elice.io/
 mirror.esecuredata.com/
 mirror.eu.4psacloud.com/
+mirror.facebook.net/
 mirror.fcix.net/
 mirror.fiu.edu/
 mirror.flo.c-f.ro/
@@ -273,6 +275,7 @@ mirror.hnd.cl/
 mirror.hoasted.com/
 mirror.host.ag/
 mirror.host4biz.eu/
+mirror.hostbaran.com/
 mirror.hoster.kz/
 mirror.hosthink.net/
 mirror.hostiko.network/
@@ -337,6 +340,7 @@ mirror.realcompute.io/
 mirror.reenigne.net/
 mirror.renu.ac.ug/
 mirror.rnet.missouri.edu/
+mirror.rootlicense.com/
 mirror.sabay.com.kh/
 mirror.se.altushost.com/
 mirror.servaxnet.com/
@@ -464,6 +468,7 @@ ocf.berkeley.edu/
 ohioix.mm.fcix.net/
 oit.gatech.edu/
 opencolo.mm.fcix.net/
+opensource.fb.com/
 or-mirror.iwebfusion.net/
 ord.mirror.rackspace.com/
 ossplanet.net/
@@ -490,6 +495,7 @@ repo.ifca.es/
 repo.shinjiru.com/
 rit.edu/
 ro.mirror.flokinet.net/
+rootlicense.com/
 rpmfind.net/
 rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
@@ -658,7 +664,6 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
-www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
