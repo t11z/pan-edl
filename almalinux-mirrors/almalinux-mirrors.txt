@@ -39,6 +39,7 @@ almalinux.mirror.ukraine.com.ua/
 almalinux.mirror.wearetriple.com/
 almalinux.mirrors.behostings.net/
 almalinux.mirrors.itworxx.de/
+almalinux.mirrors.ovh.net/
 almalinux.mirrorservice.org/
 almalinux.netforce.hosting/
 almalinux.nic.cz/
@@ -102,6 +103,7 @@ doit.missouri.edu/
 domainesia.com/
 dotsrc.org/
 dsu.edu/
+edgeuno-bog2.mm.fcix.net/
 ekiphost.com/
 elice.io/
 elmirror.cl/
@@ -135,7 +137,6 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
-ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -215,6 +216,7 @@ mirror.23m.com/
 mirror.2degrees.nz/
 mirror.a1.mk/
 mirror.aarnet.edu.au/
+mirror.accum.se/
 mirror.africloud.com/
 mirror.airnet.uz/
 mirror.alastyr.com/
@@ -305,6 +307,7 @@ mirror.maeen.sa/
 mirror.mangohost.net/
 mirror.maple-hosting.com/
 mirror.marwan.ma/
+mirror.mci-1.serverforge.org/
 mirror.meowsmp.net/
 mirror.mephi.ru/
 mirror.mia11.us.leaseweb.net/
@@ -341,7 +344,6 @@ mirror.rnet.missouri.edu/
 mirror.rootlicense.com/
 mirror.sabay.com.kh/
 mirror.se.altushost.com/
-mirror.servaxnet.com/
 mirror.server.net/
 mirror.serverfreak.com/
 mirror.sfo12.us.leaseweb.net/
@@ -381,6 +383,7 @@ mirror.xenyth.net/
 mirror.xeonbd.com/
 mirror.yandex.ru/
 mirror.yer.az/
+mirror.yuki.net.uk/
 mirror1.sox.rs/
 mirror3.krfoss.org/
 mirrors.aliyun.com/
@@ -501,6 +504,7 @@ rsync.mirror.gi.co.id/
 rsync.mirrorservice.org/
 rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
+rsync.yuki.net.uk/
 ruk-com.cloud/
 rwth-aachen.de/
 sabay.com.kh/
@@ -550,6 +554,7 @@ www.4psa.com/
 www.Linux.ec/
 www.VPSnet.com/
 www.aarnet.edu.au/
+www.accum.se/
 www.alastyr.com/
 www.aliyun.com/
 www.almalinux.org/
@@ -648,6 +653,7 @@ www.nodespace.com/
 www.nxthost.com/
 www.nyist.edu.cn/
 www.onenet.net/
+www.ovhcloud.com/
 www.ox.ac.uk/
 www.peralex.com/
 www.physics.uoc.gr/
@@ -659,10 +665,8 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
-www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
-www.servaxnet.com/
 www.server.net/
 www.sfu.ca/
 www.shastacoe.org/
@@ -710,6 +714,7 @@ xenyth.net/
 xtom.com/
 yandex.ru/
 yer.az/
+yuki.net.uk/
 yxeix.mm.fcix.net/
 zappiehost.com/
 ziply.mm.fcix.net/
