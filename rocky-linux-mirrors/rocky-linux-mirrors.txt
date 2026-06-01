@@ -121,7 +121,6 @@ mirrors.pidginhost.com/
 mirrors.qlu.edu.cn/
 mirrors.rit.edu/
 mirrors.rockylinux.org/
-mirrors.storpool.com/
 mirrors.teamcloud.am/
 mirrors.ustc.edu.cn/
 mirrors.vcea.wsu.edu/
@@ -193,7 +192,6 @@ sa.dyi.ng/
 sa.mirrors.cicku.me/
 soflibre.unizar.es/
 softlibre.unizar.es/
-storpool.com/
 teamcloud.am/
 telepoint.bg/
 thegigabit.com/

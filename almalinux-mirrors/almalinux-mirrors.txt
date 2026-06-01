@@ -104,6 +104,7 @@ doit.missouri.edu/
 domainesia.com/
 dotsrc.org/
 dsu.edu/
+edgeuno-bog2.mm.fcix.net/
 ekiphost.com/
 elice.io/
 elmirror.cl/
@@ -137,6 +138,7 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
+ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -185,6 +187,7 @@ itc.zju.edu.cn/
 ixirhost.com/
 jagoanhosting.com/
 jetserver.co.il/
+jingk.ai/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
@@ -255,6 +258,7 @@ mirror.dk.team.blue/
 mirror.dk.team.blue::almalinux/
 mirror.docker.ru/
 mirror.dogado.de/
+mirror.domainhizmetleri.com/
 mirror.ekiphost.com/
 mirror.elice.io/
 mirror.esecuredata.com/
@@ -290,6 +294,7 @@ mirror.iphost.md/
 mirror.isoc.org.il/
 mirror.ixirhost.com/
 mirror.jagoanhosting.id/
+mirror.jingk.ai/
 mirror.junda.nl/
 mirror.karneval.cz/
 mirror.kku.ac.th/
@@ -585,6 +590,7 @@ www.cyberfolks.ro/
 www.deac.eu/
 www.digitalpacific.com.au/
 www.dogado.de/
+www.domainhizmetleri.com/
 www.edgoo.io/
 www.elhacker.net/
 www.esecuredata.com/
@@ -662,6 +668,7 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
+www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
