@@ -30,6 +30,7 @@ download.nust.na/
 drmirror.physi.uni-heidelberg.de/
 edgeuno-bog2.mm.fcix.net/
 elmirror.cl/
+free.nchc.org.tw/
 ftp-stud.hs-esslingen.de/
 ftp.acc.umu.se/
 ftp.agh.edu.pl/
@@ -199,7 +200,6 @@ mirror.eu-lo.kamatera.com/
 mirror.eu.4psacloud.com/
 mirror.eu.kamatera.com/
 mirror.exid.us/
-mirror.fairway.ne.jp/
 mirror.faraso.org/
 mirror.fcix.net/
 mirror.fi.ossplanet.net/
