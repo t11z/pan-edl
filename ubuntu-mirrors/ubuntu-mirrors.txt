@@ -283,7 +283,6 @@ mirror.neftm.ru/
 mirror.neolabs.kz/
 mirror.netcologne.de/
 mirror.netsite.dk/
-mirror.netspace.net.au/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nforce.com/
