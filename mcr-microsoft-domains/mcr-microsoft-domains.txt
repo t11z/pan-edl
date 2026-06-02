@@ -1,5 +1,4 @@
 azurecr.io/
 data.azurecr.io/
+geo.azurecr.io/
 myregistry.azurecr.io/
-myregistry.eastus.data.azurecr.io/
-myregistry.westus.data.azurecr.io/
