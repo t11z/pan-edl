@@ -481,6 +481,7 @@ mirrors.ustc.edu.cn/
 mirrors.vcea.wsu.edu/
 mirrors.webhs.pt/
 mirrors.wikimedia.org/
+mirrors.xjtu.edu.cn/
 mirrors.xmission.com/
 mirrors.xtom.com/
 mirrors.xtom.de/
@@ -593,7 +594,6 @@ ubuntu.mirrors.pair.com/
 ubuntu.mirrors.uk2.net/
 ubuntu.mti.mt.gov.br/
 ubuntu.netforce.hosting/
-ubuntu.ntc.net.np/
 ubuntu.org.ua/
 ubuntu.osuosl.org/
 ubuntu.otenet.gr/
