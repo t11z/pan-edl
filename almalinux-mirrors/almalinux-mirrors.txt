@@ -48,7 +48,6 @@ almalinux.ourhome.kiwi/
 almalinux.savoirfairelinux.net/
 almalinux.schlundtech.de/
 almalinux.si/
-almalinux.uib.no/
 almalinux.virtono.com/
 almalinux.vpsttt.com/
 almalinux.web.trex.fi/
@@ -86,7 +85,6 @@ cloudforest.co.th/
 cloudpropeller.com/
 cofractal-ewr.mm.fcix.net/
 cofractal-sea.mm.fcix.net/
-colocenter.nl/
 computing.ifca.es/
 cosi.clarkson.edu/
 csclub.uwaterloo.ca/
@@ -155,6 +153,8 @@ github.com/
 globo.tech/
 gofiber.vn/
 gsl-syd.mm.fcix.net/
+hcc-mirror.unl.edu/
+hcc.unl.edu/
 heru.id/
 hivelocity.net/
 hkg.mirror.rackspace.com/
@@ -166,6 +166,7 @@ hostbaran.com/
 hoster.kz/
 hosterion.ro/
 hostico.ro/
+hostiko.com.ua/
 iad.mirror.rackspace.com/
 icscoe.jp/
 idhosting.pl/
@@ -181,6 +182,7 @@ ipinfo.io/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
+itc.zju.edu.cn/
 ixirhost.com/
 jagoanhosting.com/
 jetserver.co.il/
@@ -242,7 +244,6 @@ mirror.citrahost.com/
 mirror.clarkson.edu/
 mirror.cloudpropeller.com/
 mirror.cogentco.com/
-mirror.colocenter.nl/
 mirror.cov.ukservers.com/
 mirror.cpsc.ucalgary.ca/
 mirror.csclub.uwaterloo.ca/
@@ -281,6 +282,8 @@ mirror.host4biz.eu/
 mirror.hostbaran.com/
 mirror.hoster.kz/
 mirror.hosthink.net/
+mirror.hostiko.network/
+mirror.hs-esslingen.de/
 mirror.ibcp.fr/
 mirror.in2p3.fr/
 mirror.init7.net/
@@ -370,7 +373,6 @@ mirror.us-midwest-1.nexcess.net/
 mirror.us.mirhosting.net/
 mirror.usi.edu/
 mirror.veesp.com/
-mirror.veritescil.com.tr/
 mirror.vpsnet.com/
 mirror.vsys.host/
 mirror.vtti.vt.edu/
@@ -426,6 +428,7 @@ mirrors.ocf.berkeley.edu/
 mirrors.onenet.net/
 mirrors.pt/
 mirrors.ptisp.pt/
+mirrors.rda.poa.br/
 mirrors.rit.edu/
 mirrors.ruk-com.cloud/
 mirrors.sonic.net/
@@ -444,6 +447,7 @@ mirrors.xtom.de/
 mirrors.xtom.ee/
 mirrors.xtom.jp/
 mirrors.xtom.nl/
+mirrors.zju.edu.cn/
 mnl.aws.repo.almalinux.org/
 mr.heru.id/
 msp.aws.repo.almalinux.org/
@@ -484,6 +488,7 @@ qro.aws.repo.almalinux.org/
 rackspeed.de/
 raiolanetworks.com/
 randhost.com/
+rda.run/
 reenigne.net/
 renu.ac.ug/
 repo.almalinux.org/
@@ -608,6 +613,7 @@ www.hoasted.com/
 www.host.ag/
 www.hosthink.net/
 www.hostiserver.com/
+www.hs-esslingen.de/
 www.ibcp.fr/
 www.idkom.de/
 www.iij.ad.jp/
@@ -688,13 +694,11 @@ www.twds.com.tw/
 www.uam.es/
 www.ucr.ac.cr/
 www.ucsb.edu/
-www.uib.no/
 www.ukraine.com.ua/
 www.ukservers.com/
 www.uni-bayreuth.de/
 www.uni-ruse.bg/
 www.upr.edu/
-www.veritescil.com.tr/
 www.vhosting-it.com/
 www.virtono.com/
 www.vodafone.cz/
