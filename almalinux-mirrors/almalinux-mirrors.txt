@@ -136,6 +136,7 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
+ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -180,7 +181,6 @@ ipinfo.io/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
-itc.zju.edu.cn/
 ixirhost.com/
 jagoanhosting.com/
 jetserver.co.il/
@@ -188,6 +188,7 @@ jingk.ai/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
+kifu.gov.hu/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 la.mirrors.clouvider.net/
@@ -207,7 +208,6 @@ mangohost.net/
 maniaclab.uchicago.edu/
 marwan.ma/
 mijn.host/
-mirhosting.com/
 mirror-services.net/
 mirror.01link.hk/
 mirror.0x626b.com/
@@ -242,6 +242,7 @@ mirror.cloudpropeller.com/
 mirror.cogentco.com/
 mirror.colocenter.nl/
 mirror.cov.ukservers.com/
+mirror.cpsc.ucalgary.ca/
 mirror.csclub.uwaterloo.ca/
 mirror.dal.nexril.net/
 mirror.datacenter.by/
@@ -293,6 +294,7 @@ mirror.jagoanhosting.id/
 mirror.jingk.ai/
 mirror.junda.nl/
 mirror.karneval.cz/
+mirror.kku.ac.th/
 mirror.krfoss.org/
 mirror.lchs.network/
 mirror.limda.net/
@@ -318,10 +320,10 @@ mirror.netweaver.uk/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nforce.com/
+mirror.niif.hu/
 mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
-mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
 mirror.nodespace.com/
 mirror.nyist.edu.cn/
@@ -364,7 +366,6 @@ mirror.tzulo.com/
 mirror.uepg.br/
 mirror.unilak.ac.id/
 mirror.us-midwest-1.nexcess.net/
-mirror.us.mirhosting.net/
 mirror.usi.edu/
 mirror.veesp.com/
 mirror.veritescil.com.tr/
@@ -382,6 +383,7 @@ mirror.xeonbd.com/
 mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
+mirror1.sox.rs/
 mirror3.krfoss.org/
 mirrors.almalinux.org/
 mirrors.asnet.am/
@@ -439,7 +441,6 @@ mirrors.xtom.de/
 mirrors.xtom.ee/
 mirrors.xtom.jp/
 mirrors.xtom.nl/
-mirrors.zju.edu.cn/
 mnl.aws.repo.almalinux.org/
 mr.heru.id/
 msp.aws.repo.almalinux.org/
@@ -528,6 +529,7 @@ tino.org/
 truenetwork.ru/
 tx-mirror.tier.net/
 tzulo.com/
+ucalgary.ca/
 uepg.br/
 uk.mirrors.clouvider.net/
 unifique.com.br/
@@ -616,6 +618,7 @@ www.iwebfusion.net/
 www.jaist.ac.jp/
 www.junda.nl/
 www.kent.ac.uk/
+www.kku.ac.th/
 www.knownhost.com/
 www.lchs.com.au/
 www.limda.net/
@@ -655,6 +658,7 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
+www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
@@ -666,6 +670,7 @@ www.siena.edu/
 www.sitsa.com.ar/
 www.siwoo.org/
 www.sonic.com/
+www.sox.rs/
 www.steadfast.net/
 www.swinburne.edu.au/
 www.telecomarmenia.am/
