@@ -39,7 +39,6 @@ almalinux.mirror.ukraine.com.ua/
 almalinux.mirror.wearetriple.com/
 almalinux.mirrors.behostings.net/
 almalinux.mirrors.itworxx.de/
-almalinux.mirrors.ovh.net/
 almalinux.mirrorservice.org/
 almalinux.netforce.hosting/
 almalinux.nic.cz/
@@ -369,7 +368,7 @@ mirror.truenetwork.ru/
 mirror.twds.com.tw/
 mirror.tzulo.com/
 mirror.uepg.br/
-mirror.unilak.ac.id/
+mirror.us-midwest-1.nexcess.net/
 mirror.us.mirhosting.net/
 mirror.usi.edu/
 mirror.veesp.com/
@@ -542,7 +541,6 @@ ucalgary.ca/
 uepg.br/
 uk.mirrors.clouvider.net/
 unifique.com.br/
-unilak.ac.id/
 usi.edu/
 veesp.com/
 vhost.vn/
@@ -635,6 +633,7 @@ www.limda.net/
 www.linkedin.com/
 www.lip6.fr/
 www.liquid.tech/
+www.liquidweb.com/
 www.liteserver.nl/
 www.lysator.liu.se/
 www.maeen.sa/
@@ -656,7 +655,6 @@ www.nodespace.com/
 www.nxthost.com/
 www.nyist.edu.cn/
 www.onenet.net/
-www.ovhcloud.com/
 www.ox.ac.uk/
 www.peralex.com/
 www.physics.uoc.gr/
