@@ -270,6 +270,7 @@ mirror.us.mirhosting.net/
 mirror.us.oneandone.net/
 mirror.veesp.com/
 mirror.vinehost.net/
+mirror.vpgrp.io/
 mirror.wtnet.de/
 mirror.xeonbd.com/
 mirror.xtom.com.hk/
