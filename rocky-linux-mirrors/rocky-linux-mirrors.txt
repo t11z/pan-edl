@@ -27,7 +27,6 @@ dsync.krfoss.org/
 en.isoc.org.il/
 energotel.sk/
 esto.network/
-evoluso.com/
 fosszone.csd.auth.gr/
 fr.dyi.ng/
 fr.mirrors.cicku.me/
@@ -112,7 +111,6 @@ mirror1.hs-esslingen.de/
 mirror1.isoc.org.il/
 mirrors.dotsrc.org/
 mirrors.esto.network/
-mirrors.evoluso.com/
 mirrors.hostiserver.com/
 mirrors.ipserverone.com/
 mirrors.iu13.net/
