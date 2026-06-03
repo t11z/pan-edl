@@ -304,7 +304,6 @@ mirror.previder.nl/
 mirror.ps.kz/
 mirror.rabisu.com/
 mirror.raiolanetworks.com/
-mirror.rasanegar.com/
 mirror.ratiokontakt.de/
 mirror.rcg.sfu.ca/
 mirror.realcompute.io/
@@ -584,6 +583,7 @@ ubuntu.mirrors.omnilance.com/
 ubuntu.mirrors.ovh.net/
 ubuntu.mirrors.pair.com/
 ubuntu.mirrors.uk2.net/
+ubuntu.mobinhost.com/
 ubuntu.mti.mt.gov.br/
 ubuntu.netforce.hosting/
 ubuntu.org.ua/
