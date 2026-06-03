@@ -232,6 +232,7 @@ mirror.marwan.ma/
 mirror.mephi.ru/
 mirror.metanet.ch/
 mirror.mirohost.net/
+mirror.mk.de/
 mirror.mythic-beasts.com/
 mirror.neftm.ru/
 mirror.nforce.com/
@@ -245,6 +246,7 @@ mirror.ox.ac.uk/
 mirror.pangkin.com/
 mirror.plusline.net/
 mirror.plusserver.com/
+mirror.positive-internet.com/
 mirror.ps.kz/
 mirror.raiolanetworks.com/
 mirror.realcompute.io/
