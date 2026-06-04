@@ -106,6 +106,7 @@ doit.missouri.edu/
 domainesia.com/
 dotsrc.org/
 dsu.edu/
+edgeuno-bog2.mm.fcix.net/
 ekiphost.com/
 elice.io/
 elmirror.cl/
@@ -177,7 +178,6 @@ internet.asn.au/
 ip-connect.info/
 ip-connect.vn.ua/
 ipacct.com/
-iphost.md/
 ipinfo.io/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
@@ -190,6 +190,8 @@ jingk.ai/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
+kifu.gov.hu/
+kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 krnk.org/
 la.mirrors.clouvider.net/
@@ -207,6 +209,7 @@ lug.hit.edu.cn/
 lyrahosting.com/
 mangohost.net/
 maniaclab.uchicago.edu/
+marwan.ma/
 mijn.host/
 mirhosting.com/
 mirror-services.net/
@@ -290,8 +293,6 @@ mirror.init7.net/
 mirror.init7.net::almalinux/
 mirror.internet.asn.au/
 mirror.interserver.net/
-mirror.iphost.md/
-mirror.isoc.org.il/
 mirror.ixirhost.com/
 mirror.jagoanhosting.id/
 mirror.jingk.ai/
@@ -302,12 +303,14 @@ mirror.krfoss.org/
 mirror.lchs.network/
 mirror.limda.net/
 mirror.linux.duke.edu/
+mirror.linux.ec/
 mirror.linux.ncsu.edu/
 mirror.liteserver.nl/
 mirror.lyrahosting.com/
 mirror.maeen.sa/
 mirror.mangohost.net/
 mirror.maple-hosting.com/
+mirror.marwan.ma/
 mirror.mci-1.serverforge.org/
 mirror.meowsmp.net/
 mirror.mephi.ru/
@@ -321,6 +324,7 @@ mirror.netweaver.uk/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nforce.com/
+mirror.niif.hu/
 mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
@@ -331,6 +335,7 @@ mirror.nyist.edu.cn/
 mirror.ossplanet.net/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
+mirror.papua.go.id/
 mirror.pit.teraswitch.com/
 mirror.plusline.net/
 mirror.previder.nl/
@@ -506,6 +511,7 @@ rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
 rsync.gtlib.gatech.edu/
 rsync.mirror.gi.co.id/
+rsync.mirror.papua.go.id/
 rsync.mirrorservice.org/
 rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
@@ -555,6 +561,7 @@ wiki.lug.ro/
 www.01link.net/
 www.2degrees.nz/
 www.4psa.com/
+www.Linux.ec/
 www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
@@ -605,6 +612,7 @@ www.gbnetwork.com/
 www.gi.co.id/
 www.group.one/
 www.gtlib.gatech.edu/
+www.guzel.net.tr/
 www.gwdg.de/
 www.hashy0917.net/
 www.hivelocity.net/
@@ -619,7 +627,6 @@ www.iij.ad.jp/
 www.init7.net/
 www.interserver.net/
 www.ipserverone.com/
-www.isoc.org.il/
 www.itworxx.de/
 www.iu13.org/
 www.iwebfusion.net/
@@ -656,6 +663,7 @@ www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
 www.ox.ac.uk/
+www.papua.go.id/
 www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
