@@ -106,7 +106,6 @@ doit.missouri.edu/
 domainesia.com/
 dotsrc.org/
 dsu.edu/
-edgeuno-bog2.mm.fcix.net/
 ekiphost.com/
 elice.io/
 elmirror.cl/
@@ -178,6 +177,7 @@ internet.asn.au/
 ip-connect.info/
 ip-connect.vn.ua/
 ipacct.com/
+iphost.md/
 ipinfo.io/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
@@ -190,7 +190,6 @@ jingk.ai/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
-kifu.gov.hu/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 krnk.org/
@@ -293,6 +292,7 @@ mirror.init7.net/
 mirror.init7.net::almalinux/
 mirror.internet.asn.au/
 mirror.interserver.net/
+mirror.iphost.md/
 mirror.ixirhost.com/
 mirror.jagoanhosting.id/
 mirror.jingk.ai/
@@ -324,7 +324,6 @@ mirror.netweaver.uk/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nforce.com/
-mirror.niif.hu/
 mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
@@ -335,7 +334,6 @@ mirror.nyist.edu.cn/
 mirror.ossplanet.net/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
-mirror.papua.go.id/
 mirror.pit.teraswitch.com/
 mirror.plusline.net/
 mirror.previder.nl/
@@ -392,7 +390,6 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
-mirror3.krfoss.org/
 mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
@@ -511,7 +508,6 @@ rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
 rsync.gtlib.gatech.edu/
 rsync.mirror.gi.co.id/
-rsync.mirror.papua.go.id/
 rsync.mirrorservice.org/
 rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
@@ -663,7 +659,6 @@ www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
 www.ox.ac.uk/
-www.papua.go.id/
 www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
