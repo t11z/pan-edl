@@ -4,6 +4,7 @@ a2hosting.com/
 africloud.com/
 airnet.uz/
 al-mirror.a2hosting.com/
+alma.acidman.thelefty.org/
 alma.as3741.net/
 alma.idhosting.pl/
 alma.mirror.nyuad.nyu.edu/
@@ -105,7 +106,6 @@ doit.missouri.edu/
 domainesia.com/
 dotsrc.org/
 dsu.edu/
-edgeuno-bog2.mm.fcix.net/
 ekiphost.com/
 elice.io/
 elmirror.cl/
@@ -138,7 +138,6 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
-ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -182,6 +181,7 @@ iphost.md/
 ipinfo.io/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
+it2.mirror.vhosting-it.com/
 itc.zju.edu.cn/
 ixirhost.com/
 jagoanhosting.com/
@@ -190,7 +190,6 @@ jingk.ai/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
-kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 krnk.org/
 la.mirrors.clouvider.net/
@@ -258,6 +257,7 @@ mirror.diyarciftci.xyz/
 mirror.dk.team.blue/
 mirror.dk.team.blue::almalinux/
 mirror.docker.ru/
+mirror.dogado.de/
 mirror.domainhizmetleri.com/
 mirror.ekiphost.com/
 mirror.elice.io/
@@ -270,6 +270,7 @@ mirror.flo.c-f.ro/
 mirror.fmt-2.serverforge.org/
 mirror.freedif.org/
 mirror.fysik.dtu.dk/
+mirror.gi.co.id/
 mirror.grid.uchicago.edu/
 mirror.group.one/
 mirror.hashy0917.net/
@@ -504,6 +505,7 @@ rpmfind.net/
 rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
 rsync.gtlib.gatech.edu/
+rsync.mirror.gi.co.id/
 rsync.mirrorservice.org/
 rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
@@ -587,6 +589,7 @@ www.csuc.cat/
 www.cyberfolks.ro/
 www.deac.eu/
 www.digitalpacific.com.au/
+www.dogado.de/
 www.domainhizmetleri.com/
 www.edgoo.io/
 www.elhacker.net/
@@ -599,9 +602,9 @@ www.fnal.gov/
 www.fysik.dtu.dk/
 www.garr.it/
 www.gbnetwork.com/
+www.gi.co.id/
 www.group.one/
 www.gtlib.gatech.edu/
-www.guzel.net.tr/
 www.gwdg.de/
 www.hashy0917.net/
 www.hivelocity.net/
@@ -663,7 +666,6 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
-www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
@@ -680,6 +682,7 @@ www.steadfast.net/
 www.swinburne.edu.au/
 www.telecomarmenia.am/
 www.tencent.com/
+www.thelefty.org/
 www.tier.net/
 www.tku.edu.tw/
 www.transip.nl/

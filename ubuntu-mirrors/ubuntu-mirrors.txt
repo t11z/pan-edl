@@ -13,7 +13,6 @@ archive.ubuntumirror.dei.uc.pt/
 artfiles.org/
 atl.mirrors.clouvider.net/
 aze.archive.ubuntu.com/
-cdn.ubuntu.repo.cloudeka.id/
 cesium.di.uminho.pt/
 cz.archive.ubuntu.com/
 dafi.inf.um.es/
@@ -24,6 +23,7 @@ deb.campolargo.pr.gov.br/
 debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
 distrohub.kyiv.ua/
+download.nus.edu.sg/
 download.nust.na/
 drmirror.physi.uni-heidelberg.de/
 edgeuno-bog2.mm.fcix.net/
@@ -205,8 +205,6 @@ mirror.freethought-internet.co.uk/
 mirror.fsmg.org.nz/
 mirror.fst.kz/
 mirror.funkfreundelandshut.de/
-mirror.geekonweb.fr/
-mirror.gi.co.id/
 mirror.gofoss.xyz/
 mirror.greennet.gl/
 mirror.group.one/
@@ -448,6 +446,7 @@ mirrors.nxtgen.com/
 mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
 mirrors.opensource.is/
+mirrors.piconets.webwerks.in/
 mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
 mirrors.ptisp.pt/
@@ -541,6 +540,7 @@ ubuntu.cica.es/
 ubuntu.cs.nctu.edu.tw/
 ubuntu.cs.utah.edu/
 ubuntu.dcc.fc.up.pt/
+ubuntu.dts.mg/
 ubuntu.ethz.ch/
 ubuntu.grad.hr/
 ubuntu.grena.ge/
