@@ -501,6 +501,7 @@ repo.huaweicloud.com/
 repo.ialab.dsu.edu/
 repo.iut.ac.ir/
 repo.jztkft.hu/
+repo.linuxmirrors.ir/
 repo.morgan.kr/
 repo.ugm.ac.id/
 repo.usk.ac.id/
@@ -532,7 +533,6 @@ ubuntu-mirror.ati.tn/
 ubuntu-mirror.bhtelecom.ba/
 ubuntu-mirror.puq.apoapsis.cl/
 ubuntu.anexia.at/
-ubuntu.btit.nz/
 ubuntu.c3sl.ufpr.br/
 ubuntu.ccns.ncku.edu.tw/
 ubuntu.cica.es/
@@ -548,6 +548,7 @@ ubuntu.hi.no/
 ubuntu.hysing.is/
 ubuntu.ip-connect.vn.ua/
 ubuntu.ipacct.com/
+ubuntu.joy.services/
 ubuntu.koyanet.lv/
 ubuntu.lafibre.info/
 ubuntu.lagis.at/

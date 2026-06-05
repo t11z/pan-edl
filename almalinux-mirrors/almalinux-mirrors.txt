@@ -48,7 +48,6 @@ almalinux.org/
 almalinux.ourhome.kiwi/
 almalinux.savoirfairelinux.net/
 almalinux.schlundtech.de/
-almalinux.si/
 almalinux.uib.no/
 almalinux.virtono.com/
 almalinux.vpsttt.com/
@@ -104,6 +103,7 @@ doit.missouri.edu/
 domainesia.com/
 dotsrc.org/
 dsu.edu/
+edgeuno-bog2.mm.fcix.net/
 ekiphost.com/
 elice.io/
 elmirror.cl/
@@ -112,7 +112,6 @@ extreme-ix.org/
 ezscale.cloud/
 fam.org.nz/
 fcix.net/
-fibia.dk/
 fleksibel.com/
 flokinet.is/
 for.aws.repo.almalinux.org/
@@ -138,6 +137,8 @@ ftp.psnc.pl/
 ftp.riken.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
+ftp.tc.edu.tw/
+ftp.tku.edu.tw/
 ftp.ucsb.edu/
 ftp.udx.icscoe.jp/
 ftp.uni-bayreuth.de/
@@ -153,6 +154,7 @@ hcc-mirror.unl.edu/
 hcc.unl.edu/
 heru.id/
 hivelocity.net/
+hkg.mirror.rackspace.com/
 hnd.cl/
 hnl.fastly.repo.almalinux.org/
 home.cern/
@@ -184,8 +186,10 @@ jetserver.co.il/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
+kifu.gov.hu/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
+krnk.org/
 la.mirrors.clouvider.net/
 leaseweb.com/
 lidsol.fi-b.unam.mx/
@@ -201,6 +205,7 @@ lug.hit.edu.cn/
 lyrahosting.com/
 mangohost.net/
 maniaclab.uchicago.edu/
+marwan.ma/
 mijn.host/
 mirhosting.com/
 mirror-services.net/
@@ -217,7 +222,6 @@ mirror.alastyr.com/
 mirror.alma.iad1.serverforge.org/
 mirror.alma.lax1.serverforge.org/
 mirror.almalinux.peralex.com/
-mirror.almalinux.si/
 mirror.alwyzon.net/
 mirror.amscloud.co.id/
 mirror.amscloud.co.id::almalinux/
@@ -300,6 +304,7 @@ mirror.lyrahosting.com/
 mirror.maeen.sa/
 mirror.mangohost.net/
 mirror.maple-hosting.com/
+mirror.marwan.ma/
 mirror.mci-1.serverforge.org/
 mirror.meowsmp.net/
 mirror.mephi.ru/
@@ -313,6 +318,7 @@ mirror.netweaver.uk/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nforce.com/
+mirror.niif.hu/
 mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
@@ -320,7 +326,6 @@ mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
 mirror.nodespace.com/
 mirror.nyist.edu.cn/
-mirror.ossplanet.net/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
 mirror.pit.teraswitch.com/
@@ -393,7 +398,6 @@ mirrors.chroot.ro/
 mirrors.cloudforest.co.th/
 mirrors.coreix.net/
 mirrors.dotsrc.org/
-mirrors.fibianet.dk/
 mirrors.ft.uam.es/
 mirrors.gbnetwork.com/
 mirrors.gigenet.com/
@@ -405,6 +409,7 @@ mirrors.hostico.ro/
 mirrors.hostiserver.com/
 mirrors.ipserverone.com/
 mirrors.iu13.net/
+mirrors.krnk.org/
 mirrors.melbourne.co.uk/
 mirrors.mvps.net/
 mirrors.nav.ro/
@@ -465,7 +470,6 @@ opencolo.mm.fcix.net/
 opensource.fb.com/
 or-mirror.iwebfusion.net/
 ord.mirror.rackspace.com/
-ossplanet.net/
 osuosl.org/
 ourhost.az/
 per.aws.repo.almalinux.org/
@@ -517,6 +521,7 @@ southfront.mm.fcix.net/
 stix.mm.fcix.net/
 storpool.com/
 syd.mirror.rackspace.com/
+tc.edu.tw/
 team-cymru.com/
 team.blue/
 teamhydra.dev/
@@ -674,6 +679,7 @@ www.telecomarmenia.am/
 www.tencent.com/
 www.thelefty.org/
 www.tier.net/
+www.tku.edu.tw/
 www.transip.nl/
 www.trex.fi/
 www.twds.com.tw/
