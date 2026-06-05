@@ -141,6 +141,8 @@ ftp.psnc.pl/
 ftp.riken.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
+ftp.tc.edu.tw/
+ftp.tku.edu.tw/
 ftp.ucsb.edu/
 ftp.udx.icscoe.jp/
 ftp.uni-bayreuth.de/
@@ -156,6 +158,7 @@ hcc-mirror.unl.edu/
 hcc.unl.edu/
 heru.id/
 hivelocity.net/
+hkg.mirror.rackspace.com/
 hnd.cl/
 hnl.fastly.repo.almalinux.org/
 home.cern/
@@ -189,6 +192,7 @@ kartolo.sby.datautama.net.id/
 katapult.io/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
+krnk.org/
 la.mirrors.clouvider.net/
 leaseweb.com/
 lidsol.fi-b.unam.mx/
@@ -366,6 +370,7 @@ mirror.truenetwork.ru/
 mirror.twds.com.tw/
 mirror.tzulo.com/
 mirror.uepg.br/
+mirror.us-midwest-1.nexcess.net/
 mirror.us.mirhosting.net/
 mirror.usi.edu/
 mirror.veritescil.com.tr/
@@ -379,9 +384,11 @@ mirror.wiseglobalsolutions.com/
 mirror.wonchan.net/
 mirror.xcobean.co.ke/
 mirror.xenyth.net/
+mirror.xeonbd.com/
 mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
+mirror1.sox.rs/
 mirror3.krfoss.org/
 mirrors.aliyun.com/
 mirrors.almalinux.org/
@@ -404,10 +411,12 @@ mirrors.gigenet.com/
 mirrors.gofiber.vn/
 mirrors.hit.edu.cn/
 mirrors.hosterion.ro/
+mirrors.hostever.com/
 mirrors.hostico.ro/
 mirrors.hostiserver.com/
 mirrors.ipserverone.com/
 mirrors.iu13.net/
+mirrors.krnk.org/
 mirrors.melbourne.co.uk/
 mirrors.mvps.net/
 mirrors.nav.ro/
@@ -462,7 +471,6 @@ nyc.almalinux.osuosl.org/
 nyc.mirrors.clouvider.net/
 nyuad.nyu.edu/
 ocf.berkeley.edu/
-ohioix.mm.fcix.net/
 oit.gatech.edu/
 opencolo.mm.fcix.net/
 opensource.fb.com/
@@ -520,6 +528,7 @@ southfront.mm.fcix.net/
 stix.mm.fcix.net/
 storpool.com/
 syd.mirror.rackspace.com/
+tc.edu.tw/
 team-cymru.com/
 team.blue/
 teamhydra.dev/
@@ -573,6 +582,7 @@ www.chroot.ro/
 www.cixug.gal/
 www.cloud9.ge/
 www.clouvider.com/
+www.codeforhost.com/
 www.cogentco.com/
 www.coreix.net/
 www.csc.fi/
@@ -624,6 +634,7 @@ www.lchs.com.au/
 www.limda.net/
 www.linkedin.com/
 www.liquid.tech/
+www.liquidweb.com/
 www.liteserver.nl/
 www.lysator.liu.se/
 www.maeen.sa/
@@ -668,12 +679,14 @@ www.siena.edu/
 www.sitsa.com.ar/
 www.siwoo.org/
 www.sonic.com/
+www.sox.rs/
 www.steadfast.net/
 www.swinburne.edu.au/
 www.telecomarmenia.am/
 www.tencent.com/
 www.thelefty.org/
 www.tier.net/
+www.tku.edu.tw/
 www.transip.nl/
 www.trex.fi/
 www.twds.com.tw/
@@ -696,6 +709,7 @@ www.wearetriple.com/
 www.web-hosting.net.my/
 www.webworld.ie/
 www.wiseglobalsolutions.com/
+www.xeonbd.com/
 www.yamagata-u.ac.jp/
 www.yuccatelecom.com/
 wwww.wonchan.net/
