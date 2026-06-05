@@ -9,6 +9,7 @@ alma.as3741.net/
 alma.idhosting.pl/
 alma.mirror.nyuad.nyu.edu/
 alma.mirror.serversaustralia.com.au/
+almalinux-mirror.tpa.hivelocity.net/
 almalinux-mirror.unifique.cloud/
 almalinux-mirror.yucca.net/
 almalinux.elhacker.net/
@@ -105,6 +106,7 @@ doit.missouri.edu/
 domainesia.com/
 dotsrc.org/
 dsu.edu/
+edgeuno-bog2.mm.fcix.net/
 ekiphost.com/
 elice.io/
 elmirror.cl/
@@ -139,6 +141,7 @@ ftp.psnc.pl/
 ftp.riken.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
+ftp.tc.edu.tw/
 ftp.ucsb.edu/
 ftp.udx.icscoe.jp/
 ftp.uni-bayreuth.de/
@@ -153,6 +156,7 @@ gsl-syd.mm.fcix.net/
 hcc-mirror.unl.edu/
 hcc.unl.edu/
 heru.id/
+hivelocity.net/
 hnd.cl/
 hnl.fastly.repo.almalinux.org/
 home.cern/
@@ -184,8 +188,10 @@ jetserver.co.il/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
+kifu.gov.hu/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
+krnk.org/
 la.mirrors.clouvider.net/
 leaseweb.com/
 lidsol.fi-b.unam.mx/
@@ -317,6 +323,7 @@ mirror.netweaver.uk/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nforce.com/
+mirror.niif.hu/
 mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
@@ -366,6 +373,7 @@ mirror.uepg.br/
 mirror.us-midwest-1.nexcess.net/
 mirror.us.mirhosting.net/
 mirror.usi.edu/
+mirror.veesp.com/
 mirror.veritescil.com.tr/
 mirror.vpsnet.com/
 mirror.vsys.host/
@@ -409,6 +417,7 @@ mirrors.hostico.ro/
 mirrors.hostiserver.com/
 mirrors.ipserverone.com/
 mirrors.iu13.net/
+mirrors.krnk.org/
 mirrors.melbourne.co.uk/
 mirrors.mvps.net/
 mirrors.nav.ro/
@@ -521,6 +530,7 @@ southfront.mm.fcix.net/
 stix.mm.fcix.net/
 storpool.com/
 syd.mirror.rackspace.com/
+tc.edu.tw/
 team-cymru.com/
 team.blue/
 teamhydra.dev/
@@ -537,6 +547,7 @@ uepg.br/
 uk.mirrors.clouvider.net/
 unifique.com.br/
 usi.edu/
+veesp.com/
 vhost.vn/
 vn-mirrors.vhost.vn/
 volico.mm.fcix.net/
