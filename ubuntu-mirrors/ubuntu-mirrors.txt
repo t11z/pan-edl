@@ -1,7 +1,6 @@
 *.archive.ubuntu.com/
 ae.archive.ubuntu.com/
 archive.eibly.com/
-archive.g4t1.pro/
 archive.linux.duke.edu/
 archive.ubuntu.com/
 archive.ubuntu.mirror.ba/
@@ -62,7 +61,6 @@ ftp.lip6.fr/
 ftp.litnet.lt/
 ftp.ludd.ltu.se/
 ftp.lysator.liu.se/
-ftp.mirror.tw/
 ftp.mirrorservice.org/
 ftp.muug.ca/
 ftp.nluug.nl/
@@ -248,6 +246,7 @@ mirror.kakao.com/
 mirror.kamp.de/
 mirror.kapteyan.com.tr/
 mirror.keiminem.com/
+mirror.kkg.berlin/
 mirror.kku.ac.th/
 mirror.krfoss.org/
 mirror.kumi.systems/
@@ -368,7 +367,6 @@ mirror.velden.media/
 mirror.verinomi.com/
 mirror.veritescil.com.tr/
 mirror.vietnix.vn/
-mirror.viettelcloud.vn/
 mirror.vinehost.net/
 mirror.visiontech.com.bd/
 mirror.vnet.sk/

@@ -141,7 +141,6 @@ ftp.psnc.pl/
 ftp.riken.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
-ftp.tc.edu.tw/
 ftp.ucsb.edu/
 ftp.udx.icscoe.jp/
 ftp.uni-bayreuth.de/
@@ -188,10 +187,8 @@ jetserver.co.il/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
-kifu.gov.hu/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
-krnk.org/
 la.mirrors.clouvider.net/
 leaseweb.com/
 lidsol.fi-b.unam.mx/
@@ -323,7 +320,6 @@ mirror.netweaver.uk/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nforce.com/
-mirror.niif.hu/
 mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
@@ -370,10 +366,8 @@ mirror.truenetwork.ru/
 mirror.twds.com.tw/
 mirror.tzulo.com/
 mirror.uepg.br/
-mirror.us-midwest-1.nexcess.net/
 mirror.us.mirhosting.net/
 mirror.usi.edu/
-mirror.veesp.com/
 mirror.veritescil.com.tr/
 mirror.vpsnet.com/
 mirror.vsys.host/
@@ -385,11 +379,9 @@ mirror.wiseglobalsolutions.com/
 mirror.wonchan.net/
 mirror.xcobean.co.ke/
 mirror.xenyth.net/
-mirror.xeonbd.com/
 mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
-mirror1.sox.rs/
 mirror3.krfoss.org/
 mirrors.aliyun.com/
 mirrors.almalinux.org/
@@ -412,12 +404,10 @@ mirrors.gigenet.com/
 mirrors.gofiber.vn/
 mirrors.hit.edu.cn/
 mirrors.hosterion.ro/
-mirrors.hostever.com/
 mirrors.hostico.ro/
 mirrors.hostiserver.com/
 mirrors.ipserverone.com/
 mirrors.iu13.net/
-mirrors.krnk.org/
 mirrors.melbourne.co.uk/
 mirrors.mvps.net/
 mirrors.nav.ro/
@@ -530,7 +520,6 @@ southfront.mm.fcix.net/
 stix.mm.fcix.net/
 storpool.com/
 syd.mirror.rackspace.com/
-tc.edu.tw/
 team-cymru.com/
 team.blue/
 teamhydra.dev/
@@ -547,7 +536,6 @@ uepg.br/
 uk.mirrors.clouvider.net/
 unifique.com.br/
 usi.edu/
-veesp.com/
 vhost.vn/
 vn-mirrors.vhost.vn/
 volico.mm.fcix.net/
@@ -585,7 +573,6 @@ www.chroot.ro/
 www.cixug.gal/
 www.cloud9.ge/
 www.clouvider.com/
-www.codeforhost.com/
 www.cogentco.com/
 www.coreix.net/
 www.csc.fi/
@@ -637,7 +624,6 @@ www.lchs.com.au/
 www.limda.net/
 www.linkedin.com/
 www.liquid.tech/
-www.liquidweb.com/
 www.liteserver.nl/
 www.lysator.liu.se/
 www.maeen.sa/
@@ -682,7 +668,6 @@ www.siena.edu/
 www.sitsa.com.ar/
 www.siwoo.org/
 www.sonic.com/
-www.sox.rs/
 www.steadfast.net/
 www.swinburne.edu.au/
 www.telecomarmenia.am/
@@ -711,7 +696,6 @@ www.wearetriple.com/
 www.web-hosting.net.my/
 www.webworld.ie/
 www.wiseglobalsolutions.com/
-www.xeonbd.com/
 www.yamagata-u.ac.jp/
 www.yuccatelecom.com/
 wwww.wonchan.net/
