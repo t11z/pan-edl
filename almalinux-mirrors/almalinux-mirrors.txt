@@ -48,6 +48,7 @@ almalinux.org/
 almalinux.ourhome.kiwi/
 almalinux.savoirfairelinux.net/
 almalinux.schlundtech.de/
+almalinux.si/
 almalinux.uib.no/
 almalinux.virtono.com/
 almalinux.vpsttt.com/
@@ -112,6 +113,7 @@ extreme-ix.org/
 ezscale.cloud/
 fam.org.nz/
 fcix.net/
+fibia.dk/
 fleksibel.com/
 flokinet.is/
 for.aws.repo.almalinux.org/
@@ -154,7 +156,6 @@ hcc-mirror.unl.edu/
 hcc.unl.edu/
 heru.id/
 hivelocity.net/
-hkg.mirror.rackspace.com/
 hnd.cl/
 hnl.fastly.repo.almalinux.org/
 home.cern/
@@ -186,7 +187,6 @@ jetserver.co.il/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
-kifu.gov.hu/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 krnk.org/
@@ -222,6 +222,7 @@ mirror.alastyr.com/
 mirror.alma.iad1.serverforge.org/
 mirror.alma.lax1.serverforge.org/
 mirror.almalinux.peralex.com/
+mirror.almalinux.si/
 mirror.alwyzon.net/
 mirror.amscloud.co.id/
 mirror.amscloud.co.id::almalinux/
@@ -318,7 +319,6 @@ mirror.netweaver.uk/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nforce.com/
-mirror.niif.hu/
 mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
@@ -326,6 +326,7 @@ mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
 mirror.nodespace.com/
 mirror.nyist.edu.cn/
+mirror.ossplanet.net/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
 mirror.pit.teraswitch.com/
@@ -382,7 +383,6 @@ mirror.xenyth.net/
 mirror.xeonbd.com/
 mirror.yandex.ru/
 mirror.yer.az/
-mirror.yuki.net.uk/
 mirror1.sox.rs/
 mirror3.krfoss.org/
 mirrors.aliyun.com/
@@ -398,6 +398,7 @@ mirrors.chroot.ro/
 mirrors.cloudforest.co.th/
 mirrors.coreix.net/
 mirrors.dotsrc.org/
+mirrors.fibianet.dk/
 mirrors.ft.uam.es/
 mirrors.gbnetwork.com/
 mirrors.gigenet.com/
@@ -470,6 +471,7 @@ opencolo.mm.fcix.net/
 opensource.fb.com/
 or-mirror.iwebfusion.net/
 ord.mirror.rackspace.com/
+ossplanet.net/
 osuosl.org/
 ourhost.az/
 per.aws.repo.almalinux.org/
@@ -503,7 +505,6 @@ rsync.mirror.gi.co.id/
 rsync.mirrorservice.org/
 rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
-rsync.yuki.net.uk/
 ruk-com.cloud/
 rwth-aachen.de/
 sabay.com.kh/
@@ -711,7 +712,6 @@ xenyth.net/
 xtom.com/
 yandex.ru/
 yer.az/
-yuki.net.uk/
 zappiehost.com/
 ziply.mm.fcix.net/
 ziplyfiber.com/
