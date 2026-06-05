@@ -329,5 +329,4 @@ repos.interior.edu.uy/
 ro.mirror.flokinet.net/
 security.debian.org/
 tw1.mirror.blendbyte.net/
-werog.interkoneksimedia.co.id/
 www.nic.funet.fi/
