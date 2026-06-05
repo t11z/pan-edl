@@ -39,7 +39,6 @@ almalinux.mirror.ukraine.com.ua/
 almalinux.mirror.wearetriple.com/
 almalinux.mirrors.behostings.net/
 almalinux.mirrors.itworxx.de/
-almalinux.mirrors.ovh.net/
 almalinux.mirrorservice.org/
 almalinux.mobinhost.com/
 almalinux.netforce.hosting/
@@ -58,7 +57,6 @@ almamirror.phoenixnap.com/
 amscloud.co.id/
 aptus.co.tz/
 ash.mirrors.clouvider.net/
-asnet.am/
 atl.mirrors.clouvider.net/
 atl.mirrors.ezscale.cloud/
 atl.mirrors.knownhost.com/
@@ -97,7 +95,6 @@ datamossa.com/
 datautama.net.id/
 de.mirrors.clouvider.net/
 den.aws.repo.almalinux.org/
-dewabiz.com/
 dinosaurus.fleksibel.com/
 distrohub.kyiv.ua/
 diyarciftci.xyz/
@@ -152,6 +149,7 @@ gigenet.com/
 gigsouth.mm.fcix.net/
 github.com/
 globo.tech/
+gofiber.vn/
 gsl-syd.mm.fcix.net/
 hcc-mirror.unl.edu/
 hcc.unl.edu/
@@ -253,7 +251,6 @@ mirror.dal.nexril.net/
 mirror.datacenter.by/
 mirror.datamossa.io/
 mirror.de.leaseweb.net/
-mirror.dewabiz.com/
 mirror.digitalpacific.com.au/
 mirror.diyarciftci.xyz/
 mirror.dk.team.blue/
@@ -390,10 +387,10 @@ mirror.xeonbd.com/
 mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
+mirror1.sox.rs/
 mirror3.krfoss.org/
 mirrors.aliyun.com/
 mirrors.almalinux.org/
-mirrors.asnet.am/
 mirrors.atlas.net.co/
 mirrors.binaryracks.com/
 mirrors.bkns.vn/
@@ -409,6 +406,7 @@ mirrors.fibianet.dk/
 mirrors.ft.uam.es/
 mirrors.gbnetwork.com/
 mirrors.gigenet.com/
+mirrors.gofiber.vn/
 mirrors.hit.edu.cn/
 mirrors.hosterion.ro/
 mirrors.hostever.com/
@@ -658,7 +656,6 @@ www.nodespace.com/
 www.nxthost.com/
 www.nyist.edu.cn/
 www.onenet.net/
-www.ovhcloud.com/
 www.ox.ac.uk/
 www.peralex.com/
 www.physics.uoc.gr/
@@ -681,6 +678,7 @@ www.siena.edu/
 www.sitsa.com.ar/
 www.siwoo.org/
 www.sonic.com/
+www.sox.rs/
 www.steadfast.net/
 www.swinburne.edu.au/
 www.telecomarmenia.am/
