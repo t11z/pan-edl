@@ -97,6 +97,7 @@ datamossa.com/
 datautama.net.id/
 de.mirrors.clouvider.net/
 den.aws.repo.almalinux.org/
+dewabiz.com/
 dinosaurus.fleksibel.com/
 distrohub.kyiv.ua/
 diyarciftci.xyz/
@@ -110,6 +111,7 @@ ekiphost.com/
 elice.io/
 elmirror.cl/
 eng.mephi.ru/
+extreme-ix.org/
 ezscale.cloud/
 fam.org.nz/
 fcix.net/
@@ -137,7 +139,6 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
-ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -190,7 +191,7 @@ jingk.ai/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
-kifu.gov.hu/
+kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 krnk.org/
 la.mirrors.clouvider.net/
@@ -224,6 +225,7 @@ mirror.airnet.uz/
 mirror.alastyr.com/
 mirror.alma.iad1.serverforge.org/
 mirror.alma.lax1.serverforge.org/
+mirror.almalinux.peralex.com/
 mirror.almalinux.si/
 mirror.alwyzon.net/
 mirror.amscloud.co.id/
@@ -252,6 +254,7 @@ mirror.dal.nexril.net/
 mirror.datacenter.by/
 mirror.datamossa.io/
 mirror.de.leaseweb.net/
+mirror.dewabiz.com/
 mirror.digitalpacific.com.au/
 mirror.diyarciftci.xyz/
 mirror.dk.team.blue/
@@ -302,6 +305,7 @@ mirror.krfoss.org/
 mirror.lchs.network/
 mirror.limda.net/
 mirror.linux.duke.edu/
+mirror.linux.ec/
 mirror.linux.ncsu.edu/
 mirror.liteserver.nl/
 mirror.lyrahosting.com/
@@ -322,7 +326,6 @@ mirror.netweaver.uk/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nforce.com/
-mirror.niif.hu/
 mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
@@ -330,6 +333,7 @@ mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
 mirror.nodespace.com/
 mirror.nyist.edu.cn/
+mirror.ossplanet.net/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
 mirror.pit.teraswitch.com/
@@ -345,7 +349,6 @@ mirror.reenigne.net/
 mirror.renu.ac.ug/
 mirror.rnet.missouri.edu/
 mirror.rootlicense.com/
-mirror.sabay.com.kh/
 mirror.se.altushost.com/
 mirror.servaxnet.com/
 mirror.server.net/
@@ -475,6 +478,7 @@ opencolo.mm.fcix.net/
 opensource.fb.com/
 or-mirror.iwebfusion.net/
 ord.mirror.rackspace.com/
+ossplanet.net/
 osuosl.org/
 ourhost.az/
 per.aws.repo.almalinux.org/
@@ -493,6 +497,7 @@ rda.run/
 reenigne.net/
 renu.ac.ug/
 repo.almalinux.org/
+repo.extreme-ix.org/
 repo.ialab.dsu.edu/
 repo.ifca.es/
 repo.shinjiru.com/
@@ -510,7 +515,6 @@ rsync.repo.almalinux.org/
 rsync.yuki.net.uk/
 ruk-com.cloud/
 rwth-aachen.de/
-sabay.com.kh/
 savoirfairelinux.com/
 sci.nju.edu.cn/
 seattle.crazyfast.us/
@@ -552,6 +556,7 @@ wiki.lug.ro/
 www.01link.net/
 www.2degrees.nz/
 www.4psa.com/
+www.Linux.ec/
 www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
@@ -602,6 +607,7 @@ www.gbnetwork.com/
 www.gi.co.id/
 www.group.one/
 www.gtlib.gatech.edu/
+www.guzel.net.tr/
 www.gwdg.de/
 www.hashy0917.net/
 www.hivelocity.net/
@@ -653,6 +659,7 @@ www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
 www.ox.ac.uk/
+www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
 www.previder.com/
@@ -662,7 +669,6 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
-www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/

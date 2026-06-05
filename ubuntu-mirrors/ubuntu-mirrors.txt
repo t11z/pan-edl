@@ -115,6 +115,7 @@ la.mirrors.clouvider.net/
 labs.eif.urjc.es/
 linux.domainesia.com/
 linux.yz.yamagata-u.ac.jp/
+mir.linux.kg/
 miroir.univ-lorraine.fr/
 mirror-gw.elastis.id/
 mirror-hk.koddos.net/
@@ -293,6 +294,7 @@ mirror.one.com/
 mirror.ordunet.ge/
 mirror.ossplanet.net/
 mirror.ourhost.az/
+mirror.overthewire.com.au/
 mirror.ox.ac.uk/
 mirror.papua.go.id/
 mirror.pit.teraswitch.com/
@@ -381,7 +383,6 @@ mirror.xtom.com.hk/
 mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
-mirror.zzunipark.com/
 mirror1.ku.ac.th/
 mirror1.sox.rs/
 mirror1.totbb.net/
@@ -509,7 +510,6 @@ repos.del.extreme-ix.org/
 repos.interior.edu.uy/
 rsync.gtlib.gatech.edu/
 rsync.icm.edu.pl/
-rsync.mirror.zzunipark.com/
 rsync.mirrors.ustc.edu.cn/
 rsync.mirrorservice.org/
 rsync.ubuntu.nautile.nc/
