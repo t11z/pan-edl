@@ -10,6 +10,7 @@ debian-mirror.sakura.ne.jp/
 debian.a1.bg/
 debian.anexia.at/
 debian.apt-mirror.de/
+debian.as3741.net/
 debian.balt.net/
 debian.c3sl.ufpr.br/
 debian.carnet.hr/
