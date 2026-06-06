@@ -20,7 +20,6 @@ almalinux.ipacct.com/
 almalinux.jetserver.co.il/
 almalinux.koyanet.lv/
 almalinux.linux.n0c.ca/
-almalinux.linuxpatch.com/
 almalinux.mirror-services.net/
 almalinux.mirror.archettitechnology.it/
 almalinux.mirror.blowfish.network/
@@ -104,7 +103,6 @@ doit.missouri.edu/
 domainesia.com/
 dotsrc.org/
 dsu.edu/
-edgeuno-bog2.mm.fcix.net/
 ekiphost.com/
 elice.io/
 elmirror.cl/
@@ -156,6 +154,7 @@ hcc-mirror.unl.edu/
 hcc.unl.edu/
 heru.id/
 hivelocity.net/
+hkg.mirror.rackspace.com/
 hnd.cl/
 hnl.fastly.repo.almalinux.org/
 home.cern/
@@ -198,7 +197,6 @@ linux-mirrors.fnal.gov/
 linux.domainesia.com/
 linux.duke.edu/
 linux.ncsu.edu/
-linuxpatch.com/
 linuxsoft.cern.ch/
 lon.mirror.rackspace.com/
 lug.hit.edu.cn/
@@ -383,6 +381,7 @@ mirror.xenyth.net/
 mirror.xeonbd.com/
 mirror.yandex.ru/
 mirror.yer.az/
+mirror.yuki.net.uk/
 mirror1.sox.rs/
 mirror3.krfoss.org/
 mirrors.aliyun.com/
@@ -505,6 +504,7 @@ rsync.mirror.gi.co.id/
 rsync.mirrorservice.org/
 rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
+rsync.yuki.net.uk/
 ruk-com.cloud/
 rwth-aachen.de/
 sabay.com.kh/
@@ -712,6 +712,7 @@ xenyth.net/
 xtom.com/
 yandex.ru/
 yer.az/
+yuki.net.uk/
 zappiehost.com/
 ziply.mm.fcix.net/
 ziplyfiber.com/
