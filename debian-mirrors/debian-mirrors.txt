@@ -6,7 +6,6 @@ deb.nextgen.ch/
 debian-archive.trafficmanager.net/
 debian-mirror.behostings.net/
 debian-mirror.puq.apoapsis.cl/
-debian-mirror.sakura.ne.jp/
 debian.a1.bg/
 debian.anexia.at/
 debian.apt-mirror.de/
@@ -119,7 +118,6 @@ ftp.hr.debian.org/
 ftp.icm.edu.pl/
 ftp.is.debian.org/
 ftp.it.debian.org/
-ftp.jp.debian.org/
 ftp.kaist.ac.kr/
 ftp.kr.debian.org/
 ftp.lanet.kr/
@@ -273,6 +271,7 @@ mirror.us.oneandone.net/
 mirror.veesp.com/
 mirror.vinehost.net/
 mirror.vpgrp.io/
+mirror.vpsnet.com/
 mirror.wtnet.de/
 mirror.xeonbd.com/
 mirror.xtom.com.hk/
