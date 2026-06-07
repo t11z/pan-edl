@@ -8,6 +8,7 @@ at.mirrors.cicku.me/
 auth.gr/
 br.dyi.ng/
 br.mirrors.cicku.me/
+btit.nz/
 ca.dyi.ng/
 ca.mirrors.cicku.me/
 cc.in2p3.fr/
@@ -52,6 +53,7 @@ insecure.nluug.nl/
 it.vcea.wsu.edu/
 it2.mirror.vhosting-it.com/
 krfoss.org/
+linux.btit.nz/
 lug.ustc.edu.cn/
 maeen.sa/
 marwan.ma/
