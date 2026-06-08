@@ -158,6 +158,7 @@ mirror.clientvps.com/
 mirror.cloudhosting.lv/
 mirror.cmkl.ac.th/
 mirror.cogentco.com/
+mirror.colocenter.nl/
 mirror.corbina.net/
 mirror.cosmiclinux.com/
 mirror.cov.ukservers.com/
