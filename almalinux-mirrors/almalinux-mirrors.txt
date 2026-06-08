@@ -377,7 +377,6 @@ mirror.usi.edu/
 mirror.veesp.com/
 mirror.veritescil.com.tr/
 mirror.vpsnet.com/
-mirror.vsys.host/
 mirror.vtti.vt.edu/
 mirror.wd6.net/
 mirror.wdc2.us.leaseweb.net/
@@ -551,7 +550,6 @@ vhost.vn/
 vn-mirrors.vhost.vn/
 volico.mm.fcix.net/
 vpsttt.com/
-vsys.host/
 wiki.almalinux.org/
 wiki.lug.ro/
 www.01link.net/
