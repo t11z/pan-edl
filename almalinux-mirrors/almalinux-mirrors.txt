@@ -206,7 +206,6 @@ lug.hit.edu.cn/
 lyrahosting.com/
 mangohost.net/
 maniaclab.uchicago.edu/
-marwan.ma/
 mijn.host/
 mirhosting.com/
 mirror-services.net/
@@ -220,13 +219,13 @@ mirror.accum.se/
 mirror.africloud.com/
 mirror.airnet.uz/
 mirror.alastyr.com/
-mirror.alma.iad1.serverforge.org/
 mirror.alma.lax1.serverforge.org/
 mirror.almalinux.peralex.com/
 mirror.almalinux.si/
 mirror.alwyzon.net/
 mirror.amscloud.co.id/
 mirror.amscloud.co.id::almalinux/
+mirror.anquan.cl/
 mirror.aptus.co.tz/
 mirror.as3741.net/
 mirror.ati.tn/
@@ -236,7 +235,6 @@ mirror.bahnhof.net/
 mirror.bf-net.ch/
 mirror.bharatdatacenter.com/
 mirror.bitency.nl/
-mirror.cedia.org.ec/
 mirror.ch.altushost.com/
 mirror.chpc.utah.edu/
 mirror.citrahost.com/
@@ -291,6 +289,7 @@ mirror.init7.net::almalinux/
 mirror.internet.asn.au/
 mirror.interserver.net/
 mirror.iphost.md/
+mirror.isoc.org.il/
 mirror.ixirhost.com/
 mirror.jagoanhosting.id/
 mirror.junda.nl/
@@ -307,7 +306,6 @@ mirror.lyrahosting.com/
 mirror.maeen.sa/
 mirror.mangohost.net/
 mirror.maple-hosting.com/
-mirror.marwan.ma/
 mirror.mci-1.serverforge.org/
 mirror.meowsmp.net/
 mirror.mephi.ru/
@@ -563,6 +561,7 @@ www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
+www.anquan.cl/
 www.ans.co.uk/
 www.anywair.com/
 www.archettitechnology.it/
@@ -575,7 +574,6 @@ www.binaryracks.com/
 www.bkns.vn/
 www.bme.hu/
 www.c0urier.net/
-www.cedia.edu.ec/
 www.chpc.utah.edu/
 www.chroot.ro/
 www.cixug.gal/
@@ -620,6 +618,7 @@ www.iij.ad.jp/
 www.init7.net/
 www.interserver.net/
 www.ipserverone.com/
+www.isoc.org.il/
 www.itworxx.de/
 www.iu13.org/
 www.iwebfusion.net/
