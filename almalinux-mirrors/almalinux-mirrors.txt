@@ -62,7 +62,6 @@ atl.mirrors.clouvider.net/
 atl.mirrors.ezscale.cloud/
 atl.mirrors.knownhost.com/
 aws.amazon.com/
-azvps.vn/
 beltelecom.by/
 bharatdatacenter.com/
 bitency.nl/
@@ -104,7 +103,6 @@ doit.missouri.edu/
 domainesia.com/
 dotsrc.org/
 dsu.edu/
-edgeuno-bog2.mm.fcix.net/
 ekiphost.com/
 elice.io/
 elmirror.cl/
@@ -181,7 +179,6 @@ ipinfo.io/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
-itc.zju.edu.cn/
 ixirhost.com/
 jagoanhosting.com/
 jetserver.co.il/
@@ -231,7 +228,6 @@ mirror.aptus.co.tz/
 mirror.as3741.net/
 mirror.ati.tn/
 mirror.az31.cloudpropeller.com/
-mirror.azvps.vn/
 mirror.bahnhof.net/
 mirror.bf-net.ch/
 mirror.bharatdatacenter.com/
@@ -301,6 +297,7 @@ mirror.krfoss.org/
 mirror.lchs.network/
 mirror.limda.net/
 mirror.linux.duke.edu/
+mirror.linux.ec/
 mirror.linux.ncsu.edu/
 mirror.liteserver.nl/
 mirror.lyrahosting.com/
@@ -371,7 +368,6 @@ mirror.usi.edu/
 mirror.veesp.com/
 mirror.veritescil.com.tr/
 mirror.vpsnet.com/
-mirror.vsys.host/
 mirror.vtti.vt.edu/
 mirror.wd6.net/
 mirror.wdc2.us.leaseweb.net/
@@ -443,7 +439,6 @@ mirrors.xtom.de/
 mirrors.xtom.ee/
 mirrors.xtom.jp/
 mirrors.xtom.nl/
-mirrors.zju.edu.cn/
 mnl.aws.repo.almalinux.org/
 mobinhost.com/
 mr.heru.id/
@@ -544,12 +539,12 @@ vhost.vn/
 vn-mirrors.vhost.vn/
 volico.mm.fcix.net/
 vpsttt.com/
-vsys.host/
 wiki.almalinux.org/
 wiki.lug.ro/
 www.01link.net/
 www.2degrees.nz/
 www.4psa.com/
+www.Linux.ec/
 www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
