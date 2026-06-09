@@ -431,7 +431,6 @@ mirrors.hostico.ro/
 mirrors.hostiserver.com/
 mirrors.huaweicloud.com/
 mirrors.ipserverone.com/
-mirrors.ircam.fr/
 mirrors.iu13.net/
 mirrors.jcut.edu.cn/
 mirrors.jlu.edu.cn/
@@ -507,6 +506,7 @@ pubmirrors.dal.corespace.com/
 rep-ubuntu-il.upress.io/
 repo.huaweicloud.com/
 repo.ialab.dsu.edu/
+repo.iut.ac.ir/
 repo.jztkft.hu/
 repo.linuxmirrors.ir/
 repo.morgan.kr/
