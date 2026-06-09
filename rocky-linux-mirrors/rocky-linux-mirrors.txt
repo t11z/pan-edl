@@ -107,7 +107,6 @@ mirror.web-ster.com/
 mirror.wonchan.net/
 mirror.yandex.ru/
 mirror.yer.az/
-mirror1.hs-esslingen.de/
 mirror1.isoc.org.il/
 mirrors.dotsrc.org/
 mirrors.esto.network/
@@ -218,7 +217,6 @@ www.hashy0917.net/
 www.hi.no/
 www.hosthink.net/
 www.hostiserver.com/
-www.hs-esslingen.de/
 www.ibiblio.org/
 www.iij.ad.jp/
 www.ipserverone.com/
