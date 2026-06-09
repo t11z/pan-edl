@@ -324,6 +324,7 @@ mr.heru.id/
 opensource.nchc.org.tw/
 packages.hs-regensburg.de/
 pkg.adfinis-on-exoscale.ch/
+plug-mirror.rcac.purdue.edu/
 pubmirror.plutex.de/
 repo.ialab.dsu.edu/
 repo.jztkft.hu/
