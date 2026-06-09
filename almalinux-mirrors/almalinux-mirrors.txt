@@ -87,6 +87,7 @@ cofractal-ewr.mm.fcix.net/
 cofractal-sea.mm.fcix.net/
 colocenter.nl/
 computing.ifca.es/
+cosi.clarkson.edu/
 csclub.uwaterloo.ca/
 cvo.almalinux.osuosl.org/
 dal.mirrors.clouvider.net/
@@ -136,6 +137,7 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
+ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -241,10 +243,12 @@ mirror.cedia.org.ec/
 mirror.ch.altushost.com/
 mirror.chpc.utah.edu/
 mirror.citrahost.com/
+mirror.clarkson.edu/
 mirror.cloudpropeller.com/
 mirror.cogentco.com/
 mirror.colocenter.nl/
 mirror.cov.ukservers.com/
+mirror.cpsc.ucalgary.ca/
 mirror.csclub.uwaterloo.ca/
 mirror.dal.nexril.net/
 mirror.datacenter.by/
@@ -406,13 +410,13 @@ mirrors.hostiserver.com/
 mirrors.ipserverone.com/
 mirrors.iu13.net/
 mirrors.krnk.org/
+mirrors.melbourne.co.uk/
 mirrors.mvps.net/
 mirrors.nav.ro/
 mirrors.neterra.net/
 mirrors.nhanhoa.com/
 mirrors.nju.edu.cn/
 mirrors.nxthost.com/
-mirrors.nz.zappie.host/
 mirrors.oblivion.online/
 mirrors.ocf.berkeley.edu/
 mirrors.onenet.net/
@@ -528,6 +532,7 @@ tino.org/
 truenetwork.ru/
 tx-mirror.tier.net/
 tzulo.com/
+ucalgary.ca/
 uepg.br/
 uk.mirrors.clouvider.net/
 unifique.com.br/
@@ -628,6 +633,7 @@ www.liteserver.nl/
 www.lysator.liu.se/
 www.maeen.sa/
 www.maple-hosting.com/
+www.melbourne.co.uk/
 www.meowsmp.net/
 www.moack.co.kr/
 www.mvps.net/
@@ -656,6 +662,7 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
+www.sakura.ad.jp/
 www.schlundtech.de/
 www.servaxnet.com/
 www.server.net/
@@ -706,6 +713,5 @@ xtom.com/
 yandex.ru/
 yer.az/
 yuki.net.uk/
-zappiehost.com/
 ziply.mm.fcix.net/
 ziplyfiber.com/
