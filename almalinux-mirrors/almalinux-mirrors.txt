@@ -46,6 +46,7 @@ almalinux.nic.cz/
 almalinux.org/
 almalinux.ourhome.kiwi/
 almalinux.savoirfairelinux.net/
+almalinux.schlundtech.de/
 almalinux.si/
 almalinux.uib.no/
 almalinux.virtono.com/
@@ -56,6 +57,7 @@ almamirror.phoenixnap.com/
 amscloud.co.id/
 aptus.co.tz/
 ash.mirrors.clouvider.net/
+asnet.am/
 atl.mirrors.clouvider.net/
 atl.mirrors.ezscale.cloud/
 atl.mirrors.knownhost.com/
@@ -96,6 +98,7 @@ dewabiz.com/
 dinosaurus.fleksibel.com/
 distrohub.kyiv.ua/
 diyarciftci.xyz/
+docker.ru/
 doit.missouri.edu/
 domainesia.com/
 dotsrc.org/
@@ -133,7 +136,6 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
-ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -210,6 +212,7 @@ mirror-services.net/
 mirror.01link.hk/
 mirror.0x626b.com/
 mirror.23m.com/
+mirror.2degrees.nz/
 mirror.a1.mk/
 mirror.aarnet.edu.au/
 mirror.africloud.com/
@@ -251,6 +254,8 @@ mirror.digitalpacific.com.au/
 mirror.diyarciftci.xyz/
 mirror.dk.team.blue/
 mirror.dk.team.blue::almalinux/
+mirror.docker.ru/
+mirror.dogado.de/
 mirror.domainhizmetleri.com/
 mirror.ekiphost.com/
 mirror.elice.io/
@@ -263,6 +268,7 @@ mirror.flo.c-f.ro/
 mirror.fmt-2.serverforge.org/
 mirror.freedif.org/
 mirror.fysik.dtu.dk/
+mirror.gi.co.id/
 mirror.grid.uchicago.edu/
 mirror.group.one/
 mirror.hashy0917.net/
@@ -373,8 +379,10 @@ mirror.xeonbd.com/
 mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
+mirror1.sox.rs/
 mirrors.aliyun.com/
 mirrors.almalinux.org/
+mirrors.asnet.am/
 mirrors.binaryracks.com/
 mirrors.bkns.vn/
 mirrors.bmcc.edu/
@@ -486,6 +494,7 @@ rpmfind.net/
 rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
 rsync.gtlib.gatech.edu/
+rsync.mirror.gi.co.id/
 rsync.mirrorservice.org/
 rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
@@ -533,6 +542,7 @@ vpsttt.com/
 wiki.almalinux.org/
 wiki.lug.ro/
 www.01link.net/
+www.2degrees.nz/
 www.4psa.com/
 www.Linux.ec/
 www.VPSnet.com/
@@ -569,6 +579,7 @@ www.csuc.cat/
 www.cyberfolks.ro/
 www.deac.eu/
 www.digitalpacific.com.au/
+www.dogado.de/
 www.domainhizmetleri.com/
 www.edgoo.io/
 www.elhacker.net/
@@ -581,6 +592,7 @@ www.fnal.gov/
 www.fysik.dtu.dk/
 www.garr.it/
 www.gbnetwork.com/
+www.gi.co.id/
 www.group.one/
 www.gtlib.gatech.edu/
 www.guzel.net.tr/
@@ -645,7 +657,7 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
-www.sakura.ad.jp/
+www.schlundtech.de/
 www.servaxnet.com/
 www.server.net/
 www.sfu.ca/
@@ -655,6 +667,7 @@ www.siena.edu/
 www.sitsa.com.ar/
 www.siwoo.org/
 www.sonic.com/
+www.sox.rs/
 www.steadfast.net/
 www.swinburne.edu.au/
 www.telecomarmenia.am/
