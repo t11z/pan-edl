@@ -137,7 +137,6 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
-ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -252,7 +251,6 @@ mirror.csclub.uwaterloo.ca/
 mirror.dal.nexril.net/
 mirror.datacenter.by/
 mirror.datamossa.io/
-mirror.de.leaseweb.net/
 mirror.dewabiz.com/
 mirror.digitalpacific.com.au/
 mirror.diyarciftci.xyz/
@@ -283,6 +281,7 @@ mirror.host.ag/
 mirror.host4biz.eu/
 mirror.hostbaran.com/
 mirror.hoster.kz/
+mirror.hosthink.net/
 mirror.hostiko.network/
 mirror.hs-esslingen.de/
 mirror.ibcp.fr/
@@ -312,14 +311,13 @@ mirror.marwan.ma/
 mirror.mci-1.serverforge.org/
 mirror.meowsmp.net/
 mirror.mephi.ru/
-mirror.mia11.us.leaseweb.net/
 mirror.mijn.host/
 mirror.moack.co.kr/
-mirror.mtl2.ca.leaseweb.net/
 mirror.net.za/
 mirror.netsite.dk/
 mirror.netweaver.uk/
 mirror.netzwerge.de/
+mirror.nevacloud.com/
 mirror.nforce.com/
 mirror.nishi.network/
 mirror.nl.altushost.com/
@@ -333,7 +331,6 @@ mirror.ox.ac.uk/
 mirror.pit.teraswitch.com/
 mirror.plusline.net/
 mirror.previder.nl/
-mirror.ps.kz/
 mirror.rackspeed.de/
 mirror.raiolanetworks.com/
 mirror.randhost.com/
@@ -348,7 +345,6 @@ mirror.se.altushost.com/
 mirror.servaxnet.com/
 mirror.server.net/
 mirror.serverfreak.com/
-mirror.sfo12.us.leaseweb.net/
 mirror.sg.gs/
 mirror.shedmtl.com/
 mirror.siena.edu/
@@ -375,7 +371,6 @@ mirror.vpsnet.com/
 mirror.vsys.host/
 mirror.vtti.vt.edu/
 mirror.wd6.net/
-mirror.wdc2.us.leaseweb.net/
 mirror.webworld.ie/
 mirror.wiseglobalsolutions.com/
 mirror.wonchan.net/
@@ -411,7 +406,6 @@ mirrors.hostiserver.com/
 mirrors.ipserverone.com/
 mirrors.iu13.net/
 mirrors.krnk.org/
-mirrors.melbourne.co.uk/
 mirrors.mvps.net/
 mirrors.nav.ro/
 mirrors.neterra.net/
@@ -453,6 +447,7 @@ muug.ca/
 nchc.org.tw/
 net.sjtu.edu.cn/
 neterra.ne/
+nevacloud.com/
 nexril.net/
 nhanhoa.com/
 nl.mirror.flokinet.net/
@@ -608,6 +603,7 @@ www.hashy0917.net/
 www.hivelocity.net/
 www.hoasted.com/
 www.host.ag/
+www.hosthink.net/
 www.hostiserver.com/
 www.hs-esslingen.de/
 www.ibcp.fr/
@@ -634,7 +630,6 @@ www.liteserver.nl/
 www.lysator.liu.se/
 www.maeen.sa/
 www.maple-hosting.com/
-www.melbourne.co.uk/
 www.meowsmp.net/
 www.moack.co.kr/
 www.mvps.net/
@@ -656,13 +651,11 @@ www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
 www.previder.com/
-www.ps.kz/
 www.psnc.pl/
 www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
-www.sakura.ad.jp/
 www.schlundtech.de/
 www.servaxnet.com/
 www.server.net/
