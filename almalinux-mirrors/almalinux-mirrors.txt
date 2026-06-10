@@ -182,6 +182,7 @@ is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
 itc.zju.edu.cn/
+ixirhost.com/
 jagoanhosting.com/
 jetserver.co.il/
 jingk.ai/
@@ -292,6 +293,7 @@ mirror.internet.asn.au/
 mirror.interserver.net/
 mirror.iphost.md/
 mirror.isoc.org.il/
+mirror.ixirhost.com/
 mirror.jagoanhosting.id/
 mirror.jingk.ai/
 mirror.junda.nl/
