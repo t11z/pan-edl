@@ -136,9 +136,11 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
+ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
+ftp.tku.edu.tw/
 ftp.ucsb.edu/
 ftp.udx.icscoe.jp/
 ftp.uni-bayreuth.de/
@@ -176,7 +178,6 @@ ip-connect.vn.ua/
 ipacct.com/
 iphost.md/
 ipinfo.io/
-ir.almalinux.sindad.cloud/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
@@ -372,6 +373,7 @@ mirror.usi.edu/
 mirror.veesp.com/
 mirror.veritescil.com.tr/
 mirror.vpsnet.com/
+mirror.vsys.host/
 mirror.vtti.vt.edu/
 mirror.wd6.net/
 mirror.webworld.ie/
@@ -515,7 +517,6 @@ sg-mirrors.vhost.vn/
 sg.gs/
 shedmtl.com/
 siliconhill.cz/
-sindad.com/
 snu.edu.in/
 soonkeat.sg/
 southfront.mm.fcix.net/
@@ -544,6 +545,7 @@ vhost.vn/
 vn-mirrors.vhost.vn/
 volico.mm.fcix.net/
 vpsttt.com/
+vsys.host/
 wiki.almalinux.org/
 wiki.lug.ro/
 www.01link.net/
@@ -663,6 +665,7 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
+www.sakura.ad.jp/
 www.schlundtech.de/
 www.servaxnet.com/
 www.server.net/
@@ -680,6 +683,7 @@ www.telecomarmenia.am/
 www.tencent.com/
 www.thelefty.org/
 www.tier.net/
+www.tku.edu.tw/
 www.transip.nl/
 www.trex.fi/
 www.twds.com.tw/

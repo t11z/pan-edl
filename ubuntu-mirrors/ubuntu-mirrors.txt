@@ -32,7 +32,6 @@ edgeuno-bog2.mm.fcix.net/
 elmirror.cl/
 free.nchc.org.tw/
 ftp-stud.hs-esslingen.de/
-ftp.acc.umu.se/
 ftp.agh.edu.pl/
 ftp.arnes.si/
 ftp.belnet.be/
@@ -78,7 +77,6 @@ ftp.sjtu.edu.cn/
 ftp.snt.utwente.nl/
 ftp.stw-bonn.de/
 ftp.tc.edu.tw/
-ftp.tku.edu.tw/
 ftp.tsukuba.wide.ad.jp/
 ftp.tu-chemnitz.de/
 ftp.tu-ilmenau.de/
