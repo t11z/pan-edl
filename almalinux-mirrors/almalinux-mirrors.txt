@@ -33,6 +33,7 @@ almalinux.mirror.liteserver.nl/
 almalinux.mirror.net.za/
 almalinux.mirror.shastacoe.net/
 almalinux.mirror.sofia.incognet.io/
+almalinux.mirror.thegigabit.com/
 almalinux.mirror.ukraine.com.ua/
 almalinux.mirror.wearetriple.com/
 almalinux.mirrors.behostings.net/
@@ -51,7 +52,6 @@ almalinux.uib.no/
 almalinux.virtono.com/
 almalinux.vpsttt.com/
 almalinux.web.trex.fi/
-almamirror.netdirekt.com.tr/
 almamirror.phoenixnap.com/
 amscloud.co.id/
 aptus.co.tz/
@@ -135,6 +135,7 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
+ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -326,13 +327,13 @@ mirror.nforce.com/
 mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
-mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
 mirror.nodespace.com/
 mirror.nyist.edu.cn/
 mirror.ossplanet.net/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
+mirror.papua.go.id/
 mirror.pit.teraswitch.com/
 mirror.plusline.net/
 mirror.previder.nl/
@@ -409,6 +410,7 @@ mirrors.gigenet.com/
 mirrors.gofiber.vn/
 mirrors.hit.edu.cn/
 mirrors.hosterion.ro/
+mirrors.hostever.com/
 mirrors.hostico.ro/
 mirrors.hostiserver.com/
 mirrors.ipserverone.com/
@@ -504,6 +506,7 @@ rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
 rsync.gtlib.gatech.edu/
 rsync.mirror.gi.co.id/
+rsync.mirror.papua.go.id/
 rsync.mirrorservice.org/
 rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
@@ -533,6 +536,7 @@ teamhydra.dev/
 telepoint.bg/
 teraswitch.com/
 terrahost.no/
+thegigabit.com/
 tino.org/
 truenetwork.ru/
 tx-mirror.tier.net/
@@ -581,6 +585,7 @@ www.chroot.ro/
 www.cixug.gal/
 www.cloud9.ge/
 www.clouvider.com/
+www.codeforhost.com/
 www.cogentco.com/
 www.coreix.net/
 www.csc.fi/
@@ -642,7 +647,6 @@ www.meowsmp.net/
 www.moack.co.kr/
 www.mvps.net/
 www.nav.ro/
-www.netdirekt.com.tr/
 www.netforce.company/
 www.netsite.dk/
 www.netweaver.uk/
@@ -656,6 +660,7 @@ www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
 www.ox.ac.uk/
+www.papua.go.id/
 www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
@@ -666,6 +671,7 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
+www.sakura.ad.jp/
 www.schlundtech.de/
 www.servaxnet.com/
 www.server.net/
