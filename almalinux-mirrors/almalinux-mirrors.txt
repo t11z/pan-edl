@@ -62,8 +62,6 @@ atl.mirrors.clouvider.net/
 atl.mirrors.ezscale.cloud/
 atl.mirrors.knownhost.com/
 aws.amazon.com/
-azvps.vn/
-beltelecom.by/
 bharatdatacenter.com/
 bitency.nl/
 blog.almalinux.org/
@@ -136,6 +134,7 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
+ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -232,7 +231,6 @@ mirror.aptus.co.tz/
 mirror.as3741.net/
 mirror.ati.tn/
 mirror.az31.cloudpropeller.com/
-mirror.azvps.vn/
 mirror.bahnhof.net/
 mirror.bf-net.ch/
 mirror.bharatdatacenter.com/
@@ -249,7 +247,6 @@ mirror.cov.ukservers.com/
 mirror.cpsc.ucalgary.ca/
 mirror.csclub.uwaterloo.ca/
 mirror.dal.nexril.net/
-mirror.datacenter.by/
 mirror.datamossa.io/
 mirror.de.leaseweb.net/
 mirror.dewabiz.com/
@@ -307,7 +304,6 @@ mirror.linux.ec/
 mirror.linux.ncsu.edu/
 mirror.liteserver.nl/
 mirror.lyrahosting.com/
-mirror.maeen.sa/
 mirror.mangohost.net/
 mirror.maple-hosting.com/
 mirror.marwan.ma/
@@ -328,7 +324,7 @@ mirror.nl.leaseweb.net/
 mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
 mirror.nodespace.com/
-mirror.ossplanet.net/
+mirror.nyist.edu.cn/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
 mirror.pit.teraswitch.com/
@@ -344,7 +340,6 @@ mirror.reenigne.net/
 mirror.renu.ac.ug/
 mirror.rnet.missouri.edu/
 mirror.rootlicense.com/
-mirror.sabay.com.kh/
 mirror.se.altushost.com/
 mirror.servaxnet.com/
 mirror.server.net/
@@ -368,6 +363,7 @@ mirror.truenetwork.ru/
 mirror.twds.com.tw/
 mirror.tzulo.com/
 mirror.uepg.br/
+mirror.us-midwest-1.nexcess.net/
 mirror.us.mirhosting.net/
 mirror.usi.edu/
 mirror.veesp.com/
@@ -386,7 +382,6 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
-mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.binaryracks.com/
@@ -469,7 +464,6 @@ opencolo.mm.fcix.net/
 opensource.fb.com/
 or-mirror.iwebfusion.net/
 ord.mirror.rackspace.com/
-ossplanet.net/
 osuosl.org/
 ourhost.az/
 per.aws.repo.almalinux.org/
@@ -506,7 +500,6 @@ rsync.repo.almalinux.org/
 rsync.yuki.net.uk/
 ruk-com.cloud/
 rwth-aachen.de/
-sabay.com.kh/
 savoirfairelinux.com/
 sci.nju.edu.cn/
 seattle.crazyfast.us/
@@ -555,7 +548,6 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
-www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -630,9 +622,9 @@ www.lchs.com.au/
 www.limda.net/
 www.linkedin.com/
 www.liquid.tech/
+www.liquidweb.com/
 www.liteserver.nl/
 www.lysator.liu.se/
-www.maeen.sa/
 www.maple-hosting.com/
 www.melbourne.co.uk/
 www.meowsmp.net/
@@ -649,6 +641,7 @@ www.nic.cz/
 www.nic.funet.fi/
 www.nodespace.com/
 www.nxthost.com/
+www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
 www.ox.ac.uk/
@@ -662,6 +655,7 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
+www.sakura.ad.jp/
 www.schlundtech.de/
 www.servaxnet.com/
 www.server.net/
