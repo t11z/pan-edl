@@ -31,6 +31,7 @@ almalinux.mirror.katapult.io/
 almalinux.mirror.liquidtelecom.com/
 almalinux.mirror.liteserver.nl/
 almalinux.mirror.net.za/
+almalinux.mirror.scopesky.com/
 almalinux.mirror.shastacoe.net/
 almalinux.mirror.sofia.incognet.io/
 almalinux.mirror.thegigabit.com/
@@ -135,6 +136,7 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
+ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -334,7 +336,6 @@ mirror.nyist.edu.cn/
 mirror.ossplanet.net/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
-mirror.papua.go.id/
 mirror.plusline.net/
 mirror.previder.nl/
 mirror.ps.kz/
@@ -376,7 +377,6 @@ mirror.usi.edu/
 mirror.veesp.com/
 mirror.veritescil.com.tr/
 mirror.vpsnet.com/
-mirror.vsys.host/
 mirror.vtti.vt.edu/
 mirror.wd6.net/
 mirror.wdc2.us.leaseweb.net/
@@ -503,7 +503,6 @@ rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
 rsync.gtlib.gatech.edu/
 rsync.mirror.gi.co.id/
-rsync.mirror.papua.go.id/
 rsync.mirrorservice.org/
 rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
@@ -547,7 +546,6 @@ vhost.vn/
 vn-mirrors.vhost.vn/
 volico.mm.fcix.net/
 vpsttt.com/
-vsys.host/
 wiki.almalinux.org/
 wiki.lug.ro/
 www.01link.net/
@@ -657,7 +655,6 @@ www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
 www.ox.ac.uk/
-www.papua.go.id/
 www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
@@ -668,7 +665,9 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
+www.sakura.ad.jp/
 www.schlundtech.de/
+www.scopesky.iq/
 www.servaxnet.com/
 www.server.net/
 www.sfu.ca/

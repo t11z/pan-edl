@@ -322,6 +322,7 @@ mirrors.xtom.nl/
 mirrors.zju.edu.cn/
 mirrorservice.org/
 mr.heru.id/
+nl.mirrors.clouvider.net/
 nyc.mirrors.clouvider.net/
 opensource.nchc.org.tw/
 packages.hs-regensburg.de/
