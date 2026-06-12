@@ -93,6 +93,7 @@ ftp.uni-kl.de/
 ftp.uni-mainz.de/
 ftp.uni-stuttgart.de/
 ftp.uninett.no/
+ftp.usf.edu/
 ftp.ussg.iu.edu/
 ftp.uvigo.es/
 ftp5.gwdg.de/
@@ -175,7 +176,6 @@ mirror.datacenter.by/
 mirror.datacenter.mn/
 mirror.datamossa.io/
 mirror.de.leaseweb.net/
-mirror.delorahosting.com/
 mirror.dewabiz.com/
 mirror.digitaloceans.dev/
 mirror.digitalpacific.com.au/
