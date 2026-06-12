@@ -7,6 +7,7 @@ al-mirror.a2hosting.com/
 alma.acidman.thelefty.org/
 alma.as3741.net/
 alma.idhosting.pl/
+alma.mirror.nyuad.nyu.edu/
 alma.mirror.serversaustralia.com.au/
 almalinux-mirror.tpa.hivelocity.net/
 almalinux-mirror.unifique.cloud/
@@ -134,7 +135,6 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
-ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -158,7 +158,6 @@ hkg.mirror.rackspace.com/
 hnd.cl/
 hnl.fastly.repo.almalinux.org/
 home.cern/
-host4.biz/
 hostbaran.com/
 hoster.kz/
 hosterion.ro/
@@ -180,6 +179,7 @@ ir.almalinux.sindad.cloud/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
+itc.zju.edu.cn/
 ixirhost.com/
 jagoanhosting.com/
 jetserver.co.il/
@@ -278,7 +278,6 @@ mirror.hep.gg/
 mirror.hnd.cl/
 mirror.hoasted.com/
 mirror.host.ag/
-mirror.host4biz.eu/
 mirror.hostbaran.com/
 mirror.hoster.kz/
 mirror.hosthink.net/
@@ -446,6 +445,7 @@ mirrors.xtom.de/
 mirrors.xtom.ee/
 mirrors.xtom.jp/
 mirrors.xtom.nl/
+mirrors.zju.edu.cn/
 mnl.aws.repo.almalinux.org/
 mobinhost.com/
 mr.heru.id/
@@ -465,6 +465,7 @@ nocix.mm.fcix.net/
 nodesdirect.com/
 nyc.almalinux.osuosl.org/
 nyc.mirrors.clouvider.net/
+nyuad.nyu.edu/
 ocf.berkeley.edu/
 ohioix.mm.fcix.net/
 oit.gatech.edu/
@@ -668,7 +669,6 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
-www.sakura.ad.jp/
 www.schlundtech.de/
 www.servaxnet.com/
 www.server.net/
@@ -719,4 +719,5 @@ xtom.com/
 yandex.ru/
 yer.az/
 yuki.net.uk/
+ziply.mm.fcix.net/
 ziplyfiber.com/
