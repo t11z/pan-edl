@@ -282,7 +282,6 @@ mirror.xtom.com.hk/
 mirror.yuki.net.uk/
 mirror1.infomaniak.com/
 mirror2.infomaniak.com/
-mirrors.163.com/
 mirrors.accretive-networks.net/
 mirrors.bfsu.edu.cn/
 mirrors.bloomu.edu/
@@ -336,4 +335,5 @@ ro.mirror.flokinet.net/
 security.debian.org/
 softlibre.unizar.es/
 tw1.mirror.blendbyte.net/
+uk.mirrors.clouvider.net/
 www.nic.funet.fi/

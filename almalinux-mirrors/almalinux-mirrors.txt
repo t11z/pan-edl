@@ -1,4 +1,5 @@
 23m.com/
+a1.mk/
 a2hosting.com/
 africloud.com/
 airnet.uz/
@@ -56,6 +57,7 @@ almamirror.phoenixnap.com/
 amscloud.co.id/
 aptus.co.tz/
 ash.mirrors.clouvider.net/
+asnet.am/
 atl.mirrors.clouvider.net/
 atl.mirrors.ezscale.cloud/
 atl.mirrors.knownhost.com/
@@ -128,6 +130,7 @@ ftp.halifax.rwth-aachen.de/
 ftp.iij.ad.jp/
 ftp.jaist.ac.jp/
 ftp.linux.cz/
+ftp.lip6.fr/
 ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
@@ -135,7 +138,6 @@ ftp.riken.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
-ftp.tku.edu.tw/
 ftp.ucsb.edu/
 ftp.udx.icscoe.jp/
 ftp.uni-bayreuth.de/
@@ -201,6 +203,7 @@ linuxsoft.cern.ch/
 lon.mirror.rackspace.com/
 lug.hit.edu.cn/
 lyrahosting.com/
+mangohost.net/
 maniaclab.uchicago.edu/
 marwan.ma/
 mijn.host/
@@ -210,6 +213,7 @@ mirror.01link.hk/
 mirror.0x626b.com/
 mirror.23m.com/
 mirror.2degrees.nz/
+mirror.a1.mk/
 mirror.aarnet.edu.au/
 mirror.accum.se/
 mirror.africloud.com/
@@ -302,6 +306,7 @@ mirror.linux.ncsu.edu/
 mirror.liteserver.nl/
 mirror.lyrahosting.com/
 mirror.maeen.sa/
+mirror.mangohost.net/
 mirror.maple-hosting.com/
 mirror.marwan.ma/
 mirror.mci-1.serverforge.org/
@@ -373,8 +378,6 @@ mirror.vsys.host/
 mirror.vtti.vt.edu/
 mirror.wd6.net/
 mirror.wdc2.us.leaseweb.net/
-mirror.webworld.ie/
-mirror.wiseglobalsolutions.com/
 mirror.wonchan.net/
 mirror.xcobean.co.ke/
 mirror.xenyth.net/
@@ -385,6 +388,7 @@ mirror.yuki.net.uk/
 mirror1.sox.rs/
 mirrors.aliyun.com/
 mirrors.almalinux.org/
+mirrors.asnet.am/
 mirrors.binaryracks.com/
 mirrors.bkns.vn/
 mirrors.bmcc.edu/
@@ -626,6 +630,7 @@ www.knownhost.com/
 www.lchs.com.au/
 www.limda.net/
 www.linkedin.com/
+www.lip6.fr/
 www.liquid.tech/
 www.liquidweb.com/
 www.liteserver.nl/
@@ -678,7 +683,6 @@ www.telecomarmenia.am/
 www.tencent.com/
 www.thelefty.org/
 www.tier.net/
-www.tku.edu.tw/
 www.transip.nl/
 www.trex.fi/
 www.twds.com.tw/
@@ -699,8 +703,6 @@ www.vtti.vt.edu/
 www.wd6.net/
 www.wearetriple.com/
 www.web-hosting.net.my/
-www.webworld.ie/
-www.wiseglobalsolutions.com/
 www.xeonbd.com/
 www.yamagata-u.ac.jp/
 www.yuccatelecom.com/
