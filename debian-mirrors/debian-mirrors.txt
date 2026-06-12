@@ -273,7 +273,6 @@ mirror.us.leaseweb.net/
 mirror.us.mirhosting.net/
 mirror.us.oneandone.net/
 mirror.veesp.com/
-mirror.vinehost.net/
 mirror.vpgrp.io/
 mirror.vpsnet.com/
 mirror.wtnet.de/
@@ -323,6 +322,7 @@ mirrors.xtom.nl/
 mirrors.zju.edu.cn/
 mirrorservice.org/
 mr.heru.id/
+nyc.mirrors.clouvider.net/
 opensource.nchc.org.tw/
 packages.hs-regensburg.de/
 pkg.adfinis-on-exoscale.ch/
