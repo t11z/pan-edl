@@ -99,6 +99,7 @@ mirror.rnet.missouri.edu/
 mirror.servaxnet.com/
 mirror.siena.edu/
 mirror.slu.cz/
+mirror.snu.edu.in/
 mirror.telepoint.bg/
 mirror.twds.com.tw/
 mirror.tzulo.com/
@@ -108,6 +109,7 @@ mirror.wonchan.net/
 mirror.yandex.ru/
 mirror.yer.az/
 mirror1.isoc.org.il/
+mirrors-1.nkn.in/
 mirrors.dotsrc.org/
 mirrors.esto.network/
 mirrors.hostiserver.com/
@@ -190,6 +192,7 @@ ru.dyi.ng/
 ru.mirrors.cicku.me/
 sa.dyi.ng/
 sa.mirrors.cicku.me/
+snu.edu.in/
 soflibre.unizar.es/
 softlibre.unizar.es/
 task.gda.pl/
