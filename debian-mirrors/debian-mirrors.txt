@@ -166,6 +166,7 @@ ftp2.de.debian.org/
 ftpmirror1.infania.net/
 giano.com.dist.unige.it/
 kartolo.sby.datautama.net.id/
+la.mirrors.clouvider.net/
 lethe.chinstrap.org/
 lidsol.fi-b.unam.mx/
 linux.purple-cat.net/
