@@ -180,6 +180,7 @@ ir.almalinux.sindad.cloud/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
+itc.zju.edu.cn/
 ixirhost.com/
 jagoanhosting.com/
 jetserver.co.il/
@@ -215,6 +216,7 @@ mirror.23m.com/
 mirror.2degrees.nz/
 mirror.a1.mk/
 mirror.aarnet.edu.au/
+mirror.accum.se/
 mirror.africloud.com/
 mirror.airnet.uz/
 mirror.alastyr.com/
@@ -332,6 +334,7 @@ mirror.nyist.edu.cn/
 mirror.ossplanet.net/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
+mirror.papua.go.id/
 mirror.pit.teraswitch.com/
 mirror.plusline.net/
 mirror.previder.nl/
@@ -402,7 +405,6 @@ mirrors.coreix.net/
 mirrors.dotsrc.org/
 mirrors.fibianet.dk/
 mirrors.ft.uam.es/
-mirrors.gbnetwork.com/
 mirrors.gigenet.com/
 mirrors.gofiber.vn/
 mirrors.hit.edu.cn/
@@ -444,6 +446,7 @@ mirrors.xtom.de/
 mirrors.xtom.ee/
 mirrors.xtom.jp/
 mirrors.xtom.nl/
+mirrors.zju.edu.cn/
 mnl.aws.repo.almalinux.org/
 mobinhost.com/
 mr.heru.id/
@@ -500,6 +503,7 @@ rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
 rsync.gtlib.gatech.edu/
 rsync.mirror.gi.co.id/
+rsync.mirror.papua.go.id/
 rsync.mirrorservice.org/
 rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
@@ -554,6 +558,7 @@ www.4psa.com/
 www.Linux.ec/
 www.VPSnet.com/
 www.aarnet.edu.au/
+www.accum.se/
 www.alastyr.com/
 www.aliyun.com/
 www.almalinux.org/
@@ -598,7 +603,6 @@ www.fiu.edu/
 www.fnal.gov/
 www.fysik.dtu.dk/
 www.garr.it/
-www.gbnetwork.com/
 www.gi.co.id/
 www.group.one/
 www.gtlib.gatech.edu/
@@ -654,6 +658,7 @@ www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
 www.ox.ac.uk/
+www.papua.go.id/
 www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
