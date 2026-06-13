@@ -135,7 +135,6 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
-ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -216,7 +215,6 @@ mirror.23m.com/
 mirror.2degrees.nz/
 mirror.a1.mk/
 mirror.aarnet.edu.au/
-mirror.accum.se/
 mirror.africloud.com/
 mirror.airnet.uz/
 mirror.alastyr.com/
@@ -556,7 +554,6 @@ www.4psa.com/
 www.Linux.ec/
 www.VPSnet.com/
 www.aarnet.edu.au/
-www.accum.se/
 www.alastyr.com/
 www.aliyun.com/
 www.almalinux.org/
@@ -667,7 +664,6 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
-www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
