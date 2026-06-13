@@ -346,7 +346,6 @@ mirror.reenigne.net/
 mirror.renu.ac.ug/
 mirror.rnet.missouri.edu/
 mirror.rootlicense.com/
-mirror.sabay.com.kh/
 mirror.se.altushost.com/
 mirror.servaxnet.com/
 mirror.server.net/
@@ -364,7 +363,6 @@ mirror.steadfastnet.com/
 mirror.team-cymru.com/
 mirror.telepoint.bg/
 mirror.terrahost.no/
-mirror.transip.net/
 mirror.truenetwork.ru/
 mirror.twds.com.tw/
 mirror.tzulo.com/
@@ -387,6 +385,7 @@ mirror.xenyth.net/
 mirror.xeonbd.com/
 mirror.yandex.ru/
 mirror.yer.az/
+mirror.yuki.net.uk/
 mirror1.sox.rs/
 mirrors.aliyun.com/
 mirrors.almalinux.org/
@@ -415,6 +414,7 @@ mirrors.iu13.net/
 mirrors.krnk.org/
 mirrors.melbourne.co.uk/
 mirrors.mvps.net/
+mirrors.nav.ro/
 mirrors.neterra.net/
 mirrors.nhanhoa.com/
 mirrors.nju.edu.cn/
@@ -431,6 +431,7 @@ mirrors.sonic.net/
 mirrors.storpool.com/
 mirrors.teamcloud.am/
 mirrors.tencent.com/
+mirrors.tino.org/
 mirrors.ucr.ac.cr/
 mirrors.ukfast.co.uk/
 mirrors.uni-ruse.bg/
@@ -503,9 +504,9 @@ rsync.mirror.gi.co.id/
 rsync.mirrorservice.org/
 rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
+rsync.yuki.net.uk/
 ruk-com.cloud/
 rwth-aachen.de/
-sabay.com.kh/
 savoirfairelinux.com/
 sci.nju.edu.cn/
 seattle.crazyfast.us/
@@ -530,6 +531,7 @@ telepoint.bg/
 teraswitch.com/
 terrahost.no/
 thegigabit.com/
+tino.org/
 truenetwork.ru/
 tx-mirror.tier.net/
 tzulo.com/
@@ -637,6 +639,7 @@ www.melbourne.co.uk/
 www.meowsmp.net/
 www.moack.co.kr/
 www.mvps.net/
+www.nav.ro/
 www.netdirekt.com.tr/
 www.netforce.company/
 www.netsite.dk/
@@ -679,7 +682,6 @@ www.telecomarmenia.am/
 www.tencent.com/
 www.thelefty.org/
 www.tier.net/
-www.transip.nl/
 www.trex.fi/
 www.twds.com.tw/
 www.uam.es/
@@ -710,5 +712,6 @@ xenyth.net/
 xtom.com/
 yandex.ru/
 yer.az/
+yuki.net.uk/
 ziply.mm.fcix.net/
 ziplyfiber.com/
