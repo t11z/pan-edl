@@ -118,6 +118,7 @@ flokinet.is/
 for.aws.repo.almalinux.org/
 forksystems.mm.fcix.net/
 fr2.rpmfind.net/
+free.nchc.org.tw/
 ftp.arnes.si/
 ftp.belnet.be/
 ftp.bme.hu/
@@ -149,6 +150,7 @@ gigenet.com/
 gigsouth.mm.fcix.net/
 github.com/
 globo.tech/
+gofiber.vn/
 gsl-syd.mm.fcix.net/
 hcc-mirror.unl.edu/
 hcc.unl.edu/
@@ -230,7 +232,6 @@ mirror.amscloud.co.id::almalinux/
 mirror.anquan.cl/
 mirror.aptus.co.tz/
 mirror.as3741.net/
-mirror.ati.tn/
 mirror.az31.cloudpropeller.com/
 mirror.azvps.vn/
 mirror.bahnhof.net/
@@ -334,7 +335,7 @@ mirror.nyist.edu.cn/
 mirror.ossplanet.net/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
-mirror.pit.teraswitch.com/
+mirror.papua.go.id/
 mirror.plusline.net/
 mirror.previder.nl/
 mirror.ps.kz/
@@ -406,6 +407,7 @@ mirrors.fibianet.dk/
 mirrors.ft.uam.es/
 mirrors.gbnetwork.com/
 mirrors.gigenet.com/
+mirrors.gofiber.vn/
 mirrors.hit.edu.cn/
 mirrors.hosterion.ro/
 mirrors.hostever.com/
@@ -416,7 +418,6 @@ mirrors.iu13.net/
 mirrors.krnk.org/
 mirrors.melbourne.co.uk/
 mirrors.mvps.net/
-mirrors.nav.ro/
 mirrors.neterra.net/
 mirrors.nhanhoa.com/
 mirrors.nju.edu.cn/
@@ -433,7 +434,6 @@ mirrors.sonic.net/
 mirrors.storpool.com/
 mirrors.teamcloud.am/
 mirrors.tencent.com/
-mirrors.tino.org/
 mirrors.ucr.ac.cr/
 mirrors.ukfast.co.uk/
 mirrors.uni-ruse.bg/
@@ -452,6 +452,7 @@ mr.heru.id/
 msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
 muug.ca/
+nchc.org.tw/
 neterra.ne/
 nevacloud.com/
 nexril.net/
@@ -502,6 +503,7 @@ rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
 rsync.gtlib.gatech.edu/
 rsync.mirror.gi.co.id/
+rsync.mirror.papua.go.id/
 rsync.mirrorservice.org/
 rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
@@ -530,10 +532,8 @@ team-cymru.com/
 team.blue/
 teamhydra.dev/
 telepoint.bg/
-teraswitch.com/
 terrahost.no/
 thegigabit.com/
-tino.org/
 truenetwork.ru/
 tx-mirror.tier.net/
 tzulo.com/
@@ -567,7 +567,6 @@ www.ans.co.uk/
 www.anywair.com/
 www.archettitechnology.it/
 www.arnes.si/
-www.ati.tn/
 www.bahnhof.net/
 www.behostings.com/
 www.belnet.be/
@@ -642,7 +641,6 @@ www.melbourne.co.uk/
 www.meowsmp.net/
 www.moack.co.kr/
 www.mvps.net/
-www.nav.ro/
 www.netdirekt.com.tr/
 www.netforce.company/
 www.netsite.dk/
@@ -657,6 +655,7 @@ www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
 www.ox.ac.uk/
+www.papua.go.id/
 www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
