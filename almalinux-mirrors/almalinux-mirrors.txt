@@ -32,7 +32,6 @@ almalinux.mirror.liquidtelecom.com/
 almalinux.mirror.liteserver.nl/
 almalinux.mirror.net.za/
 almalinux.mirror.scopesky.com/
-almalinux.mirror.shastacoe.net/
 almalinux.mirror.sofia.incognet.io/
 almalinux.mirror.thegigabit.com/
 almalinux.mirror.ukraine.com.ua/
@@ -64,6 +63,7 @@ atl.mirrors.ezscale.cloud/
 atl.mirrors.knownhost.com/
 aws.amazon.com/
 azvps.vn/
+beltelecom.by/
 bharatdatacenter.com/
 bitency.nl/
 blog.almalinux.org/
@@ -178,6 +178,7 @@ ir.almalinux.sindad.cloud/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
+itc.zju.edu.cn/
 ixirhost.com/
 jagoanhosting.com/
 jetserver.co.il/
@@ -244,6 +245,7 @@ mirror.cov.ukservers.com/
 mirror.cpsc.ucalgary.ca/
 mirror.csclub.uwaterloo.ca/
 mirror.dal.nexril.net/
+mirror.datacenter.by/
 mirror.datamossa.io/
 mirror.de.leaseweb.net/
 mirror.dewabiz.com/
@@ -439,6 +441,7 @@ mirrors.xtom.de/
 mirrors.xtom.ee/
 mirrors.xtom.jp/
 mirrors.xtom.nl/
+mirrors.zju.edu.cn/
 mnl.aws.repo.almalinux.org/
 mobinhost.com/
 mr.heru.id/
@@ -663,7 +666,6 @@ www.scopesky.iq/
 www.servaxnet.com/
 www.server.net/
 www.sfu.ca/
-www.shastacoe.org/
 www.shinjiru.com/
 www.siena.edu/
 www.sitsa.com.ar/
