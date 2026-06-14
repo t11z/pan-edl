@@ -31,7 +31,6 @@ almalinux.mirror.katapult.io/
 almalinux.mirror.liquidtelecom.com/
 almalinux.mirror.liteserver.nl/
 almalinux.mirror.net.za/
-almalinux.mirror.scopesky.com/
 almalinux.mirror.shastacoe.net/
 almalinux.mirror.sofia.incognet.io/
 almalinux.mirror.thegigabit.com/
@@ -90,6 +89,7 @@ csclub.uwaterloo.ca/
 cvo.almalinux.osuosl.org/
 dal.mirrors.clouvider.net/
 datamossa.com/
+datautama.net.id/
 de.mirrors.clouvider.net/
 den.aws.repo.almalinux.org/
 dewabiz.com/
@@ -184,6 +184,7 @@ jagoanhosting.com/
 jetserver.co.il/
 jingk.ai/
 jurassicinnovations.com/
+kartolo.sby.datautama.net.id/
 katapult.io/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
@@ -370,7 +371,6 @@ mirror.us-midwest-1.nexcess.net/
 mirror.us.mirhosting.net/
 mirror.usi.edu/
 mirror.veesp.com/
-mirror.veritescil.com.tr/
 mirror.vpsnet.com/
 mirror.vsys.host/
 mirror.vtti.vt.edu/
@@ -666,7 +666,6 @@ www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
 www.schlundtech.de/
-www.scopesky.iq/
 www.servaxnet.com/
 www.server.net/
 www.sfu.ca/
@@ -696,7 +695,6 @@ www.ukservers.com/
 www.uni-bayreuth.de/
 www.uni-ruse.bg/
 www.upr.edu/
-www.veritescil.com.tr/
 www.vhosting-it.com/
 www.virtono.com/
 www.vodafone.cz/
