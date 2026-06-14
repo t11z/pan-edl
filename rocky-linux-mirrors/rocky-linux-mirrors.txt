@@ -87,6 +87,7 @@ mirror.nevacloud.com/
 mirror.nsc.liu.se/
 mirror.nyist.edu.cn/
 mirror.ourhost.az/
+mirror.pangkin.com/
 mirror.plusline.net/
 mirror.ps.kz/
 mirror.puzzle.ch/
@@ -130,6 +131,7 @@ nyc.mirrors.clouvider.net/
 osluz.unizar.es/
 ossplanet.net/
 ourhost.az/
+pangkin.me/
 pit.mirror.jurassicinnovations.com/
 radwebhosting.com/
 raiolanetworks.com/
