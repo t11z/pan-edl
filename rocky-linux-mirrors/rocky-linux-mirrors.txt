@@ -16,7 +16,6 @@ ciq.co/
 co.ge/
 cs.vt.edu/
 dc.uz/
-deadbatteries.work/
 delska.com/
 distro.ibiblio.org/
 distrohub.kyiv.ua/
@@ -100,6 +99,7 @@ mirror.rnet.missouri.edu/
 mirror.servaxnet.com/
 mirror.siena.edu/
 mirror.slu.cz/
+mirror.snu.edu.in/
 mirror.telepoint.bg/
 mirror.twds.com.tw/
 mirror.tzulo.com/
@@ -174,7 +174,6 @@ rocky-linux-us-west2.production.gcp.mirrors.ctrliq.cloud/
 rocky-linux-us-west3.production.gcp.mirrors.ctrliq.cloud/
 rocky-linux-us-west4.production.gcp.mirrors.ctrliq.cloud/
 rocky-linux.koyanet.lv/
-rocky.deadbatteries.work/
 rocky.mirror.co.ge/
 rocky.mirror.liquidtelecom.com/
 rocky.mirror.shastacoe.net/
@@ -192,6 +191,7 @@ ru.dyi.ng/
 ru.mirrors.cicku.me/
 sa.dyi.ng/
 sa.mirrors.cicku.me/
+snu.edu.in/
 soflibre.unizar.es/
 softlibre.unizar.es/
 teamcloud.am/
