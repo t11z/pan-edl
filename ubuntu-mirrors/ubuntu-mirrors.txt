@@ -79,7 +79,6 @@ ftp.sjtu.edu.cn/
 ftp.snt.utwente.nl/
 ftp.stw-bonn.de/
 ftp.tc.edu.tw/
-ftp.tku.edu.tw/
 ftp.tsukuba.wide.ad.jp/
 ftp.tu-chemnitz.de/
 ftp.tu-ilmenau.de/
@@ -162,7 +161,6 @@ mirror.cmkl.ac.th/
 mirror.cogentco.com/
 mirror.colocenter.nl/
 mirror.corbina.net/
-mirror.cosmiclinux.com/
 mirror.cov.ukservers.com/
 mirror.creoline.net/
 mirror.cs.jmu.edu/
@@ -196,6 +194,7 @@ mirror.eu-lo.kamatera.com/
 mirror.eu.4psacloud.com/
 mirror.eu.kamatera.com/
 mirror.exid.us/
+mirror.fairway.ne.jp/
 mirror.faraso.org/
 mirror.fcix.net/
 mirror.fi.ossplanet.net/
