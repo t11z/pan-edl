@@ -226,7 +226,6 @@ mirror.linux.ro/
 mirror.litnet.lt/
 mirror.lzu.edu.cn/
 mirror.maeen.sa/
-mirror.marwan.ma/
 mirror.mephi.ru/
 mirror.metanet.ch/
 mirror.mirohost.net/
