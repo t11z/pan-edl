@@ -139,6 +139,7 @@ mirror.as.kamatera.com/
 mirror.as210890.net/
 mirror.as29550.net/
 mirror.as43289.net/
+mirror.ati.tn/
 mirror.azvps.vn/
 mirror.bacloud.com/
 mirror.bahnhof.net/
@@ -206,7 +207,6 @@ mirror.fsmg.org.nz/
 mirror.fst.kz/
 mirror.funkfreundelandshut.de/
 mirror.geekonweb.fr/
-mirror.gi.co.id/
 mirror.gofoss.xyz/
 mirror.greennet.gl/
 mirror.group.one/
@@ -476,7 +476,6 @@ mirrors.usinternet.com/
 mirrors.ustc.edu.cn/
 mirrors.vcea.wsu.edu/
 mirrors.webhs.pt/
-mirrors.wikimedia.org/
 mirrors.xjtu.edu.cn/
 mirrors.xmission.com/
 mirrors.xtom.com/
