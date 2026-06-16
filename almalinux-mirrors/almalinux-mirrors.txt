@@ -430,6 +430,7 @@ mirrors.ruk-com.cloud/
 mirrors.sonic.net/
 mirrors.storpool.com/
 mirrors.teamcloud.am/
+mirrors.tencent.com/
 mirrors.tino.org/
 mirrors.ucr.ac.cr/
 mirrors.ukfast.co.uk/
@@ -678,6 +679,7 @@ www.sox.rs/
 www.steadfast.net/
 www.swinburne.edu.au/
 www.telecomarmenia.am/
+www.tencent.com/
 www.thelefty.org/
 www.tier.net/
 www.tku.edu.tw/
@@ -713,5 +715,6 @@ xtom.com/
 yandex.ru/
 yer.az/
 yuki.net.uk/
+yxeix.mm.fcix.net/
 ziply.mm.fcix.net/
 ziplyfiber.com/
