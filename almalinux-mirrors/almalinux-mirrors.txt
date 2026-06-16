@@ -186,6 +186,7 @@ jingk.ai/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
+kifu.gov.hu/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 krnk.org/
@@ -315,8 +316,8 @@ mirror.net.za/
 mirror.netsite.dk/
 mirror.netweaver.uk/
 mirror.netzwerge.de/
-mirror.nevacloud.com/
 mirror.nforce.com/
+mirror.niif.hu/
 mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
@@ -327,6 +328,7 @@ mirror.nyist.edu.cn/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
 mirror.pit.teraswitch.com/
+mirror.plusline.net/
 mirror.previder.nl/
 mirror.ps.kz/
 mirror.rackspeed.de/
@@ -447,7 +449,6 @@ muug.ca/
 nchc.org.tw/
 net.sjtu.edu.cn/
 neterra.ne/
-nevacloud.com/
 nexril.net/
 nhanhoa.com/
 nl.mirror.flokinet.net/
@@ -471,6 +472,7 @@ per.aws.repo.almalinux.org/
 phoenixnap.com/
 phx.mirrors.clouvider.net/
 pit.mirror.jurassicinnovations.com/
+pkg.adfinis-on-exoscale.ch/
 planethoster.com/
 plug-mirror.rcac.purdue.edu/
 purduelug.org/
@@ -584,6 +586,7 @@ www.domainhizmetleri.com/
 www.edgoo.io/
 www.elhacker.net/
 www.esecuredata.com/
+www.exoscale.com/
 www.fastly.com/
 www.fi.muni.cz/
 www.fiu.edu/
@@ -647,6 +650,7 @@ www.ovhcloud.com/
 www.ox.ac.uk/
 www.peralex.com/
 www.physics.uoc.gr/
+www.plusline.net/
 www.previder.com/
 www.ps.kz/
 www.psnc.pl/
