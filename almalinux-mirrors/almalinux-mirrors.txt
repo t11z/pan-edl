@@ -191,8 +191,6 @@ krfoss.org/
 krnk.org/
 la.mirrors.clouvider.net/
 leaseweb.com/
-lidsol.fi-b.unam.mx/
-lidsol.unam.mx/
 linux-mirrors.fnal.gov/
 linux.domainesia.com/
 linux.duke.edu/
@@ -326,11 +324,9 @@ mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
 mirror.nodespace.com/
 mirror.nyist.edu.cn/
-mirror.ossplanet.net/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
 mirror.pit.teraswitch.com/
-mirror.plusline.net/
 mirror.previder.nl/
 mirror.ps.kz/
 mirror.rackspeed.de/
@@ -422,6 +418,7 @@ mirrors.ocf.berkeley.edu/
 mirrors.onenet.net/
 mirrors.pt/
 mirrors.ptisp.pt/
+mirrors.rda.poa.br/
 mirrors.rit.edu/
 mirrors.ruk-com.cloud/
 mirrors.sonic.net/
@@ -468,14 +465,12 @@ opencolo.mm.fcix.net/
 opensource.fb.com/
 or-mirror.iwebfusion.net/
 ord.mirror.rackspace.com/
-ossplanet.net/
 osuosl.org/
 ourhost.az/
 per.aws.repo.almalinux.org/
 phoenixnap.com/
 phx.mirrors.clouvider.net/
 pit.mirror.jurassicinnovations.com/
-pkg.adfinis-on-exoscale.ch/
 planethoster.com/
 plug-mirror.rcac.purdue.edu/
 purduelug.org/
@@ -483,6 +478,7 @@ qro.aws.repo.almalinux.org/
 rackspeed.de/
 raiolanetworks.com/
 randhost.com/
+rda.run/
 reenigne.net/
 renu.ac.ug/
 repo.almalinux.org/
@@ -588,7 +584,6 @@ www.domainhizmetleri.com/
 www.edgoo.io/
 www.elhacker.net/
 www.esecuredata.com/
-www.exoscale.com/
 www.fastly.com/
 www.fi.muni.cz/
 www.fiu.edu/
@@ -652,7 +647,6 @@ www.ovhcloud.com/
 www.ox.ac.uk/
 www.peralex.com/
 www.physics.uoc.gr/
-www.plusline.net/
 www.previder.com/
 www.ps.kz/
 www.psnc.pl/
