@@ -83,7 +83,6 @@ ftp.tsukuba.wide.ad.jp/
 ftp.tu-chemnitz.de/
 ftp.tu-ilmenau.de/
 ftp.tudelft.nl/
-ftp.tw.debian.org/
 ftp.u-picardie.fr/
 ftp.ubuntu-tw.net/
 ftp.ubuntu-tw.org/
@@ -248,7 +247,6 @@ mirror.johnnybegood.fr/
 mirror.kakao.com/
 mirror.kamp.de/
 mirror.kapteyan.com.tr/
-mirror.keiminem.com/
 mirror.kkg.berlin/
 mirror.kku.ac.th/
 mirror.krfoss.org/
