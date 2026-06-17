@@ -23,7 +23,6 @@ distrohub.kyiv.ua/
 dl.rockylinux.org/
 dotsrc.org/
 download.rockylinux.org/
-dsync.krfoss.org/
 en.isoc.org.il/
 energotel.sk/
 esto.network/
@@ -51,7 +50,6 @@ in.mirrors.cicku.me/
 insecure.nluug.nl/
 it.vcea.wsu.edu/
 it2.mirror.vhosting-it.com/
-krfoss.org/
 lug.ustc.edu.cn/
 maeen.sa/
 marwan.ma/
@@ -77,7 +75,6 @@ mirror.hnd.cl/
 mirror.hosthink.net/
 mirror.in2p3.fr/
 mirror.karneval.cz/
-mirror.krfoss.org/
 mirror.linux.ncsu.edu/
 mirror.maeen.sa/
 mirror.marwan.ma/
@@ -100,6 +97,7 @@ mirror.rnet.missouri.edu/
 mirror.servaxnet.com/
 mirror.siena.edu/
 mirror.slu.cz/
+mirror.snu.edu.in/
 mirror.telepoint.bg/
 mirror.twds.com.tw/
 mirror.tzulo.com/
@@ -109,7 +107,6 @@ mirror.wonchan.net/
 mirror.yandex.ru/
 mirror.yer.az/
 mirror1.isoc.org.il/
-mirrors-1.nkn.in/
 mirrors.dotsrc.org/
 mirrors.esto.network/
 mirrors.hostiserver.com/
@@ -192,6 +189,7 @@ ru.dyi.ng/
 ru.mirrors.cicku.me/
 sa.dyi.ng/
 sa.mirrors.cicku.me/
+snu.edu.in/
 soflibre.unizar.es/
 softlibre.unizar.es/
 teamcloud.am/
