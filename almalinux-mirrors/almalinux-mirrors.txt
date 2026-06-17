@@ -4,6 +4,7 @@ a2hosting.com/
 africloud.com/
 airnet.uz/
 al-mirror.a2hosting.com/
+alma.acidman.thelefty.org/
 alma.as3741.net/
 alma.idhosting.pl/
 alma.mirror.nyuad.nyu.edu/
@@ -74,7 +75,6 @@ boinc.teambelgium.net/
 bos.aws.repo.almalinux.org/
 brentk.io/
 bugs.almalinux.org/
-capital.hoster.kz/
 cat.pdx.edu/
 cc.in2p3.fr/
 chi.almalinux.osuosl.org/
@@ -175,6 +175,7 @@ ip-connect.vn.ua/
 ipacct.com/
 iphost.md/
 ipinfo.io/
+ir.almalinux.sindad.cloud/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
@@ -182,6 +183,7 @@ itc.zju.edu.cn/
 ixirhost.com/
 jagoanhosting.com/
 jetserver.co.il/
+jingk.ai/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
@@ -213,6 +215,7 @@ mirror.23m.com/
 mirror.2degrees.nz/
 mirror.a1.mk/
 mirror.aarnet.edu.au/
+mirror.accum.se/
 mirror.africloud.com/
 mirror.airnet.uz/
 mirror.alastyr.com/
@@ -288,6 +291,7 @@ mirror.iphost.md/
 mirror.isoc.org.il/
 mirror.ixirhost.com/
 mirror.jagoanhosting.id/
+mirror.jingk.ai/
 mirror.junda.nl/
 mirror.karneval.cz/
 mirror.kku.ac.th/
@@ -360,6 +364,7 @@ mirror.transip.net/
 mirror.truenetwork.ru/
 mirror.twds.com.tw/
 mirror.tzulo.com/
+mirror.uepg.br/
 mirror.us-midwest-1.nexcess.net/
 mirror.us.mirhosting.net/
 mirror.usi.edu/
@@ -379,6 +384,7 @@ mirror.xeonbd.com/
 mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
+mirror1.sox.rs/
 mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
@@ -508,9 +514,9 @@ sg-mirrors.vhost.vn/
 sg.gs/
 shedmtl.com/
 siliconhill.cz/
+sindad.com/
 soonkeat.sg/
 southfront.mm.fcix.net/
-stix.mm.fcix.net/
 storpool.com/
 syd.mirror.rackspace.com/
 tc.edu.tw/
@@ -526,6 +532,7 @@ truenetwork.ru/
 tx-mirror.tier.net/
 tzulo.com/
 ucalgary.ca/
+uepg.br/
 uk.mirrors.clouvider.net/
 unifique.com.br/
 usi.edu/
@@ -543,6 +550,7 @@ www.4psa.com/
 www.Linux.ec/
 www.VPSnet.com/
 www.aarnet.edu.au/
+www.accum.se/
 www.alastyr.com/
 www.aliyun.com/
 www.almalinux.org/
@@ -663,10 +671,12 @@ www.siena.edu/
 www.sitsa.com.ar/
 www.siwoo.org/
 www.sonic.com/
+www.sox.rs/
 www.steadfast.net/
 www.swinburne.edu.au/
 www.telecomarmenia.am/
 www.tencent.com/
+www.thelefty.org/
 www.tier.net/
 www.tku.edu.tw/
 www.transip.nl/
