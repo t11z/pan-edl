@@ -39,7 +39,6 @@ ftp.byfly.by/
 ftp.caliu.cat/
 ftp.cc.uoc.gr/
 ftp.corbina.net/
-ftp.csuc.cat/
 ftp.cvut.cz/
 ftp.dei.uc.pt/
 ftp.energotel.sk/
@@ -84,6 +83,7 @@ ftp.tsukuba.wide.ad.jp/
 ftp.tu-chemnitz.de/
 ftp.tu-ilmenau.de/
 ftp.tudelft.nl/
+ftp.tw.debian.org/
 ftp.u-picardie.fr/
 ftp.ubuntu-tw.net/
 ftp.ubuntu-tw.org/
@@ -426,6 +426,7 @@ mirrors.hostico.ro/
 mirrors.hostiserver.com/
 mirrors.huaweicloud.com/
 mirrors.ipserverone.com/
+mirrors.ircam.fr/
 mirrors.iu13.net/
 mirrors.jcut.edu.cn/
 mirrors.jlu.edu.cn/
@@ -534,6 +535,7 @@ ubuntu-archive.mirror.serveriai.lt/
 ubuntu-mirror.ati.tn/
 ubuntu-mirror.bhtelecom.ba/
 ubuntu-mirror.puq.apoapsis.cl/
+ubuntu-mirror.snu.edu.in/
 ubuntu.anexia.at/
 ubuntu.btit.nz/
 ubuntu.c3sl.ufpr.br/
