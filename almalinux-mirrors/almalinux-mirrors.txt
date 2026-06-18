@@ -84,7 +84,6 @@ cloudforest.co.th/
 cloudpropeller.com/
 cofractal-ewr.mm.fcix.net/
 cofractal-sea.mm.fcix.net/
-colocenter.nl/
 computing.ifca.es/
 cosi.clarkson.edu/
 csclub.uwaterloo.ca/
@@ -188,6 +187,7 @@ jingk.ai/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
+kifu.gov.hu/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 krnk.org/
@@ -242,7 +242,6 @@ mirror.citrahost.com/
 mirror.clarkson.edu/
 mirror.cloudpropeller.com/
 mirror.cogentco.com/
-mirror.colocenter.nl/
 mirror.cov.ukservers.com/
 mirror.cpsc.ucalgary.ca/
 mirror.csclub.uwaterloo.ca/
@@ -321,6 +320,7 @@ mirror.netweaver.uk/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nforce.com/
+mirror.niif.hu/
 mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
@@ -385,12 +385,14 @@ mirror.xeonbd.com/
 mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
+mirror1.sox.rs/
 mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.binaryracks.com/
 mirrors.bkns.vn/
 mirrors.bmcc.edu/
+mirrors.c0urier.net/
 mirrors.cat.pdx.edu/
 mirrors.chroot.ro/
 mirrors.cloudforest.co.th/
@@ -568,6 +570,7 @@ www.belnet.be/
 www.binaryracks.com/
 www.bkns.vn/
 www.bme.hu/
+www.c0urier.net/
 www.cedia.edu.ec/
 www.chpc.utah.edu/
 www.chroot.ro/
@@ -671,6 +674,7 @@ www.siena.edu/
 www.sitsa.com.ar/
 www.siwoo.org/
 www.sonic.com/
+www.sox.rs/
 www.steadfast.net/
 www.swinburne.edu.au/
 www.telecomarmenia.am/
