@@ -271,6 +271,7 @@ mirror.fysik.dtu.dk/
 mirror.grid.uchicago.edu/
 mirror.group.one/
 mirror.hashy0917.net/
+mirror.hep.gg/
 mirror.hnd.cl/
 mirror.hoasted.com/
 mirror.host.ag/
@@ -352,6 +353,7 @@ mirror.shedmtl.com/
 mirror.siena.edu/
 mirror.sitsa.com.ar/
 mirror.siwoo.org/
+mirror.sjtu.edu.cn/
 mirror.soonkeat.sg/
 mirror.speedkom.de/
 mirror.steadfastnet.com/
@@ -382,7 +384,7 @@ mirror.xeonbd.com/
 mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
-mirror1.sox.rs/
+mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.binaryracks.com/
@@ -446,6 +448,7 @@ msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
 muug.ca/
 nchc.org.tw/
+net.sjtu.edu.cn/
 neterra.ne/
 nevacloud.com/
 nexril.net/
@@ -520,6 +523,7 @@ syd.mirror.rackspace.com/
 tc.edu.tw/
 team-cymru.com/
 team.blue/
+teamhydra.dev/
 telepoint.bg/
 teraswitch.com/
 terrahost.no/
@@ -549,6 +553,7 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
+www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -668,7 +673,6 @@ www.siena.edu/
 www.sitsa.com.ar/
 www.siwoo.org/
 www.sonic.com/
-www.sox.rs/
 www.steadfast.net/
 www.swinburne.edu.au/
 www.telecomarmenia.am/
