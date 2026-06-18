@@ -220,7 +220,6 @@ mirror.hosthink.net/
 mirror.hostiko.network/
 mirror.hostnic.id/
 mirror.icn.com.bd/
-mirror.idealhosting.net.tr/
 mirror.ihost.md/
 mirror.il-ha.kamatera.com/
 mirror.il-pt.kamatera.com/
@@ -520,8 +519,6 @@ rsync.udc.es/
 rsync.uni-bayreuth.de/
 rsync.yuki.net.uk/
 security.ubuntu.com/
-sft.if.usp.br/
-sft.if.usp.br:/
 sg-mirrors.vhost.vn/
 softlibre.unizar.es/
 storage.dim.uchile.cl/
