@@ -131,7 +131,6 @@ missouri.edu/
 neterra.net/
 nevacloud.com/
 nyc.mirrors.clouvider.net/
-osluz.unizar.es/
 ossplanet.net/
 ourhost.az/
 pangkin.me/
@@ -195,8 +194,6 @@ ru.mirrors.cicku.me/
 sa.dyi.ng/
 sa.mirrors.cicku.me/
 snu.edu.in/
-soflibre.unizar.es/
-softlibre.unizar.es/
 teamcloud.am/
 telepoint.bg/
 thegigabit.com/

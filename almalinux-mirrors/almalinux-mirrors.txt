@@ -58,13 +58,11 @@ almamirror.netdirekt.com.tr/
 almamirror.phoenixnap.com/
 aptus.co.tz/
 ash.mirrors.clouvider.net/
-asnet.am/
 atl.mirrors.clouvider.net/
 atl.mirrors.ezscale.cloud/
 atl.mirrors.knownhost.com/
 aws.amazon.com/
 azvps.vn/
-beltelecom.by/
 bharatdatacenter.com/
 bitency.nl/
 blog.almalinux.org/
@@ -250,7 +248,6 @@ mirror.cov.ukservers.com/
 mirror.cpsc.ucalgary.ca/
 mirror.csclub.uwaterloo.ca/
 mirror.dal.nexril.net/
-mirror.datacenter.by/
 mirror.datamossa.io/
 mirror.de.leaseweb.net/
 mirror.dewabiz.com/
@@ -292,7 +289,6 @@ mirror.init7.net::almalinux/
 mirror.internet.asn.au/
 mirror.interserver.net/
 mirror.iphost.md/
-mirror.isoc.org.il/
 mirror.ixirhost.com/
 mirror.jagoanhosting.id/
 mirror.jingk.ai/
@@ -382,16 +378,15 @@ mirror.wd6.net/
 mirror.wdc2.us.leaseweb.net/
 mirror.webworld.ie/
 mirror.wiseglobalsolutions.com/
-mirror.wonchan.net/
 mirror.xcobean.co.ke/
 mirror.xenyth.net/
+mirror.xeonbd.com/
 mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
 mirrors.aliyun.com/
 mirrors.almalinux.org/
-mirrors.asnet.am/
 mirrors.binaryracks.com/
 mirrors.bkns.vn/
 mirrors.bmcc.edu/
@@ -620,7 +615,6 @@ www.iij.ad.jp/
 www.init7.net/
 www.interserver.net/
 www.ipserverone.com/
-www.isoc.org.il/
 www.itworxx.de/
 www.iu13.org/
 www.iwebfusion.net/
@@ -708,9 +702,9 @@ www.wd6.net/
 www.wearetriple.com/
 www.webworld.ie/
 www.wiseglobalsolutions.com/
+www.xeonbd.com/
 www.yamagata-u.ac.jp/
 www.yuccatelecom.com/
-wwww.wonchan.net/
 xcobean.co.ke/
 xenyth.net/
 xtom.com/
