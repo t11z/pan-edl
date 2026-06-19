@@ -101,6 +101,7 @@ mirror.servaxnet.com/
 mirror.siena.edu/
 mirror.siwoo.org/
 mirror.slu.cz/
+mirror.snu.edu.in/
 mirror.techlabs.co.kr/
 mirror.telepoint.bg/
 mirror.twds.com.tw/
@@ -193,6 +194,7 @@ ru.dyi.ng/
 ru.mirrors.cicku.me/
 sa.dyi.ng/
 sa.mirrors.cicku.me/
+snu.edu.in/
 soflibre.unizar.es/
 softlibre.unizar.es/
 teamcloud.am/
