@@ -25,6 +25,7 @@ almalinux.linuxpatch.com/
 almalinux.mirror-services.net/
 almalinux.mirror.archettitechnology.it/
 almalinux.mirror.blowfish.network/
+almalinux.mirror.digitalpacific.com.au/
 almalinux.mirror.garr.it/
 almalinux.mirror.globo.tech/
 almalinux.mirror.katapult.io/
@@ -118,6 +119,7 @@ flokinet.is/
 for.aws.repo.almalinux.org/
 forksystems.mm.fcix.net/
 fr2.rpmfind.net/
+free.nchc.org.tw/
 ftp.arnes.si/
 ftp.belnet.be/
 ftp.bme.hu/
@@ -252,6 +254,7 @@ mirror.datacenter.by/
 mirror.datamossa.io/
 mirror.de.leaseweb.net/
 mirror.dewabiz.com/
+mirror.digitalpacific.com.au/
 mirror.diyarciftci.xyz/
 mirror.dk.team.blue/
 mirror.dk.team.blue::almalinux/
@@ -353,6 +356,7 @@ mirror.shedmtl.com/
 mirror.siena.edu/
 mirror.sitsa.com.ar/
 mirror.siwoo.org/
+mirror.sjtu.edu.cn/
 mirror.snu.edu.in/
 mirror.soonkeat.sg/
 mirror.speedkom.de/
@@ -446,6 +450,8 @@ mr.heru.id/
 msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
 muug.ca/
+nchc.org.tw/
+net.sjtu.edu.cn/
 neterra.ne/
 nevacloud.com/
 nexril.net/
@@ -581,6 +587,7 @@ www.csc.fi/
 www.csuc.cat/
 www.cyberfolks.ro/
 www.deac.eu/
+www.digitalpacific.com.au/
 www.dogado.de/
 www.domainhizmetleri.com/
 www.edgoo.io/
