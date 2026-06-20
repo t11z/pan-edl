@@ -44,6 +44,7 @@ ftp.swin.edu.au/
 ftp.yz.yamagata-u.ac.jp/
 gb.dyi.ng/
 gb.mirrors.cicku.me/
+gozunga.com/
 hnd.cl/
 iad.mirror.rackspace.com/
 in.dyi.ng/
@@ -72,6 +73,7 @@ mirror.dst.ca/
 mirror.etf.bg.ac.rs/
 mirror.eu.ossplanet.net/
 mirror.freedif.org/
+mirror.gozunga.com/
 mirror.hashy0917.net/
 mirror.hnd.cl/
 mirror.hosthink.net/

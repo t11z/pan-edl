@@ -105,6 +105,7 @@ doit.missouri.edu/
 domainesia.com/
 dotsrc.org/
 dsu.edu/
+ekiphost.com/
 elice.io/
 elmirror.cl/
 eng.mephi.ru/
@@ -118,6 +119,7 @@ flokinet.is/
 for.aws.repo.almalinux.org/
 forksystems.mm.fcix.net/
 fr2.rpmfind.net/
+free.nchc.org.tw/
 ftp.arnes.si/
 ftp.belnet.be/
 ftp.bme.hu/
@@ -150,6 +152,7 @@ gigsouth.mm.fcix.net/
 github.com/
 globo.tech/
 gofiber.vn/
+gozunga.com/
 gsl-syd.mm.fcix.net/
 hcc-mirror.unl.edu/
 hcc.unl.edu/
@@ -176,6 +179,7 @@ internet.asn.au/
 ip-connect.info/
 ip-connect.vn.ua/
 ipacct.com/
+iphost.md/
 ipinfo.io/
 ir.almalinux.sindad.cloud/
 is.mirror.flokinet.net/
@@ -258,16 +262,17 @@ mirror.dk.team.blue::almalinux/
 mirror.docker.ru/
 mirror.dogado.de/
 mirror.domainhizmetleri.com/
+mirror.ekiphost.com/
 mirror.elice.io/
 mirror.esecuredata.com/
 mirror.eu.4psacloud.com/
 mirror.facebook.net/
-mirror.fcix.net/
 mirror.fiu.edu/
 mirror.flo.c-f.ro/
 mirror.fmt-2.serverforge.org/
 mirror.freedif.org/
 mirror.fysik.dtu.dk/
+mirror.gozunga.com/
 mirror.grid.uchicago.edu/
 mirror.group.one/
 mirror.hashy0917.net/
@@ -287,6 +292,7 @@ mirror.init7.net/
 mirror.init7.net::almalinux/
 mirror.internet.asn.au/
 mirror.interserver.net/
+mirror.iphost.md/
 mirror.isoc.org.il/
 mirror.ixirhost.com/
 mirror.jagoanhosting.id/
@@ -303,6 +309,7 @@ mirror.liteserver.nl/
 mirror.lyrahosting.com/
 mirror.maeen.sa/
 mirror.mangohost.net/
+mirror.maple-hosting.com/
 mirror.marwan.ma/
 mirror.mci-1.serverforge.org/
 mirror.meowsmp.net/
@@ -382,8 +389,6 @@ mirror.xeonbd.com/
 mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
-mirror1.sox.rs/
-mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.binaryracks.com/
@@ -433,7 +438,6 @@ mirrors.uni-ruse.bg/
 mirrors.upr.edu/
 mirrors.webhs.pt/
 mirrors.xtom.au/
-mirrors.xtom.com/
 mirrors.xtom.de/
 mirrors.xtom.ee/
 mirrors.xtom.jp/
@@ -445,6 +449,7 @@ mr.heru.id/
 msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
 muug.ca/
+nchc.org.tw/
 net.sjtu.edu.cn/
 neterra.ne/
 nevacloud.com/
@@ -489,6 +494,7 @@ repo.ialab.dsu.edu/
 repo.ifca.es/
 repo.shinjiru.com/
 rit.edu/
+ro.mirror.flokinet.net/
 rootlicense.com/
 rpmfind.net/
 rsync-linuxsoft.cern.ch/
@@ -550,7 +556,6 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
-www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -627,6 +632,7 @@ www.liquidweb.com/
 www.liteserver.nl/
 www.lysator.liu.se/
 www.maeen.sa/
+www.maple-hosting.com/
 www.melbourne.co.uk/
 www.meowsmp.net/
 www.moack.co.kr/
@@ -668,7 +674,6 @@ www.siena.edu/
 www.sitsa.com.ar/
 www.siwoo.org/
 www.sonic.com/
-www.sox.rs/
 www.steadfast.net/
 www.swinburne.edu.au/
 www.telecomarmenia.am/
