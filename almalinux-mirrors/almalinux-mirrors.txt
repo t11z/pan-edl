@@ -25,7 +25,6 @@ almalinux.linuxpatch.com/
 almalinux.mirror-services.net/
 almalinux.mirror.archettitechnology.it/
 almalinux.mirror.blowfish.network/
-almalinux.mirror.digitalpacific.com.au/
 almalinux.mirror.garr.it/
 almalinux.mirror.globo.tech/
 almalinux.mirror.katapult.io/
@@ -119,7 +118,6 @@ flokinet.is/
 for.aws.repo.almalinux.org/
 forksystems.mm.fcix.net/
 fr2.rpmfind.net/
-free.nchc.org.tw/
 ftp.arnes.si/
 ftp.belnet.be/
 ftp.bme.hu/
@@ -254,7 +252,6 @@ mirror.datacenter.by/
 mirror.datamossa.io/
 mirror.de.leaseweb.net/
 mirror.dewabiz.com/
-mirror.digitalpacific.com.au/
 mirror.diyarciftci.xyz/
 mirror.dk.team.blue/
 mirror.dk.team.blue::almalinux/
@@ -386,6 +383,7 @@ mirror.xenyth.net/
 mirror.xeonbd.com/
 mirror.yandex.ru/
 mirror.yer.az/
+mirror.yuki.net.uk/
 mirror1.sox.rs/
 mirrors.aliyun.com/
 mirrors.almalinux.org/
@@ -448,7 +446,6 @@ mr.heru.id/
 msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
 muug.ca/
-nchc.org.tw/
 neterra.ne/
 nevacloud.com/
 nexril.net/
@@ -501,6 +498,7 @@ rsync.gtlib.gatech.edu/
 rsync.mirrorservice.org/
 rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
+rsync.yuki.net.uk/
 ruk-com.cloud/
 rwth-aachen.de/
 sabay.com.kh/
@@ -583,7 +581,6 @@ www.csc.fi/
 www.csuc.cat/
 www.cyberfolks.ro/
 www.deac.eu/
-www.digitalpacific.com.au/
 www.dogado.de/
 www.domainhizmetleri.com/
 www.edgoo.io/
@@ -711,6 +708,7 @@ xenyth.net/
 xtom.com/
 yandex.ru/
 yer.az/
+yuki.net.uk/
 yxeix.mm.fcix.net/
 ziply.mm.fcix.net/
 ziplyfiber.com/
