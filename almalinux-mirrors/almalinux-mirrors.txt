@@ -32,6 +32,7 @@ almalinux.mirror.katapult.io/
 almalinux.mirror.liquidtelecom.com/
 almalinux.mirror.liteserver.nl/
 almalinux.mirror.net.za/
+almalinux.mirror.scopesky.com/
 almalinux.mirror.shastacoe.net/
 almalinux.mirror.sofia.incognet.io/
 almalinux.mirror.thegigabit.com/
@@ -356,7 +357,6 @@ mirror.shedmtl.com/
 mirror.siena.edu/
 mirror.sitsa.com.ar/
 mirror.siwoo.org/
-mirror.sjtu.edu.cn/
 mirror.snu.edu.in/
 mirror.soonkeat.sg/
 mirror.speedkom.de/
@@ -389,7 +389,6 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
-mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.binaryracks.com/
@@ -452,7 +451,6 @@ msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
 muug.ca/
 nchc.org.tw/
-net.sjtu.edu.cn/
 neterra.ne/
 nexril.net/
 nhanhoa.com/
@@ -556,7 +554,6 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
-www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -666,6 +663,7 @@ www.rrze.fau.de/
 www.rwts.com.au/
 www.sakura.ad.jp/
 www.schlundtech.de/
+www.scopesky.iq/
 www.servaxnet.com/
 www.server.net/
 www.sfu.ca/

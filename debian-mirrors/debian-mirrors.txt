@@ -62,7 +62,6 @@ debian.polytech-lille.fr/
 debian.pop-sc.rnp.br/
 debian.proxad.net/
 debian.redimadrid.es/
-debian.redparra.com/
 debian.repo.cure.edu.uy/
 debian.saix.net/
 debian.snt.utwente.nl/
@@ -296,12 +295,10 @@ mirrors.hosterion.ro/
 mirrors.hostico.ro/
 mirrors.hostiserver.com/
 mirrors.ic.unicamp.br/
-mirrors.iitd.ac.in/
 mirrors.jlu.edu.cn/
 mirrors.lug.mtu.edu/
 mirrors.nav.ro/
 mirrors.netix.net/
-mirrors.ocf.berkeley.edu/
 mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
 mirrors.ptisp.pt/
@@ -333,7 +330,6 @@ pubmirror.plutex.de/
 repo.ialab.dsu.edu/
 repo.ifca.es/
 repo.jztkft.hu/
-repos.interior.edu.uy/
 ro.mirror.flokinet.net/
 security.debian.org/
 softlibre.unizar.es/
