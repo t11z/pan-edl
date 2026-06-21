@@ -229,6 +229,7 @@ mirror.almalinux.si/
 mirror.alwyzon.net/
 mirror.amscloud.co.id/
 mirror.amscloud.co.id::almalinux/
+mirror.anquan.cl/
 mirror.aptus.co.tz/
 mirror.as3741.net/
 mirror.ati.tn/
@@ -244,7 +245,6 @@ mirror.chpc.utah.edu/
 mirror.citrahost.com/
 mirror.clarkson.edu/
 mirror.cloudpropeller.com/
-mirror.cogentco.com/
 mirror.colocenter.nl/
 mirror.cov.ukservers.com/
 mirror.cpsc.ucalgary.ca/
@@ -563,6 +563,7 @@ www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
+www.anquan.cl/
 www.ans.co.uk/
 www.anywair.com/
 www.archettitechnology.it/
@@ -582,7 +583,6 @@ www.cixug.gal/
 www.cloud9.ge/
 www.clouvider.com/
 www.codeforhost.com/
-www.cogentco.com/
 www.coreix.net/
 www.csc.fi/
 www.csuc.cat/
