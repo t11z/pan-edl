@@ -160,6 +160,7 @@ mirror.cmkl.ac.th/
 mirror.cogentco.com/
 mirror.colocenter.nl/
 mirror.corbina.net/
+mirror.cosmiclinux.com/
 mirror.cov.ukservers.com/
 mirror.creoline.net/
 mirror.cs.jmu.edu/
@@ -193,6 +194,7 @@ mirror.eu-lo.kamatera.com/
 mirror.eu.4psacloud.com/
 mirror.eu.kamatera.com/
 mirror.exid.us/
+mirror.fairway.ne.jp/
 mirror.faraso.org/
 mirror.fcix.net/
 mirror.fi.ossplanet.net/
@@ -392,7 +394,6 @@ mirrors.accretive-networks.net/
 mirrors.aliyun.com/
 mirrors.arcuslayer.com/
 mirrors.arpnetworks.com/
-mirrors.asnet.am/
 mirrors.atlas.net.co/
 mirrors.bangmod.cloud/
 mirrors.bfsu.edu.cn/
