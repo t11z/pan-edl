@@ -85,7 +85,6 @@ cloudforest.co.th/
 cloudpropeller.com/
 cofractal-ewr.mm.fcix.net/
 cofractal-sea.mm.fcix.net/
-colocenter.nl/
 computing.ifca.es/
 cosi.clarkson.edu/
 csclub.uwaterloo.ca/
@@ -245,7 +244,6 @@ mirror.chpc.utah.edu/
 mirror.citrahost.com/
 mirror.clarkson.edu/
 mirror.cloudpropeller.com/
-mirror.colocenter.nl/
 mirror.cov.ukservers.com/
 mirror.cpsc.ucalgary.ca/
 mirror.csclub.uwaterloo.ca/
@@ -420,6 +418,7 @@ mirrors.nav.ro/
 mirrors.neterra.net/
 mirrors.nhanhoa.com/
 mirrors.nju.edu.cn/
+mirrors.nxthost.com/
 mirrors.oblivion.online/
 mirrors.ocf.berkeley.edu/
 mirrors.onenet.net/
@@ -649,6 +648,7 @@ www.nforce.com/
 www.nic.cz/
 www.nic.funet.fi/
 www.nodespace.com/
+www.nxthost.com/
 www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
