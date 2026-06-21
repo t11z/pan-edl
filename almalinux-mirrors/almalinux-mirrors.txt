@@ -64,6 +64,7 @@ atl.mirrors.knownhost.com/
 aws.amazon.com/
 azvps.vn/
 beltelecom.by/
+bharatdatacenter.com/
 bitency.nl/
 blog.almalinux.org/
 blowfishtechnology.com/
@@ -135,6 +136,7 @@ ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
 ftp.sakura.ad.jp/
+ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
 ftp.tku.edu.tw/
@@ -233,6 +235,7 @@ mirror.az31.cloudpropeller.com/
 mirror.azvps.vn/
 mirror.bahnhof.net/
 mirror.bf-net.ch/
+mirror.bharatdatacenter.com/
 mirror.bitency.nl/
 mirror.cedia.org.ec/
 mirror.ch.altushost.com/
@@ -386,7 +389,6 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
-mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.binaryracks.com/
 mirrors.bkns.vn/
@@ -512,6 +514,7 @@ serversaustralia.com.au/
 sg-mirrors.vhost.vn/
 sg.gs/
 shedmtl.com/
+siliconhill.cz/
 sindad.com/
 snu.edu.in/
 soonkeat.sg/
@@ -552,7 +555,6 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
-www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
