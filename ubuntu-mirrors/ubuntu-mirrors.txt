@@ -116,7 +116,6 @@ labs.eif.urjc.es/
 linux.domainesia.com/
 linux.yz.yamagata-u.ac.jp/
 mir.linux.kg/
-miroir.univ-lorraine.fr/
 mirror-gw.elastis.id/
 mirror-hk.koddos.net/
 mirror-mk.interspace.com/
@@ -515,6 +514,8 @@ rsync.udc.es/
 rsync.uni-bayreuth.de/
 rsync.yuki.net.uk/
 security.ubuntu.com/
+sft.if.usp.br/
+sft.if.usp.br:/
 sg-mirrors.vhost.vn/
 softlibre.unizar.es/
 storage.dim.uchile.cl/
