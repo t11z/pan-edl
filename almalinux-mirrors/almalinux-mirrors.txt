@@ -59,6 +59,7 @@ almamirror.phoenixnap.com/
 amscloud.co.id/
 aptus.co.tz/
 ash.mirrors.clouvider.net/
+asnet.am/
 atl.mirrors.clouvider.net/
 atl.mirrors.ezscale.cloud/
 atl.mirrors.knownhost.com/
@@ -121,7 +122,6 @@ free.nchc.org.tw/
 ftp.arnes.si/
 ftp.belnet.be/
 ftp.bme.hu/
-ftp.cc.uoc.gr/
 ftp.cixug.es/
 ftp.csuc.cat/
 ftp.cwuni-bayreuth.de/
@@ -368,6 +368,7 @@ mirror.truenetwork.ru/
 mirror.twds.com.tw/
 mirror.tzulo.com/
 mirror.uepg.br/
+mirror.us-midwest-1.nexcess.net/
 mirror.us.mirhosting.net/
 mirror.usi.edu/
 mirror.veesp.com/
@@ -387,8 +388,8 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
-mirrors.aliyun.com/
 mirrors.almalinux.org/
+mirrors.asnet.am/
 mirrors.binaryracks.com/
 mirrors.bkns.vn/
 mirrors.bmcc.edu/
@@ -555,7 +556,6 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
-www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -628,6 +628,7 @@ www.lchs.com.au/
 www.limda.net/
 www.linkedin.com/
 www.liquid.tech/
+www.liquidweb.com/
 www.liteserver.nl/
 www.lysator.liu.se/
 www.maeen.sa/
@@ -652,7 +653,6 @@ www.onenet.net/
 www.ovhcloud.com/
 www.ox.ac.uk/
 www.peralex.com/
-www.physics.uoc.gr/
 www.plusline.net/
 www.previder.com/
 www.ps.kz/
