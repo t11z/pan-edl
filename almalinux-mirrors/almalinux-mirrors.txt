@@ -54,7 +54,6 @@ almalinux.virtono.com/
 almalinux.vpsttt.com/
 almalinux.web.trex.fi/
 almamirror.netdirekt.com.tr/
-almamirror.phoenixnap.com/
 amscloud.co.id/
 aptus.co.tz/
 ash.mirrors.clouvider.net/
@@ -475,7 +474,6 @@ ossplanet.net/
 osuosl.org/
 ourhost.az/
 per.aws.repo.almalinux.org/
-phoenixnap.com/
 phx.mirrors.clouvider.net/
 pit.mirror.jurassicinnovations.com/
 pkg.adfinis-on-exoscale.ch/
