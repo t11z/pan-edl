@@ -244,6 +244,7 @@ mirror.chpc.utah.edu/
 mirror.citrahost.com/
 mirror.clarkson.edu/
 mirror.cloudpropeller.com/
+mirror.cogentco.com/
 mirror.colocenter.nl/
 mirror.cov.ukservers.com/
 mirror.cpsc.ucalgary.ca/
@@ -322,6 +323,7 @@ mirror.net.za/
 mirror.netsite.dk/
 mirror.netweaver.uk/
 mirror.netzwerge.de/
+mirror.nevacloud.com/
 mirror.nforce.com/
 mirror.nishi.network/
 mirror.nl.altushost.com/
@@ -330,7 +332,6 @@ mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
 mirror.nodespace.com/
 mirror.nyist.edu.cn/
-mirror.ossplanet.net/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
 mirror.pit.teraswitch.com/
@@ -369,6 +370,7 @@ mirror.truenetwork.ru/
 mirror.twds.com.tw/
 mirror.tzulo.com/
 mirror.uepg.br/
+mirror.us-midwest-1.nexcess.net/
 mirror.us.mirhosting.net/
 mirror.usi.edu/
 mirror.veesp.com/
@@ -388,7 +390,6 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
-mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.binaryracks.com/
@@ -424,6 +425,7 @@ mirrors.ocf.berkeley.edu/
 mirrors.onenet.net/
 mirrors.pt/
 mirrors.ptisp.pt/
+mirrors.rda.poa.br/
 mirrors.rit.edu/
 mirrors.ruk-com.cloud/
 mirrors.sonic.net/
@@ -452,6 +454,7 @@ muug.ca/
 nchc.org.tw/
 net.sjtu.edu.cn/
 neterra.ne/
+nevacloud.com/
 nexril.net/
 nhanhoa.com/
 nl.mirror.flokinet.net/
@@ -469,7 +472,6 @@ opencolo.mm.fcix.net/
 opensource.fb.com/
 or-mirror.iwebfusion.net/
 ord.mirror.rackspace.com/
-ossplanet.net/
 osuosl.org/
 ourhost.az/
 per.aws.repo.almalinux.org/
@@ -484,6 +486,7 @@ qro.aws.repo.almalinux.org/
 rackspeed.de/
 raiolanetworks.com/
 randhost.com/
+rda.run/
 reenigne.net/
 renu.ac.ug/
 repo.almalinux.org/
@@ -555,7 +558,6 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
-www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -579,6 +581,7 @@ www.cixug.gal/
 www.cloud9.ge/
 www.clouvider.com/
 www.codeforhost.com/
+www.cogentco.com/
 www.coreix.net/
 www.csc.fi/
 www.csuc.cat/
@@ -629,6 +632,7 @@ www.lchs.com.au/
 www.limda.net/
 www.linkedin.com/
 www.liquid.tech/
+www.liquidweb.com/
 www.liteserver.nl/
 www.lysator.liu.se/
 www.maeen.sa/
