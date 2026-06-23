@@ -184,17 +184,19 @@ ir.almalinux.sindad.cloud/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
-itc.zju.edu.cn/
 ixirhost.com/
 jagoanhosting.com/
 jetserver.co.il/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
+kifu.gov.hu/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 la.mirrors.clouvider.net/
 leaseweb.com/
+lidsol.fi-b.unam.mx/
+lidsol.unam.mx/
 linux-mirrors.fnal.gov/
 linux.domainesia.com/
 linux.duke.edu/
@@ -242,6 +244,7 @@ mirror.chpc.utah.edu/
 mirror.citrahost.com/
 mirror.clarkson.edu/
 mirror.cloudpropeller.com/
+mirror.cogentco.com/
 mirror.colocenter.nl/
 mirror.cov.ukservers.com/
 mirror.cpsc.ucalgary.ca/
@@ -320,7 +323,9 @@ mirror.net.za/
 mirror.netsite.dk/
 mirror.netweaver.uk/
 mirror.netzwerge.de/
+mirror.nevacloud.com/
 mirror.nforce.com/
+mirror.niif.hu/
 mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
@@ -354,7 +359,6 @@ mirror.shedmtl.com/
 mirror.siena.edu/
 mirror.sitsa.com.ar/
 mirror.siwoo.org/
-mirror.sjtu.edu.cn/
 mirror.snu.edu.in/
 mirror.soonkeat.sg/
 mirror.speedkom.de/
@@ -387,7 +391,6 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
-mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.binaryracks.com/
@@ -440,7 +443,6 @@ mirrors.xtom.de/
 mirrors.xtom.ee/
 mirrors.xtom.jp/
 mirrors.xtom.nl/
-mirrors.zju.edu.cn/
 mnl.aws.repo.almalinux.org/
 mobinhost.com/
 mr.heru.id/
@@ -448,8 +450,8 @@ msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
 muug.ca/
 nchc.org.tw/
-net.sjtu.edu.cn/
 neterra.ne/
+nevacloud.com/
 nexril.net/
 nhanhoa.com/
 nl.mirror.flokinet.net/
@@ -553,7 +555,6 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
-www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -577,6 +578,7 @@ www.cixug.gal/
 www.cloud9.ge/
 www.clouvider.com/
 www.codeforhost.com/
+www.cogentco.com/
 www.coreix.net/
 www.csc.fi/
 www.csuc.cat/
