@@ -337,6 +337,7 @@ mirror.pit.teraswitch.com/
 mirror.plusline.net/
 mirror.previder.nl/
 mirror.ps.kz/
+mirror.rackspeed.de/
 mirror.raiolanetworks.com/
 mirror.randhost.com/
 mirror.rcg.sfu.ca/
@@ -363,6 +364,7 @@ mirror.steadfastnet.com/
 mirror.team-cymru.com/
 mirror.telepoint.bg/
 mirror.terrahost.no/
+mirror.transip.net/
 mirror.truenetwork.ru/
 mirror.twds.com.tw/
 mirror.tzulo.com/
@@ -379,7 +381,6 @@ mirror.wd6.net/
 mirror.wdc2.us.leaseweb.net/
 mirror.webworld.ie/
 mirror.wiseglobalsolutions.com/
-mirror.wonchan.net/
 mirror.xcobean.co.ke/
 mirror.xenyth.net/
 mirror.xeonbd.com/
@@ -483,6 +484,7 @@ planethoster.com/
 plug-mirror.rcac.purdue.edu/
 purduelug.org/
 qro.aws.repo.almalinux.org/
+rackspeed.de/
 raiolanetworks.com/
 randhost.com/
 rda.run/
@@ -685,6 +687,7 @@ www.tencent.com/
 www.thelefty.org/
 www.tier.net/
 www.tku.edu.tw/
+www.transip.nl/
 www.trex.fi/
 www.twds.com.tw/
 www.uam.es/
@@ -708,7 +711,6 @@ www.wiseglobalsolutions.com/
 www.xeonbd.com/
 www.yamagata-u.ac.jp/
 www.yuccatelecom.com/
-wwww.wonchan.net/
 xcobean.co.ke/
 xenyth.net/
 xtom.com/
