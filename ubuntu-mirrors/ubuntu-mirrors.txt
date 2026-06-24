@@ -397,6 +397,7 @@ mirrors.accretive-networks.net/
 mirrors.aliyun.com/
 mirrors.arcuslayer.com/
 mirrors.arpnetworks.com/
+mirrors.asnet.am/
 mirrors.atlas.net.co/
 mirrors.bangmod.cloud/
 mirrors.bfsu.edu.cn/
