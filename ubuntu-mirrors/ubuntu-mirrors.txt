@@ -25,7 +25,6 @@ deb.campolargo.pr.gov.br/
 debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
 distrohub.kyiv.ua/
-download.nus.edu.sg/
 download.nust.na/
 drmirror.physi.uni-heidelberg.de/
 elmirror.cl/
@@ -210,6 +209,7 @@ mirror.fsmg.org.nz/
 mirror.fst.kz/
 mirror.funkfreundelandshut.de/
 mirror.geekonweb.fr/
+mirror.gi.co.id/
 mirror.gofoss.xyz/
 mirror.greennet.gl/
 mirror.group.one/
@@ -334,7 +334,6 @@ mirror.team-cymru.com/
 mirror.team-cymru.org/
 mirror.team-host.ru/
 mirror.techlabs.co.kr/
-mirror.telepoint.bg/
 mirror.timeweb.ru/
 mirror.tngnet.com/
 mirror.transip.net/
