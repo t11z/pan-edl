@@ -116,7 +116,6 @@ fibia.dk/
 fleksibel.com/
 flokinet.is/
 for.aws.repo.almalinux.org/
-forksystems.mm.fcix.net/
 fr2.rpmfind.net/
 free.nchc.org.tw/
 ftp.arnes.si/
@@ -282,6 +281,7 @@ mirror.hoasted.com/
 mirror.host.ag/
 mirror.host4biz.eu/
 mirror.hostbaran.com/
+mirror.hoster.kz/
 mirror.hosthink.net/
 mirror.hostiko.network/
 mirror.hs-esslingen.de/
@@ -325,7 +325,6 @@ mirror.nforce.com/
 mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
-mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
 mirror.nodespace.com/
 mirror.nyist.edu.cn/
@@ -362,6 +361,7 @@ mirror.soonkeat.sg/
 mirror.speedkom.de/
 mirror.steadfastnet.com/
 mirror.team-cymru.com/
+mirror.telepoint.bg/
 mirror.terrahost.no/
 mirror.transip.net/
 mirror.truenetwork.ru/
@@ -530,6 +530,7 @@ tc.edu.tw/
 team-cymru.com/
 team.blue/
 teamhydra.dev/
+telepoint.bg/
 teraswitch.com/
 terrahost.no/
 thegigabit.com/
