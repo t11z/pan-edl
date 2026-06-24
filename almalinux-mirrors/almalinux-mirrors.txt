@@ -96,7 +96,6 @@ datautama.net.id/
 de.mirrors.clouvider.net/
 den.aws.repo.almalinux.org/
 dewabiz.com/
-dinosaurus.fleksibel.com/
 distrohub.kyiv.ua/
 diyarciftci.xyz/
 docker.ru/
@@ -113,7 +112,6 @@ ezscale.cloud/
 fam.org.nz/
 fcix.net/
 fibia.dk/
-fleksibel.com/
 flokinet.is/
 for.aws.repo.almalinux.org/
 forksystems.mm.fcix.net/
@@ -127,6 +125,7 @@ ftp.cixug.es/
 ftp.csuc.cat/
 ftp.cwuni-bayreuth.de/
 ftp.fau.de/
+ftp.gwdg.de/
 ftp.halifax.rwth-aachen.de/
 ftp.iij.ad.jp/
 ftp.jaist.ac.jp/
@@ -135,6 +134,7 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
+ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -608,6 +608,7 @@ www.gi.co.id/
 www.group.one/
 www.gtlib.gatech.edu/
 www.guzel.net.tr/
+www.gwdg.de/
 www.hashy0917.net/
 www.hivelocity.net/
 www.hoasted.com/
@@ -667,6 +668,7 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
+www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
