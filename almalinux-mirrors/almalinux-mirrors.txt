@@ -52,7 +52,6 @@ almalinux.schlundtech.de/
 almalinux.si/
 almalinux.uib.no/
 almalinux.virtono.com/
-almalinux.vpsttt.com/
 almalinux.web.trex.fi/
 almamirror.netdirekt.com.tr/
 almamirror.phoenixnap.com/
@@ -64,7 +63,6 @@ atl.mirrors.clouvider.net/
 atl.mirrors.ezscale.cloud/
 atl.mirrors.knownhost.com/
 aws.amazon.com/
-azvps.vn/
 beltelecom.by/
 bitency.nl/
 blog.almalinux.org/
@@ -96,10 +94,12 @@ datautama.net.id/
 de.mirrors.clouvider.net/
 den.aws.repo.almalinux.org/
 dewabiz.com/
+dinosaurus.fleksibel.com/
 distrohub.kyiv.ua/
 diyarciftci.xyz/
 docker.ru/
 doit.missouri.edu/
+domainesia.com/
 dotsrc.org/
 dsu.edu/
 ekiphost.com/
@@ -111,11 +111,11 @@ ezscale.cloud/
 fam.org.nz/
 fcix.net/
 fibia.dk/
+fleksibel.com/
 flokinet.is/
 for.aws.repo.almalinux.org/
 forksystems.mm.fcix.net/
 fr2.rpmfind.net/
-free.nchc.org.tw/
 ftp.arnes.si/
 ftp.belnet.be/
 ftp.bme.hu/
@@ -124,6 +124,7 @@ ftp.cixug.es/
 ftp.csuc.cat/
 ftp.cwuni-bayreuth.de/
 ftp.fau.de/
+ftp.gwdg.de/
 ftp.halifax.rwth-aachen.de/
 ftp.iij.ad.jp/
 ftp.jaist.ac.jp/
@@ -132,7 +133,6 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
-ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -187,6 +187,7 @@ jetserver.co.il/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
+kifu.gov.hu/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 la.mirrors.clouvider.net/
@@ -194,6 +195,7 @@ leaseweb.com/
 lidsol.fi-b.unam.mx/
 lidsol.unam.mx/
 linux-mirrors.fnal.gov/
+linux.domainesia.com/
 linux.duke.edu/
 linux.ncsu.edu/
 linuxpatch.com/
@@ -229,7 +231,6 @@ mirror.aptus.co.tz/
 mirror.as3741.net/
 mirror.ati.tn/
 mirror.az31.cloudpropeller.com/
-mirror.azvps.vn/
 mirror.bahnhof.net/
 mirror.bf-net.ch/
 mirror.bitency.nl/
@@ -281,6 +282,7 @@ mirror.hostbaran.com/
 mirror.hoster.kz/
 mirror.hosthink.net/
 mirror.hostiko.network/
+mirror.hs-esslingen.de/
 mirror.in2p3.fr/
 mirror.init7.net/
 mirror.init7.net::almalinux/
@@ -316,7 +318,9 @@ mirror.net.za/
 mirror.netsite.dk/
 mirror.netweaver.uk/
 mirror.netzwerge.de/
+mirror.nevacloud.com/
 mirror.nforce.com/
+mirror.niif.hu/
 mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
@@ -387,7 +391,6 @@ mirror1.sox.rs/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.binaryracks.com/
-mirrors.bkns.vn/
 mirrors.bmcc.edu/
 mirrors.c0urier.net/
 mirrors.cat.pdx.edu/
@@ -411,7 +414,6 @@ mirrors.melbourne.co.uk/
 mirrors.mvps.net/
 mirrors.nav.ro/
 mirrors.neterra.net/
-mirrors.nhanhoa.com/
 mirrors.nju.edu.cn/
 mirrors.nxthost.com/
 mirrors.oblivion.online/
@@ -445,11 +447,10 @@ mr.heru.id/
 msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
 muug.ca/
-nchc.org.tw/
 net.sjtu.edu.cn/
 neterra.ne/
+nevacloud.com/
 nexril.net/
-nhanhoa.com/
 nl.mirror.flokinet.net/
 nl.mirrors.clouvider.net/
 nnenix.mm.fcix.net/
@@ -541,7 +542,6 @@ veesp.com/
 vhost.vn/
 vn-mirrors.vhost.vn/
 volico.mm.fcix.net/
-vpsttt.com/
 vsys.host/
 wiki.almalinux.org/
 wiki.lug.ro/
@@ -566,7 +566,6 @@ www.bahnhof.net/
 www.behostings.com/
 www.belnet.be/
 www.binaryracks.com/
-www.bkns.vn/
 www.bme.hu/
 www.c0urier.net/
 www.cedia.edu.ec/
@@ -600,12 +599,14 @@ www.gi.co.id/
 www.group.one/
 www.gtlib.gatech.edu/
 www.guzel.net.tr/
+www.gwdg.de/
 www.hashy0917.net/
 www.hivelocity.net/
 www.hoasted.com/
 www.host.ag/
 www.hosthink.net/
 www.hostiserver.com/
+www.hs-esslingen.de/
 www.idkom.de/
 www.iij.ad.jp/
 www.init7.net/
@@ -658,7 +659,6 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
-www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
