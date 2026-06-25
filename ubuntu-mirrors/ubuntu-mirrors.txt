@@ -429,6 +429,7 @@ mirrors.hostiserver.com/
 mirrors.huaweicloud.com/
 mirrors.ipserverone.com/
 mirrors.iu13.net/
+mirrors.jcut.edu.cn/
 mirrors.jlu.edu.cn/
 mirrors.krfoss.org/
 mirrors.krnk.org/
