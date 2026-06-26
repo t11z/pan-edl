@@ -332,6 +332,7 @@ mirror.t-home.mk/
 mirror.team-cymru.com/
 mirror.team-cymru.org/
 mirror.techlabs.co.kr/
+mirror.telepoint.bg/
 mirror.timeweb.ru/
 mirror.tngnet.com/
 mirror.transip.net/
