@@ -188,6 +188,7 @@ itc.zju.edu.cn/
 ixirhost.com/
 jagoanhosting.com/
 jetserver.co.il/
+jingk.ai/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
@@ -294,6 +295,7 @@ mirror.iphost.md/
 mirror.isoc.org.il/
 mirror.ixirhost.com/
 mirror.jagoanhosting.id/
+mirror.jingk.ai/
 mirror.junda.nl/
 mirror.karneval.cz/
 mirror.kku.ac.th/
@@ -419,6 +421,7 @@ mirrors.nav.ro/
 mirrors.neterra.net/
 mirrors.nhanhoa.com/
 mirrors.nju.edu.cn/
+mirrors.nxthost.com/
 mirrors.oblivion.online/
 mirrors.ocf.berkeley.edu/
 mirrors.onenet.net/
@@ -449,7 +452,6 @@ mobinhost.com/
 mr.heru.id/
 msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
-muug.ca/
 nchc.org.tw/
 net.sjtu.edu.cn/
 neterra.ne/
@@ -650,6 +652,7 @@ www.nforce.com/
 www.nic.cz/
 www.nic.funet.fi/
 www.nodespace.com/
+www.nxthost.com/
 www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/

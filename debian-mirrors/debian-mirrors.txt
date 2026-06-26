@@ -75,7 +75,6 @@ debian.volia.net/
 debian.vranetworks.lat/
 debian.web.trex.fi/
 debianmirror.una.ac.cr/
-debpkg.libranext.com/
 distrohub.kyiv.ua/
 elmirror.cl/
 free.hands.com/
