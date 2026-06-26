@@ -76,6 +76,7 @@ boinc.teambelgium.net/
 bos.aws.repo.almalinux.org/
 brentk.io/
 bugs.almalinux.org/
+capital.hoster.kz/
 cat.pdx.edu/
 cc.in2p3.fr/
 chi.almalinux.osuosl.org/
@@ -133,6 +134,7 @@ ftp.jaist.ac.jp/
 ftp.linux.cz/
 ftp.lug.ro/
 ftp.lysator.liu.se/
+ftp.psnc.pl/
 ftp.riken.jp/
 ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
@@ -190,7 +192,6 @@ jingk.ai/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
-kifu.gov.hu/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 la.mirrors.clouvider.net/
@@ -325,7 +326,6 @@ mirror.netweaver.uk/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nforce.com/
-mirror.niif.hu/
 mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
@@ -377,7 +377,6 @@ mirror.us-midwest-1.nexcess.net/
 mirror.us.mirhosting.net/
 mirror.usi.edu/
 mirror.veesp.com/
-mirror.veritescil.com.tr/
 mirror.vpsnet.com/
 mirror.vsys.host/
 mirror.vtti.vt.edu/
@@ -665,6 +664,7 @@ www.physics.uoc.gr/
 www.plusline.net/
 www.previder.com/
 www.ps.kz/
+www.psnc.pl/
 www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
@@ -701,7 +701,6 @@ www.ukservers.com/
 www.uni-bayreuth.de/
 www.uni-ruse.bg/
 www.upr.edu/
-www.veritescil.com.tr/
 www.vhosting-it.com/
 www.virtono.com/
 www.vodafone.cz/
