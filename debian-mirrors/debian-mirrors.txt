@@ -76,6 +76,7 @@ debian.unnoba.edu.ar/
 debian.volia.net/
 debian.vranetworks.lat/
 debian.web.trex.fi/
+debian.xtdv.net/
 debianmirror.una.ac.cr/
 distrohub.kyiv.ua/
 elmirror.cl/
@@ -166,7 +167,6 @@ giano.com.dist.unige.it/
 kartolo.sby.datautama.net.id/
 la.mirrors.clouvider.net/
 lethe.chinstrap.org/
-lidsol.fi-b.unam.mx/
 linux.purple-cat.net/
 linuxsoft.cern.ch/
 merlin.fit.vutbr.cz/
