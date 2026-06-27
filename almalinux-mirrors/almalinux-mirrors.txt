@@ -42,7 +42,6 @@ almalinux.mirrors.behostings.net/
 almalinux.mirrors.itworxx.de/
 almalinux.mirrors.ovh.net/
 almalinux.mirrorservice.org/
-almalinux.mobinhost.com/
 almalinux.netforce.hosting/
 almalinux.nic.cz/
 almalinux.org/
@@ -235,7 +234,6 @@ mirror.as3741.net/
 mirror.ati.tn/
 mirror.az31.cloudpropeller.com/
 mirror.azvps.vn/
-mirror.bahnhof.net/
 mirror.bf-net.ch/
 mirror.bitency.nl/
 mirror.cedia.org.ec/
@@ -330,7 +328,6 @@ mirror.nl.leaseweb.net/
 mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
 mirror.nodespace.com/
-mirror.nyist.edu.cn/
 mirror.ossplanet.net/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
@@ -391,7 +388,6 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
-mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.binaryracks.com/
@@ -448,7 +444,6 @@ mirrors.xtom.jp/
 mirrors.xtom.nl/
 mirrors.zju.edu.cn/
 mnl.aws.repo.almalinux.org/
-mobinhost.com/
 mr.heru.id/
 msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
@@ -562,7 +557,6 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
-www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -572,7 +566,6 @@ www.anywair.com/
 www.archettitechnology.it/
 www.arnes.si/
 www.ati.tn/
-www.bahnhof.net/
 www.behostings.com/
 www.belnet.be/
 www.binaryracks.com/
@@ -656,7 +649,6 @@ www.nic.cz/
 www.nic.funet.fi/
 www.nodespace.com/
 www.nxthost.com/
-www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
 www.ox.ac.uk/
