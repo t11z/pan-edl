@@ -93,7 +93,6 @@ ftp.br.debian.org/
 ftp.by.debian.org/
 ftp.byfly.by/
 ftp.ca.debian.org/
-ftp.caliu.cat/
 ftp.ch.debian.org/
 ftp.cica.es/
 ftp.cl.debian.org/
@@ -245,7 +244,6 @@ mirror.ox.ac.uk/
 mirror.pangkin.com/
 mirror.plusline.net/
 mirror.plusserver.com/
-mirror.positive-internet.com/
 mirror.ps.kz/
 mirror.raiolanetworks.com/
 mirror.realcompute.io/
@@ -281,12 +279,10 @@ mirror1.infomaniak.com/
 mirror2.infomaniak.com/
 mirrors.accretive-networks.net/
 mirrors.bfsu.edu.cn/
-mirrors.bloomu.edu/
 mirrors.cloudforest.co.th/
 mirrors.coreix.net/
 mirrors.datapark.ro/
 mirrors.dotsrc.org/
-mirrors.egr.msu.edu/
 mirrors.glesys.net/
 mirrors.hit.edu.cn/
 mirrors.hosterion.ro/
