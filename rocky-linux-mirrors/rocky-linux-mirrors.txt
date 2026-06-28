@@ -187,6 +187,7 @@ rockylinux.mirrorservice.org/
 rockylinux.netforce.hosting/
 rockylinux.org/
 rockylinux.uni-sofia.bg/
+rsync.krfoss.org/
 rsync.mirrors.ustc.edu.cn/
 rsync.mirrorservice.org/
 ru.dyi.ng/
