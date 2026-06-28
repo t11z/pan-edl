@@ -42,7 +42,6 @@ almalinux.mirrors.behostings.net/
 almalinux.mirrors.itworxx.de/
 almalinux.mirrors.ovh.net/
 almalinux.mirrorservice.org/
-almalinux.mobinhost.com/
 almalinux.netforce.hosting/
 almalinux.nic.cz/
 almalinux.org/
@@ -118,7 +117,6 @@ flokinet.is/
 for.aws.repo.almalinux.org/
 forksystems.mm.fcix.net/
 fr2.rpmfind.net/
-free.nchc.org.tw/
 ftp.arnes.si/
 ftp.belnet.be/
 ftp.bme.hu/
@@ -187,7 +185,6 @@ itc.zju.edu.cn/
 ixirhost.com/
 jagoanhosting.com/
 jetserver.co.il/
-jingk.ai/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
@@ -218,7 +215,6 @@ mirror.23m.com/
 mirror.2degrees.nz/
 mirror.a1.mk/
 mirror.aarnet.edu.au/
-mirror.accum.se/
 mirror.africloud.com/
 mirror.airnet.uz/
 mirror.alastyr.com/
@@ -233,7 +229,6 @@ mirror.anquan.cl/
 mirror.aptus.co.tz/
 mirror.as3741.net/
 mirror.ati.tn/
-mirror.az31.cloudpropeller.com/
 mirror.azvps.vn/
 mirror.bahnhof.net/
 mirror.bf-net.ch/
@@ -292,9 +287,9 @@ mirror.init7.net::almalinux/
 mirror.internet.asn.au/
 mirror.interserver.net/
 mirror.iphost.md/
+mirror.isoc.org.il/
 mirror.ixirhost.com/
 mirror.jagoanhosting.id/
-mirror.jingk.ai/
 mirror.junda.nl/
 mirror.karneval.cz/
 mirror.kku.ac.th/
@@ -445,12 +440,10 @@ mirrors.xtom.jp/
 mirrors.xtom.nl/
 mirrors.zju.edu.cn/
 mnl.aws.repo.almalinux.org/
-mobinhost.com/
 mr.heru.id/
 msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
 muug.ca/
-nchc.org.tw/
 net.sjtu.edu.cn/
 neterra.ne/
 nevacloud.com/
@@ -556,7 +549,6 @@ www.4psa.com/
 www.Linux.ec/
 www.VPSnet.com/
 www.aarnet.edu.au/
-www.accum.se/
 www.alastyr.com/
 www.almalinux.org/
 www.altushost.com/
@@ -618,6 +610,7 @@ www.iij.ad.jp/
 www.init7.net/
 www.interserver.net/
 www.ipserverone.com/
+www.isoc.org.il/
 www.itworxx.de/
 www.iu13.org/
 www.iwebfusion.net/
