@@ -23,7 +23,6 @@ distrohub.kyiv.ua/
 dl.rockylinux.org/
 dotsrc.org/
 download.rockylinux.org/
-dsync.krfoss.org/
 en.isoc.org.il/
 energotel.sk/
 esto.network/
