@@ -42,6 +42,7 @@ almalinux.mirrors.behostings.net/
 almalinux.mirrors.itworxx.de/
 almalinux.mirrors.ovh.net/
 almalinux.mirrorservice.org/
+almalinux.mobinhost.com/
 almalinux.netforce.hosting/
 almalinux.nic.cz/
 almalinux.org/
@@ -103,7 +104,6 @@ doit.missouri.edu/
 domainesia.com/
 dotsrc.org/
 dsu.edu/
-ekiphost.com/
 elice.io/
 elmirror.cl/
 eng.mephi.ru/
@@ -214,6 +214,7 @@ mirror-services.net/
 mirror.01link.hk/
 mirror.0x626b.com/
 mirror.23m.com/
+mirror.2degrees.nz/
 mirror.a1.mk/
 mirror.aarnet.edu.au/
 mirror.africloud.com/
@@ -230,6 +231,7 @@ mirror.anquan.cl/
 mirror.aptus.co.tz/
 mirror.as3741.net/
 mirror.ati.tn/
+mirror.az31.cloudpropeller.com/
 mirror.azvps.vn/
 mirror.bahnhof.net/
 mirror.bf-net.ch/
@@ -257,7 +259,6 @@ mirror.dk.team.blue::almalinux/
 mirror.docker.ru/
 mirror.dogado.de/
 mirror.domainhizmetleri.com/
-mirror.ekiphost.com/
 mirror.elice.io/
 mirror.esecuredata.com/
 mirror.eu.4psacloud.com/
@@ -281,7 +282,6 @@ mirror.hostbaran.com/
 mirror.hoster.kz/
 mirror.hosthink.net/
 mirror.hostiko.network/
-mirror.hs-esslingen.de/
 mirror.in2p3.fr/
 mirror.init7.net/
 mirror.init7.net::almalinux/
@@ -387,7 +387,6 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
-mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.binaryracks.com/
@@ -443,10 +442,10 @@ mirrors.xtom.jp/
 mirrors.xtom.nl/
 mirrors.zju.edu.cn/
 mnl.aws.repo.almalinux.org/
+mobinhost.com/
 mr.heru.id/
 msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
-muug.ca/
 nchc.org.tw/
 net.sjtu.edu.cn/
 neterra.ne/
@@ -521,6 +520,7 @@ soonkeat.sg/
 southfront.mm.fcix.net/
 stix.mm.fcix.net/
 storpool.com/
+syd.mirror.rackspace.com/
 tc.edu.tw/
 team-cymru.com/
 team.blue/
@@ -547,12 +547,12 @@ vsys.host/
 wiki.almalinux.org/
 wiki.lug.ro/
 www.01link.net/
+www.2degrees.nz/
 www.4psa.com/
 www.Linux.ec/
 www.VPSnet.com/
 www.aarnet.edu.au/
 www.alastyr.com/
-www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -607,7 +607,6 @@ www.hoasted.com/
 www.host.ag/
 www.hosthink.net/
 www.hostiserver.com/
-www.hs-esslingen.de/
 www.idkom.de/
 www.iij.ad.jp/
 www.init7.net/
