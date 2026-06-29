@@ -213,7 +213,6 @@ mirror.23m.com/
 mirror.2degrees.nz/
 mirror.a1.mk/
 mirror.aarnet.edu.au/
-mirror.accum.se/
 mirror.africloud.com/
 mirror.airnet.uz/
 mirror.alastyr.com/
@@ -382,6 +381,7 @@ mirror.xcobean.co.ke/
 mirror.xenyth.net/
 mirror.xeonbd.com/
 mirror.yandex.ru/
+mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
 mirrors.aliyun.com/
@@ -420,7 +420,6 @@ mirrors.ocf.berkeley.edu/
 mirrors.onenet.net/
 mirrors.pt/
 mirrors.ptisp.pt/
-mirrors.rda.poa.br/
 mirrors.rit.edu/
 mirrors.ruk-com.cloud/
 mirrors.sonic.net/
@@ -483,7 +482,6 @@ qro.aws.repo.almalinux.org/
 rackspeed.de/
 raiolanetworks.com/
 randhost.com/
-rda.run/
 reenigne.net/
 renu.ac.ug/
 repo.almalinux.org/
@@ -552,7 +550,6 @@ www.4psa.com/
 www.Linux.ec/
 www.VPSnet.com/
 www.aarnet.edu.au/
-www.accum.se/
 www.alastyr.com/
 www.aliyun.com/
 www.almalinux.org/
@@ -709,6 +706,7 @@ xcobean.co.ke/
 xenyth.net/
 xtom.com/
 yandex.ru/
+yer.az/
 yuki.net.uk/
 yxeix.mm.fcix.net/
 ziply.mm.fcix.net/
