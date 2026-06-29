@@ -102,7 +102,6 @@ mirror.servaxnet.com/
 mirror.shomepower.com/
 mirror.siena.edu/
 mirror.slu.cz/
-mirror.techlabs.co.kr/
 mirror.telepoint.bg/
 mirror.twds.com.tw/
 mirror.tzulo.com/

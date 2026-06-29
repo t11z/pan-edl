@@ -76,6 +76,7 @@ brentk.io/
 bugs.almalinux.org/
 capital.hoster.kz/
 cat.pdx.edu/
+cc.in2p3.fr/
 chi.almalinux.osuosl.org/
 citrahost.com/
 cloudforest.co.th/
@@ -132,7 +133,6 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
-ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -214,7 +214,6 @@ mirror.23m.com/
 mirror.2degrees.nz/
 mirror.a1.mk/
 mirror.aarnet.edu.au/
-mirror.accum.se/
 mirror.africloud.com/
 mirror.airnet.uz/
 mirror.alastyr.com/
@@ -282,6 +281,7 @@ mirror.hosthink.net/
 mirror.hostiko.network/
 mirror.hs-esslingen.de/
 mirror.ibcp.fr/
+mirror.in2p3.fr/
 mirror.init7.net/
 mirror.init7.net::almalinux/
 mirror.internet.asn.au/
@@ -369,6 +369,7 @@ mirror.us-midwest-1.nexcess.net/
 mirror.us.mirhosting.net/
 mirror.usi.edu/
 mirror.veesp.com/
+mirror.veritescil.com.tr/
 mirror.vpsnet.com/
 mirror.vsys.host/
 mirror.vtti.vt.edu/
@@ -381,6 +382,7 @@ mirror.xcobean.co.ke/
 mirror.xenyth.net/
 mirror.xeonbd.com/
 mirror.yandex.ru/
+mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
 mirrors.almalinux.org/
@@ -550,7 +552,6 @@ www.4psa.com/
 www.Linux.ec/
 www.VPSnet.com/
 www.aarnet.edu.au/
-www.accum.se/
 www.alastyr.com/
 www.almalinux.org/
 www.altushost.com/
@@ -659,7 +660,6 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
-www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
@@ -691,6 +691,7 @@ www.ukservers.com/
 www.uni-bayreuth.de/
 www.uni-ruse.bg/
 www.upr.edu/
+www.veritescil.com.tr/
 www.vhosting-it.com/
 www.virtono.com/
 www.vodafone.cz/
@@ -707,6 +708,7 @@ xcobean.co.ke/
 xenyth.net/
 xtom.com/
 yandex.ru/
+yer.az/
 yuki.net.uk/
 yxeix.mm.fcix.net/
 ziply.mm.fcix.net/
