@@ -33,7 +33,6 @@ almalinux.mirror.liteserver.nl/
 almalinux.mirror.net.za/
 almalinux.mirror.scopesky.com/
 almalinux.mirror.shastacoe.net/
-almalinux.mirror.sofia.incognet.io/
 almalinux.mirror.thegigabit.com/
 almalinux.mirror.ukraine.com.ua/
 almalinux.mirror.wearetriple.com/
@@ -41,6 +40,7 @@ almalinux.mirrors.behostings.net/
 almalinux.mirrors.itworxx.de/
 almalinux.mirrors.ovh.net/
 almalinux.mirrorservice.org/
+almalinux.mobinhost.com/
 almalinux.netforce.hosting/
 almalinux.nic.cz/
 almalinux.org/
@@ -167,7 +167,6 @@ hostingdunyam.com.tr/
 iad.mirror.rackspace.com/
 icscoe.jp/
 idhosting.pl/
-incognet.io/
 insect.mm.fcix.net/
 interhost.co.il/
 internet.asn.au/
@@ -385,6 +384,7 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
+mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.binaryracks.com/
@@ -414,7 +414,6 @@ mirrors.nav.ro/
 mirrors.neterra.net/
 mirrors.nhanhoa.com/
 mirrors.nju.edu.cn/
-mirrors.nxthost.com/
 mirrors.oblivion.online/
 mirrors.ocf.berkeley.edu/
 mirrors.onenet.net/
@@ -441,6 +440,7 @@ mirrors.xtom.jp/
 mirrors.xtom.nl/
 mirrors.zju.edu.cn/
 mnl.aws.repo.almalinux.org/
+mobinhost.com/
 mr.heru.id/
 msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
@@ -552,6 +552,7 @@ www.Linux.ec/
 www.VPSnet.com/
 www.aarnet.edu.au/
 www.alastyr.com/
+www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -644,7 +645,6 @@ www.nforce.com/
 www.nic.cz/
 www.nic.funet.fi/
 www.nodespace.com/
-www.nxthost.com/
 www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/

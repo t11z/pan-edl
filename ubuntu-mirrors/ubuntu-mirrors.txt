@@ -248,7 +248,6 @@ mirror.johnnybegood.fr/
 mirror.kakao.com/
 mirror.kamp.de/
 mirror.kapteyan.com.tr/
-mirror.kkg.berlin/
 mirror.kku.ac.th/
 mirror.krfoss.org/
 mirror.kumi.systems/
