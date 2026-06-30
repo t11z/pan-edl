@@ -189,7 +189,6 @@ jetserver.co.il/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
-kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 la.mirrors.clouvider.net/
 leaseweb.com/
@@ -210,7 +209,6 @@ marwan.ma/
 mijn.host/
 mirhosting.com/
 mirror-services.net/
-mirror.01link.hk/
 mirror.0x626b.com/
 mirror.23m.com/
 mirror.2degrees.nz/
@@ -356,6 +354,7 @@ mirror.shedmtl.com/
 mirror.siena.edu/
 mirror.sitsa.com.ar/
 mirror.siwoo.org/
+mirror.sjtu.edu.cn/
 mirror.snu.edu.in/
 mirror.soonkeat.sg/
 mirror.speedkom.de/
@@ -372,7 +371,6 @@ mirror.us-midwest-1.nexcess.net/
 mirror.us.mirhosting.net/
 mirror.usi.edu/
 mirror.veesp.com/
-mirror.veritescil.com.tr/
 mirror.vpsnet.com/
 mirror.vsys.host/
 mirror.vtti.vt.edu/
@@ -384,7 +382,6 @@ mirror.wonchan.net/
 mirror.xcobean.co.ke/
 mirror.xenyth.net/
 mirror.xeonbd.com/
-mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
@@ -401,6 +398,7 @@ mirrors.cloudforest.co.th/
 mirrors.coreix.net/
 mirrors.dotsrc.org/
 mirrors.fibianet.dk/
+mirrors.ft.uam.es/
 mirrors.gbnetwork.com/
 mirrors.gigenet.com/
 mirrors.gofiber.vn/
@@ -449,6 +447,7 @@ msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
 muug.ca/
 nchc.org.tw/
+net.sjtu.edu.cn/
 neterra.ne/
 nevacloud.com/
 nexril.net/
@@ -493,7 +492,6 @@ repo.ialab.dsu.edu/
 repo.ifca.es/
 repo.shinjiru.com/
 rit.edu/
-ro.mirror.flokinet.net/
 rootlicense.com/
 rpmfind.net/
 rsync-linuxsoft.cern.ch/
@@ -547,7 +545,6 @@ vpsttt.com/
 vsys.host/
 wiki.almalinux.org/
 wiki.lug.ro/
-www.01link.net/
 www.2degrees.nz/
 www.4psa.com/
 www.Linux.ec/
@@ -601,7 +598,6 @@ www.garr.it/
 www.gbnetwork.com/
 www.group.one/
 www.gtlib.gatech.edu/
-www.guzel.net.tr/
 www.gwdg.de/
 www.hashy0917.net/
 www.hivelocity.net/
@@ -686,6 +682,7 @@ www.tku.edu.tw/
 www.transip.nl/
 www.trex.fi/
 www.twds.com.tw/
+www.uam.es/
 www.ucsb.edu/
 www.uib.no/
 www.ukraine.com.ua/
@@ -693,7 +690,6 @@ www.ukservers.com/
 www.uni-bayreuth.de/
 www.uni-ruse.bg/
 www.upr.edu/
-www.veritescil.com.tr/
 www.vhosting-it.com/
 www.virtono.com/
 www.vodafone.cz/
@@ -709,7 +705,6 @@ wwww.wonchan.net/
 xcobean.co.ke/
 xenyth.net/
 xtom.com/
-yandex.ru/
 yer.az/
 yuki.net.uk/
 yxeix.mm.fcix.net/
