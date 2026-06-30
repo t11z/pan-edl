@@ -43,7 +43,6 @@ almalinux.mirrorservice.org/
 almalinux.mobinhost.com/
 almalinux.nic.cz/
 almalinux.org/
-almalinux.ourhome.kiwi/
 almalinux.savoirfairelinux.net/
 almalinux.schlundtech.de/
 almalinux.si/
@@ -86,7 +85,6 @@ datamossa.com/
 datautama.net.id/
 de.mirrors.clouvider.net/
 dewabiz.com/
-dinosaurus.fleksibel.com/
 distrohub.kyiv.ua/
 diyarciftci.xyz/
 docker.ru/
@@ -100,10 +98,8 @@ elmirror.cl/
 eng.mephi.ru/
 extreme-ix.org/
 ezscale.cloud/
-fam.org.nz/
 fcix.net/
 fibia.dk/
-fleksibel.com/
 flokinet.is/
 forksystems.mm.fcix.net/
 fr2.rpmfind.net/
