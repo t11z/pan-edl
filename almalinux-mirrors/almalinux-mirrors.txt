@@ -252,6 +252,8 @@ mirror.de.leaseweb.net/
 mirror.dewabiz.com/
 mirror.digitalpacific.com.au/
 mirror.diyarciftci.xyz/
+mirror.dk.team.blue/
+mirror.dk.team.blue::almalinux/
 mirror.docker.ru/
 mirror.dogado.de/
 mirror.domainhizmetleri.com/
@@ -522,6 +524,7 @@ storpool.com/
 syd.mirror.rackspace.com/
 tc.edu.tw/
 team-cymru.com/
+team.blue/
 teamhydra.dev/
 telepoint.bg/
 teraswitch.com/
