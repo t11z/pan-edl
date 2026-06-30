@@ -15,8 +15,6 @@ almalinux-mirror.unifique.cloud/
 almalinux-mirror.yucca.net/
 almalinux.elhacker.net/
 almalinux.interhost.co.il/
-almalinux.ip-connect.info/
-almalinux.ip-connect.vn.ua/
 almalinux.ipacct.com/
 almalinux.jetserver.co.il/
 almalinux.koyanet.lv/
@@ -40,6 +38,7 @@ almalinux.mirrors.behostings.net/
 almalinux.mirrors.itworxx.de/
 almalinux.mirrors.ovh.net/
 almalinux.mirrorservice.org/
+almalinux.mobinhost.com/
 almalinux.nic.cz/
 almalinux.org/
 almalinux.ourhome.kiwi/
@@ -94,7 +93,6 @@ dewabiz.com/
 dinosaurus.fleksibel.com/
 distrohub.kyiv.ua/
 diyarciftci.xyz/
-docker.ru/
 doit.missouri.edu/
 domainesia.com/
 dotsrc.org/
@@ -130,8 +128,6 @@ ftp.linux.cz/
 ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
-ftp.riken.jp/
-ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -170,8 +166,6 @@ incognet.io/
 insect.mm.fcix.net/
 interhost.co.il/
 internet.asn.au/
-ip-connect.info/
-ip-connect.vn.ua/
 ipacct.com/
 iphost.md/
 ipinfo.io/
@@ -253,7 +247,6 @@ mirror.digitalpacific.com.au/
 mirror.diyarciftci.xyz/
 mirror.dk.team.blue/
 mirror.dk.team.blue::almalinux/
-mirror.docker.ru/
 mirror.dogado.de/
 mirror.domainhizmetleri.com/
 mirror.ekiphost.com/
@@ -333,7 +326,6 @@ mirror.parsdev.com/
 mirror.pit.teraswitch.com/
 mirror.plusline.net/
 mirror.previder.nl/
-mirror.ps.kz/
 mirror.rackspeed.de/
 mirror.raiolanetworks.com/
 mirror.randhost.com/
@@ -370,6 +362,7 @@ mirror.us-midwest-1.nexcess.net/
 mirror.us.mirhosting.net/
 mirror.usi.edu/
 mirror.veesp.com/
+mirror.veritescil.com.tr/
 mirror.vpsnet.com/
 mirror.vsys.host/
 mirror.vtti.vt.edu/
@@ -380,6 +373,7 @@ mirror.wiseglobalsolutions.com/
 mirror.wonchan.net/
 mirror.xcobean.co.ke/
 mirror.xenyth.net/
+mirror.xeonbd.com/
 mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
@@ -428,7 +422,6 @@ mirrors.storpool.com/
 mirrors.teamcloud.am/
 mirrors.tencent.com/
 mirrors.tino.org/
-mirrors.ucr.ac.cr/
 mirrors.ukfast.co.uk/
 mirrors.uni-ruse.bg/
 mirrors.upr.edu/
@@ -441,6 +434,7 @@ mirrors.xtom.jp/
 mirrors.xtom.nl/
 mirrors.zju.edu.cn/
 mnl.aws.repo.almalinux.org/
+mobinhost.com/
 mr.heru.id/
 msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
@@ -653,13 +647,10 @@ www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
 www.previder.com/
-www.ps.kz/
 www.psnc.pl/
 www.rackspace.com/
-www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
-www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
@@ -683,7 +674,6 @@ www.transip.nl/
 www.trex.fi/
 www.twds.com.tw/
 www.uam.es/
-www.ucr.ac.cr/
 www.ucsb.edu/
 www.uib.no/
 www.ukraine.com.ua/
@@ -691,6 +681,7 @@ www.ukservers.com/
 www.uni-bayreuth.de/
 www.uni-ruse.bg/
 www.upr.edu/
+www.veritescil.com.tr/
 www.vhosting-it.com/
 www.virtono.com/
 www.vodafone.cz/
@@ -699,6 +690,7 @@ www.wd6.net/
 www.wearetriple.com/
 www.webworld.ie/
 www.wiseglobalsolutions.com/
+www.xeonbd.com/
 www.yamagata-u.ac.jp/
 www.yuccatelecom.com/
 wwww.wonchan.net/
