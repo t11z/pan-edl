@@ -33,6 +33,7 @@ almalinux.mirror.liteserver.nl/
 almalinux.mirror.net.za/
 almalinux.mirror.scopesky.com/
 almalinux.mirror.shastacoe.net/
+almalinux.mirror.sofia.incognet.io/
 almalinux.mirror.thegigabit.com/
 almalinux.mirror.ukraine.com.ua/
 almalinux.mirror.wearetriple.com/
@@ -168,6 +169,7 @@ hostingdunyam.com.tr/
 iad.mirror.rackspace.com/
 icscoe.jp/
 idhosting.pl/
+incognet.io/
 insect.mm.fcix.net/
 interhost.co.il/
 internet.asn.au/
@@ -299,6 +301,7 @@ mirror.krfoss.org/
 mirror.lchs.network/
 mirror.limda.net/
 mirror.linux.duke.edu/
+mirror.linux.ec/
 mirror.linux.ncsu.edu/
 mirror.liteserver.nl/
 mirror.lyrahosting.com/
@@ -353,7 +356,6 @@ mirror.shedmtl.com/
 mirror.siena.edu/
 mirror.sitsa.com.ar/
 mirror.siwoo.org/
-mirror.sjtu.edu.cn/
 mirror.snu.edu.in/
 mirror.soonkeat.sg/
 mirror.speedkom.de/
@@ -399,7 +401,6 @@ mirrors.cloudforest.co.th/
 mirrors.coreix.net/
 mirrors.dotsrc.org/
 mirrors.fibianet.dk/
-mirrors.ft.uam.es/
 mirrors.gbnetwork.com/
 mirrors.gigenet.com/
 mirrors.gofiber.vn/
@@ -448,7 +449,6 @@ msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
 muug.ca/
 nchc.org.tw/
-net.sjtu.edu.cn/
 neterra.ne/
 nevacloud.com/
 nexril.net/
@@ -550,6 +550,7 @@ wiki.lug.ro/
 www.01link.net/
 www.2degrees.nz/
 www.4psa.com/
+www.Linux.ec/
 www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
@@ -685,7 +686,6 @@ www.tku.edu.tw/
 www.transip.nl/
 www.trex.fi/
 www.twds.com.tw/
-www.uam.es/
 www.ucsb.edu/
 www.uib.no/
 www.ukraine.com.ua/
