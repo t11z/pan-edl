@@ -43,6 +43,7 @@ almalinux.mirrorservice.org/
 almalinux.mobinhost.com/
 almalinux.nic.cz/
 almalinux.org/
+almalinux.ourhome.kiwi/
 almalinux.savoirfairelinux.net/
 almalinux.schlundtech.de/
 almalinux.si/
@@ -59,11 +60,16 @@ asnet.am/
 atl.mirrors.clouvider.net/
 atl.mirrors.ezscale.cloud/
 atl.mirrors.knownhost.com/
+aws.amazon.com/
 azvps.vn/
 beltelecom.by/
 bitency.nl/
 blog.almalinux.org/
+blr.aws.repo.almalinux.org/
+bna.aws.repo.almalinux.org/
+bne.aws.repo.almalinux.org/
 boinc.teambelgium.net/
+bos.aws.repo.almalinux.org/
 brentk.io/
 bugs.almalinux.org/
 capital.hoster.kz/
@@ -84,7 +90,9 @@ dal.mirrors.clouvider.net/
 datamossa.com/
 datautama.net.id/
 de.mirrors.clouvider.net/
+den.aws.repo.almalinux.org/
 dewabiz.com/
+dinosaurus.fleksibel.com/
 distrohub.kyiv.ua/
 diyarciftci.xyz/
 docker.ru/
@@ -98,9 +106,12 @@ elmirror.cl/
 eng.mephi.ru/
 extreme-ix.org/
 ezscale.cloud/
+fam.org.nz/
 fcix.net/
 fibia.dk/
+fleksibel.com/
 flokinet.is/
+for.aws.repo.almalinux.org/
 forksystems.mm.fcix.net/
 fr2.rpmfind.net/
 free.nchc.org.tw/
@@ -121,7 +132,6 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
-ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -145,7 +155,6 @@ hivelocity.net/
 hkg.mirror.rackspace.com/
 hnd.cl/
 hnl.fastly.repo.almalinux.org/
-home.cern/
 host4.biz/
 hostbaran.com/
 hoster.kz/
@@ -187,7 +196,6 @@ linux.domainesia.com/
 linux.duke.edu/
 linux.ncsu.edu/
 linuxpatch.com/
-linuxsoft.cern.ch/
 lon.mirror.rackspace.com/
 lug.hit.edu.cn/
 lyrahosting.com/
@@ -316,7 +324,6 @@ mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
 mirror.nodespace.com/
 mirror.nyist.edu.cn/
-mirror.ossplanet.net/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
 mirror.parsdev.com/
@@ -431,8 +438,11 @@ mirrors.xtom.ee/
 mirrors.xtom.jp/
 mirrors.xtom.nl/
 mirrors.zju.edu.cn/
+mnl.aws.repo.almalinux.org/
 mobinhost.com/
 mr.heru.id/
+msp.aws.repo.almalinux.org/
+mum.aws.repo.almalinux.org/
 muug.ca/
 nchc.org.tw/
 net.sjtu.edu.cn/
@@ -455,10 +465,10 @@ opencolo.mm.fcix.net/
 opensource.fb.com/
 or-mirror.iwebfusion.net/
 ord.mirror.rackspace.com/
-ossplanet.net/
 osuosl.org/
 ourhost.az/
 parsdev.com/
+per.aws.repo.almalinux.org/
 phoenixnap.com/
 phx.mirrors.clouvider.net/
 pit.mirror.jurassicinnovations.com/
@@ -466,6 +476,7 @@ pkg.adfinis-on-exoscale.ch/
 planethoster.com/
 plug-mirror.rcac.purdue.edu/
 purduelug.org/
+qro.aws.repo.almalinux.org/
 rackspeed.de/
 raiolanetworks.com/
 randhost.com/
@@ -481,7 +492,6 @@ rit.edu/
 ro.mirror.flokinet.net/
 rootlicense.com/
 rpmfind.net/
-rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
 rsync.gtlib.gatech.edu/
 rsync.mirrorservice.org/
@@ -646,7 +656,6 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
-www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
