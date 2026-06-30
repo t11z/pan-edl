@@ -34,6 +34,7 @@ almalinux.mirror.net.za/
 almalinux.mirror.scopesky.com/
 almalinux.mirror.shastacoe.net/
 almalinux.mirror.thegigabit.com/
+almalinux.mirror.ukraine.com.ua/
 almalinux.mirror.wearetriple.com/
 almalinux.mirrors.behostings.net/
 almalinux.mirrors.itworxx.de/
@@ -132,6 +133,7 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
+ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -662,6 +664,7 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
+www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
@@ -688,6 +691,7 @@ www.uam.es/
 www.ucr.ac.cr/
 www.ucsb.edu/
 www.uib.no/
+www.ukraine.com.ua/
 www.ukservers.com/
 www.uni-bayreuth.de/
 www.uni-ruse.bg/
