@@ -111,6 +111,7 @@ mirror.wonchan.net/
 mirror.yandex.ru/
 mirror.yer.az/
 mirror1.isoc.org.il/
+mirrors-1.nkn.in/
 mirrors.dotsrc.org/
 mirrors.esto.network/
 mirrors.hostiserver.com/
