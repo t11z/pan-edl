@@ -553,6 +553,7 @@ ubuntu.hi.no/
 ubuntu.hysing.is/
 ubuntu.ip-connect.vn.ua/
 ubuntu.ipacct.com/
+ubuntu.joy.services/
 ubuntu.koyanet.lv/
 ubuntu.lafibre.info/
 ubuntu.lagis.at/
@@ -585,7 +586,6 @@ ubuntu.mirrors.linux.ro/
 ubuntu.mirrors.omnilance.com/
 ubuntu.mirrors.ovh.net/
 ubuntu.mirrors.pair.com/
-ubuntu.mirrors.uk2.net/
 ubuntu.mobinhost.com/
 ubuntu.mti.mt.gov.br/
 ubuntu.netforce.hosting/
