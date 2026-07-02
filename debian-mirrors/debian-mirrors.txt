@@ -49,7 +49,6 @@ debian.mirror.uk.sargasso.net/
 debian.mirror.vu.lt/
 debian.mirror.web4u.cz/
 debian.mirrors.ovh.net/
-debian.mirrors.uk2.net/
 debian.mithril.re/
 debian.mnet.bg/
 debian.nautile.nc/
@@ -266,6 +265,7 @@ mirror.unair.ac.id/
 mirror.undernet.uy/
 mirror.united-gameserver.de/
 mirror.units.it/
+mirror.unix-solutions.be/
 mirror.us.leaseweb.net/
 mirror.us.mirhosting.net/
 mirror.us.oneandone.net/
