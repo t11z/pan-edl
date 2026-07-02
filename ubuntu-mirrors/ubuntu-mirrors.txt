@@ -142,7 +142,6 @@ mirror.ati.tn/
 mirror.azvps.vn/
 mirror.bacloud.com/
 mirror.bahnhof.net/
-mirror.battern.eu/
 mirror.bg.host.ag/
 mirror.bizflycloud.vn/
 mirror.biznetgio.com/
