@@ -294,6 +294,7 @@ mirrors.jlu.edu.cn/
 mirrors.lug.mtu.edu/
 mirrors.nav.ro/
 mirrors.netix.net/
+mirrors.nxthost.com/
 mirrors.pidginhost.com/
 mirrors.ptisp.pt/
 mirrors.qlu.edu.cn/

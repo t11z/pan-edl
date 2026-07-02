@@ -133,8 +133,6 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
-ftp.sakura.ad.jp/
-ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
 ftp.tku.edu.tw/
@@ -183,6 +181,7 @@ it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
 itc.zju.edu.cn/
 ixirhost.com/
+jagoanhosting.com/
 jetserver.co.il/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
@@ -200,6 +199,7 @@ linux.ncsu.edu/
 linuxpatch.com/
 linuxsoft.cern.ch/
 lon.mirror.rackspace.com/
+lug.hit.edu.cn/
 lyrahosting.com/
 mangohost.net/
 maniaclab.uchicago.edu/
@@ -290,9 +290,12 @@ mirror.interserver.net/
 mirror.iphost.md/
 mirror.isoc.org.il/
 mirror.ixirhost.com/
+mirror.jagoanhosting.id/
 mirror.junda.nl/
+mirror.karneval.cz/
 mirror.kku.ac.th/
 mirror.krfoss.org/
+mirror.lchs.network/
 mirror.limda.net/
 mirror.linux.duke.edu/
 mirror.linux.ec/
@@ -382,7 +385,7 @@ mirror.xeonbd.com/
 mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
-mirror1.sox.rs/
+mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.binaryracks.com/
@@ -399,6 +402,7 @@ mirrors.ft.uam.es/
 mirrors.gbnetwork.com/
 mirrors.gigenet.com/
 mirrors.gofiber.vn/
+mirrors.hit.edu.cn/
 mirrors.hosterion.ro/
 mirrors.hostever.com/
 mirrors.hostico.ro/
@@ -510,7 +514,6 @@ serversaustralia.com.au/
 sg-mirrors.vhost.vn/
 sg.gs/
 shedmtl.com/
-siliconhill.cz/
 sindad.com/
 snu.edu.in/
 soonkeat.sg/
@@ -551,6 +554,7 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
+www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -619,6 +623,7 @@ www.junda.nl/
 www.kent.ac.uk/
 www.kku.ac.th/
 www.knownhost.com/
+www.lchs.com.au/
 www.limda.net/
 www.linkedin.com/
 www.liquid.tech/
@@ -656,7 +661,6 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
-www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
@@ -668,7 +672,6 @@ www.siena.edu/
 www.sitsa.com.ar/
 www.siwoo.org/
 www.sonic.com/
-www.sox.rs/
 www.steadfast.net/
 www.swinburne.edu.au/
 www.telecomarmenia.am/
@@ -691,6 +694,7 @@ www.upr.edu/
 www.veritescil.com.tr/
 www.vhosting-it.com/
 www.virtono.com/
+www.vodafone.cz/
 www.vtti.vt.edu/
 www.wd6.net/
 www.wearetriple.com/
