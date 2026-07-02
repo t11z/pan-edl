@@ -183,7 +183,6 @@ it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
 itc.zju.edu.cn/
 ixirhost.com/
-jagoanhosting.com/
 jetserver.co.il/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
@@ -201,7 +200,6 @@ linux.ncsu.edu/
 linuxpatch.com/
 linuxsoft.cern.ch/
 lon.mirror.rackspace.com/
-lug.hit.edu.cn/
 lyrahosting.com/
 mangohost.net/
 maniaclab.uchicago.edu/
@@ -292,14 +290,12 @@ mirror.interserver.net/
 mirror.iphost.md/
 mirror.isoc.org.il/
 mirror.ixirhost.com/
-mirror.jagoanhosting.id/
 mirror.junda.nl/
-mirror.karneval.cz/
 mirror.kku.ac.th/
 mirror.krfoss.org/
-mirror.lchs.network/
 mirror.limda.net/
 mirror.linux.duke.edu/
+mirror.linux.ec/
 mirror.linux.ncsu.edu/
 mirror.liteserver.nl/
 mirror.lyrahosting.com/
@@ -367,6 +363,7 @@ mirror.truenetwork.ru/
 mirror.twds.com.tw/
 mirror.tzulo.com/
 mirror.uepg.br/
+mirror.us-midwest-1.nexcess.net/
 mirror.us.mirhosting.net/
 mirror.usi.edu/
 mirror.veesp.com/
@@ -386,7 +383,6 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
-mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.binaryracks.com/
@@ -403,7 +399,6 @@ mirrors.ft.uam.es/
 mirrors.gbnetwork.com/
 mirrors.gigenet.com/
 mirrors.gofiber.vn/
-mirrors.hit.edu.cn/
 mirrors.hosterion.ro/
 mirrors.hostever.com/
 mirrors.hostico.ro/
@@ -551,11 +546,11 @@ wiki.lug.ro/
 www.01link.net/
 www.2degrees.nz/
 www.4psa.com/
+www.Linux.ec/
 www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
-www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -624,10 +619,10 @@ www.junda.nl/
 www.kent.ac.uk/
 www.kku.ac.th/
 www.knownhost.com/
-www.lchs.com.au/
 www.limda.net/
 www.linkedin.com/
 www.liquid.tech/
+www.liquidweb.com/
 www.liteserver.nl/
 www.lysator.liu.se/
 www.maeen.sa/
@@ -696,7 +691,6 @@ www.upr.edu/
 www.veritescil.com.tr/
 www.vhosting-it.com/
 www.virtono.com/
-www.vodafone.cz/
 www.vtti.vt.edu/
 www.wd6.net/
 www.wearetriple.com/
