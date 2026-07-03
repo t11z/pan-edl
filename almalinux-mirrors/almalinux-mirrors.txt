@@ -214,6 +214,7 @@ mirror.23m.com/
 mirror.2degrees.nz/
 mirror.a1.mk/
 mirror.aarnet.edu.au/
+mirror.accum.se/
 mirror.africloud.com/
 mirror.airnet.uz/
 mirror.alastyr.com/
@@ -316,6 +317,7 @@ mirror.net.za/
 mirror.netsite.dk/
 mirror.netweaver.uk/
 mirror.netzwerge.de/
+mirror.nevacloud.com/
 mirror.nforce.com/
 mirror.nishi.network/
 mirror.nl.altushost.com/
@@ -342,7 +344,6 @@ mirror.rnet.missouri.edu/
 mirror.rootlicense.com/
 mirror.sabay.com.kh/
 mirror.se.altushost.com/
-mirror.servaxnet.com/
 mirror.server.net/
 mirror.sfo12.us.leaseweb.net/
 mirror.sg.gs/
@@ -359,6 +360,7 @@ mirror.team-cymru.com/
 mirror.telepoint.bg/
 mirror.terrahost.no/
 mirror.transip.net/
+mirror.truenetwork.ru/
 mirror.twds.com.tw/
 mirror.tzulo.com/
 mirror.uepg.br/
@@ -375,6 +377,7 @@ mirror.wdc2.us.leaseweb.net/
 mirror.webworld.ie/
 mirror.wiseglobalsolutions.com/
 mirror.wonchan.net/
+mirror.xcobean.co.ke/
 mirror.xenyth.net/
 mirror.xeonbd.com/
 mirror.yandex.ru/
@@ -447,6 +450,7 @@ muug.ca/
 nchc.org.tw/
 net.sjtu.edu.cn/
 neterra.ne/
+nevacloud.com/
 nexril.net/
 nhanhoa.com/
 nl.mirror.flokinet.net/
@@ -525,6 +529,7 @@ teraswitch.com/
 terrahost.no/
 thegigabit.com/
 tino.org/
+truenetwork.ru/
 tx-mirror.tier.net/
 tzulo.com/
 ucalgary.ca/
@@ -546,6 +551,7 @@ www.4psa.com/
 www.Linux.ec/
 www.VPSnet.com/
 www.aarnet.edu.au/
+www.accum.se/
 www.alastyr.com/
 www.aliyun.com/
 www.almalinux.org/
@@ -656,7 +662,6 @@ www.rwts.com.au/
 www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
-www.servaxnet.com/
 www.server.net/
 www.sfu.ca/
 www.shastacoe.org/
@@ -698,6 +703,7 @@ www.xeonbd.com/
 www.yamagata-u.ac.jp/
 www.yuccatelecom.com/
 wwww.wonchan.net/
+xcobean.co.ke/
 xenyth.net/
 xtom.com/
 yandex.ru/
