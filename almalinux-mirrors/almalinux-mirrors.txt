@@ -131,7 +131,6 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
-ftp.sakura.ad.jp/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
 ftp.tku.edu.tw/
@@ -384,6 +383,7 @@ mirror.xeonbd.com/
 mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
+mirror1.sox.rs/
 mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
@@ -659,7 +659,6 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
-www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
@@ -671,6 +670,7 @@ www.siena.edu/
 www.sitsa.com.ar/
 www.siwoo.org/
 www.sonic.com/
+www.sox.rs/
 www.steadfast.net/
 www.swinburne.edu.au/
 www.telecomarmenia.am/
