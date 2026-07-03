@@ -1,3 +1,4 @@
+ai-backend-service.docker.com/
 api.docker.com/
 api.dso.docker.com/
 auth.docker.com/
