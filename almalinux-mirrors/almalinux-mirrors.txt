@@ -96,7 +96,6 @@ distrohub.kyiv.ua/
 diyarciftci.xyz/
 docker.ru/
 doit.missouri.edu/
-domainesia.com/
 dotsrc.org/
 dsu.edu/
 ekiphost.com/
@@ -117,7 +116,9 @@ free.nchc.org.tw/
 ftp.arnes.si/
 ftp.belnet.be/
 ftp.bme.hu/
+ftp.cc.uoc.gr/
 ftp.cixug.es/
+ftp.csuc.cat/
 ftp.cwuni-bayreuth.de/
 ftp.fau.de/
 ftp.gwdg.de/
@@ -137,6 +138,7 @@ ftp.ucsb.edu/
 ftp.udx.icscoe.jp/
 ftp.uni-bayreuth.de/
 ftp.yz.yamagata-u.ac.jp/
+ge.mirror.cloud9.ge/
 gigenet.com/
 gigsouth.mm.fcix.net/
 github.com/
@@ -182,6 +184,7 @@ jetserver.co.il/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
+kifu.gov.hu/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 krnk.org/
@@ -190,7 +193,6 @@ leaseweb.com/
 lidsol.fi-b.unam.mx/
 lidsol.unam.mx/
 linux-mirrors.fnal.gov/
-linux.domainesia.com/
 linux.duke.edu/
 linux.ncsu.edu/
 linuxpatch.com/
@@ -210,6 +212,7 @@ mirror.23m.com/
 mirror.2degrees.nz/
 mirror.a1.mk/
 mirror.aarnet.edu.au/
+mirror.accum.se/
 mirror.africloud.com/
 mirror.airnet.uz/
 mirror.alastyr.com/
@@ -314,12 +317,14 @@ mirror.netweaver.uk/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nforce.com/
+mirror.niif.hu/
 mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
 mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
 mirror.nodespace.com/
+mirror.nyist.edu.cn/
 mirror.ossplanet.net/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
@@ -339,7 +344,6 @@ mirror.rnet.missouri.edu/
 mirror.rootlicense.com/
 mirror.sabay.com.kh/
 mirror.se.altushost.com/
-mirror.servaxnet.com/
 mirror.server.net/
 mirror.sfo12.us.leaseweb.net/
 mirror.sg.gs/
@@ -546,6 +550,7 @@ www.4psa.com/
 www.Linux.ec/
 www.VPSnet.com/
 www.aarnet.edu.au/
+www.accum.se/
 www.alastyr.com/
 www.aliyun.com/
 www.almalinux.org/
@@ -567,11 +572,13 @@ www.cedia.edu.ec/
 www.chpc.utah.edu/
 www.chroot.ro/
 www.cixug.gal/
+www.cloud9.ge/
 www.clouvider.com/
 www.codeforhost.com/
 www.cogentco.com/
 www.coreix.net/
 www.csc.fi/
+www.csuc.cat/
 www.cyberfolks.ro/
 www.deac.eu/
 www.digitalpacific.com.au/
@@ -636,10 +643,12 @@ www.nic.cz/
 www.nic.funet.fi/
 www.nodespace.com/
 www.nxthost.com/
+www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
 www.ox.ac.uk/
 www.peralex.com/
+www.physics.uoc.gr/
 www.plusline.net/
 www.previder.com/
 www.ps.kz/
@@ -651,7 +660,6 @@ www.rwts.com.au/
 www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
-www.servaxnet.com/
 www.server.net/
 www.sfu.ca/
 www.shastacoe.org/
