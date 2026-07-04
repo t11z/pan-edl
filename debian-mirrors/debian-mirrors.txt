@@ -52,7 +52,6 @@ debian.mithril.re/
 debian.mnet.bg/
 debian.nautile.nc/
 debian.netcologne.de/
-debian.netforce.hosting/
 debian.nic.cz/
 debian.obspm.fr/
 debian.osuosl.org/
