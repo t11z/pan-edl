@@ -1,9 +1,12 @@
 #!/usr/bin/env python3.12
 """Generate the openSUSE mirrors EDL.
 
-Source: https://mirrors.opensuse.org/list/all.html
-The SUSE / openSUSE Project's official full mirror list page.
+Source: https://mirrors.opensuse.org/
+The SUSE / openSUSE Project's official mirror list page, which links out
+to every mirror. (The old /list/all.html path was retired and now 404s;
+the site root serves the full list.)
 """
+import re
 import sys
 from urllib.parse import urlparse
 
@@ -12,8 +15,14 @@ from bs4 import BeautifulSoup
 from lib.edl_utils import EDLType, fetch_html, write_edl
 
 
-SOURCE_URL = 'https://mirrors.opensuse.org/list/all.html'
+SOURCE_URL = 'https://mirrors.opensuse.org/'
 OUTPUT_PATH = 'opensuse-mirrors/opensuse-mirrors.txt'
+
+# The mirror-list page also carries operator-label anchors whose href is
+# a malformed 'https://<Operator Name>' (e.g. 'https://Adfinis AG'). Their
+# netloc contains spaces / non-host characters, so we keep only netlocs
+# shaped like a real hostname or IP.
+_HOSTISH = re.compile(r'^[A-Za-z0-9.-]+$')
 
 
 def parse_opensuse_mirror_page(html: str) -> list[str]:
@@ -24,8 +33,9 @@ def parse_opensuse_mirror_page(html: str) -> list[str]:
         href = link.get('href') or ''
         if href.startswith(('http://', 'https://', 'rsync://', 'ftp://')):
             netloc = urlparse(href).netloc
-            if netloc:
-                domains.append(netloc)
+            host = netloc.split('@')[-1].split(':')[0].lower()
+            if host and '.' in host and _HOSTISH.match(host):
+                domains.append(host)
     return domains
 
 

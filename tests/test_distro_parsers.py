@@ -47,23 +47,22 @@ class TestArchParser:
 
 
 class TestAlpineParser:
-    def test_extracts_hosts_from_plain_text(self):
-        body = (
-            "# Alpine mirrors list\n"
-            "https://dl-cdn.alpinelinux.org/alpine/\n"
-            "https://mirror.example.com/alpine/\n"
-            "\n"
-            "https://alpine.example.org/\n"
-        )
-        result = alpine.parse_alpine_mirror_list(body)
-        assert result == [
-            "dl-cdn.alpinelinux.org",
-            "mirror.example.com",
-            "alpine.example.org",
+    def test_extracts_hosts_from_mirrors_json(self):
+        data = [
+            {"name": "dl-cdn", "urls": [
+                "http://dl-cdn.alpinelinux.org/alpine/",
+                "https://dl-cdn.alpinelinux.org/alpine/",
+            ]},
+            {"name": "example", "urls": ["https://mirror.example.com/alpine/"]},
+            {"name": "rsync-only", "urls": ["rsync://alpine.example.org/alpine/"]},
         ]
+        result = alpine.parse_alpine_mirror_json(data)
+        assert "dl-cdn.alpinelinux.org" in result
+        assert "mirror.example.com" in result
+        assert "alpine.example.org" in result
 
-    def test_ignores_comments_and_blank_lines(self):
-        assert alpine.parse_alpine_mirror_list("# comment\n\n  \n# another") == []
+    def test_ignores_entries_without_urls(self):
+        assert alpine.parse_alpine_mirror_json([{}, {"urls": []}]) == []
 
 
 class TestKaliParser:
@@ -165,7 +164,7 @@ class TestAllOutputsAreValidURLList:
         all_hosts.extend(arch.parse_arch_mirror_status(
             {"urls": [{"url": "https://m1.example.com/"}, {"url": "https://m2.example.org/"}]}
         ))
-        all_hosts.extend(alpine.parse_alpine_mirror_list("https://m.example.com/\n"))
+        all_hosts.extend(alpine.parse_alpine_mirror_json([{"urls": ["https://m.example.com/"]}]))
         all_hosts.extend(kali.parse_kali_mirror_list("URL=https://m.example.com/\n"))
         all_hosts.extend(rocky.parse_rocky_mirror_page(
             '<a href="https://m.example.com/">x</a>'

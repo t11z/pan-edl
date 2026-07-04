@@ -67,7 +67,7 @@ generator fails loudly and the existing `.txt` is preserved.
 
 | Slug | Status | Source | EDL Type | Notes |
 | --- | --- | --- | --- | --- |
-| `jetbrains-domains` | ✅ merged | intellij-support.jetbrains.com/.../360001214939 | URL List | Official JetBrains firewall allow-list article |
+| `jetbrains-domains` | 🗑️ removed | intellij-support.jetbrains.com/.../360001214939 | URL List | Removed: source is behind a Zendesk bot wall (HTTP 403 even with a browser UA), never produced output |
 | `vscode-domains` | ✅ merged | code.visualstudio.com/docs/setup/network | URL List | Microsoft network-config docs |
 | `azul-domains` | ✅ merged | docs.azul.com/core/getting-started | URL List | Azul Zulu install docs |
 | `adoptium-domains` | ✅ merged | adoptium.net/installation/ | URL List | Eclipse Adoptium install docs |
@@ -77,7 +77,7 @@ generator fails loudly and the existing `.txt` is preserved.
 
 | Slug | Status | Source | EDL Type | Notes |
 | --- | --- | --- | --- | --- |
-| `mozilla-update-domains` | ✅ merged | support.mozilla.org/.../configure-firewalls-... | URL List | Official Firefox firewall KB |
+| `mozilla-update-domains` | 🗑️ removed | support.mozilla.org/.../configure-firewalls-... | URL List | Removed: source serves a JS "Client Challenge" (no article in static HTML), never produced output |
 | `chrome-update-domains` | ✅ merged | support.google.com/chrome/a/answer/6350036 | URL List | Chrome Enterprise admin help |
 | `edge-update-domains` | ✅ merged | learn.microsoft.com/deployedge/microsoft-edge-security-endpoints | URL List | Microsoft Edge security endpoints |
 

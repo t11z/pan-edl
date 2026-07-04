@@ -1,0 +1,4 @@
+api.azul.com/
+cdn.azul.com/
+docs.azul.com/
+www.azul.com/

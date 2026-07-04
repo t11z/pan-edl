@@ -26,6 +26,17 @@ ALLOW_SUFFIXES = (
     'githubusercontent.com',
 )
 
+# Core Adoptium endpoints: the marketing/download site, the release API,
+# and the GitHub release CDNs that actually serve the Temurin binaries.
+# The install page renders most of these client-side, so seeding keeps
+# the list complete regardless of what the static HTML exposes.
+SEED_HOSTS = (
+    'adoptium.net',
+    'api.adoptium.net',
+    'github.com',
+    'objects.githubusercontent.com',
+)
+
 
 def parse_adoptium_page(html: str) -> list[str]:
     soup = BeautifulSoup(html, 'html.parser')
@@ -35,8 +46,12 @@ def parse_adoptium_page(html: str) -> list[str]:
 
 
 def main() -> None:
-    hosts = parse_adoptium_page(fetch_html(SOURCE_URL))
-    report = write_edl(hosts, OUTPUT_PATH, EDLType.URL_LIST, strict=True, min_entries=2)
+    hosts = set(SEED_HOSTS)
+    try:
+        hosts.update(parse_adoptium_page(fetch_html(SOURCE_URL)))
+    except Exception as exc:  # install page is supplementary; never fatal
+        print(f"warning: page scrape failed, using seed hosts only: {exc}", file=sys.stderr)
+    report = write_edl(sorted(hosts), OUTPUT_PATH, EDLType.URL_LIST, strict=True, min_entries=2)
     print(report)
 
 
