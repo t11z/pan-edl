@@ -17,6 +17,7 @@ espejito.fder.edu.uy/
 ettebiz.com/
 fcix.net/
 fr2.rpmfind.net/
+free.nchc.org.tw/
 freedif.org/
 ftp.acc.umu.se/
 ftp.cc.uoc.gr/
@@ -122,6 +123,7 @@ opensuse.mirror.garr.it/
 opensuse.mirror.iphh.net/
 opensuse.mirror.liquidtelecom.com/
 opensuse.mirror.liteserver.nl/
+opensuse.mirrors.proxad.net/
 opensuse.org/
 opensuse.schlundtech.de/
 opensuse.schlundtechn.de/
@@ -156,6 +158,7 @@ www.dogado.de/
 www.easyname.com/
 www.fder.edu.uy/
 www.fedora.md/
+www.free.fr/
 www.garr.it/
 www.gatech.edu/
 www.gtlib.gatech.edu/
@@ -171,6 +174,7 @@ www.linux.org.tr/
 www.liquidtelecom.com/
 www.liteserver.nl/
 www.math.princeton.edu/
+www.nchc.org.tw/
 www.nus.edu.sg/
 www.nxthost.com/
 www.nyist.edu.cn/
