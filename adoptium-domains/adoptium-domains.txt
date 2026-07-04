@@ -1,0 +1,4 @@
+adoptium.net/
+api.adoptium.net/
+github.com/
+objects.githubusercontent.com/

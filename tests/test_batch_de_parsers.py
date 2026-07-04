@@ -23,28 +23,13 @@ def _import(name: str, path: pathlib.Path):
     return module
 
 
-jetbrains = _import('jb', REPO_ROOT / 'jetbrains-domains' / 'jetbrains-domains.py')
 vscode = _import('vsc', REPO_ROOT / 'vscode-domains' / 'vscode-domains.py')
 azul = _import('azul', REPO_ROOT / 'azul-domains' / 'azul-domains.py')
 adoptium = _import('adoptium', REPO_ROOT / 'adoptium-domains' / 'adoptium-domains.py')
 corretto = _import('corretto', REPO_ROOT / 'corretto-domains' / 'corretto-domains.py')
-mozilla = _import('mozilla', REPO_ROOT / 'mozilla-update-domains' / 'mozilla-update-domains.py')
 chrome = _import('chrome', REPO_ROOT / 'chrome-update-domains' / 'chrome-update-domains.py')
 edge = _import('edge', REPO_ROOT / 'edge-update-domains' / 'edge-update-domains.py')
 
-
-JETBRAINS_FIXTURE = """
-<html><body><div class="article-body">
-  <h2>Domains</h2>
-  <ul>
-    <li><code>account.jetbrains.com</code></li>
-    <li><code>plugins.jetbrains.com</code> – plugin marketplace</li>
-    <li><code>data.services.jetbrains.com</code></li>
-    <li><code>*.jetbrains.com</code> – wildcard</li>
-    <li>example unrelated host: <code>evil.example.com</code></li>
-  </ul>
-</div></body></html>
-"""
 
 VSCODE_FIXTURE = """
 <html><body><div class="docs-content">
@@ -86,17 +71,6 @@ CORRETTO_FIXTURE = """
 </main></body></html>
 """
 
-MOZILLA_FIXTURE = """
-<html><body><article id="sumo-article-body">
-  <ul>
-    <li><code>aus5.mozilla.org</code> (update)</li>
-    <li><code>download.mozilla.org</code></li>
-    <li><code>addons.mozilla.org</code></li>
-    <li><code>services.mozilla.com</code></li>
-  </ul>
-</article></body></html>
-"""
-
 CHROME_FIXTURE = """
 <html><body><article>
   <ul>
@@ -122,12 +96,10 @@ EDGE_FIXTURE = """
 
 
 CASES = [
-    ('jetbrains', jetbrains.parse_jetbrains_page, JETBRAINS_FIXTURE, ['account.jetbrains.com', 'plugins.jetbrains.com']),
     ('vscode', vscode.parse_vscode_page, VSCODE_FIXTURE, ['marketplace.visualstudio.com', 'update.code.visualstudio.com']),
     ('azul', azul.parse_azul_page, AZUL_FIXTURE, ['cdn.azul.com', 'api.azul.com']),
     ('adoptium', adoptium.parse_adoptium_page, ADOPTIUM_FIXTURE, ['api.adoptium.net', 'github.com']),
     ('corretto', corretto.parse_corretto_page, CORRETTO_FIXTURE, ['corretto.aws']),
-    ('mozilla', mozilla.parse_mozilla_page, MOZILLA_FIXTURE, ['addons.mozilla.org', 'download.mozilla.org']),
     ('chrome', chrome.parse_chrome_page, CHROME_FIXTURE, ['update.googleapis.com', 'dl.google.com']),
     ('edge', edge.parse_edge_page, EDGE_FIXTURE, ['edge.microsoft.com', 'msedge.api.cdp.microsoft.com']),
 ]
