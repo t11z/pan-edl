@@ -99,6 +99,7 @@ doit.missouri.edu/
 domainesia.com/
 dotsrc.org/
 dsu.edu/
+ekiphost.com/
 elice.io/
 elmirror.cl/
 eng.mephi.ru/
@@ -186,6 +187,7 @@ jingk.ai/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
+kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 krnk.org/
 la.mirrors.clouvider.net/
@@ -213,6 +215,7 @@ mirror.23m.com/
 mirror.2degrees.nz/
 mirror.a1.mk/
 mirror.aarnet.edu.au/
+mirror.accum.se/
 mirror.africloud.com/
 mirror.airnet.uz/
 mirror.alastyr.com/
@@ -255,6 +258,7 @@ mirror.dk.team.blue::almalinux/
 mirror.docker.ru/
 mirror.dogado.de/
 mirror.domainhizmetleri.com/
+mirror.ekiphost.com/
 mirror.elice.io/
 mirror.esecuredata.com/
 mirror.eu.4psacloud.com/
@@ -324,6 +328,7 @@ mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
 mirror.nodespace.com/
 mirror.nyist.edu.cn/
+mirror.ossplanet.net/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
 mirror.parsdev.com/
@@ -350,11 +355,13 @@ mirror.shedmtl.com/
 mirror.siena.edu/
 mirror.sitsa.com.ar/
 mirror.siwoo.org/
+mirror.sjtu.edu.cn/
 mirror.snu.edu.in/
 mirror.soonkeat.sg/
 mirror.speedkom.de/
 mirror.steadfastnet.com/
 mirror.team-cymru.com/
+mirror.telepoint.bg/
 mirror.terrahost.no/
 mirror.transip.net/
 mirror.truenetwork.ru/
@@ -445,6 +452,7 @@ msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
 muug.ca/
 nchc.org.tw/
+net.sjtu.edu.cn/
 neterra.ne/
 nevacloud.com/
 nexril.net/
@@ -464,6 +472,7 @@ opencolo.mm.fcix.net/
 opensource.fb.com/
 or-mirror.iwebfusion.net/
 ord.mirror.rackspace.com/
+ossplanet.net/
 osuosl.org/
 ourhost.az/
 parsdev.com/
@@ -486,6 +495,7 @@ repo.almalinux.org/
 repo.extreme-ix.org/
 repo.ialab.dsu.edu/
 repo.ifca.es/
+repo.shinjiru.com/
 rit.edu/
 ro.mirror.flokinet.net/
 rootlicense.com/
@@ -519,6 +529,7 @@ tc.edu.tw/
 team-cymru.com/
 team.blue/
 teamhydra.dev/
+telepoint.bg/
 teraswitch.com/
 terrahost.no/
 thegigabit.com/
@@ -545,6 +556,7 @@ www.4psa.com/
 www.Linux.ec/
 www.VPSnet.com/
 www.aarnet.edu.au/
+www.accum.se/
 www.alastyr.com/
 www.aliyun.com/
 www.almalinux.org/
@@ -591,6 +603,7 @@ www.garr.it/
 www.gbnetwork.com/
 www.group.one/
 www.gtlib.gatech.edu/
+www.guzel.net.tr/
 www.gwdg.de/
 www.hashy0917.net/
 www.hivelocity.net/
@@ -657,6 +670,7 @@ www.servaxnet.com/
 www.server.net/
 www.sfu.ca/
 www.shastacoe.org/
+www.shinjiru.com/
 www.siena.edu/
 www.sitsa.com.ar/
 www.siwoo.org/
