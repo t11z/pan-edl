@@ -36,6 +36,7 @@ ftp.fau.de/
 ftp.halifax.rwth-aachen.de/
 ftp.iij.ad.jp/
 ftp.jaist.ac.jp/
+ftp.kaist.ac.kr/
 ftp.linux.cz/
 ftp.nluug.nl/
 ftp.sh.cvut.cz/
@@ -224,6 +225,7 @@ www.ipserverone.com/
 www.iu13.org/
 www.jaist.ac.jp/
 www.jurassicinnovations.com/
+www.kaist.ac.kr/
 www.liquid.tech/
 www.melbourne.co.uk/
 www.mirrorservice.org/
