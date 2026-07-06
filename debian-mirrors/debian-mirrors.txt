@@ -118,6 +118,7 @@ ftp.kr.debian.org/
 ftp.lanet.kr/
 ftp.linux.edu.lv/
 ftp.linux.it/
+ftp.linux.org.tr/
 ftp.lip6.fr/
 ftp.lt.debian.org/
 ftp.maru.co.jp/
@@ -137,6 +138,7 @@ ftp.sh.cvut.cz/
 ftp.sk.debian.org/
 ftp.stw-bonn.de/
 ftp.task.gda.pl/
+ftp.tr.debian.org/
 ftp.tu-chemnitz.de/
 ftp.tugraz.at/
 ftp.tw.debian.org/
@@ -179,7 +181,6 @@ mirror.bgp.rodeo/
 mirror.bizflycloud.vn/
 mirror.blue3.com.br/
 mirror.braindrainlan.nu/
-mirror.cloudhosting.lv/
 mirror.cogentco.com/
 mirror.corbina.net/
 mirror.cov.ukservers.com/
@@ -279,7 +280,6 @@ mirrors.accretive-networks.net/
 mirrors.bfsu.edu.cn/
 mirrors.cloudforest.co.th/
 mirrors.coreix.net/
-mirrors.datapark.ro/
 mirrors.dotsrc.org/
 mirrors.glesys.net/
 mirrors.hit.edu.cn/
