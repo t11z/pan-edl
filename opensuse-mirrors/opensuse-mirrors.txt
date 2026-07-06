@@ -130,6 +130,7 @@ pkg.adfinis-on-exoscale.ch/
 pkg.adfinis.com/
 repo.fedora.md/
 repo.iut.ac.ir/
+repo.ugm.ac.id/
 rpmfind.net/
 rsync.fedora.md/
 rsync.mirrors.163.com/
