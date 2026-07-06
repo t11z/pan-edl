@@ -184,6 +184,7 @@ rocky.reloumirrors.net/
 rockylinux.anexia.at/
 rockylinux.hi.no/
 rockylinux.mirrorservice.org/
+rockylinux.netforce.hosting/
 rockylinux.org/
 rockylinux.uni-sofia.bg/
 rsync.krfoss.org/
@@ -230,6 +231,7 @@ www.liquid.tech/
 www.melbourne.co.uk/
 www.mirrorservice.org/
 www.ncsu.edu/
+www.netforce.company/
 www.netsite.dk/
 www.netzwerge.de/
 www.nluug.nl/

@@ -474,7 +474,6 @@ mirrors.vcea.wsu.edu/
 mirrors.webhs.pt/
 mirrors.xjtu.edu.cn/
 mirrors.xmission.com/
-mirrors.xtom.com/
 mirrors.xtom.de/
 mirrors.xtom.ee/
 mirrors.xtom.nl/
