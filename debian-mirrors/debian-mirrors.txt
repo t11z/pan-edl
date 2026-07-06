@@ -293,6 +293,7 @@ mirrors.nav.ro/
 mirrors.netix.net/
 mirrors.nxthost.com/
 mirrors.pidginhost.com/
+mirrors.powernet.com.ru/
 mirrors.ptisp.pt/
 mirrors.qlu.edu.cn/
 mirrors.rackhosting.com/
