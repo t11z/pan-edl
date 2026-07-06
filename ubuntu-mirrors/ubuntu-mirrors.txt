@@ -116,6 +116,7 @@ labs.eif.urjc.es/
 linux.domainesia.com/
 linux.yz.yamagata-u.ac.jp/
 mir.linux.kg/
+miroir.univ-lorraine.fr/
 mirror-gw.elastis.id/
 mirror-hk.koddos.net/
 mirror-mk.interspace.com/
