@@ -45,7 +45,6 @@ get.opensuse.org/
 github.com/
 global.bfsu.edu.cn/
 gocode.it/
-ihost.md/
 ip-connect.info/
 ipacct.com/
 it.iut.ac.ir/
@@ -70,7 +69,6 @@ mirror.firstyear.id.au/
 mirror.freedif.org/
 mirror.hashy0917.net/
 mirror.hoasted.com/
-mirror.ihost.md/
 mirror.kakao.com/
 mirror.karneval.cz/
 mirror.library.ucy.ac.cy/
@@ -123,7 +121,6 @@ opensuse.mirror.garr.it/
 opensuse.mirror.iphh.net/
 opensuse.mirror.liquidtelecom.com/
 opensuse.mirror.liteserver.nl/
-opensuse.mirrors.proxad.net/
 opensuse.org/
 opensuse.schlundtech.de/
 opensuse.schlundtechn.de/
@@ -132,7 +129,6 @@ pkg.adfinis-on-exoscale.ch/
 pkg.adfinis.com/
 repo.fedora.md/
 repo.iut.ac.ir/
-repo.ugm.ac.id/
 rpmfind.net/
 rsync.fedora.md/
 rsync.mirrors.163.com/
@@ -158,7 +154,6 @@ www.dogado.de/
 www.easyname.com/
 www.fder.edu.uy/
 www.fedora.md/
-www.free.fr/
 www.garr.it/
 www.gatech.edu/
 www.gtlib.gatech.edu/
