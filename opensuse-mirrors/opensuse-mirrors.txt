@@ -17,6 +17,7 @@ espejito.fder.edu.uy/
 ettebiz.com/
 fcix.net/
 fr2.rpmfind.net/
+free.nchc.org.tw/
 freedif.org/
 ftp.acc.umu.se/
 ftp.cc.uoc.gr/
@@ -171,6 +172,7 @@ www.linux.org.tr/
 www.liquidtelecom.com/
 www.liteserver.nl/
 www.math.princeton.edu/
+www.nchc.org.tw/
 www.nus.edu.sg/
 www.nxthost.com/
 www.nyist.edu.cn/
