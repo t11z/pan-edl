@@ -5,7 +5,6 @@ africloud.com/
 airnet.uz/
 al-mirror.a2hosting.com/
 alma.acidman.thelefty.org/
-alma.as3741.net/
 alma.hostingdunyam.com.tr/
 alma.idhosting.pl/
 alma.mirror.nyuad.nyu.edu/
@@ -97,7 +96,6 @@ distrohub.kyiv.ua/
 diyarciftci.xyz/
 docker.ru/
 doit.missouri.edu/
-domainesia.com/
 dotsrc.org/
 dsu.edu/
 ekiphost.com/
@@ -132,6 +130,7 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
+ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -196,7 +195,6 @@ leaseweb.com/
 lidsol.fi-b.unam.mx/
 lidsol.unam.mx/
 linux-mirrors.fnal.gov/
-linux.domainesia.com/
 linux.duke.edu/
 linux.ncsu.edu/
 linuxpatch.com/
@@ -229,7 +227,6 @@ mirror.amscloud.co.id/
 mirror.amscloud.co.id::almalinux/
 mirror.anquan.cl/
 mirror.aptus.co.tz/
-mirror.as3741.net/
 mirror.ati.tn/
 mirror.az31.cloudpropeller.com/
 mirror.azvps.vn/
@@ -357,6 +354,7 @@ mirror.shedmtl.com/
 mirror.siena.edu/
 mirror.sitsa.com.ar/
 mirror.siwoo.org/
+mirror.sjtu.edu.cn/
 mirror.snu.edu.in/
 mirror.soonkeat.sg/
 mirror.speedkom.de/
@@ -380,6 +378,7 @@ mirror.vtti.vt.edu/
 mirror.wd6.net/
 mirror.wdc2.us.leaseweb.net/
 mirror.webworld.ie/
+mirror.wiseglobalsolutions.com/
 mirror.wonchan.net/
 mirror.xcobean.co.ke/
 mirror.xenyth.net/
@@ -453,6 +452,7 @@ msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
 muug.ca/
 nchc.org.tw/
+net.sjtu.edu.cn/
 neterra.ne/
 nevacloud.com/
 nexril.net/
@@ -666,6 +666,7 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
+www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
@@ -705,6 +706,7 @@ www.vtti.vt.edu/
 www.wd6.net/
 www.wearetriple.com/
 www.webworld.ie/
+www.wiseglobalsolutions.com/
 www.xeonbd.com/
 www.yamagata-u.ac.jp/
 www.yuccatelecom.com/
