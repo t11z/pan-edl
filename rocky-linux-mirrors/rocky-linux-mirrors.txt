@@ -106,6 +106,7 @@ mirror.slu.cz/
 mirror.telepoint.bg/
 mirror.twds.com.tw/
 mirror.tzulo.com/
+mirror.uepg.br/
 mirror.uv.es/
 mirror.web-ster.com/
 mirror.wonchan.net/
@@ -200,6 +201,7 @@ thegigabit.com/
 tr.dyi.ng/
 tr.mirrors.cicku.me/
 ucalgary.ca/
+uepg.br/
 uni-sofia.bg/
 us.dyi.ng/
 us.mirrors.cicku.me/
