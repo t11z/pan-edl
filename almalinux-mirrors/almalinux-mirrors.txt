@@ -4,6 +4,7 @@ a2hosting.com/
 africloud.com/
 airnet.uz/
 al-mirror.a2hosting.com/
+alma.acidman.thelefty.org/
 alma.as3741.net/
 alma.hostingdunyam.com.tr/
 alma.idhosting.pl/
@@ -19,7 +20,6 @@ almalinux.ip-connect.vn.ua/
 almalinux.ipacct.com/
 almalinux.jetserver.co.il/
 almalinux.koyanet.lv/
-almalinux.linux.n0c.ca/
 almalinux.linuxpatch.com/
 almalinux.mirror-services.net/
 almalinux.mirror.digitalpacific.com.au/
@@ -97,7 +97,6 @@ distrohub.kyiv.ua/
 diyarciftci.xyz/
 docker.ru/
 doit.missouri.edu/
-domainesia.com/
 dotsrc.org/
 dsu.edu/
 ekiphost.com/
@@ -196,7 +195,6 @@ leaseweb.com/
 lidsol.fi-b.unam.mx/
 lidsol.unam.mx/
 linux-mirrors.fnal.gov/
-linux.domainesia.com/
 linux.duke.edu/
 linux.ncsu.edu/
 linuxpatch.com/
@@ -204,6 +202,7 @@ linuxsoft.cern.ch/
 lon.mirror.rackspace.com/
 lug.hit.edu.cn/
 lyrahosting.com/
+mangohost.net/
 maniaclab.uchicago.edu/
 marwan.ma/
 mijn.host/
@@ -307,6 +306,7 @@ mirror.linux.ncsu.edu/
 mirror.liteserver.nl/
 mirror.lyrahosting.com/
 mirror.maeen.sa/
+mirror.mangohost.net/
 mirror.maple-hosting.com/
 mirror.marwan.ma/
 mirror.mci-1.serverforge.org/
@@ -356,7 +356,6 @@ mirror.siena.edu/
 mirror.sitsa.com.ar/
 mirror.siwoo.org/
 mirror.sjtu.edu.cn/
-mirror.snu.edu.in/
 mirror.soonkeat.sg/
 mirror.speedkom.de/
 mirror.steadfastnet.com/
@@ -379,7 +378,6 @@ mirror.vtti.vt.edu/
 mirror.wd6.net/
 mirror.wdc2.us.leaseweb.net/
 mirror.webworld.ie/
-mirror.wiseglobalsolutions.com/
 mirror.wonchan.net/
 mirror.xcobean.co.ke/
 mirror.xenyth.net/
@@ -482,7 +480,6 @@ phoenixnap.com/
 phx.mirrors.clouvider.net/
 pit.mirror.jurassicinnovations.com/
 pkg.adfinis-on-exoscale.ch/
-planethoster.com/
 plug-mirror.rcac.purdue.edu/
 purduelug.org/
 qro.aws.repo.almalinux.org/
@@ -522,7 +519,6 @@ sg.gs/
 shedmtl.com/
 siliconhill.cz/
 sindad.com/
-snu.edu.in/
 soonkeat.sg/
 southfront.mm.fcix.net/
 stix.mm.fcix.net/
@@ -684,6 +680,7 @@ www.steadfast.net/
 www.swinburne.edu.au/
 www.telecomarmenia.am/
 www.tencent.com/
+www.thelefty.org/
 www.tier.net/
 www.tku.edu.tw/
 www.transip.nl/
@@ -706,7 +703,6 @@ www.vtti.vt.edu/
 www.wd6.net/
 www.wearetriple.com/
 www.webworld.ie/
-www.wiseglobalsolutions.com/
 www.xeonbd.com/
 www.yamagata-u.ac.jp/
 www.yuccatelecom.com/
