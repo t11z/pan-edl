@@ -1,5 +1,4 @@
 23m.com/
-a1.mk/
 a2hosting.com/
 africloud.com/
 airnet.uz/
@@ -216,7 +215,6 @@ mirror.01link.hk/
 mirror.0x626b.com/
 mirror.23m.com/
 mirror.2degrees.nz/
-mirror.a1.mk/
 mirror.aarnet.edu.au/
 mirror.accum.se/
 mirror.africloud.com/
