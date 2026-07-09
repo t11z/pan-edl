@@ -299,6 +299,7 @@ mirror.karneval.cz/
 mirror.kku.ac.th/
 mirror.krfoss.org/
 mirror.lchs.network/
+mirror.limda.net/
 mirror.linux.duke.edu/
 mirror.linux.ec/
 mirror.linux.ncsu.edu/
@@ -327,6 +328,7 @@ mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
 mirror.nodespace.com/
 mirror.nyist.edu.cn/
+mirror.ossplanet.net/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
 mirror.parsdev.com/
@@ -377,7 +379,6 @@ mirror.vtti.vt.edu/
 mirror.wd6.net/
 mirror.wdc2.us.leaseweb.net/
 mirror.webworld.ie/
-mirror.wiseglobalsolutions.com/
 mirror.wonchan.net/
 mirror.xcobean.co.ke/
 mirror.xenyth.net/
@@ -471,6 +472,7 @@ opencolo.mm.fcix.net/
 opensource.fb.com/
 or-mirror.iwebfusion.net/
 ord.mirror.rackspace.com/
+ossplanet.net/
 osuosl.org/
 ourhost.az/
 parsdev.com/
@@ -627,6 +629,7 @@ www.kent.ac.uk/
 www.kku.ac.th/
 www.knownhost.com/
 www.lchs.com.au/
+www.limda.net/
 www.linkedin.com/
 www.liquid.tech/
 www.liquidweb.com/
@@ -702,7 +705,6 @@ www.vtti.vt.edu/
 www.wd6.net/
 www.wearetriple.com/
 www.webworld.ie/
-www.wiseglobalsolutions.com/
 www.xeonbd.com/
 www.yamagata-u.ac.jp/
 www.yuccatelecom.com/

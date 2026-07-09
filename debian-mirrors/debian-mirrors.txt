@@ -281,6 +281,7 @@ mirrors.accretive-networks.net/
 mirrors.bfsu.edu.cn/
 mirrors.cloudforest.co.th/
 mirrors.coreix.net/
+mirrors.datapark.ro/
 mirrors.dotsrc.org/
 mirrors.glesys.net/
 mirrors.hit.edu.cn/
