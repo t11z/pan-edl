@@ -79,6 +79,7 @@ elmirror.cl/
 free.hands.com/
 ftp-stud.hs-esslingen.de/
 ftp.agh.edu.pl/
+ftp.antik.sk/
 ftp.at.debian.org/
 ftp.au.debian.org/
 ftp.be.debian.org/
