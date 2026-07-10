@@ -71,6 +71,7 @@ boinc.teambelgium.net/
 bos.aws.repo.almalinux.org/
 brentk.io/
 bugs.almalinux.org/
+bytes.ua/
 capital.hoster.kz/
 cat.pdx.edu/
 cc.in2p3.fr/
@@ -87,6 +88,7 @@ csclub.uwaterloo.ca/
 cvo.almalinux.osuosl.org/
 dal.mirrors.clouvider.net/
 datamossa.com/
+datautama.net.id/
 de.mirrors.clouvider.net/
 den.aws.repo.almalinux.org/
 dewabiz.com/
@@ -185,8 +187,8 @@ jagoanhosting.com/
 jetserver.co.il/
 jingk.ai/
 jurassicinnovations.com/
+kartolo.sby.datautama.net.id/
 katapult.io/
-kifu.gov.hu/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 krnk.org/
@@ -232,7 +234,6 @@ mirror.as3741.net/
 mirror.ati.tn/
 mirror.az31.cloudpropeller.com/
 mirror.azvps.vn/
-mirror.bahnhof.net/
 mirror.bf-net.ch/
 mirror.bitency.nl/
 mirror.cedia.org.ec/
@@ -302,6 +303,7 @@ mirror.krfoss.org/
 mirror.lchs.network/
 mirror.limda.net/
 mirror.linux.duke.edu/
+mirror.linux.ec/
 mirror.linux.ncsu.edu/
 mirror.liteserver.nl/
 mirror.lyrahosting.com/
@@ -321,7 +323,6 @@ mirror.netsite.dk/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nforce.com/
-mirror.niif.hu/
 mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
@@ -394,6 +395,7 @@ mirrors.asnet.am/
 mirrors.binaryracks.com/
 mirrors.bkns.vn/
 mirrors.bmcc.edu/
+mirrors.bytes.ua/
 mirrors.c0urier.net/
 mirrors.cat.pdx.edu/
 mirrors.chroot.ro/
@@ -554,6 +556,7 @@ wiki.lug.ro/
 www.01link.net/
 www.2degrees.nz/
 www.4psa.com/
+www.Linux.ec/
 www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
@@ -567,7 +570,6 @@ www.ans.co.uk/
 www.anywair.com/
 www.arnes.si/
 www.ati.tn/
-www.bahnhof.net/
 www.behostings.com/
 www.belnet.be/
 www.binaryracks.com/
