@@ -44,7 +44,6 @@ almalinux.netforce.hosting/
 almalinux.nic.cz/
 almalinux.org/
 almalinux.ourhome.kiwi/
-almalinux.savoirfairelinux.net/
 almalinux.schlundtech.de/
 almalinux.si/
 almalinux.uib.no/
@@ -100,7 +99,7 @@ doit.missouri.edu/
 domainesia.com/
 dotsrc.org/
 dsu.edu/
-ekiphost.com/
+elice.io/
 elmirror.cl/
 eng.mephi.ru/
 extreme-ix.org/
@@ -230,6 +229,7 @@ mirror.amscloud.co.id::almalinux/
 mirror.anquan.cl/
 mirror.aptus.co.tz/
 mirror.as3741.net/
+mirror.ath1.fusioned.net/
 mirror.ati.tn/
 mirror.az31.cloudpropeller.com/
 mirror.azvps.vn/
@@ -259,7 +259,7 @@ mirror.dk.team.blue::almalinux/
 mirror.docker.ru/
 mirror.dogado.de/
 mirror.domainhizmetleri.com/
-mirror.ekiphost.com/
+mirror.elice.io/
 mirror.esecuredata.com/
 mirror.eu.4psacloud.com/
 mirror.facebook.net/
@@ -336,6 +336,7 @@ mirror.parsdev.com/
 mirror.pit.teraswitch.com/
 mirror.plusline.net/
 mirror.previder.nl/
+mirror.ps.kz/
 mirror.rackspeed.de/
 mirror.raiolanetworks.com/
 mirror.randhost.com/
@@ -428,7 +429,9 @@ mirrors.onenet.net/
 mirrors.pt/
 mirrors.ptisp.pt/
 mirrors.rda.poa.br/
+mirrors.rit.edu/
 mirrors.ruk-com.cloud/
+mirrors.sonic.net/
 mirrors.storpool.com/
 mirrors.teamcloud.am/
 mirrors.tencent.com/
@@ -495,6 +498,7 @@ repo.extreme-ix.org/
 repo.ialab.dsu.edu/
 repo.ifca.es/
 repo.shinjiru.com/
+rit.edu/
 ro.mirror.flokinet.net/
 rootlicense.com/
 rpmfind.net/
@@ -509,7 +513,6 @@ rsync.yuki.net.uk/
 ruk-com.cloud/
 rwth-aachen.de/
 sabay.com.kh/
-savoirfairelinux.com/
 sci.nju.edu.cn/
 seattle.crazyfast.us/
 serverforge.org/
@@ -597,6 +600,7 @@ www.fastly.com/
 www.fi.muni.cz/
 www.fiu.edu/
 www.fnal.gov/
+www.fusioned.net/
 www.fysik.dtu.dk/
 www.garr.it/
 www.gbnetwork.com/
@@ -658,6 +662,7 @@ www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
 www.previder.com/
+www.ps.kz/
 www.psnc.pl/
 www.rackspace.com/
 www.riken.jp/
@@ -674,6 +679,7 @@ www.shinjiru.com/
 www.siena.edu/
 www.sitsa.com.ar/
 www.siwoo.org/
+www.sonic.com/
 www.sox.rs/
 www.steadfast.net/
 www.swinburne.edu.au/
