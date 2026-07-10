@@ -101,7 +101,6 @@ domainesia.com/
 dotsrc.org/
 dsu.edu/
 ekiphost.com/
-elice.io/
 elmirror.cl/
 eng.mephi.ru/
 extreme-ix.org/
@@ -261,7 +260,6 @@ mirror.docker.ru/
 mirror.dogado.de/
 mirror.domainhizmetleri.com/
 mirror.ekiphost.com/
-mirror.elice.io/
 mirror.esecuredata.com/
 mirror.eu.4psacloud.com/
 mirror.facebook.net/
@@ -338,7 +336,6 @@ mirror.parsdev.com/
 mirror.pit.teraswitch.com/
 mirror.plusline.net/
 mirror.previder.nl/
-mirror.ps.kz/
 mirror.rackspeed.de/
 mirror.raiolanetworks.com/
 mirror.randhost.com/
@@ -371,6 +368,7 @@ mirror.truenetwork.ru/
 mirror.twds.com.tw/
 mirror.tzulo.com/
 mirror.uepg.br/
+mirror.us-midwest-1.nexcess.net/
 mirror.us.mirhosting.net/
 mirror.usi.edu/
 mirror.veesp.com/
@@ -430,9 +428,7 @@ mirrors.onenet.net/
 mirrors.pt/
 mirrors.ptisp.pt/
 mirrors.rda.poa.br/
-mirrors.rit.edu/
 mirrors.ruk-com.cloud/
-mirrors.sonic.net/
 mirrors.storpool.com/
 mirrors.teamcloud.am/
 mirrors.tencent.com/
@@ -499,7 +495,6 @@ repo.extreme-ix.org/
 repo.ialab.dsu.edu/
 repo.ifca.es/
 repo.shinjiru.com/
-rit.edu/
 ro.mirror.flokinet.net/
 rootlicense.com/
 rpmfind.net/
@@ -636,6 +631,7 @@ www.lchs.com.au/
 www.limda.net/
 www.linkedin.com/
 www.liquid.tech/
+www.liquidweb.com/
 www.liteserver.nl/
 www.lysator.liu.se/
 www.maeen.sa/
@@ -662,7 +658,6 @@ www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
 www.previder.com/
-www.ps.kz/
 www.psnc.pl/
 www.rackspace.com/
 www.riken.jp/
@@ -679,7 +674,6 @@ www.shinjiru.com/
 www.siena.edu/
 www.sitsa.com.ar/
 www.siwoo.org/
-www.sonic.com/
 www.sox.rs/
 www.steadfast.net/
 www.swinburne.edu.au/
