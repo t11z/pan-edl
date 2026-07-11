@@ -1,3 +1,4 @@
+0-1.ir/
 23m.com/
 a1.mk/
 a2hosting.com/
@@ -26,7 +27,6 @@ almalinux.mirror.digitalpacific.com.au/
 almalinux.mirror.garr.it/
 almalinux.mirror.globo.tech/
 almalinux.mirror.katapult.io/
-almalinux.mirror.liquidtelecom.com/
 almalinux.mirror.liteserver.nl/
 almalinux.mirror.net.za/
 almalinux.mirror.scopesky.com/
@@ -91,6 +91,7 @@ datamossa.com/
 datautama.net.id/
 de.mirrors.clouvider.net/
 den.aws.repo.almalinux.org/
+dewabiz.com/
 dinosaurus.fleksibel.com/
 distrohub.kyiv.ua/
 diyarciftci.xyz/
@@ -130,6 +131,7 @@ ftp.linux.cz/
 ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
+ftp.riken.jp/
 ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
@@ -187,7 +189,6 @@ jingk.ai/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
-kifu.gov.hu/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 krnk.org/
@@ -210,6 +211,7 @@ marwan.ma/
 mijn.host/
 mirhosting.com/
 mirror-services.net/
+mirror.0-1.cloud/
 mirror.01link.hk/
 mirror.0x626b.com/
 mirror.23m.com/
@@ -252,6 +254,7 @@ mirror.dal.nexril.net/
 mirror.datacenter.by/
 mirror.datamossa.io/
 mirror.de.leaseweb.net/
+mirror.dewabiz.com/
 mirror.digitalpacific.com.au/
 mirror.diyarciftci.xyz/
 mirror.dk.team.blue/
@@ -321,9 +324,7 @@ mirror.mtl2.ca.leaseweb.net/
 mirror.net.za/
 mirror.netsite.dk/
 mirror.netzwerge.de/
-mirror.nevacloud.com/
 mirror.nforce.com/
-mirror.niif.hu/
 mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
@@ -459,7 +460,6 @@ muug.ca/
 nchc.org.tw/
 net.sjtu.edu.cn/
 neterra.ne/
-nevacloud.com/
 nexril.net/
 nhanhoa.com/
 nl.mirror.flokinet.net/
@@ -637,7 +637,6 @@ www.knownhost.com/
 www.lchs.com.au/
 www.limda.net/
 www.linkedin.com/
-www.liquid.tech/
 www.liquidweb.com/
 www.liteserver.nl/
 www.lysator.liu.se/
@@ -668,6 +667,7 @@ www.previder.com/
 www.ps.kz/
 www.psnc.pl/
 www.rackspace.com/
+www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
 www.sakura.ad.jp/
