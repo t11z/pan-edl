@@ -230,7 +230,6 @@ mirror.mythic-beasts.com/
 mirror.neftm.ru/
 mirror.netzwerge.de/
 mirror.nforce.com/
-mirror.nitc.ac.in/
 mirror.nju.edu.cn/
 mirror.nl.cdn-perfprod.com/
 mirror.nl.leaseweb.net/
@@ -247,7 +246,6 @@ mirror.ps.kz/
 mirror.raiolanetworks.com/
 mirror.realcompute.io/
 mirror.rustytel.net/
-mirror.sabay.com.kh/
 mirror.sg.gs/
 mirror.siena.edu/
 mirror.sinavps.ch/

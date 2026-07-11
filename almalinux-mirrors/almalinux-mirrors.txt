@@ -342,6 +342,7 @@ mirror.parsdev.com/
 mirror.pit.teraswitch.com/
 mirror.plusline.net/
 mirror.previder.nl/
+mirror.ps.kz/
 mirror.rackspeed.de/
 mirror.raiolanetworks.com/
 mirror.randhost.com/
@@ -361,6 +362,7 @@ mirror.shedmtl.com/
 mirror.siena.edu/
 mirror.sitsa.com.ar/
 mirror.siwoo.org/
+mirror.sjtu.edu.cn/
 mirror.snu.edu.in/
 mirror.soonkeat.sg/
 mirror.speedkom.de/
@@ -393,7 +395,6 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
-mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.binaryracks.com/
@@ -425,7 +426,6 @@ mirrors.mvps.net/
 mirrors.nav.ro/
 mirrors.neterra.net/
 mirrors.nhanhoa.com/
-mirrors.nju.edu.cn/
 mirrors.nxthost.com/
 mirrors.oblivion.online/
 mirrors.ocf.berkeley.edu/
@@ -459,6 +459,7 @@ msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
 muug.ca/
 nchc.org.tw/
+net.sjtu.edu.cn/
 neterra.ne/
 nevacloud.com/
 nexril.net/
@@ -517,7 +518,6 @@ ruk-com.cloud/
 rwth-aachen.de/
 sabay.com.kh/
 savoirfairelinux.com/
-sci.nju.edu.cn/
 seattle.crazyfast.us/
 serverforge.org/
 serversaustralia.com.au/
@@ -564,7 +564,6 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
-www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -667,6 +666,7 @@ www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
 www.previder.com/
+www.ps.kz/
 www.psnc.pl/
 www.rackspace.com/
 www.riken.jp/
