@@ -70,7 +70,6 @@ mirror.cpsc.ucalgary.ca/
 mirror.cs.vt.edu/
 mirror.dc.uz/
 mirror.dst.ca/
-mirror.etf.bg.ac.rs/
 mirror.eu.ossplanet.net/
 mirror.freedif.org/
 mirror.gozunga.com/
@@ -216,7 +215,6 @@ www.clouvider.com/
 www.cogentco.com/
 www.directlink.coop/
 www.dst.ca/
-www.etf.bg.ac.rs/
 www.fi.muni.cz/
 www.hashy0917.net/
 www.hi.no/
