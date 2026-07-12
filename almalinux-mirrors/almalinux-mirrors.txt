@@ -15,6 +15,7 @@ almalinux-mirror.tpa.hivelocity.net/
 almalinux-mirror.unifique.cloud/
 almalinux-mirror.yucca.net/
 almalinux.elhacker.net/
+almalinux.excellmedia.net/
 almalinux.interhost.co.il/
 almalinux.ip-connect.info/
 almalinux.ip-connect.vn.ua/
@@ -78,6 +79,7 @@ capital.hoster.kz/
 cat.pdx.edu/
 cc.in2p3.fr/
 chi.almalinux.osuosl.org/
+citrahost.com/
 cloudforest.co.th/
 cloudpropeller.com/
 cofractal-ewr.mm.fcix.net/
@@ -114,6 +116,7 @@ flokinet.is/
 for.aws.repo.almalinux.org/
 forksystems.mm.fcix.net/
 fr2.rpmfind.net/
+free.nchc.org.tw/
 ftp.arnes.si/
 ftp.belnet.be/
 ftp.bme.hu/
@@ -128,6 +131,7 @@ ftp.iij.ad.jp/
 ftp.jaist.ac.jp/
 ftp.linux.cz/
 ftp.lug.ro/
+ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
 ftp.sakura.ad.jp/
@@ -187,6 +191,7 @@ jingk.ai/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
+kifu.gov.hu/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 krnk.org/
@@ -241,6 +246,7 @@ mirror.bitency.nl/
 mirror.cedia.org.ec/
 mirror.ch.altushost.com/
 mirror.chpc.utah.edu/
+mirror.citrahost.com/
 mirror.clarkson.edu/
 mirror.cloudpropeller.com/
 mirror.cogentco.com/
@@ -319,9 +325,12 @@ mirror.mijn.host/
 mirror.moack.co.kr/
 mirror.mtl2.ca.leaseweb.net/
 mirror.net.za/
+mirror.netsite.dk/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nforce.com/
+mirror.niif.hu/
+mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
 mirror.nl.mirhosting.net/
@@ -384,9 +393,9 @@ mirror.xcobean.co.ke/
 mirror.xenyth.net/
 mirror.xeonbd.com/
 mirror.yandex.ru/
+mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
-mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.binaryracks.com/
@@ -418,6 +427,7 @@ mirrors.mvps.net/
 mirrors.nav.ro/
 mirrors.neterra.net/
 mirrors.nhanhoa.com/
+mirrors.nju.edu.cn/
 mirrors.nxthost.com/
 mirrors.oblivion.online/
 mirrors.ocf.berkeley.edu/
@@ -450,6 +460,7 @@ mr.heru.id/
 msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
 muug.ca/
+nchc.org.tw/
 net.sjtu.edu.cn/
 neterra.ne/
 nevacloud.com/
@@ -509,6 +520,7 @@ ruk-com.cloud/
 rwth-aachen.de/
 sabay.com.kh/
 savoirfairelinux.com/
+sci.nju.edu.cn/
 seattle.crazyfast.us/
 serverforge.org/
 serversaustralia.com.au/
@@ -555,7 +567,6 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
-www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -590,6 +601,7 @@ www.domainhizmetleri.com/
 www.edgoo.io/
 www.elhacker.net/
 www.esecuredata.com/
+www.excellmedia.net/
 www.exoscale.com/
 www.fastly.com/
 www.fi.muni.cz/
@@ -632,6 +644,7 @@ www.linkedin.com/
 www.liquid.tech/
 www.liquidweb.com/
 www.liteserver.nl/
+www.lysator.liu.se/
 www.maeen.sa/
 www.maple-hosting.com/
 www.melbourne.co.uk/
@@ -641,6 +654,7 @@ www.mvps.net/
 www.nav.ro/
 www.netdirekt.com.tr/
 www.netforce.company/
+www.netsite.dk/
 www.netzwerge.de/
 www.nforce.com/
 www.nic.cz/
@@ -709,6 +723,7 @@ xcobean.co.ke/
 xenyth.net/
 xtom.com/
 yandex.ru/
+yer.az/
 yuki.net.uk/
 yxeix.mm.fcix.net/
 ziply.mm.fcix.net/
