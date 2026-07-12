@@ -24,7 +24,6 @@ ftp.fedora.md/
 ftp.funet.fi/
 ftp.gwdg.de/
 ftp.halifax.rwth-aachen.de/
-ftp.icm.edu.pl/
 ftp.jaist.ac.jp/
 ftp.linux.cz/
 ftp.linux.org.tr/
@@ -57,7 +56,6 @@ mirror.accum.se/
 mirror.alwyzon.net/
 mirror.cedia.org.ec/
 mirror.clarkson.edu/
-mirror.csclub.uwaterloo.ca/
 mirror.datto.com/
 mirror.dc.uz/
 mirror.dogado.de/
@@ -110,7 +108,6 @@ opensuse-mirror-gce-eu.opensu.se/
 opensuse-mirror-gce-us.susecloud.net/
 opensuse.0x0.st/
 opensuse.c3sl.ufpr.br/
-opensuse.ic.ufmt.br/
 opensuse.ip-connect.info/
 opensuse.ipacct.com/
 opensuse.koyanet.lv/
