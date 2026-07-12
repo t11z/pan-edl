@@ -23,7 +23,6 @@ ftp.cc.uoc.gr/
 ftp.fedora.md/
 ftp.funet.fi/
 ftp.gwdg.de/
-ftp.halifax.rwth-aachen.de/
 ftp.icm.edu.pl/
 ftp.jaist.ac.jp/
 ftp.linux.cz/
@@ -127,6 +126,7 @@ pkg.adfinis-on-exoscale.ch/
 pkg.adfinis.com/
 repo.fedora.md/
 repo.iut.ac.ir/
+repo.ugm.ac.id/
 rpmfind.net/
 rsync.fedora.md/
 rsync.mirrors.163.com/
@@ -155,7 +155,6 @@ www.fedora.md/
 www.garr.it/
 www.gatech.edu/
 www.gtlib.gatech.edu/
-www.halifax.rwth-aachen.de/
 www.hashy0917.net/
 www.hoasted.com/
 www.hs-esslingen.de/
