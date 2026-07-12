@@ -15,11 +15,11 @@ almalinux-mirror.tpa.hivelocity.net/
 almalinux-mirror.unifique.cloud/
 almalinux-mirror.yucca.net/
 almalinux.elhacker.net/
+almalinux.excellmedia.net/
 almalinux.interhost.co.il/
 almalinux.ip-connect.info/
 almalinux.ip-connect.vn.ua/
 almalinux.ipacct.com/
-almalinux.jetserver.co.il/
 almalinux.koyanet.lv/
 almalinux.linuxpatch.com/
 almalinux.mirror-services.net/
@@ -99,7 +99,6 @@ distrohub.kyiv.ua/
 diyarciftci.xyz/
 docker.ru/
 doit.missouri.edu/
-domainesia.com/
 dotsrc.org/
 dsu.edu/
 ekiphost.com/
@@ -126,6 +125,7 @@ ftp.csuc.cat/
 ftp.cwuni-bayreuth.de/
 ftp.fau.de/
 ftp.gwdg.de/
+ftp.halifax.rwth-aachen.de/
 ftp.iij.ad.jp/
 ftp.jaist.ac.jp/
 ftp.linux.cz/
@@ -184,7 +184,6 @@ it2.mirror.vhosting-it.com/
 itc.zju.edu.cn/
 ixirhost.com/
 jagoanhosting.com/
-jetserver.co.il/
 jingk.ai/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
@@ -197,7 +196,6 @@ leaseweb.com/
 lidsol.fi-b.unam.mx/
 lidsol.unam.mx/
 linux-mirrors.fnal.gov/
-linux.domainesia.com/
 linux.duke.edu/
 linux.ncsu.edu/
 linuxpatch.com/
@@ -377,7 +375,6 @@ mirror.us-midwest-1.nexcess.net/
 mirror.us.mirhosting.net/
 mirror.usi.edu/
 mirror.veesp.com/
-mirror.veritescil.com.tr/
 mirror.vpsnet.com/
 mirror.vsys.host/
 mirror.vtti.vt.edu/
@@ -514,6 +511,7 @@ rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
 rsync.yuki.net.uk/
 ruk-com.cloud/
+rwth-aachen.de/
 sabay.com.kh/
 savoirfairelinux.com/
 sci.nju.edu.cn/
@@ -598,6 +596,7 @@ www.domainhizmetleri.com/
 www.edgoo.io/
 www.elhacker.net/
 www.esecuredata.com/
+www.excellmedia.net/
 www.exoscale.com/
 www.fastly.com/
 www.fi.muni.cz/
@@ -702,7 +701,6 @@ www.ukservers.com/
 www.uni-bayreuth.de/
 www.uni-ruse.bg/
 www.upr.edu/
-www.veritescil.com.tr/
 www.vhosting-it.com/
 www.virtono.com/
 www.vodafone.cz/
