@@ -110,6 +110,7 @@ is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
 kartolo.sby.datautama.net.id/
+kebo.pens.ac.id/
 kozyatagi.mirror.guzel.net.tr/
 kr.mirror.tefexia.net/
 la.mirrors.clouvider.net/
