@@ -183,6 +183,7 @@ mirror.braindrainlan.nu/
 mirror.cloudhosting.lv/
 mirror.cogentco.com/
 mirror.corbina.net/
+mirror.cov.ukservers.com/
 mirror.cpsc.ucalgary.ca/
 mirror.creoline.net/
 mirror.csclub.uwaterloo.ca/
