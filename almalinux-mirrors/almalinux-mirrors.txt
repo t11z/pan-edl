@@ -15,6 +15,7 @@ almalinux-mirror.tpa.hivelocity.net/
 almalinux-mirror.unifique.cloud/
 almalinux-mirror.yucca.net/
 almalinux.elhacker.net/
+almalinux.excellmedia.net/
 almalinux.interhost.co.il/
 almalinux.ip-connect.info/
 almalinux.ip-connect.vn.ua/
@@ -62,7 +63,6 @@ atl.mirrors.ezscale.cloud/
 atl.mirrors.knownhost.com/
 aws.amazon.com/
 azvps.vn/
-beltelecom.by/
 bharatdatacenter.com/
 bitency.nl/
 blog.almalinux.org/
@@ -220,6 +220,7 @@ mirror.23m.com/
 mirror.2degrees.nz/
 mirror.a1.mk/
 mirror.aarnet.edu.au/
+mirror.accum.se/
 mirror.africloud.com/
 mirror.airnet.uz/
 mirror.alastyr.com/
@@ -238,6 +239,7 @@ mirror.ati.tn/
 mirror.az31.cloudpropeller.com/
 mirror.azvps.vn/
 mirror.bahnhof.net/
+mirror.bf-net.ch/
 mirror.bharatdatacenter.com/
 mirror.bitency.nl/
 mirror.cedia.org.ec/
@@ -252,7 +254,6 @@ mirror.cov.ukservers.com/
 mirror.cpsc.ucalgary.ca/
 mirror.csclub.uwaterloo.ca/
 mirror.dal.nexril.net/
-mirror.datacenter.by/
 mirror.datamossa.io/
 mirror.de.leaseweb.net/
 mirror.dewabiz.com/
@@ -392,7 +393,6 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
-mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.binaryracks.com/
@@ -425,6 +425,7 @@ mirrors.nav.ro/
 mirrors.neterra.net/
 mirrors.nhanhoa.com/
 mirrors.nju.edu.cn/
+mirrors.nxthost.com/
 mirrors.oblivion.online/
 mirrors.ocf.berkeley.edu/
 mirrors.onenet.net/
@@ -438,7 +439,6 @@ mirrors.storpool.com/
 mirrors.teamcloud.am/
 mirrors.tencent.com/
 mirrors.tino.org/
-mirrors.ucr.ac.cr/
 mirrors.ukfast.co.uk/
 mirrors.uni-ruse.bg/
 mirrors.upr.edu/
@@ -560,8 +560,8 @@ www.4psa.com/
 www.Linux.ec/
 www.VPSnet.com/
 www.aarnet.edu.au/
+www.accum.se/
 www.alastyr.com/
-www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -596,6 +596,7 @@ www.domainhizmetleri.com/
 www.edgoo.io/
 www.elhacker.net/
 www.esecuredata.com/
+www.excellmedia.net/
 www.exoscale.com/
 www.fastly.com/
 www.fi.muni.cz/
@@ -653,6 +654,7 @@ www.nforce.com/
 www.nic.cz/
 www.nic.funet.fi/
 www.nodespace.com/
+www.nxthost.com/
 www.onenet.net/
 www.ovhcloud.com/
 www.ox.ac.uk/
@@ -690,7 +692,6 @@ www.transip.nl/
 www.trex.fi/
 www.twds.com.tw/
 www.uam.es/
-www.ucr.ac.cr/
 www.ucsb.edu/
 www.uib.no/
 www.ukraine.com.ua/
