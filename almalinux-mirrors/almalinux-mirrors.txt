@@ -15,6 +15,7 @@ almalinux-mirror.tpa.hivelocity.net/
 almalinux-mirror.unifique.cloud/
 almalinux-mirror.yucca.net/
 almalinux.elhacker.net/
+almalinux.excellmedia.net/
 almalinux.interhost.co.il/
 almalinux.ip-connect.info/
 almalinux.ip-connect.vn.ua/
@@ -27,6 +28,7 @@ almalinux.mirror.digitalpacific.com.au/
 almalinux.mirror.garr.it/
 almalinux.mirror.globo.tech/
 almalinux.mirror.katapult.io/
+almalinux.mirror.liquidtelecom.com/
 almalinux.mirror.liteserver.nl/
 almalinux.mirror.net.za/
 almalinux.mirror.scopesky.com/
@@ -311,6 +313,7 @@ mirror.linux.ec/
 mirror.linux.ncsu.edu/
 mirror.liteserver.nl/
 mirror.lyrahosting.com/
+mirror.maeen.sa/
 mirror.mangohost.net/
 mirror.maple-hosting.com/
 mirror.marwan.ma/
@@ -324,7 +327,6 @@ mirror.mtl2.ca.leaseweb.net/
 mirror.net.za/
 mirror.netsite.dk/
 mirror.netzwerge.de/
-mirror.nevacloud.com/
 mirror.nforce.com/
 mirror.nishi.network/
 mirror.nl.altushost.com/
@@ -332,7 +334,7 @@ mirror.nl.leaseweb.net/
 mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
 mirror.nodespace.com/
-mirror.ossplanet.net/
+mirror.nyist.edu.cn/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
 mirror.parsdev.com/
@@ -419,7 +421,6 @@ mirrors.ipserverone.com/
 mirrors.iu13.net/
 mirrors.krnk.org/
 mirrors.melbourne.co.uk/
-mirrors.mvps.net/
 mirrors.nav.ro/
 mirrors.neterra.net/
 mirrors.nhanhoa.com/
@@ -459,7 +460,6 @@ muug.ca/
 nchc.org.tw/
 net.sjtu.edu.cn/
 neterra.ne/
-nevacloud.com/
 nexril.net/
 nhanhoa.com/
 nl.mirror.flokinet.net/
@@ -477,7 +477,6 @@ opencolo.mm.fcix.net/
 opensource.fb.com/
 or-mirror.iwebfusion.net/
 ord.mirror.rackspace.com/
-ossplanet.net/
 osuosl.org/
 ourhost.az/
 parsdev.com/
@@ -596,6 +595,7 @@ www.domainhizmetleri.com/
 www.edgoo.io/
 www.elhacker.net/
 www.esecuredata.com/
+www.excellmedia.net/
 www.exoscale.com/
 www.fastly.com/
 www.fi.muni.cz/
@@ -634,14 +634,15 @@ www.knownhost.com/
 www.lchs.com.au/
 www.limda.net/
 www.linkedin.com/
+www.liquid.tech/
 www.liquidweb.com/
 www.liteserver.nl/
 www.lysator.liu.se/
+www.maeen.sa/
 www.maple-hosting.com/
 www.melbourne.co.uk/
 www.meowsmp.net/
 www.moack.co.kr/
-www.mvps.net/
 www.nav.ro/
 www.netdirekt.com.tr/
 www.netforce.company/
@@ -652,6 +653,7 @@ www.nic.cz/
 www.nic.funet.fi/
 www.nodespace.com/
 www.nxthost.com/
+www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
 www.ox.ac.uk/
