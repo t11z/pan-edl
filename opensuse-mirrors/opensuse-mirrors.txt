@@ -87,7 +87,6 @@ mirror.uepg.br/
 mirror.ufscar.br/
 mirror.umd.edu/
 mirror.verinomi.com/
-mirror.vtti.vt.edu/
 mirror.xenyth.net/
 mirror1.hs-esslingen.de/
 mirrors.163.com/
@@ -192,5 +191,4 @@ www.uninett.no/
 www.ustc.edu.cn/
 www.verinomi.com/
 www.vodafone.cz/
-www.vtti.vt.edu/
 www.zju.edu.cn/
