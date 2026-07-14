@@ -164,6 +164,7 @@ linux.purple-cat.net/
 linuxsoft.cern.ch/
 merlin.fit.vutbr.cz/
 miroir.univ-lorraine.fr/
+mirror-mk.interspace.com/
 mirror-prg.webglobe.com/
 mirror.0x626b.com/
 mirror.23m.com/
