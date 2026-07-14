@@ -58,6 +58,7 @@ ftp.lanet.kr/
 ftp.linux.cz/
 ftp.linux.edu.lv/
 ftp.linux.org.tr/
+ftp.linux.ro/
 ftp.lip6.fr/
 ftp.litnet.lt/
 ftp.ludd.ltu.se/
@@ -117,6 +118,7 @@ la.mirrors.clouvider.net/
 labs.eif.urjc.es/
 linux.domainesia.com/
 linux.yz.yamagata-u.ac.jp/
+mir.linux.kg/
 miroir.univ-lorraine.fr/
 mirror-gw.elastis.id/
 mirror-hk.koddos.net/
@@ -137,6 +139,7 @@ mirror.aptus.co.tz/
 mirror.arizona.edu/
 mirror.arvancloud.ir/
 mirror.as.kamatera.com/
+mirror.as210890.net/
 mirror.as29550.net/
 mirror.as43289.net/
 mirror.ati.tn/
@@ -293,6 +296,7 @@ mirror.one.com/
 mirror.ordunet.ge/
 mirror.ossplanet.net/
 mirror.ourhost.az/
+mirror.overthewire.com.au/
 mirror.ox.ac.uk/
 mirror.pilotfiber.com/
 mirror.pit.teraswitch.com/
@@ -496,6 +500,7 @@ pkg.adfinis.com/
 plug-mirror.rcac.purdue.edu/
 ports.ubuntu.moon127.net/
 pubmirrors.dal.corespace.com/
+rep-ubuntu-il.upress.io/
 repo.huaweicloud.com/
 repo.ialab.dsu.edu/
 repo.iut.ac.ir/
@@ -563,6 +568,7 @@ ubuntu.mirror.garr.it/
 ubuntu.mirror.globo.tech/
 ubuntu.mirror.gnc.am/
 ubuntu.mirror.intermax.nl/
+ubuntu.mirror.linux.ro/
 ubuntu.mirror.lrz.de/
 ubuntu.mirror.net.za/
 ubuntu.mirror.rafal.ca/
@@ -575,6 +581,7 @@ ubuntu.mirror.true.nl/
 ubuntu.mirror.tudos.de/
 ubuntu.mirror.vu.lt/
 ubuntu.mirror.wearetriple.com/
+ubuntu.mirrors.linux.ro/
 ubuntu.mirrors.omnilance.com/
 ubuntu.mirrors.ovh.net/
 ubuntu.mirrors.pair.com/
