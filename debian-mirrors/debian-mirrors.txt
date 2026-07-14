@@ -65,6 +65,7 @@ debian.superhosting.cz/
 debian.telecoms.bg/
 debian.tu-bs.de/
 debian.tuxuri.com/
+debian.uchicago.edu/
 debian.uevora.pt/
 debian.uni-due.de/
 debian.unnoba.edu.ar/
@@ -312,6 +313,7 @@ mirrors.xtom.nl/
 mirrors.zju.edu.cn/
 mirrorservice.org/
 mr.heru.id/
+nl.mirror.flokinet.net/
 nl.mirrors.clouvider.net/
 nyc.mirrors.clouvider.net/
 opensource.nchc.org.tw/
