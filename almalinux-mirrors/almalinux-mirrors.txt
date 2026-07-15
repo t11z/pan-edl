@@ -54,6 +54,7 @@ almalinux.virtono.com/
 almalinux.vpsttt.com/
 almalinux.web.trex.fi/
 almamirror.netdirekt.com.tr/
+almamirror.phoenixnap.com/
 amscloud.co.id/
 aptus.co.tz/
 ash.mirrors.clouvider.net/
@@ -192,7 +193,6 @@ jingk.ai/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
-kifu.gov.hu/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 krnk.org/
@@ -331,7 +331,6 @@ mirror.netsite.dk/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nforce.com/
-mirror.niif.hu/
 mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
@@ -366,6 +365,7 @@ mirror.shedmtl.com/
 mirror.siena.edu/
 mirror.sitsa.com.ar/
 mirror.siwoo.org/
+mirror.sjtu.edu.cn/
 mirror.snu.edu.in/
 mirror.soonkeat.sg/
 mirror.speedkom.de/
@@ -388,7 +388,6 @@ mirror.vsys.host/
 mirror.wd6.net/
 mirror.wdc2.us.leaseweb.net/
 mirror.webworld.ie/
-mirror.wiseglobalsolutions.com/
 mirror.wonchan.net/
 mirror.xcobean.co.ke/
 mirror.xenyth.net/
@@ -397,6 +396,7 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
+mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.binaryracks.com/
@@ -463,6 +463,7 @@ mum.aws.repo.almalinux.org/
 muug.ca/
 nc-mirror.iwebfusion.net/
 nchc.org.tw/
+net.sjtu.edu.cn/
 neterra.ne/
 nevacloud.com/
 nexril.net/
@@ -487,6 +488,7 @@ osuosl.org/
 ourhost.az/
 parsdev.com/
 per.aws.repo.almalinux.org/
+phoenixnap.com/
 phx.mirrors.clouvider.net/
 pit.mirror.jurassicinnovations.com/
 pkg.adfinis-on-exoscale.ch/
@@ -531,6 +533,7 @@ siliconhill.cz/
 sindad.com/
 snu.edu.in/
 soonkeat.sg/
+southfront.mm.fcix.net/
 stix.mm.fcix.net/
 storpool.com/
 syd.mirror.rackspace.com/
@@ -567,6 +570,7 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
+www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -714,7 +718,6 @@ www.vodafone.cz/
 www.wd6.net/
 www.wearetriple.com/
 www.webworld.ie/
-www.wiseglobalsolutions.com/
 www.xeonbd.com/
 www.yamagata-u.ac.jp/
 www.yuccatelecom.com/
