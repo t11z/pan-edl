@@ -10,6 +10,7 @@ distro.ibiblio.org/
 distrohub.kyiv.ua/
 dotsrc.org/
 download.nus.edu.sg/
+download.opensuse.id/
 download.opensuse.org/
 en.opensuse.org/
 espejito.fder.edu.uy/
@@ -63,6 +64,7 @@ mirror.dc.uz/
 mirror.dogado.de/
 mirror.easyname.at/
 mirror.ette.biz/
+mirror.fcix.net/
 mirror.firstyear.id.au/
 mirror.freedif.org/
 mirror.hashy0917.net/
@@ -109,6 +111,7 @@ opensuse-mirror-gce-us.susecloud.net/
 opensuse.0x0.st/
 opensuse.c3sl.ufpr.br/
 opensuse.ic.ufmt.br/
+opensuse.id/
 opensuse.ip-connect.info/
 opensuse.ipacct.com/
 opensuse.koyanet.lv/
