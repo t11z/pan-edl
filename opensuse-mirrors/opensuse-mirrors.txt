@@ -63,7 +63,6 @@ mirror.dc.uz/
 mirror.dogado.de/
 mirror.easyname.at/
 mirror.ette.biz/
-mirror.fcix.net/
 mirror.firstyear.id.au/
 mirror.freedif.org/
 mirror.hashy0917.net/
