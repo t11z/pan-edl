@@ -1,6 +1,5 @@
 0-1.ir/
 23m.com/
-a1.mk/
 a2hosting.com/
 africloud.com/
 airnet.uz/
@@ -15,7 +14,6 @@ almalinux-mirror.tpa.hivelocity.net/
 almalinux-mirror.unifique.cloud/
 almalinux-mirror.yucca.net/
 almalinux.elhacker.net/
-almalinux.excellmedia.net/
 almalinux.interhost.co.il/
 almalinux.ip-connect.info/
 almalinux.ip-connect.vn.ua/
@@ -28,6 +26,7 @@ almalinux.mirror.digitalpacific.com.au/
 almalinux.mirror.garr.it/
 almalinux.mirror.globo.tech/
 almalinux.mirror.katapult.io/
+almalinux.mirror.liquidtelecom.com/
 almalinux.mirror.liteserver.nl/
 almalinux.mirror.net.za/
 almalinux.mirror.scopesky.com/
@@ -79,7 +78,6 @@ capital.hoster.kz/
 cat.pdx.edu/
 cc.in2p3.fr/
 chi.almalinux.osuosl.org/
-citrahost.com/
 cloudforest.co.th/
 cloudpropeller.com/
 cofractal-ewr.mm.fcix.net/
@@ -132,6 +130,7 @@ ftp.iij.ad.jp/
 ftp.jaist.ac.jp/
 ftp.linux.cz/
 ftp.lug.ro/
+ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
 ftp.sakura.ad.jp/
@@ -148,6 +147,7 @@ gigenet.com/
 gigsouth.mm.fcix.net/
 github.com/
 globo.tech/
+gofiber.vn/
 gozunga.com/
 gsl-syd.mm.fcix.net/
 hcc-mirror.unl.edu/
@@ -159,6 +159,7 @@ hnd.cl/
 hnl.fastly.repo.almalinux.org/
 home.cern/
 host4.biz/
+hostbaran.com/
 hoster.kz/
 hosterion.ro/
 hostico.ro/
@@ -190,7 +191,6 @@ jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
 kozyatagi.mirror.guzel.net.tr/
-krfoss.org/
 krnk.org/
 la.mirrors.clouvider.net/
 leaseweb.com/
@@ -216,7 +216,6 @@ mirror.01link.hk/
 mirror.0x626b.com/
 mirror.23m.com/
 mirror.2degrees.nz/
-mirror.a1.mk/
 mirror.aarnet.edu.au/
 mirror.accum.se/
 mirror.africloud.com/
@@ -243,12 +242,12 @@ mirror.bitency.nl/
 mirror.cedia.org.ec/
 mirror.ch.altushost.com/
 mirror.chpc.utah.edu/
-mirror.citrahost.com/
 mirror.clarkson.edu/
 mirror.cloudpropeller.com/
 mirror.cogentco.com/
 mirror.colocenter.nl/
 mirror.cov.ukservers.com/
+mirror.cpsc.ucalgary.ca/
 mirror.csclub.uwaterloo.ca/
 mirror.dal.nexril.net/
 mirror.datacenter.by/
@@ -283,6 +282,7 @@ mirror.hnd.cl/
 mirror.hoasted.com/
 mirror.host.ag/
 mirror.host4biz.eu/
+mirror.hostbaran.com/
 mirror.hoster.kz/
 mirror.hosthink.net/
 mirror.hostiko.network/
@@ -301,7 +301,6 @@ mirror.jingk.ai/
 mirror.junda.nl/
 mirror.karneval.cz/
 mirror.kku.ac.th/
-mirror.krfoss.org/
 mirror.lchs.network/
 mirror.limda.net/
 mirror.linux.duke.edu/
@@ -323,7 +322,6 @@ mirror.mtl2.ca.leaseweb.net/
 mirror.net.za/
 mirror.netsite.dk/
 mirror.netzwerge.de/
-mirror.nevacloud.com/
 mirror.nforce.com/
 mirror.nishi.network/
 mirror.nl.altushost.com/
@@ -348,6 +346,7 @@ mirror.realcompute.io/
 mirror.reenigne.net/
 mirror.renu.ac.ug/
 mirror.rnet.missouri.edu/
+mirror.rootlicense.com/
 mirror.sabay.com.kh/
 mirror.se.altushost.com/
 mirror.servaxnet.com/
@@ -358,13 +357,11 @@ mirror.shedmtl.com/
 mirror.siena.edu/
 mirror.sitsa.com.ar/
 mirror.siwoo.org/
-mirror.sjtu.edu.cn/
 mirror.snu.edu.in/
 mirror.soonkeat.sg/
 mirror.speedkom.de/
 mirror.steadfastnet.com/
 mirror.team-cymru.com/
-mirror.telepoint.bg/
 mirror.terrahost.no/
 mirror.transip.net/
 mirror.truenetwork.ru/
@@ -407,6 +404,7 @@ mirrors.fibianet.dk/
 mirrors.ft.uam.es/
 mirrors.gbnetwork.com/
 mirrors.gigenet.com/
+mirrors.gofiber.vn/
 mirrors.hit.edu.cn/
 mirrors.hosterion.ro/
 mirrors.hostever.com/
@@ -456,9 +454,7 @@ mum.aws.repo.almalinux.org/
 muug.ca/
 nc-mirror.iwebfusion.net/
 nchc.org.tw/
-net.sjtu.edu.cn/
 neterra.ne/
-nevacloud.com/
 nexril.net/
 nhanhoa.com/
 nl.mirror.flokinet.net/
@@ -501,6 +497,7 @@ repo.ifca.es/
 repo.shinjiru.com/
 rit.edu/
 ro.mirror.flokinet.net/
+rootlicense.com/
 rpmfind.net/
 rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
@@ -533,7 +530,6 @@ tc.edu.tw/
 team-cymru.com/
 team.blue/
 teamhydra.dev/
-telepoint.bg/
 teraswitch.com/
 terrahost.no/
 thegigabit.com/
@@ -541,6 +537,7 @@ tino.org/
 truenetwork.ru/
 tx-mirror.tier.net/
 tzulo.com/
+ucalgary.ca/
 uepg.br/
 uk.mirrors.clouvider.net/
 unifique.com.br/
@@ -596,7 +593,6 @@ www.domainhizmetleri.com/
 www.edgoo.io/
 www.elhacker.net/
 www.esecuredata.com/
-www.excellmedia.net/
 www.exoscale.com/
 www.fastly.com/
 www.fi.muni.cz/
@@ -636,8 +632,10 @@ www.knownhost.com/
 www.lchs.com.au/
 www.limda.net/
 www.linkedin.com/
+www.liquid.tech/
 www.liquidweb.com/
 www.liteserver.nl/
+www.lysator.liu.se/
 www.maeen.sa/
 www.maple-hosting.com/
 www.melbourne.co.uk/
