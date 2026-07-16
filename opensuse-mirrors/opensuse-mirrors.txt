@@ -13,7 +13,6 @@ download.nus.edu.sg/
 download.opensuse.id/
 download.opensuse.org/
 en.opensuse.org/
-espejito.fder.edu.uy/
 ettebiz.com/
 fcix.net/
 fr2.rpmfind.net/
@@ -152,7 +151,6 @@ www.csc.fi/
 www.deac.eu/
 www.dogado.de/
 www.easyname.com/
-www.fder.edu.uy/
 www.fedora.md/
 www.free.fr/
 www.garr.it/
