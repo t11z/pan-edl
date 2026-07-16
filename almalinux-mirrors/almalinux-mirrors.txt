@@ -84,6 +84,7 @@ citrahost.com/
 cloudforest.co.th/
 cloudpropeller.com/
 cofractal-ewr.mm.fcix.net/
+cofractal-sea.mm.fcix.net/
 colocenter.nl/
 computing.ifca.es/
 cosi.clarkson.edu/
@@ -135,7 +136,6 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
-ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -151,6 +151,7 @@ github.com/
 globo.tech/
 gofiber.vn/
 gozunga.com/
+gsl-syd.mm.fcix.net/
 hcc-mirror.unl.edu/
 hcc.unl.edu/
 heru.id/
@@ -189,7 +190,6 @@ ixirhost.com/
 jagoanhosting.com/
 jetserver.co.il/
 jingk.ai/
-jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
 kozyatagi.mirror.guzel.net.tr/
@@ -271,6 +271,7 @@ mirror.elice.io/
 mirror.esecuredata.com/
 mirror.eu.4psacloud.com/
 mirror.facebook.net/
+mirror.fcix.net/
 mirror.fiu.edu/
 mirror.flo.c-f.ro/
 mirror.fmt-2.serverforge.org/
@@ -340,7 +341,6 @@ mirror.nyist.edu.cn/
 mirror.ossplanet.net/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
-mirror.papua.go.id/
 mirror.parsdev.com/
 mirror.pit.teraswitch.com/
 mirror.plusline.net/
@@ -397,6 +397,7 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
+mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.binaryracks.com/
@@ -477,6 +478,7 @@ nyc.almalinux.osuosl.org/
 nyc.mirrors.clouvider.net/
 nyuad.nyu.edu/
 ocf.berkeley.edu/
+ohioix.mm.fcix.net/
 oit.gatech.edu/
 opencolo.mm.fcix.net/
 opensource.fb.com/
@@ -489,7 +491,6 @@ parsdev.com/
 per.aws.repo.almalinux.org/
 phoenixnap.com/
 phx.mirrors.clouvider.net/
-pit.mirror.jurassicinnovations.com/
 pkg.adfinis-on-exoscale.ch/
 plug-mirror.rcac.purdue.edu/
 purduelug.org/
@@ -513,7 +514,6 @@ rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
 rsync.gtlib.gatech.edu/
 rsync.mirror.gi.co.id/
-rsync.mirror.papua.go.id/
 rsync.mirrorservice.org/
 rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
@@ -570,6 +570,7 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
+www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -668,7 +669,6 @@ www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
 www.ox.ac.uk/
-www.papua.go.id/
 www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
@@ -679,7 +679,6 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
-www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
@@ -730,4 +729,5 @@ yandex.ru/
 yer.az/
 yuki.net.uk/
 yxeix.mm.fcix.net/
+ziply.mm.fcix.net/
 ziplyfiber.com/
