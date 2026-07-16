@@ -64,6 +64,7 @@ atl.mirrors.ezscale.cloud/
 atl.mirrors.knownhost.com/
 aws.amazon.com/
 azvps.vn/
+beltelecom.by/
 bharatdatacenter.com/
 bitency.nl/
 blog.almalinux.org/
@@ -103,6 +104,7 @@ doit.missouri.edu/
 domainesia.com/
 dotsrc.org/
 dsu.edu/
+ekiphost.com/
 elice.io/
 elmirror.cl/
 eng.mephi.ru/
@@ -157,7 +159,6 @@ heru.id/
 hivelocity.net/
 hkg.mirror.rackspace.com/
 hnd.cl/
-hnl.fastly.repo.almalinux.org/
 home.cern/
 host4.biz/
 hostarts.dz/
@@ -182,7 +183,6 @@ iphost.md/
 ipinfo.io/
 ir.almalinux.sindad.cloud/
 is.mirror.flokinet.net/
-it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
 itc.zju.edu.cn/
 ixirhost.com/
@@ -197,6 +197,8 @@ krfoss.org/
 krnk.org/
 la.mirrors.clouvider.net/
 leaseweb.com/
+lidsol.fi-b.unam.mx/
+lidsol.unam.mx/
 linux-mirrors.fnal.gov/
 linux.domainesia.com/
 linux.duke.edu/
@@ -219,7 +221,6 @@ mirror.23m.com/
 mirror.2degrees.nz/
 mirror.a1.mk/
 mirror.aarnet.edu.au/
-mirror.accum.se/
 mirror.africloud.com/
 mirror.airnet.uz/
 mirror.alastyr.com/
@@ -253,6 +254,7 @@ mirror.cov.ukservers.com/
 mirror.cpsc.ucalgary.ca/
 mirror.csclub.uwaterloo.ca/
 mirror.dal.nexril.net/
+mirror.datacenter.by/
 mirror.datamossa.io/
 mirror.de.leaseweb.net/
 mirror.dewabiz.com/
@@ -263,6 +265,7 @@ mirror.dk.team.blue::almalinux/
 mirror.docker.ru/
 mirror.dogado.de/
 mirror.domainhizmetleri.com/
+mirror.ekiphost.com/
 mirror.elice.io/
 mirror.esecuredata.com/
 mirror.eu.4psacloud.com/
@@ -390,11 +393,12 @@ mirror.xcobean.co.ke/
 mirror.xenyth.net/
 mirror.xeonbd.com/
 mirror.yandex.ru/
+mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
+mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
-mirrors.binaryracks.com/
 mirrors.bkns.vn/
 mirrors.bmcc.edu/
 mirrors.bytes.ua/
@@ -563,8 +567,8 @@ www.4psa.com/
 www.Linux.ec/
 www.VPSnet.com/
 www.aarnet.edu.au/
-www.accum.se/
 www.alastyr.com/
+www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -576,7 +580,6 @@ www.ati.tn/
 www.bahnhof.net/
 www.behostings.com/
 www.belnet.be/
-www.binaryracks.com/
 www.bkns.vn/
 www.bme.hu/
 www.c0urier.net/
@@ -721,6 +724,7 @@ xcobean.co.ke/
 xenyth.net/
 xtom.com/
 yandex.ru/
+yer.az/
 yuki.net.uk/
 yxeix.mm.fcix.net/
 ziply.mm.fcix.net/
