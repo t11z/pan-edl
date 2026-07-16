@@ -181,7 +181,6 @@ rocky.mirror.liquidtelecom.com/
 rocky.mirror.shastacoe.net/
 rocky.mirror.thegigabit.com/
 rocky.reloumirrors.net/
-rocky.task.gda.pl/
 rockylinux.anexia.at/
 rockylinux.hi.no/
 rockylinux.mirrorservice.org/
@@ -195,7 +194,6 @@ ru.dyi.ng/
 ru.mirrors.cicku.me/
 sa.dyi.ng/
 sa.mirrors.cicku.me/
-task.gda.pl/
 teamcloud.am/
 telepoint.bg/
 thegigabit.com/
