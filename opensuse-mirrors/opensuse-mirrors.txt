@@ -31,7 +31,6 @@ ftp.linux.cz/
 ftp.linux.org.tr/
 ftp.man.poznan.pl/
 ftp.psnc.pl/
-ftp.rnl.tecnico.ulisboa.pt/
 ftp.rz.uni-wuerzburg.de/
 ftp.sh.cvut.cz/
 ftp.tu-chemnitz.de/
@@ -178,7 +177,6 @@ www.nyist.edu.cn/
 www.psnc.pl/
 www.rackspace.com/
 www.rainside.sk/
-www.rnl.tecnico.ulisboa.pt/
 www.schlundtech.com/
 www.siena.edu/
 www.siliconhill.cz/
