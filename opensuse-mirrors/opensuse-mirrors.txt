@@ -7,7 +7,6 @@ cloud.mu/
 codingflyboy.mm.fcix.net/
 dc.uz/
 distro.ibiblio.org/
-distrohub.kyiv.ua/
 dotsrc.org/
 download.nus.edu.sg/
 download.opensuse.id/
