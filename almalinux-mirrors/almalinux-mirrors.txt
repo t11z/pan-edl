@@ -102,7 +102,6 @@ doit.missouri.edu/
 domainesia.com/
 dotsrc.org/
 dsu.edu/
-ekiphost.com/
 elice.io/
 elmirror.cl/
 eng.mephi.ru/
@@ -265,7 +264,6 @@ mirror.dk.team.blue::almalinux/
 mirror.docker.ru/
 mirror.dogado.de/
 mirror.domainhizmetleri.com/
-mirror.ekiphost.com/
 mirror.elice.io/
 mirror.esecuredata.com/
 mirror.eu.4psacloud.com/
@@ -364,13 +362,11 @@ mirror.shedmtl.com/
 mirror.siena.edu/
 mirror.sitsa.com.ar/
 mirror.siwoo.org/
-mirror.sjtu.edu.cn/
 mirror.snu.edu.in/
 mirror.soonkeat.sg/
 mirror.speedkom.de/
 mirror.steadfastnet.com/
 mirror.team-cymru.com/
-mirror.telepoint.bg/
 mirror.terrahost.no/
 mirror.transip.net/
 mirror.truenetwork.ru/
@@ -461,7 +457,6 @@ msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
 muug.ca/
 nchc.org.tw/
-net.sjtu.edu.cn/
 neterra.ne/
 nevacloud.com/
 nexril.net/
@@ -539,7 +534,6 @@ tc.edu.tw/
 team-cymru.com/
 team.blue/
 teamhydra.dev/
-telepoint.bg/
 teraswitch.com/
 terrahost.no/
 thegigabit.com/
