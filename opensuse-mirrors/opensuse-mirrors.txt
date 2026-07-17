@@ -117,6 +117,7 @@ opensuse.koyanet.lv/
 opensuse.mirror-services.net/
 opensuse.mirror.garr.it/
 opensuse.mirror.iphh.net/
+opensuse.mirror.liquidtelecom.com/
 opensuse.mirror.liteserver.nl/
 opensuse.mirrors.proxad.net/
 opensuse.org/
@@ -166,6 +167,7 @@ www.jaist.ac.jp/
 www.leaseweb.com/
 www.linux.cz/
 www.linux.org.tr/
+www.liquidtelecom.com/
 www.liteserver.nl/
 www.math.princeton.edu/
 www.nchc.org.tw/
