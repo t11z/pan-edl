@@ -14,6 +14,7 @@ alma.mirror.serversaustralia.com.au/
 almalinux-mirror.tpa.hivelocity.net/
 almalinux-mirror.unifique.cloud/
 almalinux-mirror.yucca.net/
+almalinux.elhacker.net/
 almalinux.excellmedia.net/
 almalinux.interhost.co.il/
 almalinux.ip-connect.info/
@@ -182,6 +183,7 @@ ipinfo.io/
 ir.almalinux.sindad.cloud/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
+it2.mirror.vhosting-it.com/
 itc.zju.edu.cn/
 ixirhost.com/
 jagoanhosting.com/
@@ -342,6 +344,7 @@ mirror.parsdev.com/
 mirror.pit.teraswitch.com/
 mirror.plusline.net/
 mirror.previder.nl/
+mirror.ps.kz/
 mirror.rackspeed.de/
 mirror.raiolanetworks.com/
 mirror.randhost.com/
@@ -367,6 +370,7 @@ mirror.soonkeat.sg/
 mirror.speedkom.de/
 mirror.steadfastnet.com/
 mirror.team-cymru.com/
+mirror.telepoint.bg/
 mirror.terrahost.no/
 mirror.transip.net/
 mirror.truenetwork.ru/
@@ -456,7 +460,6 @@ mr.heru.id/
 msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
 muug.ca/
-nc-mirror.iwebfusion.net/
 nchc.org.tw/
 net.sjtu.edu.cn/
 neterra.ne/
@@ -506,6 +509,7 @@ ro.mirror.flokinet.net/
 rootlicense.com/
 rpmfind.net/
 rsync-linuxsoft.cern.ch/
+rsync.elhacker.net/
 rsync.gtlib.gatech.edu/
 rsync.mirror.gi.co.id/
 rsync.mirrorservice.org/
@@ -535,6 +539,7 @@ tc.edu.tw/
 team-cymru.com/
 team.blue/
 teamhydra.dev/
+telepoint.bg/
 teraswitch.com/
 terrahost.no/
 thegigabit.com/
@@ -595,6 +600,7 @@ www.digitalpacific.com.au/
 www.dogado.de/
 www.domainhizmetleri.com/
 www.edgoo.io/
+www.elhacker.net/
 www.esecuredata.com/
 www.excellmedia.net/
 www.exoscale.com/
@@ -664,6 +670,7 @@ www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
 www.previder.com/
+www.ps.kz/
 www.psnc.pl/
 www.rackspace.com/
 www.riken.jp/

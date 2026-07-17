@@ -164,7 +164,6 @@ mirror.cmkl.ac.th/
 mirror.cogentco.com/
 mirror.colocenter.nl/
 mirror.corbina.net/
-mirror.cosmiclinux.com/
 mirror.cov.ukservers.com/
 mirror.creoline.net/
 mirror.cs.jmu.edu/
@@ -404,7 +403,6 @@ mirrors.bangmod.cloud/
 mirrors.bfsu.edu.cn/
 mirrors.binaryracks.com/
 mirrors.bkns.vn/
-mirrors.bloomu.edu/
 mirrors.bmcc.edu/
 mirrors.c0urier.net/
 mirrors.cat.pdx.edu/
