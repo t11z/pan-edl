@@ -46,6 +46,7 @@ gb.dyi.ng/
 gb.mirrors.cicku.me/
 gozunga.com/
 hnd.cl/
+hostarts.dz/
 iad.mirror.rackspace.com/
 in.dyi.ng/
 in.mirrors.cicku.me/
@@ -74,6 +75,7 @@ mirror.freedif.org/
 mirror.gozunga.com/
 mirror.hashy0917.net/
 mirror.hnd.cl/
+mirror.hostarts.dz/
 mirror.hosthink.net/
 mirror.in2p3.fr/
 mirror.karneval.cz/
