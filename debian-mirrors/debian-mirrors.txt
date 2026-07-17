@@ -23,7 +23,6 @@ debian.cs.nycu.edu.tw/
 debian.csail.mit.edu/
 debian.csie.ntu.edu.tw/
 debian.dynamica.it/
-debian.envisagecloud.net.za/
 debian.ethz.ch/
 debian.grn.cat/
 debian.inf.tu-dresden.de/
@@ -51,6 +50,7 @@ debian.mithril.re/
 debian.mnet.bg/
 debian.nautile.nc/
 debian.netcologne.de/
+debian.netforce.hosting/
 debian.nic.cz/
 debian.obspm.fr/
 debian.osuosl.org/
