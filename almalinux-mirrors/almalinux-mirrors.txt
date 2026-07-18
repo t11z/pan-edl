@@ -365,6 +365,7 @@ mirror.soonkeat.sg/
 mirror.speedkom.de/
 mirror.steadfastnet.com/
 mirror.team-cymru.com/
+mirror.telepoint.bg/
 mirror.terrahost.no/
 mirror.transip.net/
 mirror.truenetwork.ru/
@@ -507,7 +508,6 @@ rsync.elhacker.net/
 rsync.gtlib.gatech.edu/
 rsync.mirror.gi.co.id/
 rsync.mirrorservice.org/
-rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
 rsync.yuki.net.uk/
 ruk-com.cloud/
@@ -533,6 +533,7 @@ tc.edu.tw/
 team-cymru.com/
 team.blue/
 teamhydra.dev/
+telepoint.bg/
 teraswitch.com/
 terrahost.no/
 thegigabit.com/
@@ -584,7 +585,6 @@ www.clouvider.com/
 www.codeforhost.com/
 www.cogentco.com/
 www.coreix.net/
-www.csc.fi/
 www.csuc.cat/
 www.cyberfolks.ro/
 www.deac.eu/
@@ -651,7 +651,6 @@ www.netsite.dk/
 www.netzwerge.de/
 www.nforce.com/
 www.nic.cz/
-www.nic.funet.fi/
 www.nodespace.com/
 www.nxthost.com/
 www.nyist.edu.cn/
