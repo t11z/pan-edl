@@ -180,7 +180,6 @@ ipinfo.io/
 ir.almalinux.sindad.cloud/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
-it2.mirror.vhosting-it.com/
 itc.zju.edu.cn/
 ixirhost.com/
 jagoanhosting.com/
@@ -218,6 +217,7 @@ mirror.23m.com/
 mirror.2degrees.nz/
 mirror.a1.mk/
 mirror.aarnet.edu.au/
+mirror.accum.se/
 mirror.africloud.com/
 mirror.airnet.uz/
 mirror.alastyr.com/
@@ -226,7 +226,6 @@ mirror.alma.lax1.serverforge.org/
 mirror.almalinux.peralex.com/
 mirror.almalinux.si/
 mirror.alwyzon.net/
-mirror.anquan.cl/
 mirror.aptus.co.tz/
 mirror.as3741.net/
 mirror.ath1.fusioned.net/
@@ -302,7 +301,6 @@ mirror.karneval.cz/
 mirror.kku.ac.th/
 mirror.krfoss.org/
 mirror.lchs.network/
-mirror.limda.net/
 mirror.linux.duke.edu/
 mirror.linux.ec/
 mirror.linux.ncsu.edu/
@@ -557,11 +555,11 @@ www.4psa.com/
 www.Linux.ec/
 www.VPSnet.com/
 www.aarnet.edu.au/
+www.accum.se/
 www.alastyr.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
-www.anquan.cl/
 www.ans.co.uk/
 www.anywair.com/
 www.arnes.si/
@@ -629,7 +627,6 @@ www.kent.ac.uk/
 www.kku.ac.th/
 www.knownhost.com/
 www.lchs.com.au/
-www.limda.net/
 www.linkedin.com/
 www.liquid.tech/
 www.liquidweb.com/
