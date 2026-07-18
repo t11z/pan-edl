@@ -91,7 +91,6 @@ mirror.verinomi.com/
 mirror.vtti.vt.edu/
 mirror.xenyth.net/
 mirror1.hs-esslingen.de/
-mirrors.163.com/
 mirrors.acm.wpi.edu/
 mirrors.bfsu.edu.cn/
 mirrors.dotsrc.org/
