@@ -91,7 +91,6 @@ mirror.verinomi.com/
 mirror.vtti.vt.edu/
 mirror.xenyth.net/
 mirror1.hs-esslingen.de/
-mirrors.163.com/
 mirrors.acm.wpi.edu/
 mirrors.bfsu.edu.cn/
 mirrors.dotsrc.org/
@@ -133,7 +132,6 @@ repo.iut.ac.ir/
 repo.ugm.ac.id/
 rpmfind.net/
 rsync.fedora.md/
-rsync.mirrors.163.com/
 rtinfo.indiana.edu/
 sci.nju.edu.cn/
 slc-mirror.opensuse.org/
@@ -144,7 +142,6 @@ tuna.moe/
 tux.rainside.sk/
 tynahost.com/
 uepg.br/
-www.163.com/
 www.acc.umu.se/
 www.accum.se/
 www.alwyzon.com/

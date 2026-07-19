@@ -338,6 +338,7 @@ mirror.parsdev.com/
 mirror.pit.teraswitch.com/
 mirror.plusline.net/
 mirror.previder.nl/
+mirror.ps.kz/
 mirror.rackspeed.de/
 mirror.raiolanetworks.com/
 mirror.randhost.com/
@@ -388,7 +389,7 @@ mirror.xeonbd.com/
 mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
-mirrors.aliyun.com/
+mirror1.sox.rs/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.bkns.vn/
@@ -414,7 +415,6 @@ mirrors.ipserverone.com/
 mirrors.iu13.net/
 mirrors.krnk.org/
 mirrors.melbourne.co.uk/
-mirrors.mvps.net/
 mirrors.nav.ro/
 mirrors.neterra.net/
 mirrors.nhanhoa.com/
@@ -556,7 +556,6 @@ www.Linux.ec/
 www.VPSnet.com/
 www.aarnet.edu.au/
 www.alastyr.com/
-www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -638,7 +637,6 @@ www.maple-hosting.com/
 www.melbourne.co.uk/
 www.meowsmp.net/
 www.moack.co.kr/
-www.mvps.net/
 www.nav.ro/
 www.netdirekt.com.tr/
 www.netforce.company/
@@ -657,6 +655,7 @@ www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
 www.previder.com/
+www.ps.kz/
 www.psnc.pl/
 www.rackspace.com/
 www.riken.jp/
@@ -674,6 +673,7 @@ www.siena.edu/
 www.sitsa.com.ar/
 www.siwoo.org/
 www.sonic.com/
+www.sox.rs/
 www.steadfast.net/
 www.swinburne.edu.au/
 www.telecomarmenia.am/
