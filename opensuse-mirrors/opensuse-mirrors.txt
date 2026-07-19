@@ -5,7 +5,6 @@ adfinis.com/
 cdn.opensuse.org/
 cloud.mu/
 codingflyboy.mm.fcix.net/
-dc.uz/
 distro.ibiblio.org/
 distrohub.kyiv.ua/
 dotsrc.org/
@@ -59,7 +58,7 @@ mirror.alwyzon.net/
 mirror.cedia.org.ec/
 mirror.clarkson.edu/
 mirror.csclub.uwaterloo.ca/
-mirror.dc.uz/
+mirror.datto.com/
 mirror.dogado.de/
 mirror.easyname.at/
 mirror.ette.biz/
