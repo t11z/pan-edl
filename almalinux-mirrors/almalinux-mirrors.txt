@@ -133,6 +133,7 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
+ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -189,7 +190,6 @@ jingk.ai/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
-kifu.gov.hu/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 krnk.org/
@@ -271,6 +271,7 @@ mirror.fiu.edu/
 mirror.flo.c-f.ro/
 mirror.fmt-2.serverforge.org/
 mirror.freedif.org/
+mirror.fysik.dtu.dk/
 mirror.gi.co.id/
 mirror.gozunga.com/
 mirror.grid.uchicago.edu/
@@ -324,7 +325,6 @@ mirror.netsite.dk/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nforce.com/
-mirror.niif.hu/
 mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
@@ -334,7 +334,6 @@ mirror.nodespace.com/
 mirror.nyist.edu.cn/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
-mirror.papua.go.id/
 mirror.parsdev.com/
 mirror.pit.teraswitch.com/
 mirror.plusline.net/
@@ -372,7 +371,6 @@ mirror.truenetwork.ru/
 mirror.twds.com.tw/
 mirror.tzulo.com/
 mirror.uepg.br/
-mirror.us-midwest-1.nexcess.net/
 mirror.us.mirhosting.net/
 mirror.usi.edu/
 mirror.veesp.com/
@@ -454,7 +452,6 @@ mobinhost.com/
 mr.heru.id/
 msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
-muug.ca/
 nchc.org.tw/
 net.sjtu.edu.cn/
 neterra.ne/
@@ -506,7 +503,6 @@ rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
 rsync.gtlib.gatech.edu/
 rsync.mirror.gi.co.id/
-rsync.mirror.papua.go.id/
 rsync.mirrorservice.org/
 rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
@@ -540,6 +536,7 @@ terrahost.no/
 thegigabit.com/
 tino.org/
 truenetwork.ru/
+tx-mirror.tier.net/
 tzulo.com/
 ucalgary.ca/
 uepg.br/
@@ -603,6 +600,7 @@ www.fi.muni.cz/
 www.fiu.edu/
 www.fnal.gov/
 www.fusioned.net/
+www.fysik.dtu.dk/
 www.garr.it/
 www.gbnetwork.com/
 www.gi.co.id/
@@ -636,7 +634,6 @@ www.lchs.com.au/
 www.limda.net/
 www.linkedin.com/
 www.liquid.tech/
-www.liquidweb.com/
 www.liteserver.nl/
 www.lysator.liu.se/
 www.maeen.sa/
@@ -658,7 +655,6 @@ www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
 www.ox.ac.uk/
-www.papua.go.id/
 www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
@@ -669,6 +665,7 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
+www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
@@ -686,6 +683,7 @@ www.swinburne.edu.au/
 www.telecomarmenia.am/
 www.tencent.com/
 www.thelefty.org/
+www.tier.net/
 www.tku.edu.tw/
 www.transip.nl/
 www.trex.fi/
