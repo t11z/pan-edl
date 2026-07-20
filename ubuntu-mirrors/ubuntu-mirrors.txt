@@ -597,7 +597,6 @@ ubuntu.phoenixnap.com/
 ubuntu.pishgaman.net/
 ubuntu.repo.cure.edu.uy/
 ubuntu.repo.unpas.ac.id/
-ubuntu.rsync.kr/
 ubuntu.securedservers.com/
 ubuntu.task.gda.pl/
 ubuntu.tuxuri.com/
