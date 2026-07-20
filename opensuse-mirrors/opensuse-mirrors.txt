@@ -19,6 +19,7 @@ fcix.net/
 fr2.rpmfind.net/
 free.nchc.org.tw/
 freedif.org/
+ftp.acc.umu.se/
 ftp.cc.uoc.gr/
 ftp.fedora.md/
 ftp.funet.fi/
@@ -53,6 +54,7 @@ mirror-br.opensuse.org/
 mirror-services.net/
 mirror.aardsoft.fi/
 mirror.aarnet.edu.au/
+mirror.accum.se/
 mirror.alwyzon.net/
 mirror.cedia.org.ec/
 mirror.clarkson.edu/
@@ -142,6 +144,8 @@ tux.rainside.sk/
 tynahost.com/
 uepg.br/
 www.163.com/
+www.acc.umu.se/
+www.accum.se/
 www.alwyzon.com/
 www.cc.uoc.gr/
 www.cedia.org.ec/
