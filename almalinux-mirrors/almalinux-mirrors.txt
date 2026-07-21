@@ -21,7 +21,6 @@ almalinux.ip-connect.info/
 almalinux.ip-connect.vn.ua/
 almalinux.ipacct.com/
 almalinux.jetserver.co.il/
-almalinux.koyanet.lv/
 almalinux.linuxpatch.com/
 almalinux.mirror-services.net/
 almalinux.mirror.digitalpacific.com.au/
@@ -132,6 +131,7 @@ ftp.linux.cz/
 ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
+ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -193,8 +193,6 @@ krfoss.org/
 krnk.org/
 la.mirrors.clouvider.net/
 leaseweb.com/
-lidsol.fi-b.unam.mx/
-lidsol.unam.mx/
 linux-mirrors.fnal.gov/
 linux.domainesia.com/
 linux.duke.edu/
@@ -330,6 +328,7 @@ mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
 mirror.nodespace.com/
 mirror.nyist.edu.cn/
+mirror.ossplanet.net/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
 mirror.parsdev.com/
@@ -386,7 +385,6 @@ mirror.xcobean.co.ke/
 mirror.xenyth.net/
 mirror.xeonbd.com/
 mirror.yandex.ru/
-mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
 mirrors.almalinux.org/
@@ -472,6 +470,7 @@ opencolo.mm.fcix.net/
 opensource.fb.com/
 or-mirror.iwebfusion.net/
 ord.mirror.rackspace.com/
+ossplanet.net/
 osuosl.org/
 ourhost.az/
 parsdev.com/
@@ -584,7 +583,6 @@ www.coreix.net/
 www.csc.fi/
 www.csuc.cat/
 www.cyberfolks.ro/
-www.deac.eu/
 www.digitalpacific.com.au/
 www.dogado.de/
 www.domainhizmetleri.com/
@@ -663,6 +661,7 @@ www.psnc.pl/
 www.rackspace.com/
 www.rrze.fau.de/
 www.rwts.com.au/
+www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
@@ -711,7 +710,6 @@ xcobean.co.ke/
 xenyth.net/
 xtom.com/
 yandex.ru/
-yer.az/
 yuki.net.uk/
 yxeix.mm.fcix.net/
 ziply.mm.fcix.net/
