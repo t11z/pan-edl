@@ -132,7 +132,6 @@ ftp.linux.cz/
 ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
-ftp.riken.jp/
 ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
@@ -239,6 +238,7 @@ mirror.bahnhof.net/
 mirror.bf-net.ch/
 mirror.bharatdatacenter.com/
 mirror.bitency.nl/
+mirror.cedia.org.ec/
 mirror.ch.altushost.com/
 mirror.chpc.utah.edu/
 mirror.citrahost.com/
@@ -355,7 +355,6 @@ mirror.server.net/
 mirror.sfo12.us.leaseweb.net/
 mirror.sg.gs/
 mirror.shedmtl.com/
-mirror.siena.edu/
 mirror.sitsa.com.ar/
 mirror.siwoo.org/
 mirror.sjtu.edu.cn/
@@ -575,6 +574,7 @@ www.belnet.be/
 www.bkns.vn/
 www.bme.hu/
 www.c0urier.net/
+www.cedia.edu.ec/
 www.chpc.utah.edu/
 www.chroot.ro/
 www.cixug.gal/
@@ -663,7 +663,6 @@ www.previder.com/
 www.ps.kz/
 www.psnc.pl/
 www.rackspace.com/
-www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
 www.sakura.ad.jp/
@@ -674,7 +673,6 @@ www.server.net/
 www.sfu.ca/
 www.shastacoe.org/
 www.shinjiru.com/
-www.siena.edu/
 www.sitsa.com.ar/
 www.siwoo.org/
 www.sonic.com/
