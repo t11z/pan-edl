@@ -133,6 +133,7 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
+ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -231,7 +232,6 @@ mirror.anquan.cl/
 mirror.aptus.co.tz/
 mirror.as3741.net/
 mirror.ath1.fusioned.net/
-mirror.ati.tn/
 mirror.az31.cloudpropeller.com/
 mirror.azvps.vn/
 mirror.bahnhof.net/
@@ -569,7 +569,6 @@ www.anquan.cl/
 www.ans.co.uk/
 www.anywair.com/
 www.arnes.si/
-www.ati.tn/
 www.bahnhof.net/
 www.behostings.com/
 www.belnet.be/
@@ -667,6 +666,7 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
+www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/

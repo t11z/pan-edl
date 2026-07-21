@@ -88,6 +88,7 @@ mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nsc.liu.se/
 mirror.nyist.edu.cn/
+mirror.ord.adaptivedatanetworks.com/
 mirror.ourhost.az/
 mirror.pangkin.com/
 mirror.plusline.net/
