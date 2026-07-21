@@ -157,7 +157,6 @@ hkg.mirror.rackspace.com/
 hnd.cl/
 hnl.fastly.repo.almalinux.org/
 home.cern/
-host4.biz/
 hostarts.dz/
 hostbaran.com/
 hoster.kz/
@@ -280,7 +279,6 @@ mirror.hep.gg/
 mirror.hnd.cl/
 mirror.hoasted.com/
 mirror.host.ag/
-mirror.host4biz.eu/
 mirror.hostarts.dz/
 mirror.hostbaran.com/
 mirror.hoster.kz/
@@ -343,7 +341,6 @@ mirror.rackspeed.de/
 mirror.raiolanetworks.com/
 mirror.randhost.com/
 mirror.rcg.sfu.ca/
-mirror.realcompute.io/
 mirror.reenigne.net/
 mirror.renu.ac.ug/
 mirror.rnet.missouri.edu/
@@ -355,6 +352,7 @@ mirror.server.net/
 mirror.sfo12.us.leaseweb.net/
 mirror.sg.gs/
 mirror.shedmtl.com/
+mirror.siena.edu/
 mirror.sitsa.com.ar/
 mirror.siwoo.org/
 mirror.sjtu.edu.cn/
@@ -387,7 +385,6 @@ mirror.xcobean.co.ke/
 mirror.xenyth.net/
 mirror.xeonbd.com/
 mirror.yandex.ru/
-mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
 mirrors.almalinux.org/
@@ -523,7 +520,6 @@ siliconhill.cz/
 sindad.com/
 snu.edu.in/
 soonkeat.sg/
-southfront.mm.fcix.net/
 stix.mm.fcix.net/
 storpool.com/
 syd.mirror.rackspace.com/
@@ -664,7 +660,6 @@ www.ps.kz/
 www.psnc.pl/
 www.rackspace.com/
 www.rrze.fau.de/
-www.rwts.com.au/
 www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
@@ -673,6 +668,7 @@ www.server.net/
 www.sfu.ca/
 www.shastacoe.org/
 www.shinjiru.com/
+www.siena.edu/
 www.sitsa.com.ar/
 www.siwoo.org/
 www.sonic.com/
@@ -713,7 +709,6 @@ xcobean.co.ke/
 xenyth.net/
 xtom.com/
 yandex.ru/
-yer.az/
 yuki.net.uk/
 yxeix.mm.fcix.net/
 ziply.mm.fcix.net/
