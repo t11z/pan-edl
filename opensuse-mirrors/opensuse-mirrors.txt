@@ -122,7 +122,6 @@ opensuse.mirror.iphh.net/
 opensuse.mirror.liquidtelecom.com/
 opensuse.mirror.liteserver.nl/
 opensuse.mirrors.proxad.net/
-opensuse.org/
 opensuse.schlundtech.de/
 opensuse.schlundtechn.de/
 opensuse.ucom.am/
@@ -136,7 +135,6 @@ rsync.fedora.md/
 rsync.mirrors.163.com/
 rtinfo.indiana.edu/
 sci.nju.edu.cn/
-slc-mirror.opensuse.org/
 tele-media.net/
 tspu.edu.ru/
 tu-ilmenau.de/
