@@ -132,7 +132,6 @@ ftp.linux.cz/
 ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
-ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -157,6 +156,7 @@ hkg.mirror.rackspace.com/
 hnd.cl/
 hnl.fastly.repo.almalinux.org/
 home.cern/
+host4.biz/
 hostarts.dz/
 hostbaran.com/
 hoster.kz/
@@ -279,6 +279,7 @@ mirror.hep.gg/
 mirror.hnd.cl/
 mirror.hoasted.com/
 mirror.host.ag/
+mirror.host4biz.eu/
 mirror.hostarts.dz/
 mirror.hostbaran.com/
 mirror.hoster.kz/
@@ -329,7 +330,6 @@ mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
 mirror.nodespace.com/
 mirror.nyist.edu.cn/
-mirror.ossplanet.net/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
 mirror.parsdev.com/
@@ -341,6 +341,7 @@ mirror.rackspeed.de/
 mirror.raiolanetworks.com/
 mirror.randhost.com/
 mirror.rcg.sfu.ca/
+mirror.realcompute.io/
 mirror.reenigne.net/
 mirror.renu.ac.ug/
 mirror.rnet.missouri.edu/
@@ -385,6 +386,7 @@ mirror.xcobean.co.ke/
 mirror.xenyth.net/
 mirror.xeonbd.com/
 mirror.yandex.ru/
+mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
 mirrors.almalinux.org/
@@ -470,7 +472,6 @@ opencolo.mm.fcix.net/
 opensource.fb.com/
 or-mirror.iwebfusion.net/
 ord.mirror.rackspace.com/
-ossplanet.net/
 osuosl.org/
 ourhost.az/
 parsdev.com/
@@ -520,6 +521,7 @@ siliconhill.cz/
 sindad.com/
 snu.edu.in/
 soonkeat.sg/
+southfront.mm.fcix.net/
 stix.mm.fcix.net/
 storpool.com/
 syd.mirror.rackspace.com/
@@ -660,7 +662,7 @@ www.ps.kz/
 www.psnc.pl/
 www.rackspace.com/
 www.rrze.fau.de/
-www.sakura.ad.jp/
+www.rwts.com.au/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
@@ -709,6 +711,7 @@ xcobean.co.ke/
 xenyth.net/
 xtom.com/
 yandex.ru/
+yer.az/
 yuki.net.uk/
 yxeix.mm.fcix.net/
 ziply.mm.fcix.net/
