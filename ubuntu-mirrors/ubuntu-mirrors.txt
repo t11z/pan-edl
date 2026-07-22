@@ -122,7 +122,6 @@ linux.yz.yamagata-u.ac.jp/
 mir.linux.kg/
 miroir.univ-lorraine.fr/
 mirror-gw.elastis.id/
-mirror-hk.koddos.net/
 mirror-mk.interspace.com/
 mirror.0-1.cloud/
 mirror.01link.hk/
@@ -268,7 +267,6 @@ mirror.marwan.ma/
 mirror.math.princeton.edu/
 mirror.math.ucdavis.edu/
 mirror.metrocast.net/
-mirror.mia.velocihost.net/
 mirror.mirohost.net/
 mirror.mrjester.net/
 mirror.mvizn.com/
@@ -400,7 +398,6 @@ mirrors.asnet.am/
 mirrors.atlas.net.co/
 mirrors.bangmod.cloud/
 mirrors.bfsu.edu.cn/
-mirrors.binaryracks.com/
 mirrors.bkns.vn/
 mirrors.bmcc.edu/
 mirrors.c0urier.net/
@@ -586,7 +583,6 @@ ubuntu.mirrors.ovh.net/
 ubuntu.mirrors.pair.com/
 ubuntu.mobinhost.com/
 ubuntu.mti.mt.gov.br/
-ubuntu.netforce.hosting/
 ubuntu.org.ua/
 ubuntu.osuosl.org/
 ubuntu.otenet.gr/
