@@ -62,6 +62,7 @@ atl.mirrors.ezscale.cloud/
 atl.mirrors.knownhost.com/
 aws.amazon.com/
 azvps.vn/
+beltelecom.by/
 bharatdatacenter.com/
 bitency.nl/
 blog.almalinux.org/
@@ -87,9 +88,11 @@ cosi.clarkson.edu/
 csclub.uwaterloo.ca/
 cvo.almalinux.osuosl.org/
 dal.mirrors.clouvider.net/
+datautama.net.id/
 de.mirrors.clouvider.net/
 den.aws.repo.almalinux.org/
 dewabiz.com/
+dinosaurus.fleksibel.com/
 distrohub.kyiv.ua/
 diyarciftci.xyz/
 docker.ru/
@@ -106,6 +109,7 @@ ezscale.cloud/
 fam.org.nz/
 fcix.net/
 fibia.dk/
+fleksibel.com/
 flokinet.is/
 for.aws.repo.almalinux.org/
 forksystems.mm.fcix.net/
@@ -141,6 +145,7 @@ gigenet.com/
 gigsouth.mm.fcix.net/
 github.com/
 globo.tech/
+gofiber.vn/
 gozunga.com/
 gsl-syd.mm.fcix.net/
 hcc-mirror.unl.edu/
@@ -174,12 +179,14 @@ ipinfo.io/
 ir.almalinux.sindad.cloud/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
+it2.mirror.vhosting-it.com/
 itc.zju.edu.cn/
 ixirhost.com/
 jagoanhosting.com/
 jetserver.co.il/
 jingk.ai/
 jurassicinnovations.com/
+kartolo.sby.datautama.net.id/
 katapult.io/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
@@ -242,6 +249,7 @@ mirror.cov.ukservers.com/
 mirror.cpsc.ucalgary.ca/
 mirror.csclub.uwaterloo.ca/
 mirror.dal.nexril.net/
+mirror.datacenter.by/
 mirror.de.leaseweb.net/
 mirror.dewabiz.com/
 mirror.digitalpacific.com.au/
@@ -348,6 +356,7 @@ mirror.shedmtl.com/
 mirror.siena.edu/
 mirror.sitsa.com.ar/
 mirror.siwoo.org/
+mirror.sjtu.edu.cn/
 mirror.snu.edu.in/
 mirror.soonkeat.sg/
 mirror.speedkom.de/
@@ -380,7 +389,6 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
-mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.bkns.vn/
@@ -397,6 +405,7 @@ mirrors.ft.uam.es/
 mirrors.gbnetwork.com/
 mirrors.gethosted.online/
 mirrors.gigenet.com/
+mirrors.gofiber.vn/
 mirrors.hit.edu.cn/
 mirrors.hosterion.ro/
 mirrors.hostever.com/
@@ -444,6 +453,7 @@ msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
 muug.ca/
 nchc.org.tw/
+net.sjtu.edu.cn/
 neterra.ne/
 nevacloud.com/
 nexril.net/
@@ -549,7 +559,6 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
-www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
