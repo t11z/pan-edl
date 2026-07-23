@@ -162,6 +162,7 @@ mirror.cmkl.ac.th/
 mirror.cogentco.com/
 mirror.colocenter.nl/
 mirror.corbina.net/
+mirror.cosmiclinux.com/
 mirror.cov.ukservers.com/
 mirror.creoline.net/
 mirror.cs.jmu.edu/
