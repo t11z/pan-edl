@@ -25,7 +25,6 @@ ftp.fedora.md/
 ftp.funet.fi/
 ftp.gwdg.de/
 ftp.halifax.rwth-aachen.de/
-ftp.icm.edu.pl/
 ftp.jaist.ac.jp/
 ftp.linux.cz/
 ftp.linux.org.tr/
@@ -111,16 +110,15 @@ opensuse-mirror-gce-eu.opensu.se/
 opensuse-mirror-gce-us.susecloud.net/
 opensuse.0x0.st/
 opensuse.c3sl.ufpr.br/
-opensuse.ic.ufmt.br/
 opensuse.id/
 opensuse.ip-connect.info/
 opensuse.ipacct.com/
 opensuse.koyanet.lv/
 opensuse.mirror-services.net/
 opensuse.mirror.garr.it/
-opensuse.mirror.iphh.net/
 opensuse.mirror.liquidtelecom.com/
 opensuse.mirror.liteserver.nl/
+opensuse.mirrors.proxad.net/
 opensuse.schlundtech.de/
 opensuse.schlundtechn.de/
 opensuse.ucom.am/
@@ -153,6 +151,7 @@ www.dogado.de/
 www.easyname.com/
 www.fder.edu.uy/
 www.fedora.md/
+www.free.fr/
 www.garr.it/
 www.gatech.edu/
 www.gtlib.gatech.edu/
@@ -160,7 +159,6 @@ www.halifax.rwth-aachen.de/
 www.hashy0917.net/
 www.hoasted.com/
 www.hs-esslingen.de/
-www.iphh.net/
 www.jaist.ac.jp/
 www.leaseweb.com/
 www.linux.cz/
