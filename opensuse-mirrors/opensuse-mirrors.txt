@@ -117,10 +117,8 @@ opensuse.ipacct.com/
 opensuse.koyanet.lv/
 opensuse.mirror-services.net/
 opensuse.mirror.garr.it/
-opensuse.mirror.iphh.net/
 opensuse.mirror.liquidtelecom.com/
 opensuse.mirror.liteserver.nl/
-opensuse.mirrors.proxad.net/
 opensuse.schlundtech.de/
 opensuse.schlundtechn.de/
 opensuse.ucom.am/
@@ -153,7 +151,6 @@ www.dogado.de/
 www.easyname.com/
 www.fder.edu.uy/
 www.fedora.md/
-www.free.fr/
 www.garr.it/
 www.gatech.edu/
 www.gtlib.gatech.edu/
@@ -161,7 +158,6 @@ www.halifax.rwth-aachen.de/
 www.hashy0917.net/
 www.hoasted.com/
 www.hs-esslingen.de/
-www.iphh.net/
 www.jaist.ac.jp/
 www.leaseweb.com/
 www.linux.cz/
