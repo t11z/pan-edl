@@ -133,7 +133,6 @@ mirror.aarnet.edu.au/
 mirror.aktkn.sg/
 mirror.alastyr.com/
 mirror.alwyzon.net/
-mirror.amscloud.co.id/
 mirror.anigil.com/
 mirror.aptus.co.tz/
 mirror.arizona.edu/
@@ -393,6 +392,7 @@ mirrors.accretive-networks.net/
 mirrors.aliyun.com/
 mirrors.arcuslayer.com/
 mirrors.arpnetworks.com/
+mirrors.as215248.net/
 mirrors.asnet.am/
 mirrors.atlas.net.co/
 mirrors.bangmod.cloud/
