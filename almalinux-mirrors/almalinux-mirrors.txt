@@ -28,7 +28,6 @@ almalinux.mirror.digitalpacific.com.au/
 almalinux.mirror.garr.it/
 almalinux.mirror.globo.tech/
 almalinux.mirror.katapult.io/
-almalinux.mirror.liquidtelecom.com/
 almalinux.mirror.liteserver.nl/
 almalinux.mirror.net.za/
 almalinux.mirror.scopesky.com/
@@ -178,6 +177,7 @@ iphost.md/
 ipinfo.io/
 ir.almalinux.sindad.cloud/
 is.mirror.flokinet.net/
+it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
 itc.zju.edu.cn/
 ixirhost.com/
@@ -216,6 +216,7 @@ mirror.23m.com/
 mirror.2degrees.nz/
 mirror.a1.mk/
 mirror.aarnet.edu.au/
+mirror.accum.se/
 mirror.africloud.com/
 mirror.airnet.uz/
 mirror.alastyr.com/
@@ -319,6 +320,7 @@ mirror.mtl2.ca.leaseweb.net/
 mirror.net.za/
 mirror.netsite.dk/
 mirror.netzwerge.de/
+mirror.nevacloud.com/
 mirror.nforce.com/
 mirror.nishi.network/
 mirror.nl.altushost.com/
@@ -448,10 +450,10 @@ mobinhost.com/
 mr.heru.id/
 msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
-muug.ca/
 nchc.org.tw/
 net.sjtu.edu.cn/
 neterra.ne/
+nevacloud.com/
 nexril.net/
 nhanhoa.com/
 nl.mirror.flokinet.net/
@@ -553,6 +555,7 @@ www.4psa.com/
 www.Linux.ec/
 www.VPSnet.com/
 www.aarnet.edu.au/
+www.accum.se/
 www.alastyr.com/
 www.almalinux.org/
 www.altushost.com/
@@ -628,7 +631,6 @@ www.knownhost.com/
 www.lchs.com.au/
 www.limda.net/
 www.linkedin.com/
-www.liquid.tech/
 www.liquidweb.com/
 www.liteserver.nl/
 www.lysator.liu.se/
