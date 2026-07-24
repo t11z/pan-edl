@@ -1,5 +1,6 @@
 0-1.ir/
 23m.com/
+a1.mk/
 a2hosting.com/
 africloud.com/
 airnet.uz/
@@ -27,7 +28,6 @@ almalinux.mirror.digitalpacific.com.au/
 almalinux.mirror.garr.it/
 almalinux.mirror.globo.tech/
 almalinux.mirror.katapult.io/
-almalinux.mirror.liquidtelecom.com/
 almalinux.mirror.liteserver.nl/
 almalinux.mirror.net.za/
 almalinux.mirror.scopesky.com/
@@ -131,6 +131,7 @@ ftp.linux.cz/
 ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
+ftp.riken.jp/
 ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
@@ -203,7 +204,6 @@ linuxpatch.com/
 linuxsoft.cern.ch/
 lon.mirror.rackspace.com/
 lug.hit.edu.cn/
-lyrahosting.com/
 mangohost.net/
 maniaclab.uchicago.edu/
 marwan.ma/
@@ -215,6 +215,7 @@ mirror.01link.hk/
 mirror.0x626b.com/
 mirror.23m.com/
 mirror.2degrees.nz/
+mirror.a1.mk/
 mirror.aarnet.edu.au/
 mirror.accum.se/
 mirror.africloud.com/
@@ -306,7 +307,6 @@ mirror.linux.duke.edu/
 mirror.linux.ec/
 mirror.linux.ncsu.edu/
 mirror.liteserver.nl/
-mirror.lyrahosting.com/
 mirror.maeen.sa/
 mirror.mangohost.net/
 mirror.maple-hosting.com/
@@ -388,6 +388,7 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
+mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.bkns.vn/
@@ -558,6 +559,7 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
+www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -632,7 +634,6 @@ www.knownhost.com/
 www.lchs.com.au/
 www.limda.net/
 www.linkedin.com/
-www.liquid.tech/
 www.liquidweb.com/
 www.liteserver.nl/
 www.lysator.liu.se/
@@ -662,6 +663,7 @@ www.previder.com/
 www.ps.kz/
 www.psnc.pl/
 www.rackspace.com/
+www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
 www.sakura.ad.jp/
