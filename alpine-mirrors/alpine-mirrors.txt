@@ -2,7 +2,6 @@ alpine.ccns.ncku.edu.tw/
 alpine.cs.nycu.edu.tw/
 alpine.elhacker.net/
 alpine.ethz.ch/
-alpine.fossmirror.org/
 alpine.koyanet.lv/
 alpine.mirror.far.fi/
 alpine.mirror.wearetriple.com/
