@@ -166,7 +166,6 @@ giano.com.dist.unige.it/
 kartolo.sby.datautama.net.id/
 la.mirrors.clouvider.net/
 lethe.chinstrap.org/
-linux.purple-cat.net/
 linuxsoft.cern.ch/
 merlin.fit.vutbr.cz/
 miroir.univ-lorraine.fr/
