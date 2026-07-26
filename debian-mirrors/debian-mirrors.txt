@@ -328,6 +328,7 @@ pubmirror.plutex.de/
 repo.ialab.dsu.edu/
 repo.ifca.es/
 repo.jztkft.hu/
+repos.interior.edu.uy/
 ro.mirror.flokinet.net/
 security.debian.org/
 softlibre.unizar.es/
