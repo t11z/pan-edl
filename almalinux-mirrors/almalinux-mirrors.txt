@@ -91,7 +91,6 @@ dal.mirrors.clouvider.net/
 datautama.net.id/
 de.mirrors.clouvider.net/
 den.aws.repo.almalinux.org/
-dewabiz.com/
 dinosaurus.fleksibel.com/
 distrohub.kyiv.ua/
 diyarciftci.xyz/
@@ -217,6 +216,7 @@ mirror.23m.com/
 mirror.2degrees.nz/
 mirror.a1.mk/
 mirror.aarnet.edu.au/
+mirror.accum.se/
 mirror.africloud.com/
 mirror.airnet.uz/
 mirror.alastyr.com/
@@ -250,7 +250,6 @@ mirror.csclub.uwaterloo.ca/
 mirror.dal.nexril.net/
 mirror.datacenter.by/
 mirror.de.leaseweb.net/
-mirror.dewabiz.com/
 mirror.digitalpacific.com.au/
 mirror.diyarciftci.xyz/
 mirror.dk.team.blue/
@@ -318,6 +317,7 @@ mirror.mijn.host/
 mirror.moack.co.kr/
 mirror.mtl2.ca.leaseweb.net/
 mirror.net.za/
+mirror.netlen.com.tr/
 mirror.netsite.dk/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
@@ -554,6 +554,7 @@ www.4psa.com/
 www.Linux.ec/
 www.VPSnet.com/
 www.aarnet.edu.au/
+www.accum.se/
 www.alastyr.com/
 www.almalinux.org/
 www.altushost.com/
@@ -641,6 +642,7 @@ www.mvps.net/
 www.nav.ro/
 www.netdirekt.com.tr/
 www.netforce.company/
+www.netlen.com.tr/
 www.netsite.dk/
 www.netzwerge.de/
 www.nforce.com/
