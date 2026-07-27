@@ -41,7 +41,6 @@ almalinux.mirrors.behostings.net/
 almalinux.mirrors.itworxx.de/
 almalinux.mirrors.ovh.net/
 almalinux.mirrorservice.org/
-almalinux.mobinhost.com/
 almalinux.netforce.hosting/
 almalinux.nic.cz/
 almalinux.org/
@@ -333,6 +332,7 @@ mirror.nodespace.com/
 mirror.nyist.edu.cn/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
+mirror.papua.go.id/
 mirror.parsdev.com/
 mirror.pit.teraswitch.com/
 mirror.plusline.net/
@@ -433,6 +433,7 @@ mirrors.ruk-com.cloud/
 mirrors.sonic.net/
 mirrors.storpool.com/
 mirrors.teamcloud.am/
+mirrors.tencent.com/
 mirrors.tino.org/
 mirrors.ucr.ac.cr/
 mirrors.ukfast.co.uk/
@@ -447,7 +448,6 @@ mirrors.xtom.jp/
 mirrors.xtom.nl/
 mirrors.zju.edu.cn/
 mnl.aws.repo.almalinux.org/
-mobinhost.com/
 mr.heru.id/
 msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
@@ -501,6 +501,7 @@ rpmfind.net/
 rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
 rsync.gtlib.gatech.edu/
+rsync.mirror.papua.go.id/
 rsync.mirrorservice.org/
 rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
@@ -654,6 +655,7 @@ www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
 www.ox.ac.uk/
+www.papua.go.id/
 www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
@@ -680,6 +682,7 @@ www.sox.rs/
 www.steadfast.net/
 www.swinburne.edu.au/
 www.telecomarmenia.am/
+www.tencent.com/
 www.thelefty.org/
 www.tier.net/
 www.tku.edu.tw/
