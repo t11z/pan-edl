@@ -6,7 +6,6 @@ archive.linux.duke.edu/
 archive.ubuntu.com/
 archive.ubuntu.mirror.ba/
 archive.ubuntu.mirror.rafal.ca/
-archive.ubuntu.moon127.net/
 archive.ubuntu.nautile.nc/
 archive.ubuntu.petiak.ir/
 archive.ubuntumirror.dei.uc.pt/
@@ -324,7 +323,6 @@ mirror.siena.edu/
 mirror.sitsa.com.ar/
 mirror.siwoo.org/
 mirror.solnet.ch/
-mirror.solnode.io/
 mirror.soonkeat.sg/
 mirror.steadfastnet.com/
 mirror.t-home.mk/
