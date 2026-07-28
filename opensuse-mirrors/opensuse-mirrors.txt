@@ -109,6 +109,7 @@ nnenix.mm.fcix.net/
 opensuse-mirror-gce-ap.susecloud.net/
 opensuse-mirror-gce-eu.opensu.se/
 opensuse-mirror-gce-us.susecloud.net/
+opensuse.0x0.st/
 opensuse.c3sl.ufpr.br/
 opensuse.id/
 opensuse.ip-connect.info/
@@ -118,6 +119,7 @@ opensuse.mirror-services.net/
 opensuse.mirror.garr.it/
 opensuse.mirror.iphh.net/
 opensuse.mirror.liteserver.nl/
+opensuse.mirrors.proxad.net/
 opensuse.schlundtech.de/
 opensuse.schlundtechn.de/
 opensuse.ucom.am/
@@ -150,6 +152,7 @@ www.dogado.de/
 www.easyname.com/
 www.fder.edu.uy/
 www.fedora.md/
+www.free.fr/
 www.garr.it/
 www.gatech.edu/
 www.gtlib.gatech.edu/

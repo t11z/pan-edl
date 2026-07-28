@@ -102,6 +102,7 @@ domainesia.com/
 dotsrc.org/
 dsu.edu/
 ekiphost.com/
+elice.io/
 elmirror.cl/
 eng.mephi.ru/
 extreme-ix.org/
@@ -133,7 +134,6 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
-ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -240,6 +240,7 @@ mirror.bharatdatacenter.com/
 mirror.bitency.nl/
 mirror.cedia.org.ec/
 mirror.ch.altushost.com/
+mirror.chpc.utah.edu/
 mirror.citrahost.com/
 mirror.clarkson.edu/
 mirror.cloudpropeller.com/
@@ -260,6 +261,7 @@ mirror.docker.ru/
 mirror.dogado.de/
 mirror.domainhizmetleri.com/
 mirror.ekiphost.com/
+mirror.elice.io/
 mirror.esecuredata.com/
 mirror.eu.4psacloud.com/
 mirror.facebook.net/
@@ -319,16 +321,15 @@ mirror.moack.co.kr/
 mirror.mtl2.ca.leaseweb.net/
 mirror.net.za/
 mirror.netlen.com.tr/
-mirror.netsite.dk/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nforce.com/
+mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
 mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
 mirror.nodespace.com/
-mirror.nyist.edu.cn/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
 mirror.papua.go.id/
@@ -379,7 +380,6 @@ mirror.vtti.vt.edu/
 mirror.wd6.net/
 mirror.wdc2.us.leaseweb.net/
 mirror.webworld.ie/
-mirror.wiseglobalsolutions.com/
 mirror.wonchan.net/
 mirror.xcobean.co.ke/
 mirror.xenyth.net/
@@ -576,6 +576,7 @@ www.bkns.vn/
 www.bme.hu/
 www.c0urier.net/
 www.cedia.edu.ec/
+www.chpc.utah.edu/
 www.chroot.ro/
 www.cixug.gal/
 www.cloud9.ge/
@@ -646,14 +647,12 @@ www.nav.ro/
 www.netdirekt.com.tr/
 www.netforce.company/
 www.netlen.com.tr/
-www.netsite.dk/
 www.netzwerge.de/
 www.nforce.com/
 www.nic.cz/
 www.nic.funet.fi/
 www.nodespace.com/
 www.nxthost.com/
-www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
 www.ox.ac.uk/
@@ -668,7 +667,6 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
-www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
@@ -708,7 +706,6 @@ www.vtti.vt.edu/
 www.wd6.net/
 www.wearetriple.com/
 www.webworld.ie/
-www.wiseglobalsolutions.com/
 www.xeonbd.com/
 www.yamagata-u.ac.jp/
 www.yuccatelecom.com/
