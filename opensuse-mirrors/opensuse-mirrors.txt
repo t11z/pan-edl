@@ -85,7 +85,6 @@ mirror.sjtu.edu.cn/
 mirror.tele-media.net/
 mirror.tspu.ru/
 mirror.uepg.br/
-mirror.ufscar.br/
 mirror.umd.edu/
 mirror.verinomi.com/
 mirror.vtti.vt.edu/
@@ -184,7 +183,6 @@ www.suse.com/
 www.tu-chemnitz.de/
 www.ucom.am/
 www.ucr.ac.cr/
-www.ufscar.br/
 www.umd.edu/
 www.uni-bayreuth.de/
 www.uni-erlangen.de/
