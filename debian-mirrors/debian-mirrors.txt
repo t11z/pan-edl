@@ -270,7 +270,6 @@ mirror.united-gameserver.de/
 mirror.units.it/
 mirror.unix-solutions.be/
 mirror.us.leaseweb.net/
-mirror.us.mirhosting.net/
 mirror.us.oneandone.net/
 mirror.veesp.com/
 mirror.vinehost.net/
