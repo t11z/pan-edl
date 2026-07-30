@@ -25,6 +25,7 @@ debian.csail.mit.edu/
 debian.csie.ntu.edu.tw/
 debian.dynamica.it/
 debian.ethz.ch/
+debian.grena.ge/
 debian.grn.cat/
 debian.inf.tu-dresden.de/
 debian.interhost.co.il/

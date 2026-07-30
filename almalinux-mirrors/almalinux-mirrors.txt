@@ -241,7 +241,6 @@ mirror.bharatdatacenter.com/
 mirror.bitency.nl/
 mirror.cedia.org.ec/
 mirror.ch.altushost.com/
-mirror.chpc.utah.edu/
 mirror.citrahost.com/
 mirror.clarkson.edu/
 mirror.cloudpropeller.com/
@@ -393,6 +392,7 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
+mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.bkns.vn/
@@ -430,6 +430,7 @@ mirrors.ocf.berkeley.edu/
 mirrors.onenet.net/
 mirrors.pt/
 mirrors.ptisp.pt/
+mirrors.rda.poa.br/
 mirrors.rit.edu/
 mirrors.ruk-com.cloud/
 mirrors.sonic.net/
@@ -491,6 +492,7 @@ qro.aws.repo.almalinux.org/
 rackspeed.de/
 raiolanetworks.com/
 randhost.com/
+rda.run/
 reenigne.net/
 renu.ac.ug/
 repo.almalinux.org/
@@ -563,6 +565,7 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
+www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -578,7 +581,6 @@ www.bkns.vn/
 www.bme.hu/
 www.c0urier.net/
 www.cedia.edu.ec/
-www.chpc.utah.edu/
 www.chroot.ro/
 www.cixug.gal/
 www.cloud9.ge/
