@@ -28,7 +28,6 @@ almalinux.mirror.digitalpacific.com.au/
 almalinux.mirror.garr.it/
 almalinux.mirror.globo.tech/
 almalinux.mirror.katapult.io/
-almalinux.mirror.liquidtelecom.com/
 almalinux.mirror.liteserver.nl/
 almalinux.mirror.net.za/
 almalinux.mirror.scopesky.com/
@@ -90,6 +89,7 @@ cosi.clarkson.edu/
 csclub.uwaterloo.ca/
 cvo.almalinux.osuosl.org/
 dal.mirrors.clouvider.net/
+datamossa.com/
 datautama.net.id/
 de.mirrors.clouvider.net/
 den.aws.repo.almalinux.org/
@@ -180,7 +180,6 @@ ip-connect.vn.ua/
 ipacct.com/
 iphost.md/
 ipinfo.io/
-ir.almalinux.sindad.cloud/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
@@ -224,7 +223,6 @@ mirror.aarnet.edu.au/
 mirror.accum.se/
 mirror.africloud.com/
 mirror.airnet.uz/
-mirror.alastyr.com/
 mirror.alma.iad1.serverforge.org/
 mirror.alma.lax1.serverforge.org/
 mirror.almalinux.peralex.com/
@@ -254,6 +252,7 @@ mirror.cpsc.ucalgary.ca/
 mirror.csclub.uwaterloo.ca/
 mirror.dal.nexril.net/
 mirror.datacenter.by/
+mirror.datamossa.io/
 mirror.de.leaseweb.net/
 mirror.dewabiz.com/
 mirror.digitalpacific.com.au/
@@ -327,6 +326,7 @@ mirror.net.za/
 mirror.netlen.com.tr/
 mirror.netsite.dk/
 mirror.netzwerge.de/
+mirror.nevacloud.com/
 mirror.nforce.com/
 mirror.nishi.network/
 mirror.nl.altushost.com/
@@ -375,6 +375,7 @@ mirror.truenetwork.ru/
 mirror.twds.com.tw/
 mirror.tzulo.com/
 mirror.uepg.br/
+mirror.us-midwest-1.nexcess.net/
 mirror.usi.edu/
 mirror.veesp.com/
 mirror.veritescil.com.tr/
@@ -430,7 +431,6 @@ mirrors.ocf.berkeley.edu/
 mirrors.onenet.net/
 mirrors.pt/
 mirrors.ptisp.pt/
-mirrors.rda.poa.br/
 mirrors.rit.edu/
 mirrors.ruk-com.cloud/
 mirrors.sonic.net/
@@ -459,6 +459,7 @@ muug.ca/
 nchc.org.tw/
 net.sjtu.edu.cn/
 neterra.ne/
+nevacloud.com/
 nexril.net/
 nhanhoa.com/
 nl.mirror.flokinet.net/
@@ -491,7 +492,6 @@ qro.aws.repo.almalinux.org/
 rackspeed.de/
 raiolanetworks.com/
 randhost.com/
-rda.run/
 reenigne.net/
 renu.ac.ug/
 repo.almalinux.org/
@@ -525,7 +525,6 @@ sg-mirrors.vhost.vn/
 sg.gs/
 shedmtl.com/
 siliconhill.cz/
-sindad.com/
 snu.edu.in/
 soonkeat.sg/
 southfront.mm.fcix.net/
@@ -564,7 +563,6 @@ www.Linux.ec/
 www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
-www.alastyr.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -639,7 +637,7 @@ www.knownhost.com/
 www.lchs.com.au/
 www.limda.net/
 www.linkedin.com/
-www.liquid.tech/
+www.liquidweb.com/
 www.liteserver.nl/
 www.lysator.liu.se/
 www.maeen.sa/
