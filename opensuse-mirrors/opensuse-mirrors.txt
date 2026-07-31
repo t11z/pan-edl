@@ -14,7 +14,6 @@ download.opensuse.id/
 download.opensuse.org/
 en.opensuse.org/
 espejito.fder.edu.uy/
-ettebiz.com/
 fcix.net/
 fr2.rpmfind.net/
 free.nchc.org.tw/
@@ -63,7 +62,6 @@ mirror.datto.com/
 mirror.dc.uz/
 mirror.dogado.de/
 mirror.easyname.at/
-mirror.ette.biz/
 mirror.fcix.net/
 mirror.firstyear.id.au/
 mirror.freedif.org/
