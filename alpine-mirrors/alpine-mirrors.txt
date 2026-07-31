@@ -62,7 +62,6 @@ mirror.quantum5.ca/
 mirror.raiolanetworks.com/
 mirror.reenigne.net/
 mirror.sabay.com.kh/
-mirror.saddle.network/
 mirror.sajattack.xyz/
 mirror.techlabs.co.kr/
 mirror.techrich.hk/
