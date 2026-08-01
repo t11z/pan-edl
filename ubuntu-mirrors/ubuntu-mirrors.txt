@@ -442,7 +442,6 @@ mirrors.neterra.net/
 mirrors.netix.net/
 mirrors.nhanhoa.com/
 mirrors.nic.funet.fi/
-mirrors.njupt.edu.cn/
 mirrors.nxtgen.com/
 mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
@@ -588,6 +587,7 @@ ubuntu.netforce.hosting/
 ubuntu.ntc.net.np/
 ubuntu.osuosl.org/
 ubuntu.otenet.gr/
+ubuntu.pars.host/
 ubuntu.phoenixnap.com/
 ubuntu.pishgaman.net/
 ubuntu.repo.cure.edu.uy/
