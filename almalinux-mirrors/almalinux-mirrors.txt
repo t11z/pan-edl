@@ -28,7 +28,6 @@ almalinux.mirror.digitalpacific.com.au/
 almalinux.mirror.garr.it/
 almalinux.mirror.globo.tech/
 almalinux.mirror.katapult.io/
-almalinux.mirror.liquidtelecom.com/
 almalinux.mirror.liteserver.nl/
 almalinux.mirror.net.za/
 almalinux.mirror.scopesky.com/
@@ -48,6 +47,7 @@ almalinux.org/
 almalinux.ourhome.kiwi/
 almalinux.savoirfairelinux.net/
 almalinux.schlundtech.de/
+almalinux.si/
 almalinux.uib.no/
 almalinux.virtono.com/
 almalinux.vpsttt.com/
@@ -106,7 +106,6 @@ eng.mephi.ru/
 extreme-ix.org/
 ezscale.cloud/
 fam.org.nz/
-famaserver.com/
 fcix.net/
 fibia.dk/
 fleksibel.com/
@@ -187,6 +186,7 @@ jetserver.co.il/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
+kifu.gov.hu/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 krnk.org/
@@ -223,6 +223,7 @@ mirror.alastyr.com/
 mirror.alma.iad1.serverforge.org/
 mirror.alma.lax1.serverforge.org/
 mirror.almalinux.peralex.com/
+mirror.almalinux.si/
 mirror.alwyzon.net/
 mirror.anquan.cl/
 mirror.aptus.co.tz/
@@ -310,7 +311,6 @@ mirror.mangohost.net/
 mirror.maple-hosting.com/
 mirror.marwan.ma/
 mirror.mci-1.serverforge.org/
-mirror.meowsmp.net/
 mirror.mephi.ru/
 mirror.mia11.us.leaseweb.net/
 mirror.mijn.host/
@@ -322,6 +322,7 @@ mirror.netsite.dk/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nforce.com/
+mirror.niif.hu/
 mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
@@ -451,6 +452,7 @@ mobinhost.com/
 mr.heru.id/
 msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
+muug.ca/
 nchc.org.tw/
 net.sjtu.edu.cn/
 neterra.ne/
@@ -493,7 +495,6 @@ repo.almalinux.org/
 repo.extreme-ix.org/
 repo.ialab.dsu.edu/
 repo.ifca.es/
-repo.mirror.famaserver.com/
 repo.shinjiru.com/
 rit.edu/
 ro.mirror.flokinet.net/
@@ -634,14 +635,12 @@ www.knownhost.com/
 www.lchs.com.au/
 www.limda.net/
 www.linkedin.com/
-www.liquid.tech/
 www.liquidweb.com/
 www.liteserver.nl/
 www.lysator.liu.se/
 www.maeen.sa/
 www.maple-hosting.com/
 www.melbourne.co.uk/
-www.meowsmp.net/
 www.moack.co.kr/
 www.mvps.net/
 www.nav.ro/
