@@ -9,7 +9,6 @@ dc.uz/
 distro.ibiblio.org/
 distrohub.kyiv.ua/
 dotsrc.org/
-download.nus.edu.sg/
 download.opensuse.id/
 download.opensuse.org/
 en.opensuse.org/
@@ -173,7 +172,6 @@ www.liquidtelecom.com/
 www.liteserver.nl/
 www.math.princeton.edu/
 www.nchc.org.tw/
-www.nus.edu.sg/
 www.nxthost.com/
 www.nyist.edu.cn/
 www.psnc.pl/
