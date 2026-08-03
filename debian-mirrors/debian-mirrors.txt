@@ -299,6 +299,7 @@ mirrors.lug.mtu.edu/
 mirrors.nav.ro/
 mirrors.netix.net/
 mirrors.nxthost.com/
+mirrors.ocf.berkeley.edu/
 mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
 mirrors.ptisp.pt/
