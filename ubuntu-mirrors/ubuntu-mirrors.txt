@@ -171,6 +171,7 @@ mirror.daniel-jost.net/
 mirror.datacenter.az/
 mirror.datacenter.by/
 mirror.datacenter.mn/
+mirror.datamossa.io/
 mirror.de.leaseweb.net/
 mirror.dewabiz.com/
 mirror.digitaloceans.dev/
@@ -322,6 +323,7 @@ mirror.siena.edu/
 mirror.sitsa.com.ar/
 mirror.siwoo.org/
 mirror.solnet.ch/
+mirror.solnode.io/
 mirror.soonkeat.sg/
 mirror.steadfastnet.com/
 mirror.t-home.mk/
