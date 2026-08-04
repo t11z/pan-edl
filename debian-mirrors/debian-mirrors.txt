@@ -156,7 +156,6 @@ ftp.uni-sofia.bg/
 ftp.uni-stuttgart.de/
 ftp.univ-pau.fr/
 ftp.us.debian.org/
-ftp.wrz.de/
 ftp.yz.yamagata-u.ac.jp/
 ftp.zcu.cz/
 ftp2.de.debian.org/
@@ -284,7 +283,6 @@ mirror1.infomaniak.com/
 mirror2.infomaniak.com/
 mirrors.accretive-networks.net/
 mirrors.bfsu.edu.cn/
-mirrors.cloudforest.co.th/
 mirrors.coreix.net/
 mirrors.datapark.ro/
 mirrors.dotsrc.org/
