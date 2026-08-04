@@ -63,6 +63,7 @@ atl.mirrors.knownhost.com/
 aws.amazon.com/
 azvps.vn/
 beltelecom.by/
+bharatdatacenter.com/
 bitency.nl/
 blog.almalinux.org/
 blr.aws.repo.almalinux.org/
@@ -149,6 +150,8 @@ globo.tech/
 gofiber.vn/
 gozunga.com/
 gsl-syd.mm.fcix.net/
+hcc-mirror.unl.edu/
+hcc.unl.edu/
 heru.id/
 hivelocity.net/
 hkg.mirror.rackspace.com/
@@ -178,6 +181,7 @@ ipinfo.io/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
+itc.zju.edu.cn/
 ixirhost.com/
 jagoanhosting.com/
 jetserver.co.il/
@@ -232,6 +236,7 @@ mirror.az31.cloudpropeller.com/
 mirror.azvps.vn/
 mirror.bahnhof.net/
 mirror.bf-net.ch/
+mirror.bharatdatacenter.com/
 mirror.bitency.nl/
 mirror.cedia.org.ec/
 mirror.ch.altushost.com/
@@ -279,6 +284,7 @@ mirror.host.ag/
 mirror.host4biz.eu/
 mirror.hostarts.dz/
 mirror.hostbaran.com/
+mirror.hoster.kz/
 mirror.hosthink.net/
 mirror.hostiko.network/
 mirror.hs-esslingen.de/
@@ -309,12 +315,14 @@ mirror.mangohost.net/
 mirror.maple-hosting.com/
 mirror.marwan.ma/
 mirror.mci-1.serverforge.org/
+mirror.meowsmp.net/
 mirror.mephi.ru/
 mirror.mia11.us.leaseweb.net/
 mirror.mijn.host/
 mirror.moack.co.kr/
 mirror.mtl2.ca.leaseweb.net/
 mirror.net.za/
+mirror.netlen.com.tr/
 mirror.netsite.dk/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
@@ -353,7 +361,6 @@ mirror.shedmtl.com/
 mirror.siena.edu/
 mirror.sitsa.com.ar/
 mirror.siwoo.org/
-mirror.sjtu.edu.cn/
 mirror.snu.edu.in/
 mirror.soonkeat.sg/
 mirror.speedkom.de/
@@ -385,6 +392,7 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
+mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.bkns.vn/
@@ -441,6 +449,7 @@ mirrors.xtom.de/
 mirrors.xtom.ee/
 mirrors.xtom.jp/
 mirrors.xtom.nl/
+mirrors.zju.edu.cn/
 mnl.aws.repo.almalinux.org/
 mobinhost.com/
 mr.heru.id/
@@ -448,7 +457,6 @@ msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
 muug.ca/
 nchc.org.tw/
-net.sjtu.edu.cn/
 neterra.ne/
 nevacloud.com/
 nexril.net/
@@ -555,6 +563,7 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
+www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -635,11 +644,13 @@ www.lysator.liu.se/
 www.maeen.sa/
 www.maple-hosting.com/
 www.melbourne.co.uk/
+www.meowsmp.net/
 www.moack.co.kr/
 www.mvps.net/
 www.nav.ro/
 www.netdirekt.com.tr/
 www.netforce.company/
+www.netlen.com.tr/
 www.netsite.dk/
 www.netzwerge.de/
 www.nforce.com/
