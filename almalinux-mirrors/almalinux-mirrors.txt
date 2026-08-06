@@ -26,7 +26,6 @@ almalinux.mirror.digitalpacific.com.au/
 almalinux.mirror.garr.it/
 almalinux.mirror.globo.tech/
 almalinux.mirror.katapult.io/
-almalinux.mirror.liquidtelecom.com/
 almalinux.mirror.liteserver.nl/
 almalinux.mirror.net.za/
 almalinux.mirror.scopesky.com/
@@ -59,7 +58,6 @@ atl.mirrors.clouvider.net/
 atl.mirrors.ezscale.cloud/
 atl.mirrors.knownhost.com/
 aws.amazon.com/
-azvps.vn/
 beltelecom.by/
 bharatdatacenter.com/
 bitency.nl/
@@ -71,7 +69,6 @@ boinc.teambelgium.net/
 bos.aws.repo.almalinux.org/
 brentk.io/
 bugs.almalinux.org/
-bytes.ua/
 capital.hoster.kz/
 cat.pdx.edu/
 cc.in2p3.fr/
@@ -128,6 +125,7 @@ ftp.iij.ad.jp/
 ftp.jaist.ac.jp/
 ftp.linux.cz/
 ftp.lug.ro/
+ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
 ftp.sakura.ad.jp/
@@ -203,7 +201,6 @@ linuxsoft.cern.ch/
 lon.mirror.rackspace.com/
 lug.hit.edu.cn/
 lyrahosting.com/
-mangohost.net/
 maniaclab.uchicago.edu/
 marwan.ma/
 mijn.host/
@@ -230,13 +227,13 @@ mirror.as3741.net/
 mirror.ath1.fusioned.net/
 mirror.ati.tn/
 mirror.az31.cloudpropeller.com/
-mirror.azvps.vn/
 mirror.bahnhof.net/
 mirror.bf-net.ch/
 mirror.bharatdatacenter.com/
 mirror.bitency.nl/
 mirror.cedia.org.ec/
 mirror.ch.altushost.com/
+mirror.chpc.utah.edu/
 mirror.citrahost.com/
 mirror.clarkson.edu/
 mirror.cloudpropeller.com/
@@ -262,6 +259,7 @@ mirror.elice.io/
 mirror.esecuredata.com/
 mirror.eu.4psacloud.com/
 mirror.facebook.net/
+mirror.fcix.net/
 mirror.fiu.edu/
 mirror.flo.c-f.ro/
 mirror.fmt-2.serverforge.org/
@@ -299,14 +297,12 @@ mirror.karneval.cz/
 mirror.kku.ac.th/
 mirror.krfoss.org/
 mirror.lchs.network/
-mirror.limda.net/
 mirror.linux.duke.edu/
 mirror.linux.ec/
 mirror.linux.ncsu.edu/
 mirror.liteserver.nl/
 mirror.lyrahosting.com/
 mirror.maeen.sa/
-mirror.mangohost.net/
 mirror.maple-hosting.com/
 mirror.marwan.ma/
 mirror.mci-1.serverforge.org/
@@ -357,6 +353,7 @@ mirror.siena.edu/
 mirror.sitsa.com.ar/
 mirror.siwoo.org/
 mirror.sjtu.edu.cn/
+mirror.snu.edu.in/
 mirror.soonkeat.sg/
 mirror.speedkom.de/
 mirror.steadfastnet.com/
@@ -387,11 +384,11 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
+mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.bkns.vn/
 mirrors.bmcc.edu/
-mirrors.bytes.ua/
 mirrors.c0urier.net/
 mirrors.cat.pdx.edu/
 mirrors.chroot.ro/
@@ -410,12 +407,12 @@ mirrors.hostever.com/
 mirrors.hostico.ro/
 mirrors.hostiserver.com/
 mirrors.ipserverone.com/
+mirrors.iu13.net/
 mirrors.krnk.org/
 mirrors.melbourne.co.uk/
 mirrors.mvps.net/
 mirrors.nav.ro/
 mirrors.neterra.net/
-mirrors.nhanhoa.com/
 mirrors.nju.edu.cn/
 mirrors.nxthost.com/
 mirrors.oblivion.online/
@@ -452,7 +449,6 @@ net.sjtu.edu.cn/
 neterra.ne/
 nevacloud.com/
 nexril.net/
-nhanhoa.com/
 nl.mirror.flokinet.net/
 nl.mirrors.clouvider.net/
 nnenix.mm.fcix.net/
@@ -501,6 +497,7 @@ rsync.gtlib.gatech.edu/
 rsync.mirror.gi.co.id/
 rsync.mirror.papua.go.id/
 rsync.mirrorservice.org/
+rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
 rsync.yuki.net.uk/
 ruk-com.cloud/
@@ -516,6 +513,7 @@ sg.gs/
 shedmtl.com/
 siliconhill.cz/
 sindad.com/
+snu.edu.in/
 soonkeat.sg/
 southfront.mm.fcix.net/
 stix.mm.fcix.net/
@@ -554,6 +552,7 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
+www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -569,6 +568,7 @@ www.bkns.vn/
 www.bme.hu/
 www.c0urier.net/
 www.cedia.edu.ec/
+www.chpc.utah.edu/
 www.chroot.ro/
 www.cixug.gal/
 www.cloud9.ge/
@@ -576,6 +576,7 @@ www.clouvider.com/
 www.codeforhost.com/
 www.cogentco.com/
 www.coreix.net/
+www.csc.fi/
 www.csuc.cat/
 www.cyberfolks.ro/
 www.deac.eu/
@@ -615,6 +616,7 @@ www.interserver.net/
 www.ipserverone.com/
 www.isoc.org.il/
 www.itworxx.de/
+www.iu13.org/
 www.iwebfusion.net/
 www.jaist.ac.jp/
 www.junda.nl/
@@ -622,11 +624,10 @@ www.kent.ac.uk/
 www.kku.ac.th/
 www.knownhost.com/
 www.lchs.com.au/
-www.limda.net/
 www.linkedin.com/
-www.liquid.tech/
 www.liquidweb.com/
 www.liteserver.nl/
+www.lysator.liu.se/
 www.maeen.sa/
 www.maple-hosting.com/
 www.melbourne.co.uk/
@@ -641,6 +642,7 @@ www.netsite.dk/
 www.netzwerge.de/
 www.nforce.com/
 www.nic.cz/
+www.nic.funet.fi/
 www.nodespace.com/
 www.nxthost.com/
 www.nyist.edu.cn/
