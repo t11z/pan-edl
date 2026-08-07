@@ -43,13 +43,13 @@ archlinux.ip-connect.vn.ua/
 archlinux.iskon.hr/
 archlinux.juancho.com.ar/
 archlinux.koyanet.lv/
+archlinux.kushwanthreddy.com/
 archlinux.lan.brgn.ch/
 archlinux.lysakermoen.com/
 archlinux.mailtunnel.eu/
 archlinux.mirror-services.net/
 archlinux.mirror.digitalpacific.com.au/
 archlinux.mirror.garr.it/
-archlinux.mirror.ikr.me/
 archlinux.mirror.iphh.net/
 archlinux.mirror.liquidtelecom.com/
 archlinux.mirror.liteserver.nl/
@@ -86,7 +86,6 @@ ca.mirror.cx/
 ca.mirrors.cicku.me/
 ca.mirrors.mk/
 cdnmirror.com/
-ch.mirror.shiro.lol/
 ch.mirrors.cicku.me/
 codingflyboy.mm.fcix.net/
 coresite.mm.fcix.net/
@@ -96,7 +95,6 @@ de.arch.niranjan.co/
 de.mirror.shibe.party/
 de.mirrors.cicku.me/
 de.mirrors.mk/
-de.repo.c48.uk/
 dfw.mirror.rackspace.com/
 dist-mirror.fem.tu-ilmenau.de/
 distro.ibiblio.org/
@@ -259,8 +257,8 @@ mirror.dogado.de/
 mirror.easyname.at/
 mirror.efect.ro/
 mirror.es.cdn-perfprod.com/
-mirror.ette.biz/
 mirror.falcao.org/
+mirror.famaserver.com/
 mirror.fcix.net/
 mirror.fossable.org/
 mirror.fr.cdn-perfprod.com/
@@ -299,6 +297,7 @@ mirror.iusearchbtw.nl/
 mirror.jingk.ai/
 mirror.jonas-prz.be/
 mirror.juniorjpdj.pl/
+mirror.kalem.dev/
 mirror.kamtv.ru/
 mirror.keiminem.com/
 mirror.khoinet.dpdns.org/
@@ -473,6 +472,7 @@ mirrors.nju.edu.cn/
 mirrors.nxtgen.com/
 mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
+mirrors.ostentiaz.net/
 mirrors.pablonara.com/
 mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
@@ -495,6 +495,7 @@ mirrors.up.pt/
 mirrors.urbanwave.co.za/
 mirrors.ustc.edu.cn/
 mirrors.vectair.net/
+mirrors.vpspulse.com/
 mirrors.wsyu.edu.cn/
 mirrors.xjtu.edu.cn/
 mirrors.xmission.com/
@@ -524,7 +525,6 @@ packages.oth-regensburg.de/
 pkg.adfinis-on-exoscale.ch/
 pkg.fef.moe/
 plug-mirror.rcac.purdue.edu/
-repo.br.ee/
 repo.c48.uk/
 repo.customcomputercare.com/
 repo.greeklug.gr/
@@ -541,6 +541,7 @@ rsync.archlinux.nautile.nc/
 rsync.cyberbits.asia/
 rsync.cyberbits.eu/
 rsync.franscorack.com/
+rsync.keiminem.com/
 rsync.meowsmp.net/
 rsync.mirrors.niyawe.de/
 rsync.mirrors.ustc.edu.cn/
@@ -549,6 +550,7 @@ rsync.myrveln.se/
 rsync.osbeck.com/
 rsync.pablonara.com/
 rsync.spline.inf.fu-berlin.de/
+rsync2.keiminem.com/
 ru.mirrors.cicku.me/
 sa.mirrors.cicku.me/
 sg.arch.niranjan.co/
@@ -564,7 +566,6 @@ tr.arch.niranjan.co/
 tux.rainside.sk/
 tw.mirrors.cicku.me/
 uk.arch.niranjan.co/
-uk.repo.c48.uk/
 umea.mirror.pkgbuild.com/
 upstream-1.pablonara.com/
 us-mnz.soulharsh007.dev/
