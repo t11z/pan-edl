@@ -219,7 +219,6 @@ mirror.hoster.kz/
 mirror.hosthink.net/
 mirror.hostiko.network/
 mirror.hostnic.id/
-mirror.icn.com.bd/
 mirror.ihost.md/
 mirror.il-ha.kamatera.com/
 mirror.il-pt.kamatera.com/
@@ -361,7 +360,6 @@ mirror.us-tx.kamatera.com/
 mirror.us.leaseweb.net/
 mirror.us.mirhosting.net/
 mirror.usetelecom.com.br/
-mirror.vcu.edu/
 mirror.veesp.com/
 mirror.velden.media/
 mirror.verinomi.com/

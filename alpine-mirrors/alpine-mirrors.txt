@@ -18,6 +18,7 @@ eu.mirror.ionos.com/
 foobar.turbo.net.id/
 ftp.halifax.rwth-aachen.de/
 ftp.icm.edu.pl/
+ftp.ludd.ltu.se/
 ftp.lysator.liu.se/
 ftp.lysator.liu.se::alpine/
 ftp.nluug.nl/
@@ -35,7 +36,6 @@ mirror.clarkson.edu/
 mirror.cs.odu.edu/
 mirror.csclub.uwaterloo.ca/
 mirror.dst.ca/
-mirror.ette.biz/
 mirror.fcix.net/
 mirror.fel.cvut.cz/
 mirror.freedif.org/
