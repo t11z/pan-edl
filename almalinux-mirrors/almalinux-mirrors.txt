@@ -14,7 +14,6 @@ almalinux-mirror.tpa.hivelocity.net/
 almalinux-mirror.unifique.cloud/
 almalinux-mirror.yucca.net/
 almalinux.elhacker.net/
-almalinux.excellmedia.net/
 almalinux.interhost.co.il/
 almalinux.ip-connect.info/
 almalinux.ip-connect.vn.ua/
@@ -182,6 +181,7 @@ ir.almalinux.sindad.cloud/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
+itc.zju.edu.cn/
 ixirhost.com/
 jagoanhosting.com/
 jetserver.co.il/
@@ -217,6 +217,7 @@ mirror.23m.com/
 mirror.2degrees.nz/
 mirror.a1.mk/
 mirror.aarnet.edu.au/
+mirror.accum.se/
 mirror.africloud.com/
 mirror.airnet.uz/
 mirror.alastyr.com/
@@ -448,6 +449,7 @@ mirrors.xtom.de/
 mirrors.xtom.ee/
 mirrors.xtom.jp/
 mirrors.xtom.nl/
+mirrors.zju.edu.cn/
 mnl.aws.repo.almalinux.org/
 mobinhost.com/
 mr.heru.id/
@@ -559,6 +561,7 @@ www.4psa.com/
 www.Linux.ec/
 www.VPSnet.com/
 www.aarnet.edu.au/
+www.accum.se/
 www.alastyr.com/
 www.aliyun.com/
 www.almalinux.org/
@@ -594,7 +597,6 @@ www.domainhizmetleri.com/
 www.edgoo.io/
 www.elhacker.net/
 www.esecuredata.com/
-www.excellmedia.net/
 www.exoscale.com/
 www.fastly.com/
 www.fi.muni.cz/
