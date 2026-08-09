@@ -131,6 +131,7 @@ ftp.iij.ad.jp/
 ftp.jaist.ac.jp/
 ftp.linux.cz/
 ftp.lug.ro/
+ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
 ftp.sakura.ad.jp/
@@ -178,7 +179,6 @@ ip-connect.vn.ua/
 ipacct.com/
 iphost.md/
 ipinfo.io/
-ir.almalinux.sindad.cloud/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
@@ -218,6 +218,7 @@ mirror.23m.com/
 mirror.2degrees.nz/
 mirror.a1.mk/
 mirror.aarnet.edu.au/
+mirror.accum.se/
 mirror.africloud.com/
 mirror.airnet.uz/
 mirror.alastyr.com/
@@ -394,7 +395,6 @@ mirror1.sox.rs/
 mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
-mirrors.bkns.vn/
 mirrors.bmcc.edu/
 mirrors.bytes.ua/
 mirrors.c0urier.net/
@@ -407,6 +407,7 @@ mirrors.egr.msu.edu/
 mirrors.fibianet.dk/
 mirrors.ft.uam.es/
 mirrors.gbnetwork.com/
+mirrors.gethosted.online/
 mirrors.gigenet.com/
 mirrors.gofiber.vn/
 mirrors.hit.edu.cn/
@@ -462,6 +463,7 @@ nexril.net/
 nhanhoa.com/
 nl.mirror.flokinet.net/
 nl.mirrors.clouvider.net/
+nnenix.mm.fcix.net/
 nocix.mm.fcix.net/
 nodesdirect.com/
 nyc.almalinux.osuosl.org/
@@ -522,7 +524,6 @@ sg-mirrors.vhost.vn/
 sg.gs/
 shedmtl.com/
 siliconhill.cz/
-sindad.com/
 snu.edu.in/
 soonkeat.sg/
 southfront.mm.fcix.net/
@@ -560,6 +561,7 @@ www.4psa.com/
 www.Linux.ec/
 www.VPSnet.com/
 www.aarnet.edu.au/
+www.accum.se/
 www.alastyr.com/
 www.aliyun.com/
 www.almalinux.org/
@@ -573,7 +575,6 @@ www.ati.tn/
 www.bahnhof.net/
 www.behostings.com/
 www.belnet.be/
-www.bkns.vn/
 www.bme.hu/
 www.c0urier.net/
 www.cedia.edu.ec/
@@ -604,6 +605,7 @@ www.fusioned.net/
 www.fysik.dtu.dk/
 www.garr.it/
 www.gbnetwork.com/
+www.gethosted.online/
 www.gi.co.id/
 www.group.one/
 www.gtlib.gatech.edu/
@@ -637,6 +639,7 @@ www.linkedin.com/
 www.liquid.tech/
 www.liquidweb.com/
 www.liteserver.nl/
+www.lysator.liu.se/
 www.maeen.sa/
 www.maple-hosting.com/
 www.melbourne.co.uk/
