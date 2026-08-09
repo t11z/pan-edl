@@ -14,7 +14,6 @@ almalinux-mirror.tpa.hivelocity.net/
 almalinux-mirror.unifique.cloud/
 almalinux-mirror.yucca.net/
 almalinux.elhacker.net/
-almalinux.excellmedia.net/
 almalinux.interhost.co.il/
 almalinux.ip-connect.info/
 almalinux.ip-connect.vn.ua/
@@ -27,7 +26,6 @@ almalinux.mirror.digitalpacific.com.au/
 almalinux.mirror.garr.it/
 almalinux.mirror.globo.tech/
 almalinux.mirror.katapult.io/
-almalinux.mirror.liquidtelecom.com/
 almalinux.mirror.liteserver.nl/
 almalinux.mirror.net.za/
 almalinux.mirror.scopesky.com/
@@ -126,6 +124,7 @@ ftp.csuc.cat/
 ftp.cwuni-bayreuth.de/
 ftp.fau.de/
 ftp.gwdg.de/
+ftp.halifax.rwth-aachen.de/
 ftp.iij.ad.jp/
 ftp.jaist.ac.jp/
 ftp.linux.cz/
@@ -134,6 +133,7 @@ ftp.psnc.pl/
 ftp.riken.jp/
 ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
+ftp.swin.edu.au/
 ftp.tc.edu.tw/
 ftp.tku.edu.tw/
 ftp.ucsb.edu/
@@ -188,6 +188,7 @@ jingk.ai/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
+kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 krnk.org/
 la.mirrors.clouvider.net/
@@ -511,6 +512,7 @@ rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
 rsync.yuki.net.uk/
 ruk-com.cloud/
+rwth-aachen.de/
 sabay.com.kh/
 savoirfairelinux.com/
 sci.nju.edu.cn/
@@ -594,7 +596,6 @@ www.domainhizmetleri.com/
 www.edgoo.io/
 www.elhacker.net/
 www.esecuredata.com/
-www.excellmedia.net/
 www.exoscale.com/
 www.fastly.com/
 www.fi.muni.cz/
@@ -608,6 +609,7 @@ www.gethosted.online/
 www.gi.co.id/
 www.group.one/
 www.gtlib.gatech.edu/
+www.guzel.net.tr/
 www.gwdg.de/
 www.hashy0917.net/
 www.hivelocity.net/
@@ -633,7 +635,6 @@ www.kku.ac.th/
 www.knownhost.com/
 www.lchs.com.au/
 www.linkedin.com/
-www.liquid.tech/
 www.liquidweb.com/
 www.liteserver.nl/
 www.maeen.sa/
@@ -682,6 +683,7 @@ www.siwoo.org/
 www.sonic.com/
 www.sox.rs/
 www.steadfast.net/
+www.swinburne.edu.au/
 www.telecomarmenia.am/
 www.tencent.com/
 www.thelefty.org/
