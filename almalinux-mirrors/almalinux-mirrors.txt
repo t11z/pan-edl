@@ -14,11 +14,13 @@ almalinux-mirror.tpa.hivelocity.net/
 almalinux-mirror.unifique.cloud/
 almalinux-mirror.yucca.net/
 almalinux.elhacker.net/
+almalinux.excellmedia.net/
 almalinux.interhost.co.il/
 almalinux.ip-connect.info/
 almalinux.ip-connect.vn.ua/
 almalinux.ipacct.com/
 almalinux.jetserver.co.il/
+almalinux.koyanet.lv/
 almalinux.linuxpatch.com/
 almalinux.mirror-services.net/
 almalinux.mirror.digitalpacific.com.au/
@@ -177,6 +179,7 @@ ip-connect.vn.ua/
 ipacct.com/
 iphost.md/
 ipinfo.io/
+ir.almalinux.sindad.cloud/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
@@ -188,7 +191,6 @@ jingk.ai/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
-kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 krnk.org/
 la.mirrors.clouvider.net/
@@ -257,7 +259,6 @@ mirror.dk.team.blue/
 mirror.dk.team.blue::almalinux/
 mirror.docker.ru/
 mirror.dogado.de/
-mirror.domainhizmetleri.com/
 mirror.ekiphost.com/
 mirror.elice.io/
 mirror.esecuredata.com/
@@ -452,7 +453,6 @@ mobinhost.com/
 mr.heru.id/
 msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
-muug.ca/
 nchc.org.tw/
 net.sjtu.edu.cn/
 neterra.ne/
@@ -520,6 +520,7 @@ sg-mirrors.vhost.vn/
 sg.gs/
 shedmtl.com/
 siliconhill.cz/
+sindad.com/
 snu.edu.in/
 soonkeat.sg/
 southfront.mm.fcix.net/
@@ -585,12 +586,13 @@ www.coreix.net/
 www.csc.fi/
 www.csuc.cat/
 www.cyberfolks.ro/
+www.deac.eu/
 www.digitalpacific.com.au/
 www.dogado.de/
-www.domainhizmetleri.com/
 www.edgoo.io/
 www.elhacker.net/
 www.esecuredata.com/
+www.excellmedia.net/
 www.exoscale.com/
 www.fastly.com/
 www.fi.muni.cz/
@@ -603,7 +605,6 @@ www.gbnetwork.com/
 www.gethosted.online/
 www.group.one/
 www.gtlib.gatech.edu/
-www.guzel.net.tr/
 www.gwdg.de/
 www.hashy0917.net/
 www.hivelocity.net/
