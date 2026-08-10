@@ -239,7 +239,6 @@ mirror.nju.edu.cn/
 mirror.nl.cdn-perfprod.com/
 mirror.nl.leaseweb.net/
 mirror.nl.mirhosting.net/
-mirror.nyist.edu.cn/
 mirror.ourhost.az/
 mirror.overthewire.com.au/
 mirror.ox.ac.uk/
@@ -247,6 +246,7 @@ mirror.pangkin.com/
 mirror.plusline.net/
 mirror.plusserver.com/
 mirror.pmf.kg.ac.rs/
+mirror.positive-internet.com/
 mirror.ps.kz/
 mirror.raiolanetworks.com/
 mirror.realcompute.io/
@@ -282,7 +282,6 @@ mirror.yuki.net.uk/
 mirror1.infomaniak.com/
 mirror2.infomaniak.com/
 mirrors.accretive-networks.net/
-mirrors.bfsu.edu.cn/
 mirrors.coreix.net/
 mirrors.datapark.ro/
 mirrors.dotsrc.org/
