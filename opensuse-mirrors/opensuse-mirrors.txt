@@ -107,7 +107,6 @@ opensuse-mirror-gce-ap.susecloud.net/
 opensuse-mirror-gce-eu.opensu.se/
 opensuse-mirror-gce-us.susecloud.net/
 opensuse.0x0.st/
-opensuse.c3sl.ufpr.br/
 opensuse.ic.ufmt.br/
 opensuse.id/
 opensuse.ip-connect.info/
