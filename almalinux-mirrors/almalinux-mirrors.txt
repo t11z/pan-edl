@@ -14,12 +14,12 @@ almalinux-mirror.tpa.hivelocity.net/
 almalinux-mirror.unifique.cloud/
 almalinux-mirror.yucca.net/
 almalinux.elhacker.net/
-almalinux.excellmedia.net/
 almalinux.interhost.co.il/
 almalinux.ip-connect.info/
 almalinux.ip-connect.vn.ua/
 almalinux.ipacct.com/
 almalinux.jetserver.co.il/
+almalinux.koyanet.lv/
 almalinux.linuxpatch.com/
 almalinux.mirror-services.net/
 almalinux.mirror.digitalpacific.com.au/
@@ -44,6 +44,7 @@ almalinux.netforce.hosting/
 almalinux.nic.cz/
 almalinux.org/
 almalinux.ourhome.kiwi/
+almalinux.pars.host/
 almalinux.savoirfairelinux.net/
 almalinux.schlundtech.de/
 almalinux.si/
@@ -178,7 +179,6 @@ ip-connect.vn.ua/
 ipacct.com/
 iphost.md/
 ipinfo.io/
-ir.almalinux.sindad.cloud/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
@@ -189,7 +189,6 @@ jingk.ai/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
-kifu.gov.hu/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 krnk.org/
@@ -326,7 +325,6 @@ mirror.netsite.dk/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nforce.com/
-mirror.niif.hu/
 mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
@@ -342,6 +340,7 @@ mirror.phoenix.ioflood.com/
 mirror.pit.teraswitch.com/
 mirror.plusline.net/
 mirror.previder.nl/
+mirror.ps.kz/
 mirror.rackspeed.de/
 mirror.raiolanetworks.com/
 mirror.randhost.com/
@@ -390,6 +389,7 @@ mirror.xcobean.co.ke/
 mirror.xenyth.net/
 mirror.xeonbd.com/
 mirror.yandex.ru/
+mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
 mirrors.aliyun.com/
@@ -479,6 +479,7 @@ or-mirror.iwebfusion.net/
 ord.mirror.rackspace.com/
 osuosl.org/
 ourhost.az/
+pars.host/
 parsdev.com/
 per.aws.repo.almalinux.org/
 phoenixnap.com/
@@ -525,7 +526,6 @@ sg-mirrors.vhost.vn/
 sg.gs/
 shedmtl.com/
 siliconhill.cz/
-sindad.com/
 snu.edu.in/
 soonkeat.sg/
 southfront.mm.fcix.net/
@@ -591,13 +591,13 @@ www.coreix.net/
 www.csc.fi/
 www.csuc.cat/
 www.cyberfolks.ro/
+www.deac.eu/
 www.digitalpacific.com.au/
 www.dogado.de/
 www.domainhizmetleri.com/
 www.edgoo.io/
 www.elhacker.net/
 www.esecuredata.com/
-www.excellmedia.net/
 www.exoscale.com/
 www.fastly.com/
 www.fi.muni.cz/
@@ -667,6 +667,7 @@ www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
 www.previder.com/
+www.ps.kz/
 www.psnc.pl/
 www.rackspace.com/
 www.riken.jp/
@@ -721,6 +722,7 @@ xcobean.co.ke/
 xenyth.net/
 xtom.com/
 yandex.ru/
+yer.az/
 yuki.net.uk/
 yxeix.mm.fcix.net/
 ziply.mm.fcix.net/
