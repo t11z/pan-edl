@@ -296,6 +296,7 @@ mirrors.hostiserver.com/
 mirrors.ic.unicamp.br/
 mirrors.jlu.edu.cn/
 mirrors.lug.mtu.edu/
+mirrors.nepalicloud.com/
 mirrors.netix.net/
 mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
