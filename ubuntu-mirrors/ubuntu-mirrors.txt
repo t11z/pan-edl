@@ -154,6 +154,7 @@ mirror.clarkson.edu/
 mirror.clearsky.vn/
 mirror.clientvps.com/
 mirror.cloudhosting.lv/
+mirror.cmkl.ac.th/
 mirror.cogentco.com/
 mirror.colocenter.nl/
 mirror.corbina.net/

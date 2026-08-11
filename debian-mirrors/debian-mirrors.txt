@@ -239,6 +239,7 @@ mirror.nju.edu.cn/
 mirror.nl.cdn-perfprod.com/
 mirror.nl.leaseweb.net/
 mirror.nl.mirhosting.net/
+mirror.nyist.edu.cn/
 mirror.ourhost.az/
 mirror.overthewire.com.au/
 mirror.ox.ac.uk/
