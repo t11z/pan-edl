@@ -165,6 +165,7 @@ is.mirror.flokinet.net/
 kartolo.sby.datautama.net.id/
 la.mirrors.clouvider.net/
 lethe.chinstrap.org/
+lidsol.fi-b.unam.mx/
 linuxsoft.cern.ch/
 merlin.fit.vutbr.cz/
 miroir.univ-lorraine.fr/
