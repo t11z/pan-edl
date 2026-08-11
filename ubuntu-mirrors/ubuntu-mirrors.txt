@@ -359,7 +359,6 @@ mirror.us-tx.kamatera.com/
 mirror.us.leaseweb.net/
 mirror.usetelecom.com.br/
 mirror.veesp.com/
-mirror.velden.media/
 mirror.verinomi.com/
 mirror.veritescil.com.tr/
 mirror.vietnix.vn/
