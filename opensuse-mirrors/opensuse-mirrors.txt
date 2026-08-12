@@ -57,6 +57,7 @@ mirror.alwyzon.net/
 mirror.cedia.org.ec/
 mirror.clarkson.edu/
 mirror.csclub.uwaterloo.ca/
+mirror.datto.com/
 mirror.dc.uz/
 mirror.dogado.de/
 mirror.easyname.at/
@@ -84,7 +85,6 @@ mirror.uepg.br/
 mirror.ufscar.br/
 mirror.umd.edu/
 mirror.verinomi.com/
-mirror.vtti.vt.edu/
 mirror.xenyth.net/
 mirror.yandex.ru/
 mirror1.hs-esslingen.de/
@@ -100,6 +100,7 @@ mirrors.tuna.tsinghua.edu.cn/
 mirrors.ucr.ac.cr/
 mirrors.ustc.edu.cn/
 mirrors.zju.edu.cn/
+muug.ca/
 net.sjtu.edu.cn/
 nnenix.mm.fcix.net/
 opensuse-mirror-gce-ap.susecloud.net/
@@ -190,5 +191,4 @@ www.uninett.no/
 www.ustc.edu.cn/
 www.verinomi.com/
 www.vodafone.cz/
-www.vtti.vt.edu/
 www.zju.edu.cn/
