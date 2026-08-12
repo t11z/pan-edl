@@ -118,7 +118,6 @@ mir.linux.kg/
 miroir.univ-lorraine.fr/
 mirror-gw.elastis.id/
 mirror-mk.interspace.com/
-mirror.0-1.cloud/
 mirror.01link.hk/
 mirror.0x.sg/
 mirror.23m.com/

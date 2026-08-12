@@ -92,6 +92,7 @@ ftp.br.debian.org/
 ftp.by.debian.org/
 ftp.byfly.by/
 ftp.ca.debian.org/
+ftp.caliu.cat/
 ftp.ch.debian.org/
 ftp.cica.es/
 ftp.cl.debian.org/
@@ -221,6 +222,7 @@ mirror.johnnybegood.fr/
 mirror.keystealth.org/
 mirror.kku.ac.th/
 mirror.kpfu.ru/
+mirror.lagoon.nc/
 mirror.lchost.net/
 mirror.limda.net/
 mirror.linux.org.au/
