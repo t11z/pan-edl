@@ -114,6 +114,7 @@ fibia.dk/
 fleksibel.com/
 flokinet.is/
 for.aws.repo.almalinux.org/
+forksystems.mm.fcix.net/
 fr2.rpmfind.net/
 free.nchc.org.tw/
 freehost.com.ua/
@@ -364,6 +365,7 @@ mirror.shedmtl.com/
 mirror.siena.edu/
 mirror.sitsa.com.ar/
 mirror.siwoo.org/
+mirror.sjtu.edu.cn/
 mirror.snu.edu.in/
 mirror.soonkeat.sg/
 mirror.speedkom.de/
@@ -459,6 +461,7 @@ msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
 muug.ca/
 nchc.org.tw/
+net.sjtu.edu.cn/
 neterra.ne/
 nevacloud.com/
 nexril.net/
@@ -528,6 +531,7 @@ siliconhill.cz/
 sindad.com/
 snu.edu.in/
 soonkeat.sg/
+southfront.mm.fcix.net/
 stix.mm.fcix.net/
 storpool.com/
 syd.mirror.rackspace.com/
@@ -551,6 +555,7 @@ usi.edu/
 veesp.com/
 vhost.vn/
 vn-mirrors.vhost.vn/
+volico.mm.fcix.net/
 vsys.host/
 wiki.almalinux.org/
 wiki.lug.ro/
