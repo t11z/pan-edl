@@ -14,7 +14,6 @@ almalinux-mirror.tpa.hivelocity.net/
 almalinux-mirror.unifique.cloud/
 almalinux-mirror.yucca.net/
 almalinux.elhacker.net/
-almalinux.excellmedia.net/
 almalinux.interhost.co.il/
 almalinux.ip-connect.info/
 almalinux.ip-connect.vn.ua/
@@ -77,6 +76,7 @@ bugs.almalinux.org/
 bytes.ua/
 capital.hoster.kz/
 cat.pdx.edu/
+cc.in2p3.fr/
 chi.almalinux.osuosl.org/
 citrahost.com/
 cloudforest.co.th/
@@ -115,6 +115,7 @@ fleksibel.com/
 flokinet.is/
 for.aws.repo.almalinux.org/
 forksystems.mm.fcix.net/
+fr2.rpmfind.net/
 free.nchc.org.tw/
 freehost.com.ua/
 ftp.arnes.si/
@@ -191,6 +192,7 @@ jingk.ai/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
+kifu.gov.hu/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 krnk.org/
@@ -291,6 +293,7 @@ mirror.hosthink.net/
 mirror.hostiko.network/
 mirror.hs-esslingen.de/
 mirror.ibcp.fr/
+mirror.in2p3.fr/
 mirror.init7.net/
 mirror.init7.net::almalinux/
 mirror.internet.asn.au/
@@ -328,6 +331,7 @@ mirror.netsite.dk/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nforce.com/
+mirror.niif.hu/
 mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
@@ -506,6 +510,7 @@ repo.shinjiru.com/
 rit.edu/
 ro.mirror.flokinet.net/
 rootlicense.com/
+rpmfind.net/
 rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
 rsync.gtlib.gatech.edu/
@@ -600,7 +605,6 @@ www.domainhizmetleri.com/
 www.edgoo.io/
 www.elhacker.net/
 www.esecuredata.com/
-www.excellmedia.net/
 www.exoscale.com/
 www.fastly.com/
 www.fi.muni.cz/
