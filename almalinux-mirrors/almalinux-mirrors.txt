@@ -98,12 +98,12 @@ distrohub.kyiv.ua/
 diyarciftci.xyz/
 docker.ru/
 doit.missouri.edu/
+domainesia.com/
 dotsrc.org/
 dsu.edu/
 ekiphost.com/
 elice.io/
 elmirror.cl/
-eng.mephi.ru/
 extreme-ix.org/
 ezscale.cloud/
 fam.org.nz/
@@ -180,16 +180,18 @@ ip-connect.vn.ua/
 ipacct.com/
 iphost.md/
 ipinfo.io/
+ir.almalinux.sindad.cloud/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
+itc.zju.edu.cn/
 ixirhost.com/
 jagoanhosting.com/
 jetserver.co.il/
 jingk.ai/
+jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
-kifu.gov.hu/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 krnk.org/
@@ -198,6 +200,7 @@ leaseweb.com/
 lidsol.fi-b.unam.mx/
 lidsol.unam.mx/
 linux-mirrors.fnal.gov/
+linux.domainesia.com/
 linux.duke.edu/
 linux.ncsu.edu/
 linuxpatch.com/
@@ -315,7 +318,6 @@ mirror.maple-hosting.com/
 mirror.marwan.ma/
 mirror.mci-1.serverforge.org/
 mirror.meowsmp.net/
-mirror.mephi.ru/
 mirror.mia11.us.leaseweb.net/
 mirror.mijn.host/
 mirror.moack.co.kr/
@@ -324,8 +326,8 @@ mirror.net.za/
 mirror.netlen.com.tr/
 mirror.netsite.dk/
 mirror.netzwerge.de/
+mirror.nevacloud.com/
 mirror.nforce.com/
-mirror.niif.hu/
 mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
@@ -374,7 +376,6 @@ mirror.truenetwork.ru/
 mirror.twds.com.tw/
 mirror.tzulo.com/
 mirror.uepg.br/
-mirror.us-midwest-1.nexcess.net/
 mirror.usi.edu/
 mirror.veesp.com/
 mirror.veritescil.com.tr/
@@ -384,6 +385,7 @@ mirror.vtti.vt.edu/
 mirror.wd6.net/
 mirror.wdc2.us.leaseweb.net/
 mirror.webworld.ie/
+mirror.wiseglobalsolutions.com/
 mirror.wonchan.net/
 mirror.xcobean.co.ke/
 mirror.xenyth.net/
@@ -450,6 +452,7 @@ mirrors.xtom.de/
 mirrors.xtom.ee/
 mirrors.xtom.jp/
 mirrors.xtom.nl/
+mirrors.zju.edu.cn/
 mnl.aws.repo.almalinux.org/
 mobinhost.com/
 mr.heru.id/
@@ -459,6 +462,7 @@ muug.ca/
 nchc.org.tw/
 net.sjtu.edu.cn/
 neterra.ne/
+nevacloud.com/
 nexril.net/
 nhanhoa.com/
 nl.mirror.flokinet.net/
@@ -483,6 +487,7 @@ parsdev.com/
 per.aws.repo.almalinux.org/
 phoenixnap.com/
 phx.mirrors.clouvider.net/
+pit.mirror.jurassicinnovations.com/
 pkg.adfinis-on-exoscale.ch/
 plug-mirror.rcac.purdue.edu/
 purduelug.org/
@@ -522,6 +527,7 @@ sg-mirrors.vhost.vn/
 sg.gs/
 shedmtl.com/
 siliconhill.cz/
+sindad.com/
 snu.edu.in/
 soonkeat.sg/
 southfront.mm.fcix.net/
@@ -635,7 +641,6 @@ www.lchs.com.au/
 www.limda.net/
 www.linkedin.com/
 www.liquid.tech/
-www.liquidweb.com/
 www.liteserver.nl/
 www.lysator.liu.se/
 www.maeen.sa/
@@ -710,6 +715,7 @@ www.vtti.vt.edu/
 www.wd6.net/
 www.wearetriple.com/
 www.webworld.ie/
+www.wiseglobalsolutions.com/
 www.xeonbd.com/
 www.yamagata-u.ac.jp/
 www.yuccatelecom.com/
