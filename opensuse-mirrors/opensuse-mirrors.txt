@@ -4,6 +4,7 @@ acm.wpi.edu/
 adfinis.com/
 cdn.opensuse.org/
 cloud.mu/
+codingflyboy.mm.fcix.net/
 dc.uz/
 dispenser.yandex.net/
 distro.ibiblio.org/
