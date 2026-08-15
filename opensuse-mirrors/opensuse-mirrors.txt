@@ -44,7 +44,6 @@ github.com/
 global.bfsu.edu.cn/
 gocode.it/
 ip-connect.info/
-ipacct.com/
 it.iut.ac.ir/
 library.ucy.ac.cy/
 linorg.usp.br/
@@ -81,7 +80,6 @@ mirror.siena.edu/
 mirror.sjtu.edu.cn/
 mirror.tele-media.net/
 mirror.tspu.ru/
-mirror.uepg.br/
 mirror.ufscar.br/
 mirror.umd.edu/
 mirror.verinomi.com/
@@ -112,7 +110,6 @@ opensuse.c3sl.ufpr.br/
 opensuse.ic.ufmt.br/
 opensuse.id/
 opensuse.ip-connect.info/
-opensuse.ipacct.com/
 opensuse.koyanet.lv/
 opensuse.mirror-services.net/
 opensuse.mirror.garr.it/
@@ -140,7 +137,6 @@ tspu.edu.ru/
 tuna.moe/
 tux.rainside.sk/
 tynahost.com/
-uepg.br/
 www.163.com/
 www.acc.umu.se/
 www.accum.se/
