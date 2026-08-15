@@ -62,7 +62,6 @@ atl.mirrors.ezscale.cloud/
 atl.mirrors.knownhost.com/
 aws.amazon.com/
 beltelecom.by/
-bharatdatacenter.com/
 bitency.nl/
 blog.almalinux.org/
 blr.aws.repo.almalinux.org/
@@ -236,7 +235,6 @@ mirror.ati.tn/
 mirror.az31.cloudpropeller.com/
 mirror.bahnhof.net/
 mirror.bf-net.ch/
-mirror.bharatdatacenter.com/
 mirror.bitency.nl/
 mirror.cedia.org.ec/
 mirror.ch.altushost.com/
@@ -289,6 +287,7 @@ mirror.hoster.kz/
 mirror.hosthink.net/
 mirror.hostiko.network/
 mirror.hs-esslingen.de/
+mirror.ibcp.fr/
 mirror.in2p3.fr/
 mirror.init7.net/
 mirror.init7.net::almalinux/
@@ -384,7 +383,6 @@ mirror.vtti.vt.edu/
 mirror.wd6.net/
 mirror.wdc2.us.leaseweb.net/
 mirror.webworld.ie/
-mirror.wiseglobalsolutions.com/
 mirror.wonchan.net/
 mirror.xcobean.co.ke/
 mirror.xenyth.net/
@@ -622,6 +620,7 @@ www.host.ag/
 www.hosthink.net/
 www.hostiserver.com/
 www.hs-esslingen.de/
+www.ibcp.fr/
 www.idkom.de/
 www.iij.ad.jp/
 www.init7.net/
@@ -715,7 +714,6 @@ www.vtti.vt.edu/
 www.wd6.net/
 www.wearetriple.com/
 www.webworld.ie/
-www.wiseglobalsolutions.com/
 www.xeonbd.com/
 www.yamagata-u.ac.jp/
 www.yuccatelecom.com/
