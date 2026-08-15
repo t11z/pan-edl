@@ -14,6 +14,7 @@ almalinux-mirror.tpa.hivelocity.net/
 almalinux-mirror.unifique.cloud/
 almalinux-mirror.yucca.net/
 almalinux.elhacker.net/
+almalinux.excellmedia.net/
 almalinux.interhost.co.il/
 almalinux.ip-connect.info/
 almalinux.ip-connect.vn.ua/
@@ -243,6 +244,7 @@ mirror.chpc.utah.edu/
 mirror.citrahost.com/
 mirror.clarkson.edu/
 mirror.cloudpropeller.com/
+mirror.cogentco.com/
 mirror.colocenter.nl/
 mirror.cov.ukservers.com/
 mirror.cpsc.ucalgary.ca/
@@ -287,7 +289,6 @@ mirror.hoster.kz/
 mirror.hosthink.net/
 mirror.hostiko.network/
 mirror.hs-esslingen.de/
-mirror.ibcp.fr/
 mirror.in2p3.fr/
 mirror.init7.net/
 mirror.init7.net::almalinux/
@@ -323,6 +324,7 @@ mirror.net.za/
 mirror.netlen.com.tr/
 mirror.netsite.dk/
 mirror.netzwerge.de/
+mirror.nevacloud.com/
 mirror.nforce.com/
 mirror.nishi.network/
 mirror.nl.altushost.com/
@@ -349,6 +351,7 @@ mirror.reenigne.net/
 mirror.renu.ac.ug/
 mirror.rnet.missouri.edu/
 mirror.rootlicense.com/
+mirror.sabay.com.kh/
 mirror.se.altushost.com/
 mirror.servaxnet.com/
 mirror.server.net/
@@ -358,6 +361,7 @@ mirror.shedmtl.com/
 mirror.siena.edu/
 mirror.sitsa.com.ar/
 mirror.siwoo.org/
+mirror.sjtu.edu.cn/
 mirror.snu.edu.in/
 mirror.soonkeat.sg/
 mirror.speedkom.de/
@@ -389,6 +393,7 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
+mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.bkns.vn/
@@ -454,7 +459,9 @@ msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
 muug.ca/
 nchc.org.tw/
+net.sjtu.edu.cn/
 neterra.ne/
+nevacloud.com/
 nexril.net/
 nhanhoa.com/
 nl.mirror.flokinet.net/
@@ -510,6 +517,7 @@ rsync.repo.almalinux.org/
 rsync.yuki.net.uk/
 ruk-com.cloud/
 rwth-aachen.de/
+sabay.com.kh/
 savoirfairelinux.com/
 sci.nju.edu.cn/
 seattle.crazyfast.us/
@@ -557,6 +565,7 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
+www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -578,6 +587,7 @@ www.cixug.gal/
 www.cloud9.ge/
 www.clouvider.com/
 www.codeforhost.com/
+www.cogentco.com/
 www.coreix.net/
 www.csc.fi/
 www.csuc.cat/
@@ -589,6 +599,7 @@ www.domainhizmetleri.com/
 www.edgoo.io/
 www.elhacker.net/
 www.esecuredata.com/
+www.excellmedia.net/
 www.exoscale.com/
 www.fastly.com/
 www.fi.muni.cz/
@@ -611,7 +622,6 @@ www.host.ag/
 www.hosthink.net/
 www.hostiserver.com/
 www.hs-esslingen.de/
-www.ibcp.fr/
 www.idkom.de/
 www.iij.ad.jp/
 www.init7.net/
