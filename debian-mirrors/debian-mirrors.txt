@@ -138,7 +138,6 @@ ftp.psnc.pl/
 ftp.pt.debian.org/
 ftp.rezopole.net/
 ftp.riken.jp/
-ftp.ru.debian.org/
 ftp.sh.cvut.cz/
 ftp.sk.debian.org/
 ftp.stw-bonn.de/
@@ -231,7 +230,6 @@ mirror.linux.ro/
 mirror.litnet.lt/
 mirror.lzu.edu.cn/
 mirror.maeen.sa/
-mirror.mephi.ru/
 mirror.metanet.ch/
 mirror.mirohost.net/
 mirror.mk.de/
