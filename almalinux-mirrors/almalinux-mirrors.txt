@@ -128,7 +128,6 @@ ftp.halifax.rwth-aachen.de/
 ftp.iij.ad.jp/
 ftp.jaist.ac.jp/
 ftp.linux.cz/
-ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
@@ -158,7 +157,6 @@ hnd.cl/
 hnl.fastly.repo.almalinux.org/
 home.cern/
 host4.biz/
-hostarts.dz/
 hostbaran.com/
 hoster.kz/
 hosterion.ro/
@@ -178,9 +176,9 @@ ip-connect.vn.ua/
 ipacct.com/
 iphost.md/
 ipinfo.io/
-ir.almalinux.sindad.cloud/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
+it2.mirror.vhosting-it.com/
 ixirhost.com/
 jagoanhosting.com/
 jetserver.co.il/
@@ -280,7 +278,6 @@ mirror.hnd.cl/
 mirror.hoasted.com/
 mirror.host.ag/
 mirror.host4biz.eu/
-mirror.hostarts.dz/
 mirror.hostbaran.com/
 mirror.hoster.kz/
 mirror.hosthink.net/
@@ -356,7 +353,6 @@ mirror.server.net/
 mirror.sfo12.us.leaseweb.net/
 mirror.sg.gs/
 mirror.shedmtl.com/
-mirror.siena.edu/
 mirror.sitsa.com.ar/
 mirror.siwoo.org/
 mirror.sjtu.edu.cn/
@@ -523,10 +519,8 @@ sg-mirrors.vhost.vn/
 sg.gs/
 shedmtl.com/
 siliconhill.cz/
-sindad.com/
 snu.edu.in/
 soonkeat.sg/
-southfront.mm.fcix.net/
 stix.mm.fcix.net/
 storpool.com/
 syd.mirror.rackspace.com/
@@ -553,7 +547,6 @@ vn-mirrors.vhost.vn/
 volico.mm.fcix.net/
 vsys.host/
 wiki.almalinux.org/
-wiki.lug.ro/
 www.01link.net/
 www.2degrees.nz/
 www.4psa.com/
@@ -680,7 +673,6 @@ www.server.net/
 www.sfu.ca/
 www.shastacoe.org/
 www.shinjiru.com/
-www.siena.edu/
 www.sitsa.com.ar/
 www.siwoo.org/
 www.sonic.com/
