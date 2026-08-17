@@ -9,11 +9,13 @@ alma.as3741.net/
 alma.hostingdunyam.com.tr/
 alma.idhosting.pl/
 alma.mirror.nyuad.nyu.edu/
+alma.mirror.serversaustralia.com.au/
 almalinux-mirror.freehost.com.ua/
 almalinux-mirror.tpa.hivelocity.net/
 almalinux-mirror.unifique.cloud/
 almalinux-mirror.yucca.net/
 almalinux.elhacker.net/
+almalinux.excellmedia.net/
 almalinux.interhost.co.il/
 almalinux.ip-connect.info/
 almalinux.ipacct.com/
@@ -175,6 +177,7 @@ ip-connect.info/
 ipacct.com/
 iphost.md/
 ipinfo.io/
+ir.almalinux.sindad.cloud/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
@@ -376,6 +379,7 @@ mirror.vtti.vt.edu/
 mirror.wd6.net/
 mirror.wdc2.us.leaseweb.net/
 mirror.webworld.ie/
+mirror.wiseglobalsolutions.com/
 mirror.wonchan.net/
 mirror.xcobean.co.ke/
 mirror.xenyth.net/
@@ -507,10 +511,12 @@ sabay.com.kh/
 savoirfairelinux.com/
 seattle.crazyfast.us/
 serverforge.org/
+serversaustralia.com.au/
 sg-mirrors.vhost.vn/
 sg.gs/
 shedmtl.com/
 siliconhill.cz/
+sindad.com/
 snu.edu.in/
 soonkeat.sg/
 southfront.mm.fcix.net/
@@ -582,6 +588,7 @@ www.domainhizmetleri.com/
 www.edgoo.io/
 www.elhacker.net/
 www.esecuredata.com/
+www.excellmedia.net/
 www.exoscale.com/
 www.fastly.com/
 www.fi.muni.cz/
@@ -694,6 +701,7 @@ www.vtti.vt.edu/
 www.wd6.net/
 www.wearetriple.com/
 www.webworld.ie/
+www.wiseglobalsolutions.com/
 www.xeonbd.com/
 www.yamagata-u.ac.jp/
 www.yuccatelecom.com/
