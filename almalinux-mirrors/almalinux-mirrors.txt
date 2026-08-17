@@ -52,6 +52,7 @@ almalinux.schlundtech.de/
 almalinux.si/
 almalinux.uib.no/
 almalinux.virtono.com/
+almalinux.vpsttt.com/
 almalinux.web.trex.fi/
 almamirror.netdirekt.com.tr/
 almamirror.phoenixnap.com/
@@ -178,6 +179,7 @@ ip-connect.vn.ua/
 ipacct.com/
 iphost.md/
 ipinfo.io/
+ir.almalinux.sindad.cloud/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
@@ -195,7 +197,6 @@ la.mirrors.clouvider.net/
 leaseweb.com/
 lidsol.fi-b.unam.mx/
 lidsol.unam.mx/
-linux-mirrors.fnal.gov/
 linux.domainesia.com/
 linux.duke.edu/
 linux.ncsu.edu/
@@ -322,7 +323,6 @@ mirror.netsite.dk/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nforce.com/
-mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
 mirror.nl.mirhosting.net/
@@ -519,6 +519,7 @@ sg-mirrors.vhost.vn/
 sg.gs/
 shedmtl.com/
 siliconhill.cz/
+sindad.com/
 snu.edu.in/
 soonkeat.sg/
 southfront.mm.fcix.net/
@@ -546,6 +547,7 @@ veesp.com/
 vhost.vn/
 vn-mirrors.vhost.vn/
 volico.mm.fcix.net/
+vpsttt.com/
 vsys.host/
 wiki.almalinux.org/
 wiki.lug.ro/
@@ -596,7 +598,6 @@ www.exoscale.com/
 www.fastly.com/
 www.fi.muni.cz/
 www.fiu.edu/
-www.fnal.gov/
 www.fusioned.net/
 www.fysik.dtu.dk/
 www.garr.it/
