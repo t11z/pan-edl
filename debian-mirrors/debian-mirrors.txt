@@ -170,12 +170,10 @@ lidsol.fi-b.unam.mx/
 linuxsoft.cern.ch/
 merlin.fit.vutbr.cz/
 miroir.univ-lorraine.fr/
-mirror-mk.interspace.com/
 mirror-prg.webglobe.com/
 mirror.0x626b.com/
 mirror.23m.com/
 mirror.5i.fi/
-mirror.a1.mk/
 mirror.aarnet.edu.au/
 mirror.abaclouda.net/
 mirror.alwyzon.net/
@@ -283,6 +281,7 @@ mirror.yuki.net.uk/
 mirror1.infomaniak.com/
 mirror2.infomaniak.com/
 mirrors.accretive-networks.net/
+mirrors.bfsu.edu.cn/
 mirrors.bloomu.edu/
 mirrors.coreix.net/
 mirrors.datapark.ro/
