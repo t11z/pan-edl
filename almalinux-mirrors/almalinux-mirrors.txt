@@ -18,6 +18,7 @@ almalinux.elhacker.net/
 almalinux.excellmedia.net/
 almalinux.interhost.co.il/
 almalinux.ip-connect.info/
+almalinux.ip-connect.vn.ua/
 almalinux.ipacct.com/
 almalinux.jetserver.co.il/
 almalinux.koyanet.lv/
@@ -27,6 +28,7 @@ almalinux.mirror.digitalpacific.com.au/
 almalinux.mirror.garr.it/
 almalinux.mirror.globo.tech/
 almalinux.mirror.katapult.io/
+almalinux.mirror.liquidtelecom.com/
 almalinux.mirror.liteserver.nl/
 almalinux.mirror.net.za/
 almalinux.mirror.scopesky.com/
@@ -132,7 +134,6 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
-ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -174,6 +175,7 @@ interhost.co.il/
 internet.asn.au/
 ioflood.com/
 ip-connect.info/
+ip-connect.vn.ua/
 ipacct.com/
 iphost.md/
 ipinfo.io/
@@ -342,7 +344,6 @@ mirror.ps.kz/
 mirror.rackspeed.de/
 mirror.raiolanetworks.com/
 mirror.randhost.com/
-mirror.rcg.sfu.ca/
 mirror.realcompute.io/
 mirror.reenigne.net/
 mirror.renu.ac.ug/
@@ -390,6 +391,7 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
+mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.bkns.vn/
@@ -417,7 +419,6 @@ mirrors.ipserverone.com/
 mirrors.iu13.net/
 mirrors.krnk.org/
 mirrors.melbourne.co.uk/
-mirrors.mvps.net/
 mirrors.nav.ro/
 mirrors.neterra.net/
 mirrors.nhanhoa.com/
@@ -469,7 +470,6 @@ nyc.almalinux.osuosl.org/
 nyc.mirrors.clouvider.net/
 nyuad.nyu.edu/
 ocf.berkeley.edu/
-ohioix.mm.fcix.net/
 oit.gatech.edu/
 opencolo.mm.fcix.net/
 opensource.fb.com/
@@ -559,6 +559,7 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
+www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -631,6 +632,7 @@ www.knownhost.com/
 www.lchs.com.au/
 www.limda.net/
 www.linkedin.com/
+www.liquid.tech/
 www.liquidweb.com/
 www.liteserver.nl/
 www.lysator.liu.se/
@@ -639,7 +641,6 @@ www.maple-hosting.com/
 www.melbourne.co.uk/
 www.meowsmp.net/
 www.moack.co.kr/
-www.mvps.net/
 www.nav.ro/
 www.netdirekt.com.tr/
 www.netforce.company/
@@ -665,12 +666,10 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
-www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
 www.server.net/
-www.sfu.ca/
 www.shastacoe.org/
 www.shinjiru.com/
 www.siena.edu/
