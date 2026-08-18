@@ -192,7 +192,6 @@ jingk.ai/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
-kifu.gov.hu/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 krnk.org/
@@ -262,7 +261,6 @@ mirror.dk.team.blue/
 mirror.dk.team.blue::almalinux/
 mirror.docker.ru/
 mirror.dogado.de/
-mirror.domainhizmetleri.com/
 mirror.ekiphost.com/
 mirror.elice.io/
 mirror.esecuredata.com/
@@ -306,7 +304,6 @@ mirror.karneval.cz/
 mirror.kku.ac.th/
 mirror.krfoss.org/
 mirror.lchs.network/
-mirror.limda.net/
 mirror.linux.duke.edu/
 mirror.linux.ec/
 mirror.linux.ncsu.edu/
@@ -326,9 +323,7 @@ mirror.net.za/
 mirror.netlen.com.tr/
 mirror.netsite.dk/
 mirror.netzwerge.de/
-mirror.nevacloud.com/
 mirror.nforce.com/
-mirror.niif.hu/
 mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
@@ -463,7 +458,6 @@ muug.ca/
 nchc.org.tw/
 net.sjtu.edu.cn/
 neterra.ne/
-nevacloud.com/
 nexril.net/
 nhanhoa.com/
 nl.mirror.flokinet.net/
@@ -595,7 +589,6 @@ www.cyberfolks.ro/
 www.deac.eu/
 www.digitalpacific.com.au/
 www.dogado.de/
-www.domainhizmetleri.com/
 www.edgoo.io/
 www.elhacker.net/
 www.esecuredata.com/
@@ -637,7 +630,6 @@ www.kent.ac.uk/
 www.kku.ac.th/
 www.knownhost.com/
 www.lchs.com.au/
-www.limda.net/
 www.linkedin.com/
 www.liquid.tech/
 www.liquidweb.com/
