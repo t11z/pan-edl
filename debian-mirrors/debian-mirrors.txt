@@ -128,7 +128,6 @@ ftp.linux.org.tr/
 ftp.lip6.fr/
 ftp.lt.debian.org/
 ftp.maru.co.jp/
-ftp.md.debian.org/
 ftp.nc.debian.org/
 ftp.nl.debian.org/
 ftp.nz.debian.org/
@@ -180,7 +179,6 @@ mirror.alwyzon.net/
 mirror.amaze.com.au/
 mirror.applebred.net/
 mirror.as35701.net/
-mirror.as43289.net/
 mirror.bgp.rodeo/
 mirror.bizflycloud.vn/
 mirror.blue3.com.br/
@@ -192,7 +190,6 @@ mirror.cov.ukservers.com/
 mirror.cpsc.ucalgary.ca/
 mirror.creoline.net/
 mirror.csclub.uwaterloo.ca/
-mirror.datacenter.by/
 mirror.de.leaseweb.net/
 mirror.debian.ikoula.com/
 mirror.djvg.sg/
@@ -207,7 +204,6 @@ mirror.fsmg.org.nz/
 mirror.gitoyen.net/
 mirror.gsl.icu/
 mirror.hnd.cl/
-mirror.hoster.kz/
 mirror.informatik.tu-freiberg.de/
 mirror.init7.net/
 mirror.insacom.cl/
@@ -218,7 +214,6 @@ mirror.iway.ch/
 mirror.johnnybegood.fr/
 mirror.keystealth.org/
 mirror.kku.ac.th/
-mirror.kpfu.ru/
 mirror.lagoon.nc/
 mirror.lchost.net/
 mirror.limda.net/
@@ -258,7 +253,6 @@ mirror.siwoo.org/
 mirror.steadfast.net/
 mirror.telepoint.bg/
 mirror.tngnet.com/
-mirror.truenetwork.ru/
 mirror.twds.com.tw/
 mirror.tzulo.com/
 mirror.uepg.br/
@@ -299,7 +293,6 @@ mirrors.netix.net/
 mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
 mirrors.pidginhost.com/
-mirrors.powernet.com.ru/
 mirrors.ptisp.pt/
 mirrors.qlu.edu.cn/
 mirrors.tuna.tsinghua.edu.cn/
