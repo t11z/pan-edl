@@ -27,7 +27,6 @@ almalinux.mirror.digitalpacific.com.au/
 almalinux.mirror.garr.it/
 almalinux.mirror.globo.tech/
 almalinux.mirror.katapult.io/
-almalinux.mirror.liquidtelecom.com/
 almalinux.mirror.liteserver.nl/
 almalinux.mirror.net.za/
 almalinux.mirror.scopesky.com/
@@ -57,6 +56,7 @@ almamirror.netdirekt.com.tr/
 almamirror.phoenixnap.com/
 aptus.co.tz/
 ash.mirrors.clouvider.net/
+asnet.am/
 atl.mirrors.clouvider.net/
 atl.mirrors.ezscale.cloud/
 atl.mirrors.knownhost.com/
@@ -265,6 +265,7 @@ mirror.esecuredata.com/
 mirror.eu.4psacloud.com/
 mirror.facebook.net/
 mirror.famaserver.com/
+mirror.fcix.net/
 mirror.fiu.edu/
 mirror.flo.c-f.ro/
 mirror.fmt-2.serverforge.org/
@@ -347,7 +348,6 @@ mirror.reenigne.net/
 mirror.renu.ac.ug/
 mirror.rnet.missouri.edu/
 mirror.rootlicense.com/
-mirror.sabay.com.kh/
 mirror.se.altushost.com/
 mirror.servaxnet.com/
 mirror.server.net/
@@ -389,7 +389,9 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
+mirrors.aliyun.com/
 mirrors.almalinux.org/
+mirrors.asnet.am/
 mirrors.bkns.vn/
 mirrors.bmcc.edu/
 mirrors.bytes.ua/
@@ -415,7 +417,6 @@ mirrors.ipserverone.com/
 mirrors.iu13.net/
 mirrors.krnk.org/
 mirrors.melbourne.co.uk/
-mirrors.mvps.net/
 mirrors.nav.ro/
 mirrors.neterra.net/
 mirrors.nhanhoa.com/
@@ -508,7 +509,6 @@ rsync.repo.almalinux.org/
 rsync.yuki.net.uk/
 ruk-com.cloud/
 rwth-aachen.de/
-sabay.com.kh/
 savoirfairelinux.com/
 sci.nju.edu.cn/
 seattle.crazyfast.us/
@@ -557,6 +557,7 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
+www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -628,7 +629,6 @@ www.knownhost.com/
 www.lchs.com.au/
 www.limda.net/
 www.linkedin.com/
-www.liquid.tech/
 www.liquidweb.com/
 www.liteserver.nl/
 www.lysator.liu.se/
@@ -637,7 +637,6 @@ www.maple-hosting.com/
 www.melbourne.co.uk/
 www.meowsmp.net/
 www.moack.co.kr/
-www.mvps.net/
 www.nav.ro/
 www.netdirekt.com.tr/
 www.netforce.company/
