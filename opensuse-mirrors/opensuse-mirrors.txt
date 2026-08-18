@@ -24,7 +24,6 @@ ftp.fedora.md/
 ftp.funet.fi/
 ftp.gwdg.de/
 ftp.halifax.rwth-aachen.de/
-ftp.icm.edu.pl/
 ftp.jaist.ac.jp/
 ftp.linux.cz/
 ftp.linux.org.tr/
@@ -77,7 +76,6 @@ mirror.opensuse.mu/
 mirror.rackspace.co.uk/
 mirror.rackspace.com/
 mirror.rackspace.hk/
-mirror.siena.edu/
 mirror.sjtu.edu.cn/
 mirror.tele-media.net/
 mirror.tspu.ru/
@@ -177,7 +175,6 @@ www.rackspace.com/
 www.rainside.sk/
 www.rnl.tecnico.ulisboa.pt/
 www.schlundtech.com/
-www.siena.edu/
 www.siliconhill.cz/
 www.suse.com/
 www.tu-chemnitz.de/
