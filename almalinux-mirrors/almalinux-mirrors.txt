@@ -2,7 +2,6 @@
 a1.mk/
 a2hosting.com/
 africloud.com/
-airnet.uz/
 al-mirror.a2hosting.com/
 alma.acidman.thelefty.org/
 alma.as3741.net/
@@ -15,7 +14,6 @@ almalinux-mirror.tpa.hivelocity.net/
 almalinux-mirror.unifique.cloud/
 almalinux-mirror.yucca.net/
 almalinux.elhacker.net/
-almalinux.excellmedia.net/
 almalinux.interhost.co.il/
 almalinux.ip-connect.info/
 almalinux.ip-connect.vn.ua/
@@ -181,6 +179,7 @@ ip-connect.vn.ua/
 ipacct.com/
 iphost.md/
 ipinfo.io/
+ir.almalinux.sindad.cloud/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
@@ -207,6 +206,7 @@ linuxpatch.com/
 linuxsoft.cern.ch/
 lon.mirror.rackspace.com/
 lug.hit.edu.cn/
+lyrahosting.com/
 mangohost.net/
 maniaclab.uchicago.edu/
 marwan.ma/
@@ -221,7 +221,6 @@ mirror.a1.mk/
 mirror.aarnet.edu.au/
 mirror.accum.se/
 mirror.africloud.com/
-mirror.airnet.uz/
 mirror.alastyr.com/
 mirror.alma.iad1.serverforge.org/
 mirror.alma.lax1.serverforge.org/
@@ -244,6 +243,7 @@ mirror.chpc.utah.edu/
 mirror.citrahost.com/
 mirror.clarkson.edu/
 mirror.cloudpropeller.com/
+mirror.cogentco.com/
 mirror.colocenter.nl/
 mirror.cov.ukservers.com/
 mirror.cpsc.ucalgary.ca/
@@ -259,11 +259,11 @@ mirror.dk.team.blue/
 mirror.dk.team.blue::almalinux/
 mirror.docker.ru/
 mirror.dogado.de/
-mirror.domainhizmetleri.com/
 mirror.ekiphost.com/
 mirror.elice.io/
 mirror.esecuredata.com/
 mirror.eu.4psacloud.com/
+mirror.facebook.net/
 mirror.famaserver.com/
 mirror.fcix.net/
 mirror.fiu.edu/
@@ -271,7 +271,6 @@ mirror.flo.c-f.ro/
 mirror.fmt-2.serverforge.org/
 mirror.freedif.org/
 mirror.fysik.dtu.dk/
-mirror.gi.co.id/
 mirror.gozunga.com/
 mirror.grid.uchicago.edu/
 mirror.group.one/
@@ -308,6 +307,7 @@ mirror.linux.duke.edu/
 mirror.linux.ec/
 mirror.linux.ncsu.edu/
 mirror.liteserver.nl/
+mirror.lyrahosting.com/
 mirror.maeen.sa/
 mirror.mangohost.net/
 mirror.maple-hosting.com/
@@ -348,6 +348,7 @@ mirror.reenigne.net/
 mirror.renu.ac.ug/
 mirror.rnet.missouri.edu/
 mirror.rootlicense.com/
+mirror.sabay.com.kh/
 mirror.se.altushost.com/
 mirror.servaxnet.com/
 mirror.server.net/
@@ -371,6 +372,7 @@ mirror.truenetwork.ru/
 mirror.twds.com.tw/
 mirror.tzulo.com/
 mirror.uepg.br/
+mirror.us-midwest-1.nexcess.net/
 mirror.usi.edu/
 mirror.veesp.com/
 mirror.veritescil.com.tr/
@@ -472,6 +474,7 @@ ocf.berkeley.edu/
 ohioix.mm.fcix.net/
 oit.gatech.edu/
 opencolo.mm.fcix.net/
+opensource.fb.com/
 or-mirror.iwebfusion.net/
 ord.mirror.rackspace.com/
 osuosl.org/
@@ -504,13 +507,13 @@ rpmfind.net/
 rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
 rsync.gtlib.gatech.edu/
-rsync.mirror.gi.co.id/
 rsync.mirrorservice.org/
 rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
 rsync.yuki.net.uk/
 ruk-com.cloud/
 rwth-aachen.de/
+sabay.com.kh/
 savoirfairelinux.com/
 sci.nju.edu.cn/
 seattle.crazyfast.us/
@@ -520,6 +523,7 @@ sg-mirrors.vhost.vn/
 sg.gs/
 shedmtl.com/
 siliconhill.cz/
+sindad.com/
 snu.edu.in/
 soonkeat.sg/
 southfront.mm.fcix.net/
@@ -581,6 +585,7 @@ www.cixug.gal/
 www.cloud9.ge/
 www.clouvider.com/
 www.codeforhost.com/
+www.cogentco.com/
 www.coreix.net/
 www.csc.fi/
 www.csuc.cat/
@@ -588,11 +593,9 @@ www.cyberfolks.ro/
 www.deac.eu/
 www.digitalpacific.com.au/
 www.dogado.de/
-www.domainhizmetleri.com/
 www.edgoo.io/
 www.elhacker.net/
 www.esecuredata.com/
-www.excellmedia.net/
 www.exoscale.com/
 www.fastly.com/
 www.fi.muni.cz/
@@ -603,7 +606,6 @@ www.fysik.dtu.dk/
 www.garr.it/
 www.gbnetwork.com/
 www.gethosted.online/
-www.gi.co.id/
 www.group.one/
 www.gtlib.gatech.edu/
 www.guzel.net.tr/
@@ -634,6 +636,7 @@ www.lchs.com.au/
 www.limda.net/
 www.linkedin.com/
 www.liquid.tech/
+www.liquidweb.com/
 www.liteserver.nl/
 www.lysator.liu.se/
 www.maeen.sa/

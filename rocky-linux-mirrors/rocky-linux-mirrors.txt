@@ -24,14 +24,12 @@ dl.rockylinux.org/
 dotsrc.org/
 download.rockylinux.org/
 en.isoc.org.il/
-energotel.sk/
 esto.network/
 fosszone.csd.auth.gr/
 fr.dyi.ng/
 fr.mirrors.cicku.me/
 ftp.agdsn.de/
 ftp.cc.uoc.gr/
-ftp.energotel.sk/
 ftp.fau.de/
 ftp.halifax.rwth-aachen.de/
 ftp.iij.ad.jp/
