@@ -48,7 +48,6 @@ ipacct.com/
 it.iut.ac.ir/
 library.ucy.ac.cy/
 linorg.usp.br/
-mirror-br.opensuse.org/
 mirror-services.net/
 mirror.aardsoft.fi/
 mirror.aarnet.edu.au/
@@ -119,6 +118,7 @@ opensuse.mirror.garr.it/
 opensuse.mirror.iphh.net/
 opensuse.mirror.liquidtelecom.com/
 opensuse.mirror.liteserver.nl/
+opensuse.mirrors.proxad.net/
 opensuse.org/
 opensuse.schlundtech.de/
 opensuse.schlundtechn.de/
@@ -138,7 +138,6 @@ tele-media.net/
 tspu.edu.ru/
 tuna.moe/
 tux.rainside.sk/
-tynahost.com/
 uepg.br/
 www.163.com/
 www.acc.umu.se/
@@ -152,6 +151,7 @@ www.dogado.de/
 www.easyname.com/
 www.fder.edu.uy/
 www.fedora.md/
+www.free.fr/
 www.garr.it/
 www.gatech.edu/
 www.gtlib.gatech.edu/
