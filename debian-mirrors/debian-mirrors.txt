@@ -245,6 +245,7 @@ mirror.ps.kz/
 mirror.raiolanetworks.com/
 mirror.realcompute.io/
 mirror.rustytel.net/
+mirror.sabay.com.kh/
 mirror.sg.gs/
 mirror.siena.edu/
 mirror.sinavps.ch/
