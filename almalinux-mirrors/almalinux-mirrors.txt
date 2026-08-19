@@ -179,6 +179,7 @@ ip-connect.vn.ua/
 ipacct.com/
 iphost.md/
 ipinfo.io/
+ir.almalinux.sindad.cloud/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
@@ -343,6 +344,7 @@ mirror.ps.kz/
 mirror.rackspeed.de/
 mirror.raiolanetworks.com/
 mirror.randhost.com/
+mirror.rcg.sfu.ca/
 mirror.realcompute.io/
 mirror.reenigne.net/
 mirror.renu.ac.ug/
@@ -360,7 +362,6 @@ mirror.sitsa.com.ar/
 mirror.siwoo.org/
 mirror.sjtu.edu.cn/
 mirror.snu.edu.in/
-mirror.soonkeat.sg/
 mirror.speedkom.de/
 mirror.steadfastnet.com/
 mirror.team-cymru.com/
@@ -382,6 +383,7 @@ mirror.vtti.vt.edu/
 mirror.wd6.net/
 mirror.wdc2.us.leaseweb.net/
 mirror.webworld.ie/
+mirror.wiseglobalsolutions.com/
 mirror.wonchan.net/
 mirror.xcobean.co.ke/
 mirror.xenyth.net/
@@ -522,8 +524,8 @@ sg-mirrors.vhost.vn/
 sg.gs/
 shedmtl.com/
 siliconhill.cz/
+sindad.com/
 snu.edu.in/
-soonkeat.sg/
 southfront.mm.fcix.net/
 storpool.com/
 syd.mirror.rackspace.com/
@@ -547,6 +549,7 @@ unifique.com.br/
 usi.edu/
 veesp.com/
 vhost.vn/
+vn-mirrors.vhost.vn/
 volico.mm.fcix.net/
 vpsttt.com/
 vsys.host/
@@ -672,6 +675,7 @@ www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
 www.server.net/
+www.sfu.ca/
 www.shastacoe.org/
 www.shinjiru.com/
 www.siena.edu/
@@ -706,6 +710,7 @@ www.vtti.vt.edu/
 www.wd6.net/
 www.wearetriple.com/
 www.webworld.ie/
+www.wiseglobalsolutions.com/
 www.xeonbd.com/
 www.yamagata-u.ac.jp/
 www.yuccatelecom.com/
