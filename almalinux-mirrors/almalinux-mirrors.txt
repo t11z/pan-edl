@@ -193,7 +193,6 @@ jingk.ai/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
-kifu.gov.hu/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 krnk.org/
@@ -246,8 +245,10 @@ mirror.chpc.utah.edu/
 mirror.citrahost.com/
 mirror.clarkson.edu/
 mirror.cloudpropeller.com/
+mirror.cogentco.com/
 mirror.colocenter.nl/
 mirror.cov.ukservers.com/
+mirror.cpsc.ucalgary.ca/
 mirror.csclub.uwaterloo.ca/
 mirror.dal.nexril.net/
 mirror.datacenter.by/
@@ -324,7 +325,6 @@ mirror.netlen.com.tr/
 mirror.netsite.dk/
 mirror.netzwerge.de/
 mirror.nforce.com/
-mirror.niif.hu/
 mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
@@ -540,6 +540,7 @@ tino.org/
 truenetwork.ru/
 tx-mirror.tier.net/
 tzulo.com/
+ucalgary.ca/
 uepg.br/
 uk.mirrors.clouvider.net/
 unifique.com.br/
@@ -582,6 +583,7 @@ www.cixug.gal/
 www.cloud9.ge/
 www.clouvider.com/
 www.codeforhost.com/
+www.cogentco.com/
 www.coreix.net/
 www.csc.fi/
 www.csuc.cat/
