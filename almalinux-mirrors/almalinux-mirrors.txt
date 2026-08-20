@@ -97,7 +97,6 @@ diyarciftci.xyz/
 docker.ru/
 doit.missouri.edu/
 domainesia.com/
-dotsrc.org/
 dsu.edu/
 ekiphost.com/
 elice.io/
@@ -132,6 +131,7 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
+ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -386,9 +386,9 @@ mirror.xcobean.co.ke/
 mirror.xenyth.net/
 mirror.xeonbd.com/
 mirror.yandex.ru/
+mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
-mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.bkns.vn/
@@ -399,7 +399,6 @@ mirrors.cat.pdx.edu/
 mirrors.chroot.ro/
 mirrors.cloudforest.co.th/
 mirrors.coreix.net/
-mirrors.dotsrc.org/
 mirrors.egr.msu.edu/
 mirrors.fibianet.dk/
 mirrors.ft.uam.es/
@@ -557,7 +556,6 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
-www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -665,6 +663,7 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
+www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
@@ -713,6 +712,7 @@ xcobean.co.ke/
 xenyth.net/
 xtom.com/
 yandex.ru/
+yer.az/
 yuki.net.uk/
 yxeix.mm.fcix.net/
 ziply.mm.fcix.net/
