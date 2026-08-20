@@ -28,6 +28,7 @@ almalinux.mirror.digitalpacific.com.au/
 almalinux.mirror.garr.it/
 almalinux.mirror.globo.tech/
 almalinux.mirror.katapult.io/
+almalinux.mirror.liquidtelecom.com/
 almalinux.mirror.liteserver.nl/
 almalinux.mirror.net.za/
 almalinux.mirror.scopesky.com/
@@ -98,7 +99,6 @@ diyarciftci.xyz/
 docker.ru/
 doit.missouri.edu/
 domainesia.com/
-dotsrc.org/
 dsu.edu/
 ekiphost.com/
 elice.io/
@@ -133,6 +133,7 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
+ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -172,7 +173,6 @@ incognet.io/
 insect.mm.fcix.net/
 interhost.co.il/
 internet.asn.au/
-ioflood.com/
 ip-connect.info/
 ip-connect.vn.ua/
 ipacct.com/
@@ -180,7 +180,6 @@ iphost.md/
 ipinfo.io/
 ir.almalinux.sindad.cloud/
 is.mirror.flokinet.net/
-it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
 itc.zju.edu.cn/
 ixirhost.com/
@@ -212,6 +211,7 @@ marwan.ma/
 mijn.host/
 mirhosting.com/
 mirror-services.net/
+mirror.01link.hk/
 mirror.0x626b.com/
 mirror.23m.com/
 mirror.2degrees.nz/
@@ -334,11 +334,9 @@ mirror.nyist.edu.cn/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
 mirror.parsdev.com/
-mirror.phoenix.ioflood.com/
 mirror.pit.teraswitch.com/
 mirror.plusline.net/
 mirror.previder.nl/
-mirror.ps.kz/
 mirror.rackspeed.de/
 mirror.raiolanetworks.com/
 mirror.randhost.com/
@@ -391,7 +389,6 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
-mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.bkns.vn/
@@ -402,7 +399,6 @@ mirrors.cat.pdx.edu/
 mirrors.chroot.ro/
 mirrors.cloudforest.co.th/
 mirrors.coreix.net/
-mirrors.dotsrc.org/
 mirrors.egr.msu.edu/
 mirrors.fibianet.dk/
 mirrors.ft.uam.es/
@@ -553,6 +549,7 @@ vpsttt.com/
 vsys.host/
 wiki.almalinux.org/
 wiki.lug.ro/
+www.01link.net/
 www.2degrees.nz/
 www.4psa.com/
 www.Linux.ec/
@@ -560,7 +557,6 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
-www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -634,6 +630,7 @@ www.knownhost.com/
 www.lchs.com.au/
 www.limda.net/
 www.linkedin.com/
+www.liquid.tech/
 www.liquidweb.com/
 www.liteserver.nl/
 www.lysator.liu.se/
@@ -661,12 +658,12 @@ www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
 www.previder.com/
-www.ps.kz/
 www.psnc.pl/
 www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
+www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
