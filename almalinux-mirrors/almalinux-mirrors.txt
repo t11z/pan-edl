@@ -95,7 +95,6 @@ den.aws.repo.almalinux.org/
 dinosaurus.fleksibel.com/
 distrohub.kyiv.ua/
 diyarciftci.xyz/
-docker.ru/
 doit.missouri.edu/
 domainesia.com/
 dotsrc.org/
@@ -108,6 +107,7 @@ ezscale.cloud/
 fam.org.nz/
 famaserver.com/
 fcix.net/
+fibia.dk/
 fleksibel.com/
 flokinet.is/
 for.aws.repo.almalinux.org/
@@ -178,7 +178,6 @@ ip-connect.vn.ua/
 ipacct.com/
 iphost.md/
 ipinfo.io/
-ir.almalinux.sindad.cloud/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
@@ -190,6 +189,7 @@ jingk.ai/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
+kifu.gov.hu/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 krnk.org/
@@ -256,7 +256,6 @@ mirror.digitalpacific.com.au/
 mirror.diyarciftci.xyz/
 mirror.dk.team.blue/
 mirror.dk.team.blue::almalinux/
-mirror.docker.ru/
 mirror.dogado.de/
 mirror.domainhizmetleri.com/
 mirror.ekiphost.com/
@@ -324,6 +323,7 @@ mirror.netsite.dk/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nforce.com/
+mirror.niif.hu/
 mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
@@ -403,6 +403,7 @@ mirrors.cloudforest.co.th/
 mirrors.coreix.net/
 mirrors.dotsrc.org/
 mirrors.egr.msu.edu/
+mirrors.fibianet.dk/
 mirrors.ft.uam.es/
 mirrors.gbnetwork.com/
 mirrors.gethosted.online/
@@ -521,7 +522,6 @@ sg-mirrors.vhost.vn/
 sg.gs/
 shedmtl.com/
 siliconhill.cz/
-sindad.com/
 snu.edu.in/
 soonkeat.sg/
 southfront.mm.fcix.net/
