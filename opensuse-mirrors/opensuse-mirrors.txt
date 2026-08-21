@@ -96,7 +96,6 @@ mirrors.nxthost.com/
 mirrors.opensuse.org/
 mirrors.rit.edu/
 mirrors.tuna.tsinghua.edu.cn/
-mirrors.ucr.ac.cr/
 mirrors.ustc.edu.cn/
 mirrors.zju.edu.cn/
 muug.ca/
@@ -180,7 +179,6 @@ www.siliconhill.cz/
 www.suse.com/
 www.tu-chemnitz.de/
 www.ucom.am/
-www.ucr.ac.cr/
 www.ufscar.br/
 www.umd.edu/
 www.uni-bayreuth.de/
