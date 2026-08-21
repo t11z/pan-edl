@@ -101,7 +101,6 @@ doit.missouri.edu/
 domainesia.com/
 dotsrc.org/
 dsu.edu/
-ekiphost.com/
 elice.io/
 elmirror.cl/
 extreme-ix.org/
@@ -134,6 +133,7 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
+ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -179,9 +179,9 @@ ip-connect.vn.ua/
 ipacct.com/
 iphost.md/
 ipinfo.io/
+ir.almalinux.sindad.cloud/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
-itc.zju.edu.cn/
 ixirhost.com/
 jagoanhosting.com/
 jetserver.co.il/
@@ -198,6 +198,7 @@ lidsol.fi-b.unam.mx/
 lidsol.unam.mx/
 linux-mirrors.fnal.gov/
 linux.domainesia.com/
+linux.duke.edu/
 linux.ncsu.edu/
 linuxpatch.com/
 linuxsoft.cern.ch/
@@ -258,7 +259,6 @@ mirror.dk.team.blue::almalinux/
 mirror.docker.ru/
 mirror.dogado.de/
 mirror.domainhizmetleri.com/
-mirror.ekiphost.com/
 mirror.elice.io/
 mirror.esecuredata.com/
 mirror.eu.4psacloud.com/
@@ -303,6 +303,7 @@ mirror.kku.ac.th/
 mirror.krfoss.org/
 mirror.lchs.network/
 mirror.limda.net/
+mirror.linux.duke.edu/
 mirror.linux.ec/
 mirror.linux.ncsu.edu/
 mirror.liteserver.nl/
@@ -382,7 +383,6 @@ mirror.vtti.vt.edu/
 mirror.wd6.net/
 mirror.wdc2.us.leaseweb.net/
 mirror.webworld.ie/
-mirror.wiseglobalsolutions.com/
 mirror.wonchan.net/
 mirror.xcobean.co.ke/
 mirror.xenyth.net/
@@ -446,7 +446,6 @@ mirrors.xtom.de/
 mirrors.xtom.ee/
 mirrors.xtom.jp/
 mirrors.xtom.nl/
-mirrors.zju.edu.cn/
 mnl.aws.repo.almalinux.org/
 mobinhost.com/
 mr.heru.id/
@@ -522,6 +521,7 @@ sg-mirrors.vhost.vn/
 sg.gs/
 shedmtl.com/
 siliconhill.cz/
+sindad.com/
 snu.edu.in/
 soonkeat.sg/
 southfront.mm.fcix.net/
@@ -538,6 +538,7 @@ terrahost.no/
 thegigabit.com/
 tino.org/
 truenetwork.ru/
+tx-mirror.tier.net/
 tzulo.com/
 ucalgary.ca/
 uepg.br/
@@ -670,6 +671,7 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
+www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
@@ -687,6 +689,7 @@ www.swinburne.edu.au/
 www.telecomarmenia.am/
 www.tencent.com/
 www.thelefty.org/
+www.tier.net/
 www.tku.edu.tw/
 www.transip.nl/
 www.trex.fi/
@@ -707,7 +710,6 @@ www.vtti.vt.edu/
 www.wd6.net/
 www.wearetriple.com/
 www.webworld.ie/
-www.wiseglobalsolutions.com/
 www.xeonbd.com/
 www.yamagata-u.ac.jp/
 www.yuccatelecom.com/
@@ -719,5 +721,4 @@ yandex.ru/
 yer.az/
 yuki.net.uk/
 yxeix.mm.fcix.net/
-ziply.mm.fcix.net/
 ziplyfiber.com/
