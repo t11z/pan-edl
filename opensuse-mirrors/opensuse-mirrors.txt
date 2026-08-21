@@ -8,7 +8,6 @@ codingflyboy.mm.fcix.net/
 dc.uz/
 dispenser.yandex.net/
 distro.ibiblio.org/
-distrohub.kyiv.ua/
 dotsrc.org/
 download.opensuse.id/
 download.opensuse.org/
@@ -57,7 +56,6 @@ mirror.alwyzon.net/
 mirror.cedia.org.ec/
 mirror.clarkson.edu/
 mirror.csclub.uwaterloo.ca/
-mirror.datto.com/
 mirror.dc.uz/
 mirror.dogado.de/
 mirror.easyname.at/
