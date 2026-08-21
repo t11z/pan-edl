@@ -13,7 +13,6 @@ dotsrc.org/
 download.opensuse.id/
 download.opensuse.org/
 en.opensuse.org/
-espejito.fder.edu.uy/
 fcix.net/
 fr2.rpmfind.net/
 free.nchc.org.tw/
@@ -119,6 +118,7 @@ opensuse.mirror.garr.it/
 opensuse.mirror.iphh.net/
 opensuse.mirror.liquidtelecom.com/
 opensuse.mirror.liteserver.nl/
+opensuse.mirrors.proxad.net/
 opensuse.org/
 opensuse.schlundtech.de/
 opensuse.schlundtechn.de/
@@ -150,8 +150,8 @@ www.csc.fi/
 www.deac.eu/
 www.dogado.de/
 www.easyname.com/
-www.fder.edu.uy/
 www.fedora.md/
+www.free.fr/
 www.garr.it/
 www.gatech.edu/
 www.gtlib.gatech.edu/
