@@ -27,7 +27,6 @@ almalinux.mirror-services.net/
 almalinux.mirror.garr.it/
 almalinux.mirror.globo.tech/
 almalinux.mirror.katapult.io/
-almalinux.mirror.liquidtelecom.com/
 almalinux.mirror.liteserver.nl/
 almalinux.mirror.net.za/
 almalinux.mirror.scopesky.com/
@@ -326,7 +325,6 @@ mirror.nl.leaseweb.net/
 mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
 mirror.nodespace.com/
-mirror.nyist.edu.cn/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
 mirror.parsdev.com/
@@ -338,7 +336,6 @@ mirror.ps.kz/
 mirror.rackspeed.de/
 mirror.raiolanetworks.com/
 mirror.randhost.com/
-mirror.rcg.sfu.ca/
 mirror.realcompute.io/
 mirror.reenigne.net/
 mirror.renu.ac.ug/
@@ -368,9 +365,9 @@ mirror.truenetwork.ru/
 mirror.twds.com.tw/
 mirror.tzulo.com/
 mirror.uepg.br/
-mirror.us-midwest-1.nexcess.net/
 mirror.usi.edu/
 mirror.veesp.com/
+mirror.veritescil.com.tr/
 mirror.vpsnet.com/
 mirror.vsys.host/
 mirror.vtti.vt.edu/
@@ -386,6 +383,7 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
+mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.bmcc.edu/
@@ -553,6 +551,7 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
+www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -624,8 +623,6 @@ www.knownhost.com/
 www.lchs.com.au/
 www.limda.net/
 www.linkedin.com/
-www.liquid.tech/
-www.liquidweb.com/
 www.liteserver.nl/
 www.maeen.sa/
 www.maple-hosting.com/
@@ -643,7 +640,6 @@ www.nic.cz/
 www.nic.funet.fi/
 www.nodespace.com/
 www.nxthost.com/
-www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
 www.ox.ac.uk/
@@ -662,7 +658,6 @@ www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
 www.server.net/
-www.sfu.ca/
 www.shastacoe.org/
 www.shinjiru.com/
 www.siena.edu/
@@ -687,6 +682,7 @@ www.ukservers.com/
 www.uni-bayreuth.de/
 www.uni-ruse.bg/
 www.upr.edu/
+www.veritescil.com.tr/
 www.vhosting-it.com/
 www.virtono.com/
 www.vodafone.cz/

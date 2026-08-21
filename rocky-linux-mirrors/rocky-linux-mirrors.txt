@@ -100,7 +100,6 @@ mirror.servaxnet.com/
 mirror.shomepower.com/
 mirror.siena.edu/
 mirror.slu.cz/
-mirror.tech.africa/
 mirror.telepoint.bg/
 mirror.twds.com.tw/
 mirror.tzulo.com/
@@ -194,7 +193,6 @@ ru.mirrors.cicku.me/
 sa.dyi.ng/
 sa.mirrors.cicku.me/
 teamcloud.am/
-tech.africa/
 telepoint.bg/
 thegigabit.com/
 tr.dyi.ng/
