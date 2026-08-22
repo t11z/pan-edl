@@ -216,7 +216,6 @@ mirror.hoster.kz/
 mirror.hosthink.net/
 mirror.hostiko.network/
 mirror.hostnic.id/
-mirror.ihost.md/
 mirror.il-ha.kamatera.com/
 mirror.il-pt.kamatera.com/
 mirror.il-rh.kamatera.com/
