@@ -21,7 +21,6 @@ freedif.org/
 ftp.acc.umu.se/
 ftp.cc.uoc.gr/
 ftp.fedora.md/
-ftp.funet.fi/
 ftp.gwdg.de/
 ftp.halifax.rwth-aachen.de/
 ftp.icm.edu.pl/
@@ -146,7 +145,6 @@ www.accum.se/
 www.alwyzon.com/
 www.cc.uoc.gr/
 www.cedia.org.ec/
-www.csc.fi/
 www.deac.eu/
 www.dogado.de/
 www.easyname.com/
