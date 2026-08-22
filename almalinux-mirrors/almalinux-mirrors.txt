@@ -115,7 +115,6 @@ fibia.dk/
 fleksibel.com/
 flokinet.is/
 for.aws.repo.almalinux.org/
-forksystems.mm.fcix.net/
 fr2.rpmfind.net/
 free.nchc.org.tw/
 freehost.com.ua/
@@ -194,6 +193,7 @@ jingk.ai/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
+kifu.gov.hu/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 krnk.org/
@@ -331,6 +331,7 @@ mirror.netsite.dk/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nforce.com/
+mirror.niif.hu/
 mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
@@ -366,6 +367,7 @@ mirror.shedmtl.com/
 mirror.siena.edu/
 mirror.sitsa.com.ar/
 mirror.siwoo.org/
+mirror.sjtu.edu.cn/
 mirror.snu.edu.in/
 mirror.soonkeat.sg/
 mirror.speedkom.de/
@@ -437,12 +439,14 @@ mirrors.onenet.net/
 mirrors.pt/
 mirrors.ptisp.pt/
 mirrors.rda.poa.br/
+mirrors.rit.edu/
 mirrors.ruk-com.cloud/
 mirrors.sonic.net/
 mirrors.storpool.com/
 mirrors.teamcloud.am/
 mirrors.tencent.com/
 mirrors.tino.org/
+mirrors.ucr.ac.cr/
 mirrors.ukfast.co.uk/
 mirrors.uni-ruse.bg/
 mirrors.upr.edu/
@@ -461,6 +465,7 @@ msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
 muug.ca/
 nchc.org.tw/
+net.sjtu.edu.cn/
 neterra.ne/
 nevacloud.com/
 nexril.net/
@@ -503,6 +508,7 @@ repo.extreme-ix.org/
 repo.ialab.dsu.edu/
 repo.ifca.es/
 repo.shinjiru.com/
+rit.edu/
 ro.mirror.flokinet.net/
 rootlicense.com/
 rpmfind.net/
@@ -512,6 +518,7 @@ rsync.gtlib.gatech.edu/
 rsync.mirror.gi.co.id/
 rsync.mirror.papua.go.id/
 rsync.mirrorservice.org/
+rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
 rsync.yuki.net.uk/
 ruk-com.cloud/
@@ -589,6 +596,7 @@ www.clouvider.com/
 www.codeforhost.com/
 www.cogentco.com/
 www.coreix.net/
+www.csc.fi/
 www.csuc.cat/
 www.cyberfolks.ro/
 www.deac.eu/
@@ -657,6 +665,7 @@ www.netsite.dk/
 www.netzwerge.de/
 www.nforce.com/
 www.nic.cz/
+www.nic.funet.fi/
 www.nodespace.com/
 www.nxthost.com/
 www.nyist.edu.cn/
@@ -698,6 +707,7 @@ www.transip.nl/
 www.trex.fi/
 www.twds.com.tw/
 www.uam.es/
+www.ucr.ac.cr/
 www.ucsb.edu/
 www.uib.no/
 www.ukraine.com.ua/
