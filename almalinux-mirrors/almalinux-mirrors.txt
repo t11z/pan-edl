@@ -5,7 +5,6 @@ africloud.com/
 airnet.uz/
 al-mirror.a2hosting.com/
 alma.acidman.thelefty.org/
-alma.as3741.net/
 alma.hostingdunyam.com.tr/
 alma.idhosting.pl/
 alma.mirror.nyuad.nyu.edu/
@@ -28,6 +27,7 @@ almalinux.mirror.digitalpacific.com.au/
 almalinux.mirror.garr.it/
 almalinux.mirror.globo.tech/
 almalinux.mirror.katapult.io/
+almalinux.mirror.liquidtelecom.com/
 almalinux.mirror.liteserver.nl/
 almalinux.mirror.net.za/
 almalinux.mirror.scopesky.com/
@@ -62,7 +62,6 @@ atl.mirrors.clouvider.net/
 atl.mirrors.ezscale.cloud/
 atl.mirrors.knownhost.com/
 aws.amazon.com/
-azvps.vn/
 beltelecom.by/
 bharatdatacenter.com/
 bitency.nl/
@@ -140,7 +139,6 @@ ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
-ftp.tku.edu.tw/
 ftp.ucsb.edu/
 ftp.udx.icscoe.jp/
 ftp.uni-bayreuth.de/
@@ -233,11 +231,9 @@ mirror.almalinux.si/
 mirror.alwyzon.net/
 mirror.anquan.cl/
 mirror.aptus.co.tz/
-mirror.as3741.net/
 mirror.ath1.fusioned.net/
 mirror.ati.tn/
 mirror.az31.cloudpropeller.com/
-mirror.azvps.vn/
 mirror.bahnhof.net/
 mirror.bf-net.ch/
 mirror.bharatdatacenter.com/
@@ -289,7 +285,6 @@ mirror.host.ag/
 mirror.host4biz.eu/
 mirror.hostarts.dz/
 mirror.hostbaran.com/
-mirror.hoster.kz/
 mirror.hosthink.net/
 mirror.hostiko.network/
 mirror.hs-esslingen.de/
@@ -329,6 +324,7 @@ mirror.net.za/
 mirror.netlen.com.tr/
 mirror.netsite.dk/
 mirror.netzwerge.de/
+mirror.nevacloud.com/
 mirror.nforce.com/
 mirror.nishi.network/
 mirror.nl.altushost.com/
@@ -442,7 +438,6 @@ mirrors.storpool.com/
 mirrors.teamcloud.am/
 mirrors.tencent.com/
 mirrors.tino.org/
-mirrors.ucr.ac.cr/
 mirrors.ukfast.co.uk/
 mirrors.uni-ruse.bg/
 mirrors.upr.edu/
@@ -463,6 +458,7 @@ muug.ca/
 nchc.org.tw/
 net.sjtu.edu.cn/
 neterra.ne/
+nevacloud.com/
 nexril.net/
 nhanhoa.com/
 nl.mirror.flokinet.net/
@@ -642,6 +638,7 @@ www.lchs.com.au/
 www.limda.net/
 www.linkedin.com/
 www.lip6.fr/
+www.liquid.tech/
 www.liquidweb.com/
 www.liteserver.nl/
 www.lysator.liu.se/
@@ -695,12 +692,10 @@ www.telecomarmenia.am/
 www.tencent.com/
 www.thelefty.org/
 www.tier.net/
-www.tku.edu.tw/
 www.transip.nl/
 www.trex.fi/
 www.twds.com.tw/
 www.uam.es/
-www.ucr.ac.cr/
 www.ucsb.edu/
 www.uib.no/
 www.ukraine.com.ua/
