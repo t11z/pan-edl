@@ -98,6 +98,7 @@ mirrors.nxthost.com/
 mirrors.opensuse.org/
 mirrors.tuna.tsinghua.edu.cn/
 mirrors.ucr.ac.cr/
+mirrors.ustc.edu.cn/
 mirrors.zju.edu.cn/
 muug.ca/
 net.sjtu.edu.cn/
@@ -185,6 +186,7 @@ www.uni-bayreuth.de/
 www.uni-erlangen.de/
 www.uni-kl.de/
 www.uninett.no/
+www.ustc.edu.cn/
 www.verinomi.com/
 www.vodafone.cz/
 www.vtti.vt.edu/
