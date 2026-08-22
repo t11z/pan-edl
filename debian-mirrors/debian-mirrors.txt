@@ -120,6 +120,7 @@ ftp.hr.debian.org/
 ftp.icm.edu.pl/
 ftp.is.debian.org/
 ftp.it.debian.org/
+ftp.jaist.ac.jp/
 ftp.kaist.ac.kr/
 ftp.kr.debian.org/
 ftp.lanet.kr/
@@ -279,6 +280,7 @@ mirror1.infomaniak.com/
 mirror2.infomaniak.com/
 mirrors.accretive-networks.net/
 mirrors.bloomu.edu/
+mirrors.cloudforest.co.th/
 mirrors.coreix.net/
 mirrors.datapark.ro/
 mirrors.dotsrc.org/
