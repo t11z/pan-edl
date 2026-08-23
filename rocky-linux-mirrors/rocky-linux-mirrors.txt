@@ -106,6 +106,7 @@ mirror.twds.com.tw/
 mirror.tzulo.com/
 mirror.uepg.br/
 mirror.uv.es/
+mirror.vsm.sh/
 mirror.web-ster.com/
 mirror.wonchan.net/
 mirror.yandex.ru/
@@ -259,6 +260,7 @@ www.twds.com.tw/
 www.tzulo.com/
 www.upr.edu/
 www.uv.es/
+www.vereinigte-stadtwerke.de/
 www.vhosting.com/
 www.vodafone.cz/
 www.wonchan.net/
