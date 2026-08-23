@@ -55,9 +55,9 @@ almalinux.virtono.com/
 almalinux.vpsttt.com/
 almalinux.web.trex.fi/
 almamirror.netdirekt.com.tr/
-almamirror.phoenixnap.com/
 aptus.co.tz/
 ash.mirrors.clouvider.net/
+asnet.am/
 atl.mirrors.clouvider.net/
 atl.mirrors.ezscale.cloud/
 atl.mirrors.knownhost.com/
@@ -102,6 +102,7 @@ doit.missouri.edu/
 domainesia.com/
 dotsrc.org/
 dsu.edu/
+ekiphost.com/
 elice.io/
 elmirror.cl/
 extreme-ix.org/
@@ -193,6 +194,7 @@ jingk.ai/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
+kifu.gov.hu/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 krnk.org/
@@ -264,6 +266,7 @@ mirror.dk.team.blue::almalinux/
 mirror.docker.ru/
 mirror.dogado.de/
 mirror.domainhizmetleri.com/
+mirror.ekiphost.com/
 mirror.elice.io/
 mirror.esecuredata.com/
 mirror.eu.4psacloud.com/
@@ -330,6 +333,7 @@ mirror.netsite.dk/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nforce.com/
+mirror.niif.hu/
 mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
@@ -349,6 +353,7 @@ mirror.ps.kz/
 mirror.rackspeed.de/
 mirror.raiolanetworks.com/
 mirror.randhost.com/
+mirror.rcg.sfu.ca/
 mirror.realcompute.io/
 mirror.reenigne.net/
 mirror.renu.ac.ug/
@@ -366,7 +371,6 @@ mirror.sitsa.com.ar/
 mirror.siwoo.org/
 mirror.sjtu.edu.cn/
 mirror.snu.edu.in/
-mirror.soonkeat.sg/
 mirror.speedkom.de/
 mirror.steadfastnet.com/
 mirror.team-cymru.com/
@@ -399,6 +403,7 @@ mirror.yuki.net.uk/
 mirror1.sox.rs/
 mirrors.aliyun.com/
 mirrors.almalinux.org/
+mirrors.asnet.am/
 mirrors.bmcc.edu/
 mirrors.bytes.ua/
 mirrors.c0urier.net/
@@ -485,7 +490,6 @@ ourhost.az/
 pars.host/
 parsdev.com/
 per.aws.repo.almalinux.org/
-phoenixnap.com/
 phx.mirrors.clouvider.net/
 pit.mirror.jurassicinnovations.com/
 pkg.adfinis-on-exoscale.ch/
@@ -530,7 +534,6 @@ shedmtl.com/
 siliconhill.cz/
 sindad.com/
 snu.edu.in/
-soonkeat.sg/
 southfront.mm.fcix.net/
 storpool.com/
 syd.mirror.rackspace.com/
@@ -683,6 +686,7 @@ www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
 www.server.net/
+www.sfu.ca/
 www.shastacoe.org/
 www.shinjiru.com/
 www.siena.edu/
