@@ -350,7 +350,6 @@ mirror.ps.kz/
 mirror.rackspeed.de/
 mirror.raiolanetworks.com/
 mirror.randhost.com/
-mirror.rcg.sfu.ca/
 mirror.realcompute.io/
 mirror.reenigne.net/
 mirror.renu.ac.ug/
@@ -399,7 +398,6 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
-mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.bmcc.edu/
 mirrors.bytes.ua/
@@ -444,6 +442,7 @@ mirrors.storpool.com/
 mirrors.teamcloud.am/
 mirrors.tencent.com/
 mirrors.tino.org/
+mirrors.ucr.ac.cr/
 mirrors.ukfast.co.uk/
 mirrors.uni-ruse.bg/
 mirrors.upr.edu/
@@ -476,7 +475,6 @@ nyc.almalinux.osuosl.org/
 nyc.mirrors.clouvider.net/
 nyuad.nyu.edu/
 ocf.berkeley.edu/
-ohioix.mm.fcix.net/
 oit.gatech.edu/
 opencolo.mm.fcix.net/
 opensource.fb.com/
@@ -569,7 +567,6 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
-www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -684,7 +681,6 @@ www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
 www.server.net/
-www.sfu.ca/
 www.shastacoe.org/
 www.shinjiru.com/
 www.siena.edu/
@@ -703,6 +699,7 @@ www.transip.nl/
 www.trex.fi/
 www.twds.com.tw/
 www.uam.es/
+www.ucr.ac.cr/
 www.ucsb.edu/
 www.uib.no/
 www.ukraine.com.ua/
