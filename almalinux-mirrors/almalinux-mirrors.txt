@@ -127,6 +127,7 @@ ftp.cixug.es/
 ftp.csuc.cat/
 ftp.cwuni-bayreuth.de/
 ftp.fau.de/
+ftp.gwdg.de/
 ftp.halifax.rwth-aachen.de/
 ftp.iij.ad.jp/
 ftp.jaist.ac.jp/
@@ -166,6 +167,7 @@ hostbaran.com/
 hoster.kz/
 hosterion.ro/
 hostico.ro/
+hostiko.com.ua/
 hostingdunyam.com.tr/
 iad.mirror.rackspace.com/
 icscoe.jp/
@@ -290,6 +292,7 @@ mirror.hostarts.dz/
 mirror.hostbaran.com/
 mirror.hoster.kz/
 mirror.hosthink.net/
+mirror.hostiko.network/
 mirror.hs-esslingen.de/
 mirror.ibcp.fr/
 mirror.ihost.md/
@@ -328,13 +331,13 @@ mirror.net.za/
 mirror.netlen.com.tr/
 mirror.netsite.dk/
 mirror.netzwerge.de/
-mirror.nevacloud.com/
 mirror.nforce.com/
 mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
 mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
+mirror.nodespace.com/
 mirror.nyist.edu.cn/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
@@ -464,7 +467,6 @@ nc-mirror.iwebfusion.net/
 nchc.org.tw/
 net.sjtu.edu.cn/
 neterra.ne/
-nevacloud.com/
 nexril.net/
 nhanhoa.com/
 nl.mirror.flokinet.net/
@@ -618,6 +620,7 @@ www.gi.co.id/
 www.group.one/
 www.gtlib.gatech.edu/
 www.guzel.net.tr/
+www.gwdg.de/
 www.hashy0917.net/
 www.hivelocity.net/
 www.hoasted.com/
@@ -662,6 +665,7 @@ www.netzwerge.de/
 www.nforce.com/
 www.nic.cz/
 www.nic.funet.fi/
+www.nodespace.com/
 www.nxthost.com/
 www.nyist.edu.cn/
 www.onenet.net/
