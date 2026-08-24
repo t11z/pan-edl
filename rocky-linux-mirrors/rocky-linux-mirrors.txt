@@ -35,7 +35,6 @@ ftp.halifax.rwth-aachen.de/
 ftp.iij.ad.jp/
 ftp.jaist.ac.jp/
 ftp.kaist.ac.kr/
-ftp.linux.cz/
 ftp.nluug.nl/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
@@ -217,7 +216,6 @@ www.clouvider.com/
 www.cogentco.com/
 www.directlink.coop/
 www.dst.ca/
-www.fi.muni.cz/
 www.hashy0917.net/
 www.hi.no/
 www.hosthink.net/
