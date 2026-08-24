@@ -446,6 +446,7 @@ mirrors.storpool.com/
 mirrors.teamcloud.am/
 mirrors.tencent.com/
 mirrors.tino.org/
+mirrors.ucr.ac.cr/
 mirrors.ukfast.co.uk/
 mirrors.uni-ruse.bg/
 mirrors.upr.edu/
@@ -550,6 +551,7 @@ terrahost.no/
 thegigabit.com/
 tino.org/
 truenetwork.ru/
+tx-mirror.tier.net/
 tzulo.com/
 ucalgary.ca/
 uepg.br/
@@ -700,11 +702,13 @@ www.swinburne.edu.au/
 www.telecomarmenia.am/
 www.tencent.com/
 www.thelefty.org/
+www.tier.net/
 www.tku.edu.tw/
 www.transip.nl/
 www.trex.fi/
 www.twds.com.tw/
 www.uam.es/
+www.ucr.ac.cr/
 www.ucsb.edu/
 www.uib.no/
 www.ukraine.com.ua/
