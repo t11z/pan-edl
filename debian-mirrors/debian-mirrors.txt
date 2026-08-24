@@ -37,7 +37,6 @@ debian.lth.se/
 debian.ludost.net/
 debian.mirror.ac.ke/
 debian.mirror.constant.com/
-debian.mirror.digitalpacific.com.au/
 debian.mirror.garr.it/
 debian.mirror.globo.tech/
 debian.mirror.iphh.net/
@@ -297,7 +296,6 @@ mirrors.lug.mtu.edu/
 mirrors.nav.ro/
 mirrors.nepalicloud.com/
 mirrors.netix.net/
-mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
 mirrors.pidginhost.com/
 mirrors.ptisp.pt/
