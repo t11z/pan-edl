@@ -15,7 +15,6 @@ almalinux-mirror.tpa.hivelocity.net/
 almalinux-mirror.unifique.cloud/
 almalinux-mirror.yucca.net/
 almalinux.elhacker.net/
-almalinux.excellmedia.net/
 almalinux.interhost.co.il/
 almalinux.ip-connect.info/
 almalinux.ip-connect.vn.ua/
@@ -131,7 +130,6 @@ ftp.iij.ad.jp/
 ftp.jaist.ac.jp/
 ftp.linux.cz/
 ftp.lug.ro/
-ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
 ftp.sakura.ad.jp/
@@ -233,6 +231,7 @@ mirror.alwyzon.net/
 mirror.anquan.cl/
 mirror.aptus.co.tz/
 mirror.as3741.net/
+mirror.ath1.fusioned.net/
 mirror.ati.tn/
 mirror.az31.cloudpropeller.com/
 mirror.azvps.vn/
@@ -308,6 +307,7 @@ mirror.karneval.cz/
 mirror.kku.ac.th/
 mirror.krfoss.org/
 mirror.lchs.network/
+mirror.limda.net/
 mirror.linux.duke.edu/
 mirror.linux.ncsu.edu/
 mirror.liteserver.nl/
@@ -346,6 +346,7 @@ mirror.ps.kz/
 mirror.rackspeed.de/
 mirror.raiolanetworks.com/
 mirror.randhost.com/
+mirror.rcg.sfu.ca/
 mirror.realcompute.io/
 mirror.reenigne.net/
 mirror.renu.ac.ug/
@@ -360,6 +361,7 @@ mirror.sg.gs/
 mirror.shedmtl.com/
 mirror.siena.edu/
 mirror.sitsa.com.ar/
+mirror.siwoo.org/
 mirror.sjtu.edu.cn/
 mirror.snu.edu.in/
 mirror.soonkeat.sg/
@@ -394,6 +396,7 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
+mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.bmcc.edu/
@@ -407,6 +410,7 @@ mirrors.dotsrc.org/
 mirrors.egr.msu.edu/
 mirrors.fibianet.dk/
 mirrors.ft.uam.es/
+mirrors.gbnetwork.com/
 mirrors.gethosted.online/
 mirrors.gigenet.com/
 mirrors.gofiber.vn/
@@ -432,7 +436,6 @@ mirrors.pt/
 mirrors.ptisp.pt/
 mirrors.rda.poa.br/
 mirrors.rit.edu/
-mirrors.ruk-com.cloud/
 mirrors.sonic.net/
 mirrors.storpool.com/
 mirrors.teamcloud.am/
@@ -510,9 +513,9 @@ rsync.gtlib.gatech.edu/
 rsync.mirror.gi.co.id/
 rsync.mirror.papua.go.id/
 rsync.mirrorservice.org/
+rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
 rsync.yuki.net.uk/
-ruk-com.cloud/
 rwth-aachen.de/
 sabay.com.kh/
 savoirfairelinux.com/
@@ -563,6 +566,7 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
+www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -585,6 +589,7 @@ www.clouvider.com/
 www.codeforhost.com/
 www.cogentco.com/
 www.coreix.net/
+www.csc.fi/
 www.csuc.cat/
 www.cyberfolks.ro/
 www.deac.eu/
@@ -594,14 +599,15 @@ www.domainhizmetleri.com/
 www.edgoo.io/
 www.elhacker.net/
 www.esecuredata.com/
-www.excellmedia.net/
 www.exoscale.com/
 www.fastly.com/
 www.fi.muni.cz/
 www.fiu.edu/
 www.fnal.gov/
+www.fusioned.net/
 www.fysik.dtu.dk/
 www.garr.it/
+www.gbnetwork.com/
 www.gethosted.online/
 www.gi.co.id/
 www.group.one/
@@ -631,11 +637,11 @@ www.kent.ac.uk/
 www.kku.ac.th/
 www.knownhost.com/
 www.lchs.com.au/
+www.limda.net/
 www.linkedin.com/
 www.liquid.tech/
 www.liquidweb.com/
 www.liteserver.nl/
-www.lysator.liu.se/
 www.maeen.sa/
 www.maple-hosting.com/
 www.melbourne.co.uk/
@@ -650,6 +656,7 @@ www.netsite.dk/
 www.netzwerge.de/
 www.nforce.com/
 www.nic.cz/
+www.nic.funet.fi/
 www.nodespace.com/
 www.nxthost.com/
 www.nyist.edu.cn/
@@ -672,10 +679,12 @@ www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
 www.server.net/
+www.sfu.ca/
 www.shastacoe.org/
 www.shinjiru.com/
 www.siena.edu/
 www.sitsa.com.ar/
+www.siwoo.org/
 www.sonic.com/
 www.sox.rs/
 www.steadfast.net/
