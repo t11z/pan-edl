@@ -67,7 +67,6 @@ debian.saix.net/
 debian.snt.utwente.nl/
 debian.superhosting.cz/
 debian.telecoms.bg/
-debian.tu-bs.de/
 debian.tuxuri.com/
 debian.uchicago.edu/
 debian.uevora.pt/
