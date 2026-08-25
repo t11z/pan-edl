@@ -37,7 +37,6 @@ ftp.corbina.net/
 ftp.csuc.cat/
 ftp.cvut.cz/
 ftp.dei.uc.pt/
-ftp.energotel.sk/
 ftp.fau.de/
 ftp.fu-berlin.de/
 ftp.gtlib.gatech.edu/
