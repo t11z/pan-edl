@@ -45,6 +45,7 @@ gozunga.com/
 hnd.cl/
 hostarts.dz/
 iad.mirror.rackspace.com/
+idhosting.pl/
 in.dyi.ng/
 in.mirrors.cicku.me/
 insecure.nluug.nl/
@@ -178,6 +179,7 @@ rocky-linux-us-west3.production.gcp.mirrors.ctrliq.cloud/
 rocky-linux-us-west4.production.gcp.mirrors.ctrliq.cloud/
 rocky-linux.koyanet.lv/
 rocky.deadbatteries.work/
+rocky.idhosting.pl/
 rocky.mirror.co.ge/
 rocky.mirror.liquidtelecom.com/
 rocky.mirror.shastacoe.net/
