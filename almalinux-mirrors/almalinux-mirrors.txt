@@ -305,6 +305,7 @@ mirror.isoc.org.il/
 mirror.ixirhost.com/
 mirror.jagoanhosting.id/
 mirror.jingk.ai/
+mirror.junda.nl/
 mirror.karneval.cz/
 mirror.kku.ac.th/
 mirror.krfoss.org/
@@ -330,6 +331,7 @@ mirror.netlen.com.tr/
 mirror.netsite.dk/
 mirror.netzwerge.de/
 mirror.nforce.com/
+mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
 mirror.nl.mirhosting.net/
@@ -397,6 +399,7 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
+mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.bmcc.edu/
@@ -569,6 +572,7 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
+www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -634,6 +638,7 @@ www.itworxx.de/
 www.iu13.org/
 www.iwebfusion.net/
 www.jaist.ac.jp/
+www.junda.nl/
 www.kent.ac.uk/
 www.kku.ac.th/
 www.knownhost.com/
