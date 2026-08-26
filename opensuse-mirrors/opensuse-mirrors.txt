@@ -120,7 +120,6 @@ opensuse.mirror.garr.it/
 opensuse.mirror.iphh.net/
 opensuse.mirror.liquidtelecom.com/
 opensuse.mirror.liteserver.nl/
-opensuse.mirrors.proxad.net/
 opensuse.org/
 opensuse.schlundtech.de/
 opensuse.schlundtechn.de/
@@ -134,6 +133,7 @@ rpmfind.net/
 rsync.fedora.md/
 rsync.mirrors.163.com/
 rtinfo.indiana.edu/
+sci.nju.edu.cn/
 slc-mirror.opensuse.org/
 tspu.edu.ru/
 tuna.moe/
@@ -152,7 +152,6 @@ www.dogado.de/
 www.easyname.com/
 www.fder.edu.uy/
 www.fedora.md/
-www.free.fr/
 www.garr.it/
 www.gatech.edu/
 www.gtlib.gatech.edu/
