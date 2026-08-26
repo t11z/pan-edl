@@ -40,6 +40,7 @@ mirror.fcix.net/
 mirror.fel.cvut.cz/
 mirror.freedif.org/
 mirror.gofoss.xyz/
+mirror.hiesoft.net/
 mirror.ihost.md/
 mirror.jingk.ai/
 mirror.kku.ac.th/
@@ -88,7 +89,6 @@ mirrors.ircam.fr/
 mirrors.itwrx.org/
 mirrors.lax.silicloud.com/
 mirrors.neterra.net/
-mirrors.neusoft.edu.cn/
 mirrors.nju.edu.cn/
 mirrors.ocf.berkeley.edu/
 mirrors.pardisco.co/

@@ -134,7 +134,6 @@ rpmfind.net/
 rsync.fedora.md/
 rsync.mirrors.163.com/
 rtinfo.indiana.edu/
-sci.nju.edu.cn/
 slc-mirror.opensuse.org/
 tspu.edu.ru/
 tuna.moe/
