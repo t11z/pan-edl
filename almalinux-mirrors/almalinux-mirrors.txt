@@ -28,6 +28,7 @@ almalinux.mirror.digitalpacific.com.au/
 almalinux.mirror.garr.it/
 almalinux.mirror.globo.tech/
 almalinux.mirror.katapult.io/
+almalinux.mirror.liquidtelecom.com/
 almalinux.mirror.liteserver.nl/
 almalinux.mirror.scopesky.com/
 almalinux.mirror.shastacoe.net/
@@ -250,6 +251,7 @@ mirror.cloudpropeller.com/
 mirror.cogentco.com/
 mirror.colocenter.nl/
 mirror.cov.ukservers.com/
+mirror.cpsc.ucalgary.ca/
 mirror.csclub.uwaterloo.ca/
 mirror.dal.nexril.net/
 mirror.datacenter.by/
@@ -329,7 +331,6 @@ mirror.netlen.com.tr/
 mirror.netsite.dk/
 mirror.netzwerge.de/
 mirror.nforce.com/
-mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
 mirror.nl.mirhosting.net/
@@ -381,6 +382,7 @@ mirror.uepg.br/
 mirror.us-midwest-1.nexcess.net/
 mirror.usi.edu/
 mirror.veesp.com/
+mirror.veritescil.com.tr/
 mirror.vpsnet.com/
 mirror.vsm.sh/
 mirror.vsys.host/
@@ -548,6 +550,7 @@ tino.org/
 truenetwork.ru/
 tx-mirror.tier.net/
 tzulo.com/
+ucalgary.ca/
 uepg.br/
 uk.mirrors.clouvider.net/
 unifique.com.br/
@@ -640,6 +643,7 @@ www.knownhost.com/
 www.lchs.com.au/
 www.limda.net/
 www.linkedin.com/
+www.liquid.tech/
 www.liquidweb.com/
 www.liteserver.nl/
 www.lysator.liu.se/
@@ -708,6 +712,7 @@ www.uni-bayreuth.de/
 www.uni-ruse.bg/
 www.upr.edu/
 www.vereinigte-stadtwerke.de/
+www.veritescil.com.tr/
 www.vhosting-it.com/
 www.virtono.com/
 www.vodafone.cz/
