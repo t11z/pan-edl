@@ -81,6 +81,7 @@ mirror.rackspace.com/
 mirror.rackspace.hk/
 mirror.siena.edu/
 mirror.sjtu.edu.cn/
+mirror.tele-media.net/
 mirror.tspu.ru/
 mirror.uepg.br/
 mirror.ufscar.br/
@@ -135,6 +136,7 @@ rsync.mirrors.163.com/
 rtinfo.indiana.edu/
 sci.nju.edu.cn/
 slc-mirror.opensuse.org/
+tele-media.net/
 tspu.edu.ru/
 tuna.moe/
 tux.rainside.sk/
