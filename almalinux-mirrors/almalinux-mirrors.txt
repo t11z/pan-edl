@@ -4,7 +4,6 @@ a2hosting.com/
 africloud.com/
 airnet.uz/
 al-mirror.a2hosting.com/
-alma.acidman.thelefty.org/
 alma.as3741.net/
 alma.hostingdunyam.com.tr/
 alma.idhosting.pl/
@@ -65,6 +64,7 @@ atl.mirrors.knownhost.com/
 aws.amazon.com/
 azvps.vn/
 beltelecom.by/
+bharatdatacenter.com/
 bitency.nl/
 blog.almalinux.org/
 blr.aws.repo.almalinux.org/
@@ -124,8 +124,10 @@ ftp.belnet.be/
 ftp.bme.hu/
 ftp.cc.uoc.gr/
 ftp.cixug.es/
+ftp.csuc.cat/
 ftp.cwuni-bayreuth.de/
 ftp.fau.de/
+ftp.gwdg.de/
 ftp.halifax.rwth-aachen.de/
 ftp.iij.ad.jp/
 ftp.jaist.ac.jp/
@@ -160,7 +162,6 @@ hnd.cl/
 hnl.fastly.repo.almalinux.org/
 home.cern/
 host4.biz/
-hostarts.dz/
 hostbaran.com/
 hoster.kz/
 hosterion.ro/
@@ -239,6 +240,7 @@ mirror.az31.cloudpropeller.com/
 mirror.azvps.vn/
 mirror.bahnhof.net/
 mirror.bf-net.ch/
+mirror.bharatdatacenter.com/
 mirror.bitency.nl/
 mirror.cedia.org.ec/
 mirror.ch.altushost.com/
@@ -249,6 +251,7 @@ mirror.cloudpropeller.com/
 mirror.cogentco.com/
 mirror.colocenter.nl/
 mirror.cov.ukservers.com/
+mirror.cpsc.ucalgary.ca/
 mirror.csclub.uwaterloo.ca/
 mirror.dal.nexril.net/
 mirror.datacenter.by/
@@ -284,7 +287,6 @@ mirror.hnd.cl/
 mirror.hoasted.com/
 mirror.host.ag/
 mirror.host4biz.eu/
-mirror.hostarts.dz/
 mirror.hostbaran.com/
 mirror.hoster.kz/
 mirror.hosthink.net/
@@ -328,6 +330,7 @@ mirror.net.za/
 mirror.netlen.com.tr/
 mirror.netsite.dk/
 mirror.netzwerge.de/
+mirror.nevacloud.com/
 mirror.nforce.com/
 mirror.nishi.network/
 mirror.nl.altushost.com/
@@ -437,6 +440,7 @@ mirrors.onenet.net/
 mirrors.pt/
 mirrors.ptisp.pt/
 mirrors.rda.poa.br/
+mirrors.rit.edu/
 mirrors.ruk-com.cloud/
 mirrors.sonic.net/
 mirrors.storpool.com/
@@ -465,6 +469,7 @@ nc-mirror.iwebfusion.net/
 nchc.org.tw/
 net.sjtu.edu.cn/
 neterra.ne/
+nevacloud.com/
 nexril.net/
 nhanhoa.com/
 nl.mirror.flokinet.net/
@@ -505,6 +510,7 @@ repo.extreme-ix.org/
 repo.ialab.dsu.edu/
 repo.ifca.es/
 repo.shinjiru.com/
+rit.edu/
 ro.mirror.flokinet.net/
 rootlicense.com/
 rpmfind.net/
@@ -548,6 +554,7 @@ tino.org/
 truenetwork.ru/
 tx-mirror.tier.net/
 tzulo.com/
+ucalgary.ca/
 uepg.br/
 uk.mirrors.clouvider.net/
 unifique.com.br/
@@ -592,6 +599,7 @@ www.codeforhost.com/
 www.cogentco.com/
 www.coreix.net/
 www.csc.fi/
+www.csuc.cat/
 www.cyberfolks.ro/
 www.deac.eu/
 www.digitalpacific.com.au/
@@ -615,6 +623,7 @@ www.gi.co.id/
 www.group.one/
 www.gtlib.gatech.edu/
 www.guzel.net.tr/
+www.gwdg.de/
 www.hashy0917.net/
 www.hivelocity.net/
 www.hoasted.com/
@@ -693,7 +702,6 @@ www.steadfast.net/
 www.swinburne.edu.au/
 www.telecomarmenia.am/
 www.tencent.com/
-www.thelefty.org/
 www.tier.net/
 www.tku.edu.tw/
 www.transip.nl/

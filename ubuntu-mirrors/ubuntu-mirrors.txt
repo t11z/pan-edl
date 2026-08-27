@@ -21,7 +21,6 @@ deb.campolargo.pr.gov.br/
 debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
 distrohub.kyiv.ua/
-download.nust.na/
 drmirror.physi.uni-heidelberg.de/
 elmirror.cl/
 free.nchc.org.tw/
@@ -214,6 +213,7 @@ mirror.hoster.kz/
 mirror.hosthink.net/
 mirror.hostiko.network/
 mirror.hostnic.id/
+mirror.icn.com.bd/
 mirror.il-ha.kamatera.com/
 mirror.il-pt.kamatera.com/
 mirror.il-rh.kamatera.com/

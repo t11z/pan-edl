@@ -98,6 +98,7 @@ mirrors.dotsrc.org/
 mirrors.nju.edu.cn/
 mirrors.nxthost.com/
 mirrors.opensuse.org/
+mirrors.rit.edu/
 mirrors.tuna.tsinghua.edu.cn/
 mirrors.ucr.ac.cr/
 mirrors.ustc.edu.cn/
