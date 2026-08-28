@@ -216,6 +216,7 @@ mirror.hosthink.net/
 mirror.hostiko.network/
 mirror.hostnic.id/
 mirror.icn.com.bd/
+mirror.ihost.md/
 mirror.il-ha.kamatera.com/
 mirror.il-pt.kamatera.com/
 mirror.il-rh.kamatera.com/
@@ -392,6 +393,7 @@ mirrors.asnet.am/
 mirrors.atlas.net.co/
 mirrors.bangmod.cloud/
 mirrors.bfsu.edu.cn/
+mirrors.bkns.vn/
 mirrors.bmcc.edu/
 mirrors.c0urier.net/
 mirrors.cat.pdx.edu/
