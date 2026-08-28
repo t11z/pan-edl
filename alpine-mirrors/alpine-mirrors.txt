@@ -104,7 +104,6 @@ plug-mirror.rcac.purdue.edu/
 qontinuum.space/
 repo.c48.uk/
 repo.iut.ac.ir/
-repo.jing.rocks/
 rsync.elhacker.net/
 tux.rainside.sk/
 us.mirror.ionos.com/
