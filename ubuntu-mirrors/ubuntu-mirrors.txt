@@ -1,5 +1,4 @@
 *.archive.ubuntu.com/
-ae.archive.ubuntu.com/
 archive.eibly.com/
 archive.linux.duke.edu/
 archive.ubuntu.com/
@@ -357,6 +356,7 @@ mirror.us-sc.kamatera.com/
 mirror.us-tx.kamatera.com/
 mirror.us.leaseweb.net/
 mirror.usetelecom.com.br/
+mirror.vcu.edu/
 mirror.veesp.com/
 mirror.velden.media/
 mirror.verinomi.com/

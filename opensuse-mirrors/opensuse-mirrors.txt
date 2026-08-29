@@ -30,6 +30,7 @@ ftp.linux.cz/
 ftp.linux.org.tr/
 ftp.man.poznan.pl/
 ftp.psnc.pl/
+ftp.rnl.tecnico.ulisboa.pt/
 ftp.rz.uni-wuerzburg.de/
 ftp.sh.cvut.cz/
 ftp.tu-chemnitz.de/
@@ -120,7 +121,6 @@ opensuse.mirror.garr.it/
 opensuse.mirror.iphh.net/
 opensuse.mirror.liquidtelecom.com/
 opensuse.mirror.liteserver.nl/
-opensuse.mirrors.proxad.net/
 opensuse.org/
 opensuse.schlundtech.de/
 opensuse.schlundtechn.de/
@@ -154,7 +154,6 @@ www.dogado.de/
 www.easyname.com/
 www.fder.edu.uy/
 www.fedora.md/
-www.free.fr/
 www.garr.it/
 www.gatech.edu/
 www.gtlib.gatech.edu/
@@ -176,6 +175,7 @@ www.nyist.edu.cn/
 www.psnc.pl/
 www.rackspace.com/
 www.rainside.sk/
+www.rnl.tecnico.ulisboa.pt/
 www.schlundtech.com/
 www.siena.edu/
 www.siliconhill.cz/
