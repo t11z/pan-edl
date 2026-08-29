@@ -113,6 +113,7 @@ mirror.wonchan.net/
 mirror.yandex.ru/
 mirror.yer.az/
 mirror1.isoc.org.il/
+mirror5.krfoss.org/
 mirrors.dotsrc.org/
 mirrors.esto.network/
 mirrors.hostiserver.com/
@@ -193,6 +194,7 @@ rockylinux.uni-sofia.bg/
 rsync.krfoss.org/
 rsync.mirrors.ustc.edu.cn/
 rsync.mirrorservice.org/
+rsync5.krfoss.org/
 ru.dyi.ng/
 ru.mirrors.cicku.me/
 sa.dyi.ng/
