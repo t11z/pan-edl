@@ -35,6 +35,7 @@ ftp.corbina.net/
 ftp.csuc.cat/
 ftp.cvut.cz/
 ftp.dei.uc.pt/
+ftp.energotel.sk/
 ftp.fau.de/
 ftp.fu-berlin.de/
 ftp.gtlib.gatech.edu/
@@ -534,6 +535,7 @@ ubuntu.ccns.ncku.edu.tw/
 ubuntu.cica.es/
 ubuntu.cs.nctu.edu.tw/
 ubuntu.dcc.fc.up.pt/
+ubuntu.dts.mg/
 ubuntu.ethz.ch/
 ubuntu.grad.hr/
 ubuntu.grena.ge/
