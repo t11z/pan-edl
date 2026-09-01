@@ -316,7 +316,6 @@ mirrors.zju.edu.cn/
 mirrorservice.org/
 mr.heru.id/
 nl.mirror.flokinet.net/
-nl.mirrors.clouvider.net/
 nyc.mirrors.clouvider.net/
 opensource.nchc.org.tw/
 ossmirror.mycloud.services/
