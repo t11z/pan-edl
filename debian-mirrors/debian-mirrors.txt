@@ -299,7 +299,6 @@ mirrors.netix.net/
 mirrors.ocf.berkeley.edu/
 mirrors.pidginhost.com/
 mirrors.ptisp.pt/
-mirrors.qlu.edu.cn/
 mirrors.tuna.tsinghua.edu.cn/
 mirrors.ucr.ac.cr/
 mirrors.up.pt/
