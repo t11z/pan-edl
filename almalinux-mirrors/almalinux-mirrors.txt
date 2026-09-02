@@ -28,9 +28,9 @@ almalinux.mirror.digitalpacific.com.au/
 almalinux.mirror.garr.it/
 almalinux.mirror.globo.tech/
 almalinux.mirror.katapult.io/
-almalinux.mirror.liquidtelecom.com/
 almalinux.mirror.liteserver.nl/
 almalinux.mirror.net.za/
+almalinux.mirror.scopesky.com/
 almalinux.mirror.shastacoe.net/
 almalinux.mirror.sofia.incognet.io/
 almalinux.mirror.thegigabit.com/
@@ -44,6 +44,7 @@ almalinux.mobinhost.com/
 almalinux.netforce.hosting/
 almalinux.nic.cz/
 almalinux.org/
+almalinux.ourhome.kiwi/
 almalinux.pars.host/
 almalinux.savoirfairelinux.net/
 almalinux.schlundtech.de/
@@ -82,7 +83,6 @@ cloudforest.co.th/
 cloudpropeller.com/
 cofractal-ewr.mm.fcix.net/
 cofractal-sea.mm.fcix.net/
-colocenter.nl/
 computing.ifca.es/
 cosi.clarkson.edu/
 csclub.uwaterloo.ca/
@@ -107,6 +107,7 @@ elmirror.cl/
 eng.mephi.ru/
 extreme-ix.org/
 ezscale.cloud/
+fam.org.nz/
 famaserver.com/
 fcix.net/
 fibia.dk/
@@ -150,6 +151,7 @@ github.com/
 globo.tech/
 gofiber.vn/
 gozunga.com/
+gsl-syd.mm.fcix.net/
 hcc-mirror.unl.edu/
 hcc.unl.edu/
 heru.id/
@@ -213,6 +215,7 @@ marwan.ma/
 mijn.host/
 mirhosting.com/
 mirror-services.net/
+mirror.01link.hk/
 mirror.0x626b.com/
 mirror.23m.com/
 mirror.2degrees.nz/
@@ -246,7 +249,6 @@ mirror.citrahost.com/
 mirror.clarkson.edu/
 mirror.cloudpropeller.com/
 mirror.cogentco.com/
-mirror.colocenter.nl/
 mirror.cov.ukservers.com/
 mirror.cpsc.ucalgary.ca/
 mirror.csclub.uwaterloo.ca/
@@ -279,7 +281,6 @@ mirror.gozunga.com/
 mirror.grid.uchicago.edu/
 mirror.group.one/
 mirror.hashy0917.net/
-mirror.hep.gg/
 mirror.hnd.cl/
 mirror.hoasted.com/
 mirror.host.ag/
@@ -327,6 +328,7 @@ mirror.net.za/
 mirror.netlen.com.tr/
 mirror.netsite.dk/
 mirror.netzwerge.de/
+mirror.nevacloud.com/
 mirror.nforce.com/
 mirror.nishi.network/
 mirror.nl.altushost.com/
@@ -363,7 +365,6 @@ mirror.shedmtl.com/
 mirror.siena.edu/
 mirror.sitsa.com.ar/
 mirror.siwoo.org/
-mirror.sjtu.edu.cn/
 mirror.snu.edu.in/
 mirror.soonkeat.sg/
 mirror.speedkom.de/
@@ -447,6 +448,7 @@ mirrors.ukfast.co.uk/
 mirrors.uni-ruse.bg/
 mirrors.upr.edu/
 mirrors.webhs.pt/
+mirrors.xtom.au/
 mirrors.xtom.com/
 mirrors.xtom.de/
 mirrors.xtom.ee/
@@ -460,8 +462,8 @@ mum.aws.repo.almalinux.org/
 muug.ca/
 nc-mirror.iwebfusion.net/
 nchc.org.tw/
-net.sjtu.edu.cn/
 neterra.ne/
+nevacloud.com/
 nexril.net/
 nhanhoa.com/
 nl.mirror.flokinet.net/
@@ -536,7 +538,6 @@ syd.mirror.rackspace.com/
 tc.edu.tw/
 team-cymru.com/
 team.blue/
-teamhydra.dev/
 tech.africa/
 telepoint.bg/
 teraswitch.com/
@@ -559,6 +560,7 @@ vpsttt.com/
 vsys.host/
 wiki.almalinux.org/
 wiki.lug.ro/
+www.01link.net/
 www.2degrees.nz/
 www.4psa.com/
 www.Linux.ec/
@@ -640,7 +642,6 @@ www.knownhost.com/
 www.lchs.com.au/
 www.limda.net/
 www.linkedin.com/
-www.liquid.tech/
 www.liquidweb.com/
 www.liteserver.nl/
 www.lysator.liu.se/
@@ -677,6 +678,7 @@ www.rrze.fau.de/
 www.rwts.com.au/
 www.sakura.ad.jp/
 www.schlundtech.de/
+www.scopesky.iq/
 www.servaxnet.com/
 www.server.net/
 www.sfu.ca/

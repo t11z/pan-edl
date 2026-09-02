@@ -1,5 +1,6 @@
 *.archive.ubuntu.com/
 archive.eibly.com/
+archive.g4t1.pro/
 archive.linux.duke.edu/
 archive.ubuntu.com/
 archive.ubuntu.mirror.ba/
@@ -65,7 +66,6 @@ ftp.ntua.gr/
 ftp.otenet.gr/
 ftp.psnc.pl/
 ftp.riken.jp/
-ftp.rnl.tecnico.ulisboa.pt/
 ftp.rz.tu-bs.de/
 ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
@@ -534,6 +534,7 @@ ubuntu.c3sl.ufpr.br/
 ubuntu.ccns.ncku.edu.tw/
 ubuntu.cica.es/
 ubuntu.cs.nctu.edu.tw/
+ubuntu.cs.utah.edu/
 ubuntu.dcc.fc.up.pt/
 ubuntu.dts.mg/
 ubuntu.ethz.ch/
