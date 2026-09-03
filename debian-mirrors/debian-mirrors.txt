@@ -81,6 +81,7 @@ distrohub.kyiv.ua/
 elmirror.cl/
 free.hands.com/
 ftp-stud.hs-esslingen.de/
+ftp.acc.umu.se/
 ftp.agh.edu.pl/
 ftp.antik.sk/
 ftp.at.debian.org/
@@ -109,6 +110,7 @@ ftp.ee.debian.org/
 ftp.eenet.ee/
 ftp.eq.uc.pt/
 ftp.fau.de/
+ftp.fi.debian.org/
 ftp.fr.debian.org/
 ftp.gwdg.de/
 ftp.halifax.rwth-aachen.de/
@@ -138,6 +140,7 @@ ftp.psnc.pl/
 ftp.pt.debian.org/
 ftp.rezopole.net/
 ftp.riken.jp/
+ftp.se.debian.org/
 ftp.sh.cvut.cz/
 ftp.sk.debian.org/
 ftp.stw-bonn.de/
