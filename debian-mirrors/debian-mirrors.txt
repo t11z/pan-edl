@@ -7,7 +7,6 @@ deb.debian.org/
 deb.nextgen.ch/
 debian-archive.trafficmanager.net/
 debian-mirror.behostings.net/
-debian-mirror.puq.apoapsis.cl/
 debian.a1.bg/
 debian.anexia.at/
 debian.apt-mirror.de/
