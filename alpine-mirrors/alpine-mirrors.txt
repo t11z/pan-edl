@@ -76,6 +76,7 @@ mirror.ungleich.ch/
 mirror.vinehost.net/
 mirror.xtom.com.hk/
 mirror.yandex.ru/
+mirror.zyner.org/
 mirror1.hs-esslingen.de/
 mirrors.aliyun.com/
 mirrors.dotsrc.org/
