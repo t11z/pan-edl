@@ -164,6 +164,7 @@ hnd.cl/
 hnl.fastly.repo.almalinux.org/
 home.cern/
 host4.biz/
+hostarts.dz/
 hostbaran.com/
 hoster.kz/
 hosterion.ro/
@@ -236,6 +237,7 @@ mirror.anquan.cl/
 mirror.aptus.co.tz/
 mirror.as213764.net/
 mirror.as3741.net/
+mirror.ath1.fusioned.net/
 mirror.ati.tn/
 mirror.az31.cloudpropeller.com/
 mirror.azvps.vn/
@@ -287,6 +289,7 @@ mirror.hnd.cl/
 mirror.hoasted.com/
 mirror.host.ag/
 mirror.host4biz.eu/
+mirror.hostarts.dz/
 mirror.hostbaran.com/
 mirror.hoster.kz/
 mirror.hosthink.net/
@@ -400,6 +403,7 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
+mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.bkns.vn/
@@ -573,6 +577,7 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
+www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -612,6 +617,7 @@ www.fastly.com/
 www.fi.muni.cz/
 www.fiu.edu/
 www.fnal.gov/
+www.fusioned.net/
 www.fysik.dtu.dk/
 www.garr.it/
 www.gbnetwork.com/
