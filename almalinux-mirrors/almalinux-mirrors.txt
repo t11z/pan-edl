@@ -165,7 +165,6 @@ hnl.fastly.repo.almalinux.org/
 home.cern/
 host4.biz/
 hostarts.dz/
-hostbaran.com/
 hoster.kz/
 hosterion.ro/
 hostico.ro/
@@ -290,7 +289,6 @@ mirror.hoasted.com/
 mirror.host.ag/
 mirror.host4biz.eu/
 mirror.hostarts.dz/
-mirror.hostbaran.com/
 mirror.hoster.kz/
 mirror.hosthink.net/
 mirror.hostiko.network/
@@ -343,7 +341,6 @@ mirror.nodespace.com/
 mirror.nyist.edu.cn/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
-mirror.papua.go.id/
 mirror.parsdev.com/
 mirror.phoenix.ioflood.com/
 mirror.pit.teraswitch.com/
@@ -358,7 +355,6 @@ mirror.realcompute.io/
 mirror.reenigne.net/
 mirror.renu.ac.ug/
 mirror.rnet.missouri.edu/
-mirror.rootlicense.com/
 mirror.sabay.com.kh/
 mirror.se.altushost.com/
 mirror.servaxnet.com/
@@ -383,7 +379,6 @@ mirror.truenetwork.ru/
 mirror.twds.com.tw/
 mirror.tzulo.com/
 mirror.uepg.br/
-mirror.us-midwest-1.nexcess.net/
 mirror.usi.edu/
 mirror.veesp.com/
 mirror.veritescil.com.tr/
@@ -514,13 +509,11 @@ repo.ifca.es/
 repo.shinjiru.com/
 rit.edu/
 ro.mirror.flokinet.net/
-rootlicense.com/
 rpmfind.net/
 rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
 rsync.gtlib.gatech.edu/
 rsync.mirror.gi.co.id/
-rsync.mirror.papua.go.id/
 rsync.mirrorservice.org/
 rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
@@ -654,7 +647,6 @@ www.letscloud.io/
 www.limda.net/
 www.linkedin.com/
 www.liquid.tech/
-www.liquidweb.com/
 www.liteserver.nl/
 www.lysator.liu.se/
 www.maeen.sa/
@@ -677,7 +669,6 @@ www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
 www.ox.ac.uk/
-www.papua.go.id/
 www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
