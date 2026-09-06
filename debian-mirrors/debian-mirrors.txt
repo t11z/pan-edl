@@ -1,7 +1,6 @@
 apt.tetaneutral.net/
 archive.debian.petiak.ir/
 atl.mirrors.clouvider.net/
-de.mirrors.clouvider.net/
 deb-mir1.naitways.net/
 deb.bbxnet.sk/
 deb.debian.org/
@@ -230,6 +229,7 @@ mirror.litnet.lt/
 mirror.lug.umbc.edu/
 mirror.lzu.edu.cn/
 mirror.maeen.sa/
+mirror.marwan.ma/
 mirror.metanet.ch/
 mirror.mirohost.net/
 mirror.mk.de/

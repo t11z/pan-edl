@@ -64,7 +64,6 @@ mirror.easyname.at/
 mirror.fcix.net/
 mirror.firstyear.id.au/
 mirror.freedif.org/
-mirror.hashy0917.net/
 mirror.hoasted.com/
 mirror.ihost.md/
 mirror.kakao.com/
@@ -97,7 +96,6 @@ mirrors.dotsrc.org/
 mirrors.nju.edu.cn/
 mirrors.nxthost.com/
 mirrors.opensuse.org/
-mirrors.rit.edu/
 mirrors.tuna.tsinghua.edu.cn/
 mirrors.ucr.ac.cr/
 mirrors.ustc.edu.cn/
@@ -120,7 +118,6 @@ opensuse.mirror.garr.it/
 opensuse.mirror.iphh.net/
 opensuse.mirror.liquidtelecom.com/
 opensuse.mirror.liteserver.nl/
-opensuse.mirrors.proxad.net/
 opensuse.org/
 opensuse.schlundtech.de/
 opensuse.schlundtechn.de/
@@ -154,12 +151,10 @@ www.dogado.de/
 www.easyname.com/
 www.fder.edu.uy/
 www.fedora.md/
-www.free.fr/
 www.garr.it/
 www.gatech.edu/
 www.gtlib.gatech.edu/
 www.halifax.rwth-aachen.de/
-www.hashy0917.net/
 www.hoasted.com/
 www.hs-esslingen.de/
 www.iphh.net/
