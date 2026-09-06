@@ -1,6 +1,5 @@
 apt.tetaneutral.net/
 archive.debian.petiak.ir/
-atl.mirrors.clouvider.net/
 deb-mir1.naitways.net/
 deb.bbxnet.sk/
 deb.debian.org/
@@ -168,7 +167,6 @@ ftpmirror1.infania.net/
 giano.com.dist.unige.it/
 is.mirror.flokinet.net/
 kartolo.sby.datautama.net.id/
-la.mirrors.clouvider.net/
 lethe.chinstrap.org/
 lidsol.fi-b.unam.mx/
 linuxsoft.cern.ch/
@@ -323,7 +321,6 @@ mirrors.zju.edu.cn/
 mirrorservice.org/
 mr.heru.id/
 nl.mirror.flokinet.net/
-nyc.mirrors.clouvider.net/
 opensource.nchc.org.tw/
 packages.hs-regensburg.de/
 pkg.adfinis-on-exoscale.ch/
