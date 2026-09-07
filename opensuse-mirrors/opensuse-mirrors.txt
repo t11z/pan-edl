@@ -10,7 +10,6 @@ dispenser.yandex.net/
 distro.ibiblio.org/
 distrohub.kyiv.ua/
 dotsrc.org/
-download.opensuse.id/
 download.opensuse.org/
 en.opensuse.org/
 espejito.fder.edu.uy/
@@ -30,6 +29,7 @@ ftp.linux.cz/
 ftp.linux.org.tr/
 ftp.man.poznan.pl/
 ftp.psnc.pl/
+ftp.rnl.tecnico.ulisboa.pt/
 ftp.rz.uni-wuerzburg.de/
 ftp.sh.cvut.cz/
 ftp.tu-chemnitz.de/
@@ -49,6 +49,7 @@ it.iut.ac.ir/
 library.ucy.ac.cy/
 linorg.usp.br/
 mirror-br.opensuse.org/
+mirror-services.net/
 mirror.aardsoft.fi/
 mirror.aarnet.edu.au/
 mirror.accum.se/
@@ -108,10 +109,10 @@ opensuse-mirror-gce-us.susecloud.net/
 opensuse.0x0.st/
 opensuse.c3sl.ufpr.br/
 opensuse.ic.ufmt.br/
-opensuse.id/
 opensuse.ip-connect.info/
 opensuse.ipacct.com/
 opensuse.koyanet.lv/
+opensuse.mirror-services.net/
 opensuse.mirror.garr.it/
 opensuse.mirror.iphh.net/
 opensuse.mirror.liquidtelecom.com/
@@ -171,6 +172,7 @@ www.nyist.edu.cn/
 www.psnc.pl/
 www.rackspace.com/
 www.rainside.sk/
+www.rnl.tecnico.ulisboa.pt/
 www.schlundtech.com/
 www.siena.edu/
 www.siliconhill.cz/
