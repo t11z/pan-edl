@@ -82,7 +82,6 @@ mirrors.aliyun.com/
 mirrors.dotsrc.org/
 mirrors.edge.kernel.org/
 mirrors.gigenet.com/
-mirrors.hoobly.com/
 mirrors.hosterion.ro/
 mirrors.hostico.ro/
 mirrors.hust.edu.cn/
