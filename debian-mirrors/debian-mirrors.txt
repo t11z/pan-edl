@@ -133,7 +133,6 @@ ftp.maru.co.jp/
 ftp.md.debian.org/
 ftp.nc.debian.org/
 ftp.nl.debian.org/
-ftp.nz.debian.org/
 ftp.pl.debian.org/
 ftp.psn.ru/
 ftp.psnc.pl/
@@ -203,7 +202,6 @@ mirror.duocast.net/
 mirror.estone.ca/
 mirror.eu.oneandone.net/
 mirror.flo.c-f.ro/
-mirror.fsmg.org.nz/
 mirror.gitoyen.net/
 mirror.gsl.icu/
 mirror.hnd.cl/

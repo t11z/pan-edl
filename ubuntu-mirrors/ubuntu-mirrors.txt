@@ -550,6 +550,7 @@ ubuntu.koyanet.lv/
 ubuntu.lafibre.info/
 ubuntu.lagis.at/
 ubuntu.lagoon.nc/
+ubuntu.letscloud.io/
 ubuntu.linux-bg.org/
 ubuntu.man.lodz.pl/
 ubuntu.mirror.ac.ke/
