@@ -61,6 +61,7 @@ mirror.easyname.at/
 mirror.fcix.net/
 mirror.firstyear.id.au/
 mirror.freedif.org/
+mirror.hashy0917.net/
 mirror.hoasted.com/
 mirror.ihost.md/
 mirror.kakao.com/
@@ -151,6 +152,7 @@ www.garr.it/
 www.gatech.edu/
 www.gtlib.gatech.edu/
 www.halifax.rwth-aachen.de/
+www.hashy0917.net/
 www.hoasted.com/
 www.hs-esslingen.de/
 www.iphh.net/
