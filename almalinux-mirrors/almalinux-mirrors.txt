@@ -15,6 +15,7 @@ almalinux-mirror.tpa.hivelocity.net/
 almalinux-mirror.unifique.cloud/
 almalinux-mirror.yucca.net/
 almalinux.elhacker.net/
+almalinux.excellmedia.net/
 almalinux.interhost.co.il/
 almalinux.ip-connect.info/
 almalinux.ip-connect.vn.ua/
@@ -31,7 +32,6 @@ almalinux.mirror.letscloud.io/
 almalinux.mirror.liquidtelecom.com/
 almalinux.mirror.liteserver.nl/
 almalinux.mirror.net.za/
-almalinux.mirror.scopesky.com/
 almalinux.mirror.shastacoe.net/
 almalinux.mirror.sofia.incognet.io/
 almalinux.mirror.thegigabit.com/
@@ -65,6 +65,7 @@ atl.mirrors.knownhost.com/
 aws.amazon.com/
 azvps.vn/
 beltelecom.by/
+bharatdatacenter.com/
 bitency.nl/
 blog.almalinux.org/
 blr.aws.repo.almalinux.org/
@@ -99,7 +100,6 @@ distrohub.kyiv.ua/
 diyarciftci.xyz/
 docker.ru/
 doit.missouri.edu/
-domainesia.com/
 dotsrc.org/
 dsu.edu/
 ekiphost.com/
@@ -133,12 +133,14 @@ ftp.iij.ad.jp/
 ftp.jaist.ac.jp/
 ftp.linux.cz/
 ftp.lug.ro/
+ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
 ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
+ftp.tku.edu.tw/
 ftp.ucsb.edu/
 ftp.udx.icscoe.jp/
 ftp.uni-bayreuth.de/
@@ -193,6 +195,7 @@ jingk.ai/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
+kifu.gov.hu/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 krnk.org/
@@ -201,7 +204,6 @@ leaseweb.com/
 lidsol.fi-b.unam.mx/
 lidsol.unam.mx/
 linux-mirrors.fnal.gov/
-linux.domainesia.com/
 linux.duke.edu/
 linux.ncsu.edu/
 linuxpatch.com/
@@ -239,6 +241,7 @@ mirror.az31.cloudpropeller.com/
 mirror.azvps.vn/
 mirror.bahnhof.net/
 mirror.bf-net.ch/
+mirror.bharatdatacenter.com/
 mirror.bitency.nl/
 mirror.cedia.org.ec/
 mirror.ch.altushost.com/
@@ -278,6 +281,7 @@ mirror.fysik.dtu.dk/
 mirror.gi.co.id/
 mirror.gozunga.com/
 mirror.group.one/
+mirror.hep.gg/
 mirror.hnd.cl/
 mirror.hoasted.com/
 mirror.host.ag/
@@ -325,8 +329,8 @@ mirror.net.za/
 mirror.netlen.com.tr/
 mirror.netsite.dk/
 mirror.netzwerge.de/
-mirror.nevacloud.com/
 mirror.nforce.com/
+mirror.niif.hu/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
 mirror.nl.mirhosting.net/
@@ -334,6 +338,7 @@ mirror.nodesdirect.com/
 mirror.nodespace.com/
 mirror.nyist.edu.cn/
 mirror.ourhost.az/
+mirror.ox.ac.uk/
 mirror.parsdev.com/
 mirror.phoenix.ioflood.com/
 mirror.pit.teraswitch.com/
@@ -393,6 +398,7 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
+mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.bkns.vn/
@@ -431,6 +437,7 @@ mirrors.onenet.net/
 mirrors.pt/
 mirrors.ptisp.pt/
 mirrors.rda.poa.br/
+mirrors.rit.edu/
 mirrors.ruk-com.cloud/
 mirrors.sonic.net/
 mirrors.storpool.com/
@@ -459,7 +466,6 @@ nc-mirror.iwebfusion.net/
 nchc.org.tw/
 net.sjtu.edu.cn/
 neterra.ne/
-nevacloud.com/
 nexril.net/
 nhanhoa.com/
 nl.mirror.flokinet.net/
@@ -500,6 +506,7 @@ repo.extreme-ix.org/
 repo.ialab.dsu.edu/
 repo.ifca.es/
 repo.shinjiru.com/
+rit.edu/
 ro.mirror.flokinet.net/
 rootlicense.com/
 rpmfind.net/
@@ -532,6 +539,7 @@ syd.mirror.rackspace.com/
 tc.edu.tw/
 team-cymru.com/
 team.blue/
+teamhydra.dev/
 tech.africa/
 telepoint.bg/
 teraswitch.com/
@@ -562,6 +570,7 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
+www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -595,6 +604,7 @@ www.domainhizmetleri.com/
 www.edgoo.io/
 www.elhacker.net/
 www.esecuredata.com/
+www.excellmedia.net/
 www.exoscale.com/
 www.fastly.com/
 www.fi.muni.cz/
@@ -638,6 +648,7 @@ www.linkedin.com/
 www.liquid.tech/
 www.liquidweb.com/
 www.liteserver.nl/
+www.lysator.liu.se/
 www.maeen.sa/
 www.maple-hosting.com/
 www.melbourne.co.uk/
@@ -657,6 +668,7 @@ www.nxthost.com/
 www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
+www.ox.ac.uk/
 www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
@@ -669,7 +681,6 @@ www.rrze.fau.de/
 www.rwts.com.au/
 www.sakura.ad.jp/
 www.schlundtech.de/
-www.scopesky.iq/
 www.servaxnet.com/
 www.server.net/
 www.sfu.ca/
@@ -686,6 +697,7 @@ www.telecomarmenia.am/
 www.tencent.com/
 www.thelefty.org/
 www.tier.net/
+www.tku.edu.tw/
 www.transip.nl/
 www.trex.fi/
 www.twds.com.tw/
