@@ -20,7 +20,6 @@ almalinux.interhost.co.il/
 almalinux.ip-connect.info/
 almalinux.ip-connect.vn.ua/
 almalinux.ipacct.com/
-almalinux.jetserver.co.il/
 almalinux.koyanet.lv/
 almalinux.linuxpatch.com/
 almalinux.mirror-services.net/
@@ -135,9 +134,9 @@ ftp.iij.ad.jp/
 ftp.jaist.ac.jp/
 ftp.linux.cz/
 ftp.lug.ro/
+ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
-ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -190,7 +189,6 @@ it2.mirror.vhosting-it.com/
 itc.zju.edu.cn/
 ixirhost.com/
 jagoanhosting.com/
-jetserver.co.il/
 jingk.ai/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
@@ -223,6 +221,7 @@ mirror.23m.com/
 mirror.2degrees.nz/
 mirror.a1.mk/
 mirror.aarnet.edu.au/
+mirror.accum.se/
 mirror.africloud.com/
 mirror.airnet.uz/
 mirror.alastyr.com/
@@ -333,6 +332,7 @@ mirror.netsite.dk/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nforce.com/
+mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
 mirror.nl.mirhosting.net/
@@ -340,6 +340,7 @@ mirror.nodesdirect.com/
 mirror.nodespace.com/
 mirror.nyist.edu.cn/
 mirror.ourhost.az/
+mirror.ox.ac.uk/
 mirror.parsdev.com/
 mirror.phoenix.ioflood.com/
 mirror.pit.teraswitch.com/
@@ -352,7 +353,6 @@ mirror.randhost.com/
 mirror.rcg.sfu.ca/
 mirror.realcompute.io/
 mirror.reenigne.net/
-mirror.renu.ac.ug/
 mirror.rnet.missouri.edu/
 mirror.rootlicense.com/
 mirror.sabay.com.kh/
@@ -447,6 +447,7 @@ mirrors.tencent.com/
 mirrors.tino.org/
 mirrors.ucr.ac.cr/
 mirrors.ukfast.co.uk/
+mirrors.uni-ruse.bg/
 mirrors.upr.edu/
 mirrors.webhs.pt/
 mirrors.xtom.au/
@@ -501,11 +502,11 @@ raiolanetworks.com/
 randhost.com/
 rda.run/
 reenigne.net/
-renu.ac.ug/
 repo.almalinux.org/
 repo.extreme-ix.org/
 repo.ialab.dsu.edu/
 repo.ifca.es/
+repo.shinjiru.com/
 rit.edu/
 ro.mirror.flokinet.net/
 rootlicense.com/
@@ -567,6 +568,7 @@ www.4psa.com/
 www.Linux.ec/
 www.VPSnet.com/
 www.aarnet.edu.au/
+www.accum.se/
 www.alastyr.com/
 www.aliyun.com/
 www.almalinux.org/
@@ -647,6 +649,7 @@ www.linkedin.com/
 www.liquid.tech/
 www.liquidweb.com/
 www.liteserver.nl/
+www.lysator.liu.se/
 www.maeen.sa/
 www.maple-hosting.com/
 www.melbourne.co.uk/
@@ -666,6 +669,7 @@ www.nxthost.com/
 www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
+www.ox.ac.uk/
 www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
@@ -676,13 +680,13 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
-www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
 www.server.net/
 www.sfu.ca/
 www.shastacoe.org/
+www.shinjiru.com/
 www.siena.edu/
 www.sitsa.com.ar/
 www.siwoo.org/
@@ -705,6 +709,7 @@ www.uib.no/
 www.ukraine.com.ua/
 www.ukservers.com/
 www.uni-bayreuth.de/
+www.uni-ruse.bg/
 www.upr.edu/
 www.vereinigte-stadtwerke.de/
 www.veritescil.com.tr/
