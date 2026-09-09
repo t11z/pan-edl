@@ -114,7 +114,6 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror1.isoc.org.il/
 mirror5.krfoss.org/
-mirrors-1.nkn.in/
 mirrors.dotsrc.org/
 mirrors.esto.network/
 mirrors.hostiserver.com/

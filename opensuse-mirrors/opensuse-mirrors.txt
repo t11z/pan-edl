@@ -10,6 +10,7 @@ dispenser.yandex.net/
 distro.ibiblio.org/
 distrohub.kyiv.ua/
 dotsrc.org/
+download.opensuse.id/
 download.opensuse.org/
 en.opensuse.org/
 espejito.fder.edu.uy/
@@ -108,6 +109,7 @@ opensuse-mirror-gce-us.susecloud.net/
 opensuse.0x0.st/
 opensuse.c3sl.ufpr.br/
 opensuse.ic.ufmt.br/
+opensuse.id/
 opensuse.ip-connect.info/
 opensuse.ipacct.com/
 opensuse.koyanet.lv/
@@ -116,6 +118,7 @@ opensuse.mirror.garr.it/
 opensuse.mirror.iphh.net/
 opensuse.mirror.liquidtelecom.com/
 opensuse.mirror.liteserver.nl/
+opensuse.mirrors.proxad.net/
 opensuse.org/
 opensuse.schlundtech.de/
 opensuse.schlundtechn.de/
@@ -149,6 +152,7 @@ www.dogado.de/
 www.easyname.com/
 www.fder.edu.uy/
 www.fedora.md/
+www.free.fr/
 www.garr.it/
 www.gatech.edu/
 www.gtlib.gatech.edu/
