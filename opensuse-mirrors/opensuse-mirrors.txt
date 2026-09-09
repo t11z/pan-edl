@@ -40,7 +40,6 @@ get.opensuse.org/
 github.com/
 global.bfsu.edu.cn/
 gocode.it/
-ihost.md/
 ip-connect.info/
 ipacct.com/
 it.iut.ac.ir/
@@ -54,16 +53,13 @@ mirror.alwyzon.net/
 mirror.cedia.org.ec/
 mirror.clarkson.edu/
 mirror.csclub.uwaterloo.ca/
-mirror.datto.com/
 mirror.dc.uz/
 mirror.dogado.de/
 mirror.easyname.at/
-mirror.fcix.net/
 mirror.firstyear.id.au/
 mirror.freedif.org/
 mirror.hashy0917.net/
 mirror.hoasted.com/
-mirror.ihost.md/
 mirror.kakao.com/
 mirror.karneval.cz/
 mirror.liteserver.nl/

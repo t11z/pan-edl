@@ -39,7 +39,6 @@ mirror.dst.ca/
 mirror.fcix.net/
 mirror.fel.cvut.cz/
 mirror.freedif.org/
-mirror.gofoss.xyz/
 mirror.hiesoft.net/
 mirror.ihost.md/
 mirror.jingk.ai/
