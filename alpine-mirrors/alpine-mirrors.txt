@@ -66,7 +66,6 @@ mirror.sajattack.xyz/
 mirror.techlabs.co.kr/
 mirror.techrich.hk/
 mirror.telepoint.bg/
-mirror.torchbyte.com/
 mirror.tux.si/
 mirror.tux.si:8873/
 mirror.twds.com.tw/
@@ -86,16 +85,13 @@ mirrors.hostico.ro/
 mirrors.hust.edu.cn/
 mirrors.ircam.fr/
 mirrors.itwrx.org/
-mirrors.lax.silicloud.com/
 mirrors.neterra.net/
 mirrors.nju.edu.cn/
 mirrors.ocf.berkeley.edu/
 mirrors.pardisco.co/
 mirrors.sdu.edu.cn/
 mirrors.sjtug.sjtu.edu.cn/
-mirrors.swirly.moe/
 mirrors.tuna.tsinghua.edu.cn/
-mirrors.tyo.silicloud.com/
 mirrors.ustc.edu.cn/
 pkg.adfinis-on-exoscale.ch/
 pkg.adfinis.com/
