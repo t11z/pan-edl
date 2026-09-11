@@ -101,7 +101,6 @@ distrohub.kyiv.ua/
 diyarciftci.xyz/
 docker.ru/
 doit.missouri.edu/
-domainesia.com/
 dotsrc.org/
 dsu.edu/
 ekiphost.com/
@@ -185,6 +184,7 @@ ip-connect.vn.ua/
 ipacct.com/
 iphost.md/
 ipinfo.io/
+ir.almalinux.sindad.cloud/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
@@ -204,7 +204,6 @@ leaseweb.com/
 lidsol.fi-b.unam.mx/
 lidsol.unam.mx/
 linux-mirrors.fnal.gov/
-linux.domainesia.com/
 linux.duke.edu/
 linux.ncsu.edu/
 linuxpatch.com/
@@ -245,7 +244,6 @@ mirror.bahnhof.net/
 mirror.bf-net.ch/
 mirror.bharatdatacenter.com/
 mirror.bitency.nl/
-mirror.cedia.org.ec/
 mirror.ch.altushost.com/
 mirror.chpc.utah.edu/
 mirror.citrahost.com/
@@ -330,7 +328,6 @@ mirror.moack.co.kr/
 mirror.mtl2.ca.leaseweb.net/
 mirror.net.za/
 mirror.netlen.com.tr/
-mirror.netsite.dk/
 mirror.netzwerge.de/
 mirror.nforce.com/
 mirror.nishi.network/
@@ -384,7 +381,6 @@ mirror.uepg.br/
 mirror.us-midwest-1.nexcess.net/
 mirror.usi.edu/
 mirror.veesp.com/
-mirror.veritescil.com.tr/
 mirror.vpsnet.com/
 mirror.vsm.sh/
 mirror.vsys.host/
@@ -392,6 +388,7 @@ mirror.vtti.vt.edu/
 mirror.wd6.net/
 mirror.wdc2.us.leaseweb.net/
 mirror.webworld.ie/
+mirror.wiseglobalsolutions.com/
 mirror.wonchan.net/
 mirror.xcobean.co.ke/
 mirror.xenyth.net/
@@ -441,7 +438,6 @@ mirrors.ptisp.pt/
 mirrors.rda.poa.br/
 mirrors.rit.edu/
 mirrors.ruk-com.cloud/
-mirrors.sonic.net/
 mirrors.storpool.com/
 mirrors.teamcloud.am/
 mirrors.tencent.com/
@@ -532,6 +528,7 @@ sg-mirrors.vhost.vn/
 sg.gs/
 shedmtl.com/
 siliconhill.cz/
+sindad.com/
 snu.edu.in/
 soonkeat.sg/
 southfront.mm.fcix.net/
@@ -585,7 +582,6 @@ www.belnet.be/
 www.bkns.vn/
 www.bme.hu/
 www.c0urier.net/
-www.cedia.edu.ec/
 www.chpc.utah.edu/
 www.chroot.ro/
 www.cixug.gal/
@@ -659,7 +655,6 @@ www.nav.ro/
 www.netdirekt.com.tr/
 www.netforce.company/
 www.netlen.com.tr/
-www.netsite.dk/
 www.netzwerge.de/
 www.nforce.com/
 www.nic.cz/
@@ -691,7 +686,6 @@ www.shinjiru.com/
 www.siena.edu/
 www.sitsa.com.ar/
 www.siwoo.org/
-www.sonic.com/
 www.sox.rs/
 www.steadfast.net/
 www.swinburne.edu.au/
@@ -713,7 +707,6 @@ www.uni-bayreuth.de/
 www.uni-ruse.bg/
 www.upr.edu/
 www.vereinigte-stadtwerke.de/
-www.veritescil.com.tr/
 www.vhosting-it.com/
 www.virtono.com/
 www.vodafone.cz/
@@ -721,6 +714,7 @@ www.vtti.vt.edu/
 www.wd6.net/
 www.wearetriple.com/
 www.webworld.ie/
+www.wiseglobalsolutions.com/
 www.xeonbd.com/
 www.yamagata-u.ac.jp/
 www.yuccatelecom.com/
