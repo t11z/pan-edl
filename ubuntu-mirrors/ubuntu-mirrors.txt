@@ -118,7 +118,6 @@ linux.yz.yamagata-u.ac.jp/
 mir.linux.kg/
 miroir.univ-lorraine.fr/
 mirror-gw.elastis.id/
-mirror-hk.koddos.net/
 mirror-mk.interspace.com/
 mirror.01link.hk/
 mirror.0x.sg/
@@ -152,6 +151,7 @@ mirror.cedia.org.ec/
 mirror.citrahost.com/
 mirror.clarkson.edu/
 mirror.clearsky.vn/
+mirror.clientvps.com/
 mirror.cloudhosting.lv/
 mirror.cmkl.ac.th/
 mirror.cogentco.com/
@@ -250,7 +250,6 @@ mirror.krfoss.org/
 mirror.kumi.systems/
 mirror.lc/
 mirror.liberty-connect.com/
-mirror.library.ucy.ac.cy/
 mirror.limda.net/
 mirror.linkdata.com/
 mirror.logol.ru/
@@ -449,7 +448,6 @@ mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
 mirrors.ptisp.pt/
 mirrors.qlu.edu.cn/
-mirrors.sarak.as/
 mirrors.sdu.edu.cn/
 mirrors.sjtug.sjtu.edu.cn/
 mirrors.sohu.com/
@@ -561,6 +559,7 @@ ubuntu.mirror.garr.it/
 ubuntu.mirror.globo.tech/
 ubuntu.mirror.gnc.am/
 ubuntu.mirror.intermax.nl/
+ubuntu.mirror.letscloud.io/
 ubuntu.mirror.linux.ro/
 ubuntu.mirror.lrz.de/
 ubuntu.mirror.net.za/
