@@ -15,6 +15,7 @@ almalinux-mirror.tpa.hivelocity.net/
 almalinux-mirror.unifique.cloud/
 almalinux-mirror.yucca.net/
 almalinux.elhacker.net/
+almalinux.excellmedia.net/
 almalinux.interhost.co.il/
 almalinux.ip-connect.info/
 almalinux.ip-connect.vn.ua/
@@ -100,6 +101,7 @@ distrohub.kyiv.ua/
 diyarciftci.xyz/
 docker.ru/
 doit.missouri.edu/
+domainesia.com/
 dotsrc.org/
 dsu.edu/
 ekiphost.com/
@@ -135,7 +137,6 @@ ftp.linux.cz/
 ftp.lug.ro/
 ftp.psnc.pl/
 ftp.riken.jp/
-ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -161,7 +162,6 @@ hnd.cl/
 hnl.fastly.repo.almalinux.org/
 home.cern/
 host4.biz/
-hostarts.dz/
 hostbaran.com/
 hoster.kz/
 hosterion.ro/
@@ -186,10 +186,12 @@ ir.almalinux.sindad.cloud/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
+itc.zju.edu.cn/
 ixirhost.com/
 jagoanhosting.com/
 jetserver.co.il/
 jingk.ai/
+jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
 kozyatagi.mirror.guzel.net.tr/
@@ -200,6 +202,7 @@ leaseweb.com/
 lidsol.fi-b.unam.mx/
 lidsol.unam.mx/
 linux-mirrors.fnal.gov/
+linux.domainesia.com/
 linux.duke.edu/
 linux.ncsu.edu/
 linuxpatch.com/
@@ -213,6 +216,7 @@ marwan.ma/
 mijn.host/
 mirhosting.com/
 mirror-services.net/
+mirror.01link.hk/
 mirror.0x626b.com/
 mirror.23m.com/
 mirror.2degrees.nz/
@@ -283,7 +287,6 @@ mirror.hnd.cl/
 mirror.hoasted.com/
 mirror.host.ag/
 mirror.host4biz.eu/
-mirror.hostarts.dz/
 mirror.hostbaran.com/
 mirror.hoster.kz/
 mirror.hosthink.net/
@@ -449,7 +452,9 @@ mirrors.xtom.au/
 mirrors.xtom.com/
 mirrors.xtom.de/
 mirrors.xtom.ee/
+mirrors.xtom.jp/
 mirrors.xtom.nl/
+mirrors.zju.edu.cn/
 mnl.aws.repo.almalinux.org/
 mobinhost.com/
 mr.heru.id/
@@ -484,6 +489,7 @@ parsdev.com/
 per.aws.repo.almalinux.org/
 phoenixnap.com/
 phx.mirrors.clouvider.net/
+pit.mirror.jurassicinnovations.com/
 pkg.adfinis-on-exoscale.ch/
 plug-mirror.rcac.purdue.edu/
 purduelug.org/
@@ -553,6 +559,7 @@ vpsttt.com/
 vsys.host/
 wiki.almalinux.org/
 wiki.lug.ro/
+www.01link.net/
 www.2degrees.nz/
 www.4psa.com/
 www.Linux.ec/
@@ -594,6 +601,7 @@ www.domainhizmetleri.com/
 www.edgoo.io/
 www.elhacker.net/
 www.esecuredata.com/
+www.excellmedia.net/
 www.exoscale.com/
 www.fastly.com/
 www.fi.muni.cz/
@@ -667,7 +675,6 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
-www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
