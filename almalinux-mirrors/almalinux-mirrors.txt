@@ -15,6 +15,7 @@ almalinux-mirror.tpa.hivelocity.net/
 almalinux-mirror.unifique.cloud/
 almalinux-mirror.yucca.net/
 almalinux.elhacker.net/
+almalinux.excellmedia.net/
 almalinux.interhost.co.il/
 almalinux.ip-connect.info/
 almalinux.ip-connect.vn.ua/
@@ -28,7 +29,6 @@ almalinux.mirror.garr.it/
 almalinux.mirror.globo.tech/
 almalinux.mirror.katapult.io/
 almalinux.mirror.letscloud.io/
-almalinux.mirror.liquidtelecom.com/
 almalinux.mirror.liteserver.nl/
 almalinux.mirror.net.za/
 almalinux.mirror.scopesky.com/
@@ -58,6 +58,7 @@ almamirror.netdirekt.com.tr/
 almamirror.phoenixnap.com/
 aptus.co.tz/
 ash.mirrors.clouvider.net/
+asnet.am/
 atl.mirrors.clouvider.net/
 atl.mirrors.ezscale.cloud/
 atl.mirrors.knownhost.com/
@@ -207,7 +208,6 @@ linux.ncsu.edu/
 linuxpatch.com/
 linuxsoft.cern.ch/
 lon.mirror.rackspace.com/
-lug.hit.edu.cn/
 lyrahosting.com/
 mangohost.net/
 maniaclab.uchicago.edu/
@@ -381,6 +381,7 @@ mirror.uepg.br/
 mirror.us-midwest-1.nexcess.net/
 mirror.usi.edu/
 mirror.veesp.com/
+mirror.verinomi.com/
 mirror.veritescil.com.tr/
 mirror.vpsnet.com/
 mirror.vsm.sh/
@@ -388,7 +389,6 @@ mirror.vsys.host/
 mirror.vtti.vt.edu/
 mirror.wd6.net/
 mirror.wdc2.us.leaseweb.net/
-mirror.wiseglobalsolutions.com/
 mirror.wonchan.net/
 mirror.xcobean.co.ke/
 mirror.xenyth.net/
@@ -399,6 +399,7 @@ mirror.yuki.net.uk/
 mirror1.sox.rs/
 mirrors.aliyun.com/
 mirrors.almalinux.org/
+mirrors.asnet.am/
 mirrors.bkns.vn/
 mirrors.bmcc.edu/
 mirrors.c0urier.net/
@@ -414,7 +415,6 @@ mirrors.gbnetwork.com/
 mirrors.gethosted.online/
 mirrors.gigenet.com/
 mirrors.gofiber.vn/
-mirrors.hit.edu.cn/
 mirrors.hosterion.ro/
 mirrors.hostever.com/
 mirrors.hostico.ro/
@@ -599,6 +599,7 @@ www.domainhizmetleri.com/
 www.edgoo.io/
 www.elhacker.net/
 www.esecuredata.com/
+www.excellmedia.net/
 www.exoscale.com/
 www.fastly.com/
 www.fi.muni.cz/
@@ -639,7 +640,6 @@ www.lchs.com.au/
 www.letscloud.io/
 www.limda.net/
 www.linkedin.com/
-www.liquid.tech/
 www.liquidweb.com/
 www.liteserver.nl/
 www.lysator.liu.se/
@@ -705,6 +705,7 @@ www.uni-bayreuth.de/
 www.uni-ruse.bg/
 www.upr.edu/
 www.vereinigte-stadtwerke.de/
+www.verinomi.com/
 www.veritescil.com.tr/
 www.vhosting-it.com/
 www.virtono.com/
@@ -712,7 +713,6 @@ www.vodafone.cz/
 www.vtti.vt.edu/
 www.wd6.net/
 www.wearetriple.com/
-www.wiseglobalsolutions.com/
 www.xeonbd.com/
 www.yamagata-u.ac.jp/
 www.yuccatelecom.com/
