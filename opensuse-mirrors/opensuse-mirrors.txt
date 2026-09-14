@@ -38,6 +38,7 @@ ftp.uni-bayreuth.de/
 ftp.uni-erlangen.de/
 ftp.uni-kl.de/
 ftp.uninett.no/
+ftp.ussg.iu.edu/
 get.opensuse.org/
 github.com/
 global.bfsu.edu.cn/
@@ -76,7 +77,6 @@ mirror.rackspace.co.uk/
 mirror.rackspace.com/
 mirror.rackspace.hk/
 mirror.siena.edu/
-mirror.sjtu.edu.cn/
 mirror.tspu.ru/
 mirror.uepg.br/
 mirror.ufscar.br/
@@ -98,7 +98,6 @@ mirrors.tuna.tsinghua.edu.cn/
 mirrors.ucr.ac.cr/
 mirrors.ustc.edu.cn/
 mirrors.zju.edu.cn/
-net.sjtu.edu.cn/
 nnenix.mm.fcix.net/
 opensuse-mirror-gce-ap.susecloud.net/
 opensuse-mirror-gce-eu.opensu.se/
@@ -127,6 +126,7 @@ repo.ugm.ac.id/
 rpmfind.net/
 rsync.fedora.md/
 rsync.mirrors.163.com/
+rtinfo.indiana.edu/
 sci.nju.edu.cn/
 slc-mirror.opensuse.org/
 tspu.edu.ru/
