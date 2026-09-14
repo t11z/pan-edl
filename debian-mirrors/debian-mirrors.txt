@@ -329,7 +329,6 @@ repo.ialab.dsu.edu/
 repo.ifca.es/
 repo.jztkft.hu/
 repos.interior.edu.uy/
-repository.su/
 ro.mirror.flokinet.net/
 security.debian.org/
 softlibre.unizar.es/
