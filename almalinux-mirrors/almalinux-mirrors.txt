@@ -16,6 +16,7 @@ almalinux-mirror.unifique.cloud/
 almalinux-mirror.yucca.net/
 almalinux.elhacker.net/
 almalinux.interhost.co.il/
+almalinux.ip-connect.info/
 almalinux.ip-connect.vn.ua/
 almalinux.ipacct.com/
 almalinux.jetserver.co.il/
@@ -26,7 +27,7 @@ almalinux.mirror.digitalpacific.com.au/
 almalinux.mirror.garr.it/
 almalinux.mirror.globo.tech/
 almalinux.mirror.katapult.io/
-almalinux.mirror.liquidtelecom.com/
+almalinux.mirror.letscloud.io/
 almalinux.mirror.liteserver.nl/
 almalinux.mirror.net.za/
 almalinux.mirror.scopesky.com/
@@ -56,7 +57,6 @@ almamirror.netdirekt.com.tr/
 almamirror.phoenixnap.com/
 aptus.co.tz/
 ash.mirrors.clouvider.net/
-asnet.am/
 atl.mirrors.clouvider.net/
 atl.mirrors.ezscale.cloud/
 atl.mirrors.knownhost.com/
@@ -132,7 +132,6 @@ ftp.iij.ad.jp/
 ftp.jaist.ac.jp/
 ftp.linux.cz/
 ftp.lug.ro/
-ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
 ftp.sakura.ad.jp/
@@ -152,8 +151,6 @@ globo.tech/
 gofiber.vn/
 gozunga.com/
 gsl-syd.mm.fcix.net/
-hcc-mirror.unl.edu/
-hcc.unl.edu/
 heru.id/
 hivelocity.net/
 hkg.mirror.rackspace.com/
@@ -177,6 +174,7 @@ insect.mm.fcix.net/
 interhost.co.il/
 internet.asn.au/
 ioflood.com/
+ip-connect.info/
 ip-connect.vn.ua/
 ipacct.com/
 iphost.md/
@@ -193,6 +191,7 @@ jingk.ai/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
+kifu.gov.hu/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 krnk.org/
@@ -332,6 +331,7 @@ mirror.netsite.dk/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nforce.com/
+mirror.niif.hu/
 mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
@@ -340,8 +340,6 @@ mirror.nodesdirect.com/
 mirror.nodespace.com/
 mirror.nyist.edu.cn/
 mirror.ourhost.az/
-mirror.ox.ac.uk/
-mirror.papua.go.id/
 mirror.parsdev.com/
 mirror.phoenix.ioflood.com/
 mirror.pit.teraswitch.com/
@@ -363,7 +361,6 @@ mirror.servaxnet.com/
 mirror.server.net/
 mirror.sfo12.us.leaseweb.net/
 mirror.sg.gs/
-mirror.shedmtl.com/
 mirror.siena.edu/
 mirror.sitsa.com.ar/
 mirror.siwoo.org/
@@ -381,6 +378,7 @@ mirror.truenetwork.ru/
 mirror.twds.com.tw/
 mirror.tzulo.com/
 mirror.uepg.br/
+mirror.us-midwest-1.nexcess.net/
 mirror.usi.edu/
 mirror.veesp.com/
 mirror.verinomi.com/
@@ -391,6 +389,8 @@ mirror.vsys.host/
 mirror.vtti.vt.edu/
 mirror.wd6.net/
 mirror.wdc2.us.leaseweb.net/
+mirror.webworld.ie/
+mirror.wiseglobalsolutions.com/
 mirror.wonchan.net/
 mirror.xcobean.co.ke/
 mirror.xenyth.net/
@@ -401,7 +401,6 @@ mirror.yuki.net.uk/
 mirror1.sox.rs/
 mirrors.aliyun.com/
 mirrors.almalinux.org/
-mirrors.asnet.am/
 mirrors.bkns.vn/
 mirrors.bmcc.edu/
 mirrors.c0urier.net/
@@ -482,6 +481,7 @@ ohioix.mm.fcix.net/
 oit.gatech.edu/
 opencolo.mm.fcix.net/
 opensource.fb.com/
+or-mirror.iwebfusion.net/
 ord.mirror.rackspace.com/
 osuosl.org/
 ourhost.az/
@@ -514,7 +514,6 @@ rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
 rsync.gtlib.gatech.edu/
 rsync.mirror.gi.co.id/
-rsync.mirror.papua.go.id/
 rsync.mirrorservice.org/
 rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
@@ -529,7 +528,6 @@ serverforge.org/
 serversaustralia.com.au/
 sg-mirrors.vhost.vn/
 sg.gs/
-shedmtl.com/
 siliconhill.cz/
 sindad.com/
 snu.edu.in/
@@ -643,11 +641,11 @@ www.kent.ac.uk/
 www.kku.ac.th/
 www.knownhost.com/
 www.lchs.com.au/
+www.letscloud.io/
 www.limda.net/
 www.linkedin.com/
-www.liquid.tech/
+www.liquidweb.com/
 www.liteserver.nl/
-www.lysator.liu.se/
 www.maeen.sa/
 www.maple-hosting.com/
 www.melbourne.co.uk/
@@ -667,8 +665,6 @@ www.nxthost.com/
 www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
-www.ox.ac.uk/
-www.papua.go.id/
 www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
@@ -720,6 +716,8 @@ www.vodafone.cz/
 www.vtti.vt.edu/
 www.wd6.net/
 www.wearetriple.com/
+www.webworld.ie/
+www.wiseglobalsolutions.com/
 www.xeonbd.com/
 www.yamagata-u.ac.jp/
 www.yuccatelecom.com/
