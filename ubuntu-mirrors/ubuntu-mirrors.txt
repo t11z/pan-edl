@@ -502,6 +502,7 @@ rsync.icm.edu.pl/
 rsync.mirror.zzunipark.com/
 rsync.mirrors.ustc.edu.cn/
 rsync.mirrorservice.org/
+rsync.techlabs.co.kr/
 rsync.ubuntu.nautile.nc/
 rsync.udc.es/
 rsync.uni-bayreuth.de/
