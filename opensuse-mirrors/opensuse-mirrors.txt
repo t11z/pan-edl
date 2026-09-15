@@ -57,7 +57,6 @@ mirror.alwyzon.net/
 mirror.cedia.org.ec/
 mirror.clarkson.edu/
 mirror.csclub.uwaterloo.ca/
-mirror.datto.com/
 mirror.dc.uz/
 mirror.dogado.de/
 mirror.easyname.at/
@@ -78,7 +77,6 @@ mirror.rackspace.co.uk/
 mirror.rackspace.com/
 mirror.rackspace.hk/
 mirror.siena.edu/
-mirror.sjtu.edu.cn/
 mirror.tspu.ru/
 mirror.uepg.br/
 mirror.ufscar.br/
