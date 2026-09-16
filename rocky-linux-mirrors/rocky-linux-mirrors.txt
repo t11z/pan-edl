@@ -71,6 +71,7 @@ mirror.dc.uz/
 mirror.dst.ca/
 mirror.eu.ossplanet.net/
 mirror.gozunga.com/
+mirror.hashy0917.net/
 mirror.hnd.cl/
 mirror.hostarts.dz/
 mirror.hosthink.net/
@@ -224,6 +225,7 @@ www.clouvider.com/
 www.cogentco.com/
 www.directlink.coop/
 www.dst.ca/
+www.hashy0917.net/
 www.hi.no/
 www.hosthink.net/
 www.hostiserver.com/
