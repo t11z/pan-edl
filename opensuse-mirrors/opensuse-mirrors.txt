@@ -13,7 +13,6 @@ dotsrc.org/
 download.opensuse.id/
 download.opensuse.org/
 en.opensuse.org/
-espejito.fder.edu.uy/
 fcix.net/
 fr2.rpmfind.net/
 free.nchc.org.tw/
@@ -78,6 +77,7 @@ mirror.rackspace.co.uk/
 mirror.rackspace.com/
 mirror.rackspace.hk/
 mirror.siena.edu/
+mirror.sjtu.edu.cn/
 mirror.tspu.ru/
 mirror.uepg.br/
 mirror.ufscar.br/
@@ -100,6 +100,7 @@ mirrors.ucr.ac.cr/
 mirrors.ustc.edu.cn/
 mirrors.zju.edu.cn/
 muug.ca/
+net.sjtu.edu.cn/
 nnenix.mm.fcix.net/
 opensuse-mirror-gce-ap.susecloud.net/
 opensuse-mirror-gce-eu.opensu.se/
@@ -116,6 +117,7 @@ opensuse.mirror.garr.it/
 opensuse.mirror.iphh.net/
 opensuse.mirror.liquidtelecom.com/
 opensuse.mirror.liteserver.nl/
+opensuse.mirrors.proxad.net/
 opensuse.org/
 opensuse.schlundtech.de/
 opensuse.schlundtechn.de/
@@ -146,8 +148,8 @@ www.csc.fi/
 www.deac.eu/
 www.dogado.de/
 www.easyname.com/
-www.fder.edu.uy/
 www.fedora.md/
+www.free.fr/
 www.garr.it/
 www.gatech.edu/
 www.gtlib.gatech.edu/
