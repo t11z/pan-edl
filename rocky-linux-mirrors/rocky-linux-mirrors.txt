@@ -70,7 +70,6 @@ mirror.cs.vt.edu/
 mirror.dc.uz/
 mirror.dst.ca/
 mirror.eu.ossplanet.net/
-mirror.freedif.org/
 mirror.gozunga.com/
 mirror.hnd.cl/
 mirror.hostarts.dz/

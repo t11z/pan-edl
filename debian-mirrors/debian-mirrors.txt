@@ -129,6 +129,7 @@ ftp.linux.it/
 ftp.linux.org.tr/
 ftp.lip6.fr/
 ftp.lt.debian.org/
+ftp.ludd.ltu.se/
 ftp.maru.co.jp/
 ftp.md.debian.org/
 ftp.nc.debian.org/
