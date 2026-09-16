@@ -76,6 +76,7 @@ debian.web.trex.fi/
 debian.xtdv.net/
 debianmirror.una.ac.cr/
 debpkg.libranext.com/
+depot-debian.univ-reunion.fr/
 distrohub.kyiv.ua/
 elmirror.cl/
 free.hands.com/
@@ -186,6 +187,7 @@ mirror.bgp.rodeo/
 mirror.bizflycloud.vn/
 mirror.blue3.com.br/
 mirror.braindrainlan.nu/
+mirror.clarkson.edu/
 mirror.cloudhosting.lv/
 mirror.cogentco.com/
 mirror.corbina.net/
