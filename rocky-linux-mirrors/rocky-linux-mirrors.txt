@@ -21,7 +21,6 @@ delska.com/
 distro.ibiblio.org/
 distrohub.kyiv.ua/
 dl.rockylinux.org/
-dotsrc.org/
 download.rockylinux.org/
 en.isoc.org.il/
 esto.network/
@@ -115,7 +114,6 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror1.isoc.org.il/
 mirror5.krfoss.org/
-mirrors.dotsrc.org/
 mirrors.esto.network/
 mirrors.hostiserver.com/
 mirrors.ipserverone.com/
