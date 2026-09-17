@@ -101,7 +101,6 @@ mirror.shomepower.com/
 mirror.siena.edu/
 mirror.slu.cz/
 mirror.tech.africa/
-mirror.techlabs.co.kr/
 mirror.telepoint.bg/
 mirror.twds.com.tw/
 mirror.tzulo.com/
@@ -194,7 +193,6 @@ rockylinux.uni-sofia.bg/
 rsync.krfoss.org/
 rsync.mirrors.ustc.edu.cn/
 rsync.mirrorservice.org/
-rsync.techlabs.co.kr/
 rsync5.krfoss.org/
 ru.dyi.ng/
 ru.mirrors.cicku.me/
