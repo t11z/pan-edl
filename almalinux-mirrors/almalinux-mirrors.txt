@@ -28,6 +28,7 @@ almalinux.mirror.garr.it/
 almalinux.mirror.globo.tech/
 almalinux.mirror.katapult.io/
 almalinux.mirror.letscloud.io/
+almalinux.mirror.liquidtelecom.com/
 almalinux.mirror.liteserver.nl/
 almalinux.mirror.net.za/
 almalinux.mirror.scopesky.com/
@@ -38,6 +39,7 @@ almalinux.mirror.ukraine.com.ua/
 almalinux.mirror.wearetriple.com/
 almalinux.mirrors.behostings.net/
 almalinux.mirrors.itworxx.de/
+almalinux.mirrors.ovh.net/
 almalinux.mirrorservice.org/
 almalinux.mobinhost.com/
 almalinux.netforce.hosting/
@@ -64,6 +66,7 @@ aws.amazon.com/
 azvps.vn/
 beltelecom.by/
 bharatdatacenter.com/
+bitency.nl/
 blog.almalinux.org/
 blr.aws.repo.almalinux.org/
 bna.aws.repo.almalinux.org/
@@ -99,6 +102,7 @@ docker.ru/
 doit.missouri.edu/
 domainesia.com/
 dsu.edu/
+ekiphost.com/
 elice.io/
 elmirror.cl/
 eng.mephi.ru/
@@ -128,8 +132,10 @@ ftp.iij.ad.jp/
 ftp.jaist.ac.jp/
 ftp.linux.cz/
 ftp.lug.ro/
+ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
+ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -181,6 +187,7 @@ itc.zju.edu.cn/
 ixirhost.com/
 jagoanhosting.com/
 jetserver.co.il/
+jingk.ai/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
@@ -226,11 +233,13 @@ mirror.aptus.co.tz/
 mirror.as213764.net/
 mirror.as3741.net/
 mirror.ath1.fusioned.net/
+mirror.ati.tn/
 mirror.az31.cloudpropeller.com/
 mirror.azvps.vn/
 mirror.bahnhof.net/
 mirror.bf-net.ch/
 mirror.bharatdatacenter.com/
+mirror.bitency.nl/
 mirror.cedia.org.ec/
 mirror.ch.altushost.com/
 mirror.chpc.utah.edu/
@@ -240,7 +249,6 @@ mirror.cloudpropeller.com/
 mirror.cogentco.com/
 mirror.colocenter.nl/
 mirror.cov.ukservers.com/
-mirror.cpsc.ucalgary.ca/
 mirror.csclub.uwaterloo.ca/
 mirror.dal.nexril.net/
 mirror.datacenter.by/
@@ -253,6 +261,8 @@ mirror.dk.team.blue/
 mirror.dk.team.blue::almalinux/
 mirror.docker.ru/
 mirror.dogado.de/
+mirror.domainhizmetleri.com/
+mirror.ekiphost.com/
 mirror.elice.io/
 mirror.esecuredata.com/
 mirror.eu.4psacloud.com/
@@ -268,6 +278,7 @@ mirror.gi.co.id/
 mirror.gozunga.com/
 mirror.grid.uchicago.edu/
 mirror.group.one/
+mirror.hashy0917.net/
 mirror.hep.gg/
 mirror.hnd.cl/
 mirror.hoasted.com/
@@ -290,6 +301,7 @@ mirror.iphost.md/
 mirror.isoc.org.il/
 mirror.ixirhost.com/
 mirror.jagoanhosting.id/
+mirror.jingk.ai/
 mirror.junda.nl/
 mirror.karneval.cz/
 mirror.kku.ac.th/
@@ -321,8 +333,10 @@ mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
 mirror.nl.mirhosting.net/
+mirror.nodesdirect.com/
 mirror.nodespace.com/
 mirror.nyist.edu.cn/
+mirror.ourhost.az/
 mirror.ox.ac.uk/
 mirror.parsdev.com/
 mirror.phoenix.ioflood.com/
@@ -365,6 +379,7 @@ mirror.uepg.br/
 mirror.us-midwest-1.nexcess.net/
 mirror.usi.edu/
 mirror.veesp.com/
+mirror.verinomi.com/
 mirror.veritescil.com.tr/
 mirror.vpsnet.com/
 mirror.vsm.sh/
@@ -372,6 +387,7 @@ mirror.vsys.host/
 mirror.vtti.vt.edu/
 mirror.wd6.net/
 mirror.wdc2.us.leaseweb.net/
+mirror.webworld.ie/
 mirror.wiseglobalsolutions.com/
 mirror.wonchan.net/
 mirror.xcobean.co.ke/
@@ -443,6 +459,7 @@ mobinhost.com/
 mr.heru.id/
 msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
+muug.ca/
 nc-mirror.iwebfusion.net/
 nchc.org.tw/
 net.sjtu.edu.cn/
@@ -454,6 +471,7 @@ nl.mirror.flokinet.net/
 nl.mirrors.clouvider.net/
 nnenix.mm.fcix.net/
 nocix.mm.fcix.net/
+nodesdirect.com/
 nyc.almalinux.osuosl.org/
 nyc.mirrors.clouvider.net/
 nyuad.nyu.edu/
@@ -465,6 +483,7 @@ opensource.fb.com/
 or-mirror.iwebfusion.net/
 ord.mirror.rackspace.com/
 osuosl.org/
+ourhost.az/
 pars.host/
 parsdev.com/
 per.aws.repo.almalinux.org/
@@ -528,7 +547,6 @@ tino.org/
 truenetwork.ru/
 tx-mirror.tier.net/
 tzulo.com/
-ucalgary.ca/
 uepg.br/
 uk.mirrors.clouvider.net/
 unifique.com.br/
@@ -557,6 +575,7 @@ www.anquan.cl/
 www.ans.co.uk/
 www.anywair.com/
 www.arnes.si/
+www.ati.tn/
 www.bahnhof.net/
 www.behostings.com/
 www.belnet.be/
@@ -578,6 +597,7 @@ www.cyberfolks.ro/
 www.deac.eu/
 www.digitalpacific.com.au/
 www.dogado.de/
+www.domainhizmetleri.com/
 www.edgoo.io/
 www.elhacker.net/
 www.esecuredata.com/
@@ -596,6 +616,7 @@ www.group.one/
 www.gtlib.gatech.edu/
 www.guzel.net.tr/
 www.gwdg.de/
+www.hashy0917.net/
 www.hivelocity.net/
 www.hoasted.com/
 www.host.ag/
@@ -621,8 +642,10 @@ www.lchs.com.au/
 www.letscloud.io/
 www.limda.net/
 www.linkedin.com/
+www.liquid.tech/
 www.liquidweb.com/
 www.liteserver.nl/
+www.lysator.liu.se/
 www.maeen.sa/
 www.maple-hosting.com/
 www.melbourne.co.uk/
@@ -641,6 +664,7 @@ www.nodespace.com/
 www.nxthost.com/
 www.nyist.edu.cn/
 www.onenet.net/
+www.ovhcloud.com/
 www.ox.ac.uk/
 www.peralex.com/
 www.plusline.net/
@@ -651,6 +675,7 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
+www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
@@ -682,6 +707,7 @@ www.uni-bayreuth.de/
 www.uni-ruse.bg/
 www.upr.edu/
 www.vereinigte-stadtwerke.de/
+www.verinomi.com/
 www.veritescil.com.tr/
 www.vhosting-it.com/
 www.virtono.com/
@@ -689,6 +715,7 @@ www.vodafone.cz/
 www.vtti.vt.edu/
 www.wd6.net/
 www.wearetriple.com/
+www.webworld.ie/
 www.wiseglobalsolutions.com/
 www.xeonbd.com/
 www.yamagata-u.ac.jp/
