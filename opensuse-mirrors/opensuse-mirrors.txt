@@ -56,10 +56,8 @@ mirror.alwyzon.net/
 mirror.cedia.org.ec/
 mirror.clarkson.edu/
 mirror.csclub.uwaterloo.ca/
-mirror.datto.com/
 mirror.dc.uz/
 mirror.dogado.de/
-mirror.easyname.at/
 mirror.fcix.net/
 mirror.firstyear.id.au/
 mirror.freedif.org/
@@ -146,7 +144,6 @@ www.cedia.org.ec/
 www.csc.fi/
 www.deac.eu/
 www.dogado.de/
-www.easyname.com/
 www.fder.edu.uy/
 www.fedora.md/
 www.free.fr/
