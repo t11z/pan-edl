@@ -39,7 +39,6 @@ debian.mirror.digitalpacific.com.au/
 debian.mirror.garr.it/
 debian.mirror.globo.tech/
 debian.mirror.iphh.net/
-debian.mirror.liquidtelecom.com/
 debian.mirror.lrz.de/
 debian.mirror.rafal.ca/
 debian.mirror.serversaustralia.com.au/
@@ -332,6 +331,7 @@ pubmirror.plutex.de/
 repo.ialab.dsu.edu/
 repo.ifca.es/
 repo.jztkft.hu/
+repo.mirror.famaserver.com/
 repos.interior.edu.uy/
 repository.su/
 ro.mirror.flokinet.net/
