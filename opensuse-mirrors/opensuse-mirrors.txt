@@ -2,6 +2,7 @@
 aardsoft.fi/
 acm.wpi.edu/
 adfinis.com/
+africloud.com/
 cdn.opensuse.org/
 cloud.mu/
 codingflyboy.mm.fcix.net/
@@ -43,7 +44,6 @@ get.opensuse.org/
 github.com/
 global.bfsu.edu.cn/
 gocode.it/
-ihost.md/
 ip-connect.info/
 ipacct.com/
 it.iut.ac.ir/
@@ -53,6 +53,7 @@ mirror-services.net/
 mirror.aardsoft.fi/
 mirror.aarnet.edu.au/
 mirror.accum.se/
+mirror.africloud.com/
 mirror.alwyzon.net/
 mirror.cedia.org.ec/
 mirror.clarkson.edu/
@@ -66,7 +67,6 @@ mirror.firstyear.id.au/
 mirror.freedif.org/
 mirror.hashy0917.net/
 mirror.hoasted.com/
-mirror.ihost.md/
 mirror.kakao.com/
 mirror.karneval.cz/
 mirror.liteserver.nl/
@@ -117,7 +117,6 @@ opensuse.mirror.garr.it/
 opensuse.mirror.iphh.net/
 opensuse.mirror.liquidtelecom.com/
 opensuse.mirror.liteserver.nl/
-opensuse.mirrors.proxad.net/
 opensuse.org/
 opensuse.schlundtech.de/
 opensuse.schlundtechn.de/
@@ -150,7 +149,6 @@ www.dogado.de/
 www.easyname.com/
 www.fder.edu.uy/
 www.fedora.md/
-www.free.fr/
 www.garr.it/
 www.gatech.edu/
 www.gtlib.gatech.edu/
