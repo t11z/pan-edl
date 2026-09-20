@@ -215,7 +215,6 @@ mirror.hoobly.com/
 mirror.hostafrica.co.za/
 mirror.hoster.kz/
 mirror.hosthink.net/
-mirror.hostiko.network/
 mirror.hostnic.id/
 mirror.icn.com.bd/
 mirror.ihost.md/
