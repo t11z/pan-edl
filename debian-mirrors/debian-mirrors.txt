@@ -299,7 +299,6 @@ mirrors.ic.unicamp.br/
 mirrors.jlu.edu.cn/
 mirrors.lug.mtu.edu/
 mirrors.nav.ro/
-mirrors.nepalicloud.com/
 mirrors.netix.net/
 mirrors.ocf.berkeley.edu/
 mirrors.pidginhost.com/
