@@ -62,6 +62,7 @@ mirror.csclub.uwaterloo.ca/
 mirror.datto.com/
 mirror.dc.uz/
 mirror.dogado.de/
+mirror.easyname.at/
 mirror.fcix.net/
 mirror.firstyear.id.au/
 mirror.freedif.org/
@@ -101,6 +102,7 @@ mirrors.rit.edu/
 mirrors.tuna.tsinghua.edu.cn/
 mirrors.ucr.ac.cr/
 mirrors.ustc.edu.cn/
+mirrors.zju.edu.cn/
 muug.ca/
 net.sjtu.edu.cn/
 nnenix.mm.fcix.net/
@@ -119,7 +121,6 @@ opensuse.mirror.garr.it/
 opensuse.mirror.iphh.net/
 opensuse.mirror.liquidtelecom.com/
 opensuse.mirror.liteserver.nl/
-opensuse.mirrors.proxad.net/
 opensuse.org/
 opensuse.schlundtech.de/
 opensuse.schlundtechn.de/
@@ -149,9 +150,9 @@ www.cedia.org.ec/
 www.csc.fi/
 www.deac.eu/
 www.dogado.de/
+www.easyname.com/
 www.fder.edu.uy/
 www.fedora.md/
-www.free.fr/
 www.garr.it/
 www.gatech.edu/
 www.gtlib.gatech.edu/
@@ -191,3 +192,4 @@ www.ustc.edu.cn/
 www.verinomi.com/
 www.vodafone.cz/
 www.vtti.vt.edu/
+www.zju.edu.cn/
