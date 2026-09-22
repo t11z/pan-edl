@@ -15,9 +15,7 @@ almalinux-mirror.tpa.hivelocity.net/
 almalinux-mirror.unifique.cloud/
 almalinux-mirror.yucca.net/
 almalinux.elhacker.net/
-almalinux.excellmedia.net/
 almalinux.interhost.co.il/
-almalinux.ip-connect.info/
 almalinux.ip-connect.vn.ua/
 almalinux.ipacct.com/
 almalinux.jetserver.co.il/
@@ -95,6 +93,7 @@ datamossa.com/
 datautama.net.id/
 de.mirrors.clouvider.net/
 den.aws.repo.almalinux.org/
+dewabiz.com/
 distrohub.kyiv.ua/
 diyarciftci.xyz/
 docker.ru/
@@ -134,7 +133,6 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
-ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -158,6 +156,7 @@ hnd.cl/
 hnl.fastly.repo.almalinux.org/
 home.cern/
 host4.biz/
+hostarts.dz/
 hostbaran.com/
 hoster.kz/
 hosterion.ro/
@@ -173,14 +172,12 @@ insect.mm.fcix.net/
 interhost.co.il/
 internet.asn.au/
 ioflood.com/
-ip-connect.info/
 ip-connect.vn.ua/
 ipacct.com/
 iphost.md/
 ipinfo.io/
 ir.almalinux.sindad.cloud/
 is.mirror.flokinet.net/
-it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
 itc.zju.edu.cn/
 ixirhost.com/
@@ -253,6 +250,7 @@ mirror.dal.nexril.net/
 mirror.datacenter.by/
 mirror.datamossa.io/
 mirror.de.leaseweb.net/
+mirror.dewabiz.com/
 mirror.digitalpacific.com.au/
 mirror.diyarciftci.xyz/
 mirror.dk.team.blue/
@@ -282,12 +280,12 @@ mirror.hnd.cl/
 mirror.hoasted.com/
 mirror.host.ag/
 mirror.host4biz.eu/
+mirror.hostarts.dz/
 mirror.hostbaran.com/
 mirror.hoster.kz/
 mirror.hosthink.net/
 mirror.hostiko.network/
 mirror.hs-esslingen.de/
-mirror.ibcp.fr/
 mirror.ihost.md/
 mirror.in2p3.fr/
 mirror.init7.net/
@@ -346,6 +344,7 @@ mirror.raiolanetworks.com/
 mirror.randhost.com/
 mirror.rcg.sfu.ca/
 mirror.realcompute.io/
+mirror.reenigne.net/
 mirror.renu.ac.ug/
 mirror.rnet.missouri.edu/
 mirror.rootlicense.com/
@@ -358,7 +357,6 @@ mirror.sg.gs/
 mirror.siena.edu/
 mirror.sitsa.com.ar/
 mirror.siwoo.org/
-mirror.sjtu.edu.cn/
 mirror.snu.edu.in/
 mirror.soonkeat.sg/
 mirror.speedkom.de/
@@ -384,11 +382,9 @@ mirror.wd6.net/
 mirror.wdc2.us.leaseweb.net/
 mirror.webworld.ie/
 mirror.wonchan.net/
-mirror.xcobean.co.ke/
 mirror.xenyth.net/
 mirror.xeonbd.com/
 mirror.yandex.ru/
-mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
 mirrors.aliyun.com/
@@ -454,7 +450,6 @@ msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
 nc-mirror.iwebfusion.net/
 nchc.org.tw/
-net.sjtu.edu.cn/
 neterra.ne/
 nevacloud.com/
 nexril.net/
@@ -490,6 +485,7 @@ rackspeed.de/
 raiolanetworks.com/
 randhost.com/
 rda.run/
+reenigne.net/
 renu.ac.ug/
 repo.almalinux.org/
 repo.extreme-ix.org/
@@ -592,7 +588,6 @@ www.domainhizmetleri.com/
 www.edgoo.io/
 www.elhacker.net/
 www.esecuredata.com/
-www.excellmedia.net/
 www.exoscale.com/
 www.fastly.com/
 www.fi.muni.cz/
@@ -615,7 +610,6 @@ www.host.ag/
 www.hosthink.net/
 www.hostiserver.com/
 www.hs-esslingen.de/
-www.ibcp.fr/
 www.idkom.de/
 www.iij.ad.jp/
 www.init7.net/
@@ -668,7 +662,6 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
-www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
@@ -714,11 +707,9 @@ www.xeonbd.com/
 www.yamagata-u.ac.jp/
 www.yuccatelecom.com/
 wwww.wonchan.net/
-xcobean.co.ke/
 xenyth.net/
 xtom.com/
 yandex.ru/
-yer.az/
 yuki.net.uk/
 yxeix.mm.fcix.net/
 ziply.mm.fcix.net/
