@@ -1,5 +1,4 @@
 apt.tetaneutral.net/
-archive.debian.petiak.ir/
 deb-mir1.naitways.net/
 deb.bbxnet.sk/
 deb.debian.org/
