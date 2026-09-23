@@ -103,7 +103,6 @@ mirrors.tuna.tsinghua.edu.cn/
 mirrors.ucr.ac.cr/
 mirrors.ustc.edu.cn/
 mirrors.zju.edu.cn/
-muug.ca/
 net.sjtu.edu.cn/
 nnenix.mm.fcix.net/
 opensuse-mirror-gce-ap.susecloud.net/
