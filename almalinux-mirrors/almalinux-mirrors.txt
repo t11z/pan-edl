@@ -15,7 +15,6 @@ almalinux-mirror.tpa.hivelocity.net/
 almalinux-mirror.unifique.cloud/
 almalinux-mirror.yucca.net/
 almalinux.elhacker.net/
-almalinux.excellmedia.net/
 almalinux.interhost.co.il/
 almalinux.ip-connect.info/
 almalinux.ip-connect.vn.ua/
@@ -167,6 +166,7 @@ hostingdunyam.com.tr/
 iad.mirror.rackspace.com/
 icscoe.jp/
 idhosting.pl/
+ihost.md/
 incognet.io/
 insect.mm.fcix.net/
 interhost.co.il/
@@ -181,7 +181,6 @@ ir.almalinux.sindad.cloud/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
-itc.zju.edu.cn/
 ixirhost.com/
 jagoanhosting.com/
 jetserver.co.il/
@@ -189,7 +188,6 @@ jingk.ai/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
-kifu.gov.hu/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
 krnk.org/
@@ -289,6 +287,7 @@ mirror.hosthink.net/
 mirror.hostiko.network/
 mirror.hs-esslingen.de/
 mirror.ibcp.fr/
+mirror.ihost.md/
 mirror.in2p3.fr/
 mirror.init7.net/
 mirror.init7.net::almalinux/
@@ -326,7 +325,6 @@ mirror.netsite.dk/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nforce.com/
-mirror.niif.hu/
 mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
@@ -336,6 +334,7 @@ mirror.nodespace.com/
 mirror.nyist.edu.cn/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
+mirror.papua.go.id/
 mirror.parsdev.com/
 mirror.phoenix.ioflood.com/
 mirror.pit.teraswitch.com/
@@ -391,6 +390,7 @@ mirror.xcobean.co.ke/
 mirror.xenyth.net/
 mirror.xeonbd.com/
 mirror.yandex.ru/
+mirror.yer.az/
 mirror.yuki.net.uk/
 mirror1.sox.rs/
 mirrors.aliyun.com/
@@ -448,7 +448,6 @@ mirrors.xtom.de/
 mirrors.xtom.ee/
 mirrors.xtom.jp/
 mirrors.xtom.nl/
-mirrors.zju.edu.cn/
 mnl.aws.repo.almalinux.org/
 mobinhost.com/
 mr.heru.id/
@@ -508,6 +507,7 @@ rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
 rsync.gtlib.gatech.edu/
 rsync.mirror.gi.co.id/
+rsync.mirror.papua.go.id/
 rsync.mirrorservice.org/
 rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
@@ -526,7 +526,6 @@ siliconhill.cz/
 sindad.com/
 snu.edu.in/
 soonkeat.sg/
-southfront.mm.fcix.net/
 storpool.com/
 syd.mirror.rackspace.com/
 tc.edu.tw/
@@ -597,7 +596,6 @@ www.domainhizmetleri.com/
 www.edgoo.io/
 www.elhacker.net/
 www.esecuredata.com/
-www.excellmedia.net/
 www.exoscale.com/
 www.fastly.com/
 www.fi.muni.cz/
@@ -663,6 +661,7 @@ www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
 www.ox.ac.uk/
+www.papua.go.id/
 www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
@@ -722,6 +721,7 @@ xcobean.co.ke/
 xenyth.net/
 xtom.com/
 yandex.ru/
+yer.az/
 yuki.net.uk/
 yxeix.mm.fcix.net/
 ziply.mm.fcix.net/
