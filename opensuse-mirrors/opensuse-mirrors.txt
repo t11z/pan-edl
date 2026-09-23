@@ -32,6 +32,7 @@ ftp.linux.org.tr/
 ftp.man.poznan.pl/
 ftp.psnc.pl/
 ftp.rnl.tecnico.ulisboa.pt/
+ftp.rz.uni-wuerzburg.de/
 ftp.sh.cvut.cz/
 ftp.tu-chemnitz.de/
 ftp.uni-bayreuth.de/
