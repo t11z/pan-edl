@@ -50,6 +50,7 @@ ftp.iinet.net.au/
 ftp.iitm.ac.in/
 ftp.jaist.ac.jp/
 ftp.kaist.ac.kr/
+ftp.klid.dk/
 ftp.lanet.kr/
 ftp.linux.cz/
 ftp.linux.edu.lv/
@@ -61,6 +62,7 @@ ftp.ludd.ltu.se/
 ftp.lysator.liu.se/
 ftp.mirror.tw/
 ftp.mirrorservice.org/
+ftp.muug.ca/
 ftp.nluug.nl/
 ftp.ntua.gr/
 ftp.otenet.gr/
@@ -476,9 +478,11 @@ mirrors.xtom.ee/
 mirrors.xtom.nl/
 mirrors.zju.edu.cn/
 mr.heru.id/
+muug.ca/
 nl.archive.ubuntu.com/
 nl.mirror.flokinet.net/
 nl.mirrors.clouvider.net/
+nl3.archive.ubuntu.com/
 no.archive.ubuntu.com/
 no.mirrors.blix.com/
 nyc.mirrors.clouvider.net/
