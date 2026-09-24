@@ -72,6 +72,7 @@ mirror.ihost.md/
 mirror.kakao.com/
 mirror.karneval.cz/
 mirror.liteserver.nl/
+mirror.mai.co.ua/
 mirror.math.princeton.edu/
 mirror.nl.leaseweb.net/
 mirror.nyist.edu.cn/
