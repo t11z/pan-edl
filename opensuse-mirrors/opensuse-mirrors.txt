@@ -50,7 +50,6 @@ ipacct.com/
 it.iut.ac.ir/
 linorg.usp.br/
 mirror-br.opensuse.org/
-mirror-services.net/
 mirror.aardsoft.fi/
 mirror.aarnet.edu.au/
 mirror.accum.se/
@@ -62,6 +61,7 @@ mirror.csclub.uwaterloo.ca/
 mirror.datto.com/
 mirror.dc.uz/
 mirror.dogado.de/
+mirror.easyname.at/
 mirror.fcix.net/
 mirror.firstyear.id.au/
 mirror.freedif.org/
@@ -115,7 +115,6 @@ opensuse.id/
 opensuse.ip-connect.info/
 opensuse.ipacct.com/
 opensuse.koyanet.lv/
-opensuse.mirror-services.net/
 opensuse.mirror.garr.it/
 opensuse.mirror.iphh.net/
 opensuse.mirror.liquidtelecom.com/
@@ -149,6 +148,7 @@ www.cedia.org.ec/
 www.csc.fi/
 www.deac.eu/
 www.dogado.de/
+www.easyname.com/
 www.fder.edu.uy/
 www.fedora.md/
 www.garr.it/
