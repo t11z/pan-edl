@@ -10,7 +10,6 @@ dc.uz/
 dispenser.yandex.net/
 distro.ibiblio.org/
 distrohub.kyiv.ua/
-dotsrc.org/
 download.opensuse.id/
 download.opensuse.org/
 en.opensuse.org/
@@ -95,7 +94,6 @@ mirror1.hs-esslingen.de/
 mirrors.163.com/
 mirrors.acm.wpi.edu/
 mirrors.bfsu.edu.cn/
-mirrors.dotsrc.org/
 mirrors.nju.edu.cn/
 mirrors.nxthost.com/
 mirrors.opensuse.org/
@@ -120,6 +118,7 @@ opensuse.mirror-services.net/
 opensuse.mirror.garr.it/
 opensuse.mirror.iphh.net/
 opensuse.mirror.liteserver.nl/
+opensuse.mirrors.proxad.net/
 opensuse.org/
 opensuse.schlundtech.de/
 opensuse.schlundtechn.de/
@@ -154,6 +153,7 @@ www.dogado.de/
 www.easyname.com/
 www.fder.edu.uy/
 www.fedora.md/
+www.free.fr/
 www.garr.it/
 www.gatech.edu/
 www.gtlib.gatech.edu/
