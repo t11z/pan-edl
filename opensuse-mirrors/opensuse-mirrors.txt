@@ -39,6 +39,7 @@ ftp.uni-bayreuth.de/
 ftp.uni-erlangen.de/
 ftp.uni-kl.de/
 ftp.uninett.no/
+ftp.ussg.iu.edu/
 get.opensuse.org/
 github.com/
 global.bfsu.edu.cn/
@@ -61,7 +62,6 @@ mirror.csclub.uwaterloo.ca/
 mirror.datto.com/
 mirror.dc.uz/
 mirror.dogado.de/
-mirror.easyname.at/
 mirror.fcix.net/
 mirror.firstyear.id.au/
 mirror.freedif.org/
@@ -91,13 +91,13 @@ mirror.vtti.vt.edu/
 mirror.xenyth.net/
 mirror.yandex.ru/
 mirror1.hs-esslingen.de/
+mirrors.163.com/
 mirrors.acm.wpi.edu/
 mirrors.bfsu.edu.cn/
 mirrors.dotsrc.org/
 mirrors.nju.edu.cn/
 mirrors.nxthost.com/
 mirrors.opensuse.org/
-mirrors.rit.edu/
 mirrors.tuna.tsinghua.edu.cn/
 mirrors.ucr.ac.cr/
 mirrors.ustc.edu.cn/
@@ -131,6 +131,8 @@ repo.iut.ac.ir/
 repo.ugm.ac.id/
 rpmfind.net/
 rsync.fedora.md/
+rsync.mirrors.163.com/
+rtinfo.indiana.edu/
 sci.nju.edu.cn/
 slc-mirror.opensuse.org/
 tspu.edu.ru/
@@ -138,6 +140,7 @@ tuna.moe/
 tux.rainside.sk/
 tynahost.com/
 uepg.br/
+www.163.com/
 www.acc.umu.se/
 www.accum.se/
 www.alwyzon.com/
@@ -146,7 +149,6 @@ www.cedia.org.ec/
 www.csc.fi/
 www.deac.eu/
 www.dogado.de/
-www.easyname.com/
 www.fder.edu.uy/
 www.fedora.md/
 www.free.fr/
