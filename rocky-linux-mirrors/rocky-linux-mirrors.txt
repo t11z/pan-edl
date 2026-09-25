@@ -60,7 +60,6 @@ mirror.accum.se/
 mirror.admax.se/
 mirror.africloud.com/
 mirror.alastyr.com/
-mirror.atl.adaptivedatanetworks.com/
 mirror.bahnhof.net/
 mirror.chpc.utah.edu/
 mirror.cogentco.com/
@@ -213,7 +212,6 @@ us.dyi.ng/
 us.mirrors.cicku.me/
 wiki.rockylinux.org/
 www.accum.se/
-www.adaptivedatanetworks.com/
 www.admax.se/
 www.alastyr.com/
 www.anexia.at/
