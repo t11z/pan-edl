@@ -111,6 +111,7 @@ mirror.web-ster.com/
 mirror.wonchan.net/
 mirror.yandex.ru/
 mirror.yer.az/
+mirror.zyner.org/
 mirror1.isoc.org.il/
 mirror5.krfoss.org/
 mirrors.esto.network/
@@ -271,3 +272,4 @@ www.wonchan.net/
 www.yamagata-u.ac.jp/
 www.yandex.com/
 yer.az/
+zyner.org/
