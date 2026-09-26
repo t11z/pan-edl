@@ -10,6 +10,7 @@ dc.uz/
 dispenser.yandex.net/
 distro.ibiblio.org/
 distrohub.kyiv.ua/
+dotsrc.org/
 download.opensuse.id/
 download.opensuse.org/
 en.opensuse.org/
@@ -61,7 +62,6 @@ mirror.csclub.uwaterloo.ca/
 mirror.datto.com/
 mirror.dc.uz/
 mirror.dogado.de/
-mirror.easyname.at/
 mirror.fcix.net/
 mirror.firstyear.id.au/
 mirror.freedif.org/
@@ -95,6 +95,7 @@ mirror1.hs-esslingen.de/
 mirrors.163.com/
 mirrors.acm.wpi.edu/
 mirrors.bfsu.edu.cn/
+mirrors.dotsrc.org/
 mirrors.nju.edu.cn/
 mirrors.nxthost.com/
 mirrors.opensuse.org/
@@ -129,6 +130,7 @@ pkg.adfinis.com/
 randhost.com/
 repo.fedora.md/
 repo.iut.ac.ir/
+repo.ugm.ac.id/
 rpmfind.net/
 rsync.fedora.md/
 rsync.mirrors.163.com/
@@ -150,7 +152,6 @@ www.cedia.org.ec/
 www.csc.fi/
 www.deac.eu/
 www.dogado.de/
-www.easyname.com/
 www.fder.edu.uy/
 www.fedora.md/
 www.free.fr/
