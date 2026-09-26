@@ -249,7 +249,6 @@ mirror.overthewire.com.au/
 mirror.ox.ac.uk/
 mirror.pangkin.com/
 mirror.plusline.net/
-mirror.plusserver.com/
 mirror.positive-internet.com/
 mirror.ps.kz/
 mirror.raiolanetworks.com/
