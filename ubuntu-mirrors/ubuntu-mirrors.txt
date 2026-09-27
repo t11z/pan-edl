@@ -146,7 +146,6 @@ mirror.bg.host.ag/
 mirror.bharatdatacenter.com/
 mirror.bizflycloud.vn/
 mirror.biznetgio.com/
-mirror.bytemark.co.uk/
 mirror.ca-tr.kamatera.com/
 mirror.cc.vt.edu/
 mirror.cedia.org.ec/
@@ -542,6 +541,7 @@ ubuntu.cica.es/
 ubuntu.cs.nctu.edu.tw/
 ubuntu.cs.utah.edu/
 ubuntu.dcc.fc.up.pt/
+ubuntu.dts.mg/
 ubuntu.ethz.ch/
 ubuntu.grad.hr/
 ubuntu.grena.ge/

@@ -180,7 +180,6 @@ rocky-linux.koyanet.lv/
 rocky.deadbatteries.work/
 rocky.idhosting.pl/
 rocky.mirror.co.ge/
-rocky.mirror.liquidtelecom.com/
 rocky.mirror.shastacoe.net/
 rocky.mirror.thegigabit.com/
 rocky.reloumirrors.net/
@@ -233,7 +232,6 @@ www.iu13.org/
 www.jaist.ac.jp/
 www.jurassicinnovations.com/
 www.kaist.ac.kr/
-www.liquid.tech/
 www.melbourne.co.uk/
 www.mirrorservice.org/
 www.ncsu.edu/

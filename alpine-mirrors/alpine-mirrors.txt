@@ -71,6 +71,7 @@ mirror.tux.si:8873/
 mirror.twds.com.tw/
 mirror.uepg.br/
 mirror.ungleich.ch/
+mirror.verinomi.com/
 mirror.vinehost.net/
 mirror.xtom.com.hk/
 mirror.yandex.ru/
