@@ -20,6 +20,7 @@ fr2.rpmfind.net/
 free.nchc.org.tw/
 freedif.org/
 ftp.acc.umu.se/
+ftp.cc.uoc.gr/
 ftp.fedora.md/
 ftp.funet.fi/
 ftp.gwdg.de/
@@ -120,6 +121,7 @@ opensuse.mirror-services.net/
 opensuse.mirror.garr.it/
 opensuse.mirror.iphh.net/
 opensuse.mirror.liteserver.nl/
+opensuse.mirrors.proxad.net/
 opensuse.org/
 opensuse.schlundtech.de/
 opensuse.schlundtechn.de/
@@ -146,6 +148,7 @@ www.163.com/
 www.acc.umu.se/
 www.accum.se/
 www.alwyzon.com/
+www.cc.uoc.gr/
 www.cedia.org.ec/
 www.csc.fi/
 www.deac.eu/
@@ -153,6 +156,7 @@ www.dogado.de/
 www.easyname.com/
 www.fder.edu.uy/
 www.fedora.md/
+www.free.fr/
 www.garr.it/
 www.gatech.edu/
 www.gtlib.gatech.edu/
