@@ -84,6 +84,7 @@ mirror.randhost.com/
 mirror.siena.edu/
 mirror.sjtu.edu.cn/
 mirror.tech.africa/
+mirror.tele-media.net/
 mirror.tspu.ru/
 mirror.uepg.br/
 mirror.ufscar.br/
@@ -121,7 +122,6 @@ opensuse.mirror-services.net/
 opensuse.mirror.garr.it/
 opensuse.mirror.iphh.net/
 opensuse.mirror.liteserver.nl/
-opensuse.mirrors.proxad.net/
 opensuse.org/
 opensuse.schlundtech.de/
 opensuse.schlundtechn.de/
@@ -139,6 +139,7 @@ rtinfo.indiana.edu/
 sci.nju.edu.cn/
 slc-mirror.opensuse.org/
 tech.africa/
+tele-media.net/
 tspu.edu.ru/
 tuna.moe/
 tux.rainside.sk/
@@ -156,7 +157,6 @@ www.dogado.de/
 www.easyname.com/
 www.fder.edu.uy/
 www.fedora.md/
-www.free.fr/
 www.garr.it/
 www.gatech.edu/
 www.gtlib.gatech.edu/
