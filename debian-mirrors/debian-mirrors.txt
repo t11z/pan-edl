@@ -103,7 +103,6 @@ ftp.de.debian.org/
 ftp.debian.cz/
 ftp.debian.sk/
 ftp.debianclub.org/
-ftp.dk.debian.org/
 ftp.ec-m.fr/
 ftp.ee.debian.org/
 ftp.eenet.ee/
@@ -294,7 +293,6 @@ mirrors.bloomu.edu/
 mirrors.cloudforest.co.th/
 mirrors.coreix.net/
 mirrors.datapark.ro/
-mirrors.dotsrc.org/
 mirrors.egr.msu.edu/
 mirrors.glesys.net/
 mirrors.hit.edu.cn/

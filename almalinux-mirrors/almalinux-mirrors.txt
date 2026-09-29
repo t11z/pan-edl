@@ -18,7 +18,6 @@ almalinux.elhacker.net/
 almalinux.excellmedia.net/
 almalinux.interhost.co.il/
 almalinux.ip-connect.info/
-almalinux.ip-connect.vn.ua/
 almalinux.ipacct.com/
 almalinux.jetserver.co.il/
 almalinux.koyanet.lv/
@@ -133,9 +132,11 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
+ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
+ftp.tku.edu.tw/
 ftp.ucsb.edu/
 ftp.udx.icscoe.jp/
 ftp.uni-bayreuth.de/
@@ -172,7 +173,6 @@ interhost.co.il/
 internet.asn.au/
 ioflood.com/
 ip-connect.info/
-ip-connect.vn.ua/
 ipacct.com/
 iphost.md/
 ipinfo.io/
@@ -279,6 +279,7 @@ mirror.hashy0917.net/
 mirror.hep.gg/
 mirror.hnd.cl/
 mirror.hoasted.com/
+mirror.host.ag/
 mirror.host4biz.eu/
 mirror.hostarts.dz/
 mirror.hostbaran.com/
@@ -383,7 +384,6 @@ mirror.vtti.vt.edu/
 mirror.wd6.net/
 mirror.wdc2.us.leaseweb.net/
 mirror.webworld.ie/
-mirror.wiseglobalsolutions.com/
 mirror.wonchan.net/
 mirror.xcobean.co.ke/
 mirror.xenyth.net/
@@ -393,7 +393,6 @@ mirror.yer.az/
 mirror.yuki.net.uk/
 mirror.zyner.org/
 mirror1.sox.rs/
-mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.bkns.vn/
@@ -562,7 +561,6 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
-www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -616,6 +614,7 @@ www.gwdg.de/
 www.hashy0917.net/
 www.hivelocity.net/
 www.hoasted.com/
+www.host.ag/
 www.hosthink.net/
 www.hostiserver.com/
 www.hs-esslingen.de/
@@ -671,6 +670,7 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
+www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
@@ -689,6 +689,7 @@ www.telecomarmenia.am/
 www.tencent.com/
 www.thelefty.org/
 www.tier.net/
+www.tku.edu.tw/
 www.transip.nl/
 www.trex.fi/
 www.twds.com.tw/
@@ -711,7 +712,6 @@ www.vtti.vt.edu/
 www.wd6.net/
 www.wearetriple.com/
 www.webworld.ie/
-www.wiseglobalsolutions.com/
 www.xeonbd.com/
 www.yamagata-u.ac.jp/
 www.yuccatelecom.com/
