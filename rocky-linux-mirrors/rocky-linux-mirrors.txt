@@ -114,7 +114,9 @@ mirror.yer.az/
 mirror.zyner.org/
 mirror1.isoc.org.il/
 mirror5.krfoss.org/
+mirrors-1.nkn.in/
 mirrors.esto.network/
+mirrors.gigenet.com/
 mirrors.hostiserver.com/
 mirrors.ipserverone.com/
 mirrors.iu13.net/
@@ -221,6 +223,7 @@ www.clouvider.com/
 www.cogentco.com/
 www.directlink.coop/
 www.dst.ca/
+www.gigenet.com/
 www.hashy0917.net/
 www.hi.no/
 www.hosthink.net/
