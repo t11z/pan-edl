@@ -58,6 +58,7 @@ mirror.alwyzon.net/
 mirror.cedia.org.ec/
 mirror.clarkson.edu/
 mirror.csclub.uwaterloo.ca/
+mirror.datto.com/
 mirror.dc.uz/
 mirror.dogado.de/
 mirror.easyname.at/
