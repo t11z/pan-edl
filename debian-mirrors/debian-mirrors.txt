@@ -308,6 +308,7 @@ mirrors.nav.ro/
 mirrors.netix.net/
 mirrors.ocf.berkeley.edu/
 mirrors.pidginhost.com/
+mirrors.powernet.com.ru/
 mirrors.ptisp.pt/
 mirrors.tuna.tsinghua.edu.cn/
 mirrors.ucr.ac.cr/
