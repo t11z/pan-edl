@@ -114,6 +114,7 @@ mirror.yer.az/
 mirror.zyner.org/
 mirror1.isoc.org.il/
 mirror5.krfoss.org/
+mirrors-1.nkn.in/
 mirrors.esto.network/
 mirrors.gigenet.com/
 mirrors.hostiserver.com/
