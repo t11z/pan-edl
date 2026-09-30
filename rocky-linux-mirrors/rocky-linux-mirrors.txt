@@ -114,7 +114,6 @@ mirror.yer.az/
 mirror.zyner.org/
 mirror1.isoc.org.il/
 mirror5.krfoss.org/
-mirrors-1.nkn.in/
 mirrors.esto.network/
 mirrors.gigenet.com/
 mirrors.hostiserver.com/
@@ -127,7 +126,6 @@ mirrors.pidginhost.com/
 mirrors.qlu.edu.cn/
 mirrors.rit.edu/
 mirrors.rockylinux.org/
-mirrors.teamcloud.am/
 mirrors.upr.edu/
 mirrors.ustc.edu.cn/
 mirrors.vcea.wsu.edu/
@@ -201,7 +199,6 @@ ru.mirrors.cicku.me/
 sa.dyi.ng/
 sa.mirrors.cicku.me/
 task.gda.pl/
-teamcloud.am/
 tech.africa/
 telepoint.bg/
 thegigabit.com/
