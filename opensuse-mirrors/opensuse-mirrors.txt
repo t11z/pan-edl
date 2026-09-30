@@ -48,7 +48,6 @@ ihost.md/
 ip-connect.info/
 ipacct.com/
 it.iut.ac.ir/
-mirror-br.opensuse.org/
 mirror-services.net/
 mirror.aardsoft.fi/
 mirror.aarnet.edu.au/
@@ -142,7 +141,6 @@ tele-media.net/
 tspu.edu.ru/
 tuna.moe/
 tux.rainside.sk/
-tynahost.com/
 uepg.br/
 www.163.com/
 www.acc.umu.se/
