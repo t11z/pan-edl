@@ -4,8 +4,8 @@ a2hosting.com/
 africloud.com/
 airnet.uz/
 al-mirror.a2hosting.com/
-alma.acidman.thelefty.org/
 alma.as3741.net/
+alma.hostingdunyam.com.tr/
 alma.idhosting.pl/
 alma.mirror.nyuad.nyu.edu/
 alma.mirror.serversaustralia.com.au/
@@ -26,7 +26,6 @@ almalinux.mirror.digitalpacific.com.au/
 almalinux.mirror.garr.it/
 almalinux.mirror.globo.tech/
 almalinux.mirror.katapult.io/
-almalinux.mirror.letscloud.io/
 almalinux.mirror.liteserver.nl/
 almalinux.mirror.net.za/
 almalinux.mirror.scopesky.com/
@@ -82,6 +81,7 @@ cloudforest.co.th/
 cloudpropeller.com/
 cofractal-ewr.mm.fcix.net/
 cofractal-sea.mm.fcix.net/
+colocenter.nl/
 computing.ifca.es/
 cosi.clarkson.edu/
 csclub.uwaterloo.ca/
@@ -116,11 +116,13 @@ freehost.com.ua/
 ftp.arnes.si/
 ftp.belnet.be/
 ftp.bme.hu/
+ftp.cc.uoc.gr/
 ftp.cixug.es/
 ftp.csuc.cat/
 ftp.cwuni-bayreuth.de/
 ftp.fau.de/
 ftp.gwdg.de/
+ftp.halifax.rwth-aachen.de/
 ftp.iij.ad.jp/
 ftp.jaist.ac.jp/
 ftp.linux.cz/
@@ -132,6 +134,7 @@ ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
+ftp.tku.edu.tw/
 ftp.ucsb.edu/
 ftp.udx.icscoe.jp/
 ftp.uni-bayreuth.de/
@@ -159,6 +162,7 @@ hoster.kz/
 hosterion.ro/
 hostico.ro/
 hostiko.com.ua/
+hostingdunyam.com.tr/
 iad.mirror.rackspace.com/
 icscoe.jp/
 idhosting.pl/
@@ -239,7 +243,9 @@ mirror.citrahost.com/
 mirror.clarkson.edu/
 mirror.cloudpropeller.com/
 mirror.cogentco.com/
+mirror.colocenter.nl/
 mirror.cov.ukservers.com/
+mirror.cpsc.ucalgary.ca/
 mirror.csclub.uwaterloo.ca/
 mirror.daha.net/
 mirror.dal.nexril.net/
@@ -324,6 +330,7 @@ mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
 mirror.nl.mirhosting.net/
 mirror.nodesdirect.com/
+mirror.nodespace.com/
 mirror.nyist.edu.cn/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
@@ -433,6 +440,7 @@ mirrors.tencent.com/
 mirrors.tino.org/
 mirrors.ucr.ac.cr/
 mirrors.ukfast.co.uk/
+mirrors.uni-ruse.bg/
 mirrors.upr.edu/
 mirrors.webhs.pt/
 mirrors.xtom.au/
@@ -465,7 +473,6 @@ nyc.almalinux.osuosl.org/
 nyc.mirrors.clouvider.net/
 nyuad.nyu.edu/
 ocf.berkeley.edu/
-ohioix.mm.fcix.net/
 oit.gatech.edu/
 opencolo.mm.fcix.net/
 opensource.fb.com/
@@ -507,9 +514,11 @@ rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
 rsync.yuki.net.uk/
 ruk-com.cloud/
+rwth-aachen.de/
 sabay.com.kh/
 savoirfairelinux.com/
 sci.nju.edu.cn/
+seattle.crazyfast.us/
 serverforge.org/
 serversaustralia.com.au/
 sg-mirrors.vhost.vn/
@@ -534,6 +543,7 @@ tino.org/
 truenetwork.ru/
 tx-mirror.tier.net/
 tzulo.com/
+ucalgary.ca/
 uepg.br/
 uk.mirrors.clouvider.net/
 unifique.com.br/
@@ -627,8 +637,8 @@ www.kent.ac.uk/
 www.kku.ac.th/
 www.knownhost.com/
 www.lchs.com.au/
-www.letscloud.io/
 www.limda.net/
+www.linkedin.com/
 www.liquidweb.com/
 www.liteserver.nl/
 www.lysator.liu.se/
@@ -646,12 +656,14 @@ www.netzwerge.de/
 www.nforce.com/
 www.nic.cz/
 www.nic.funet.fi/
+www.nodespace.com/
 www.nxthost.com/
 www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
 www.ox.ac.uk/
 www.peralex.com/
+www.physics.uoc.gr/
 www.plusline.net/
 www.previder.com/
 www.ps.kz/
@@ -677,8 +689,8 @@ www.steadfast.net/
 www.swinburne.edu.au/
 www.telecomarmenia.am/
 www.tencent.com/
-www.thelefty.org/
 www.tier.net/
+www.tku.edu.tw/
 www.transip.nl/
 www.trex.fi/
 www.twds.com.tw/
@@ -689,6 +701,7 @@ www.uib.no/
 www.ukraine.com.ua/
 www.ukservers.com/
 www.uni-bayreuth.de/
+www.uni-ruse.bg/
 www.upr.edu/
 www.vereinigte-stadtwerke.de/
 www.verinomi.com/
