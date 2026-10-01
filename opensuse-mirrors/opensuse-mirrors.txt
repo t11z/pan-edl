@@ -39,6 +39,7 @@ ftp.uni-bayreuth.de/
 ftp.uni-erlangen.de/
 ftp.uni-kl.de/
 ftp.uninett.no/
+ftp.ussg.iu.edu/
 get.opensuse.org/
 github.com/
 global.bfsu.edu.cn/
@@ -47,6 +48,7 @@ ihost.md/
 ip-connect.info/
 ipacct.com/
 it.iut.ac.ir/
+mirror-br.opensuse.org/
 mirror-services.net/
 mirror.aardsoft.fi/
 mirror.aarnet.edu.au/
@@ -119,6 +121,7 @@ opensuse.mirror-services.net/
 opensuse.mirror.garr.it/
 opensuse.mirror.iphh.net/
 opensuse.mirror.liteserver.nl/
+opensuse.mirrors.proxad.net/
 opensuse.org/
 opensuse.schlundtech.de/
 opensuse.schlundtechn.de/
@@ -132,6 +135,7 @@ repo.ugm.ac.id/
 rpmfind.net/
 rsync.fedora.md/
 rsync.mirrors.163.com/
+rtinfo.indiana.edu/
 sci.nju.edu.cn/
 slc-mirror.opensuse.org/
 tech.africa/
@@ -139,6 +143,7 @@ tele-media.net/
 tspu.edu.ru/
 tuna.moe/
 tux.rainside.sk/
+tynahost.com/
 uepg.br/
 www.163.com/
 www.acc.umu.se/
@@ -152,6 +157,7 @@ www.dogado.de/
 www.easyname.com/
 www.fder.edu.uy/
 www.fedora.md/
+www.free.fr/
 www.garr.it/
 www.gatech.edu/
 www.gtlib.gatech.edu/
