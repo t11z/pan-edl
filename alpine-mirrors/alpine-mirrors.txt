@@ -4,6 +4,7 @@ alpine.elhacker.net/
 alpine.ethz.ch/
 alpine.koyanet.lv/
 alpine.mirror.far.fi/
+alpine.mirror.net.za/
 alpine.mirror.wearetriple.com/
 alpine.sakamoto.pl/
 alpinelinux.c3sl.ufpr.br/
