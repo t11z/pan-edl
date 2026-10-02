@@ -526,7 +526,6 @@ tux.rainside.sk/
 tw1.mirror.blendbyte.net/
 ubuntu-archive.interhost.co.il/
 ubuntu-archive.locaweb.com.br/
-ubuntu-archive.mirror.liquidtelecom.com/
 ubuntu-archive.mirror.serveriai.lt/
 ubuntu-mirror.ati.tn/
 ubuntu-mirror.bhtelecom.ba/
