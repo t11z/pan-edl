@@ -248,7 +248,6 @@ mirror.dawn.org.in/
 mirror.dc.uz/
 mirror.del2.albony.in/
 mirror.digitalnova.at/
-mirror.digitalpacific.com.au/
 mirror.distly.kr/
 mirror.ditatompel.com/
 mirror.diyarciftci.xyz/
