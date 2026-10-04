@@ -100,7 +100,6 @@ dist-mirror.fem.tu-ilmenau.de/
 distro.ibiblio.org/
 distrohub.kyiv.ua/
 dornogal.falcao.org/
-download.nus.edu.sg/
 elda.asgardius.company/
 elmirror.cl/
 es.mirrors.cicku.me/
@@ -184,7 +183,6 @@ losangeles.mirror.pkgbuild.com/
 m.lqy.me/
 mala-arch-server.eu/
 md.arch.niranjan.co/
-md.mirrors.hacktegic.com/
 mir.archlinux.fr/
 mirror-de-1.cutie.dating/
 mirror-hk.koddos.net/
@@ -264,7 +262,6 @@ mirror.group.one/
 mirror.guillaumea.fr/
 mirror.hafeezh.com/
 mirror.hashy0917.net/
-mirror.hasphetica.win/
 mirror.hb9hil.org/
 mirror.hemino.net/
 mirror.hnd.cl/
@@ -297,7 +294,6 @@ mirror.kumi.systems/
 mirror.lagoon.nc/
 mirror.lastmikoi.net/
 mirror.lcarilla.de/
-mirror.leitecastro.com/
 mirror.limda.net/
 mirror.linux.ec/
 mirror.linxhost.ru/
@@ -374,7 +370,6 @@ mirror.terrahost.no/
 mirror.theash.xyz/
 mirror.thekinrar.fr/
 mirror.theo546.fr/
-mirror.tiguinet.net/
 mirror.timtal.com.tr/
 mirror.trap.moe/
 mirror.trapmaid.org/
@@ -469,7 +464,6 @@ mirrors.saswata.cc/
 mirrors.shanghaitech.edu.cn/
 mirrors.shr.cx/
 mirrors.sjtug.sjtu.edu.cn/
-mirrors.smeal.xyz/
 mirrors.sonic.net/
 mirrors.teamcloud.am/
 mirrors.tuna.tsinghua.edu.cn/
@@ -516,7 +510,6 @@ repo.hyron.dev/
 repo.ialab.dsu.edu/
 repo.iut.ac.ir/
 repo.miserver.it.umich.edu/
-repo.slithery.uk/
 repository.su/
 ro.arch.niranjan.co/
 ro.mirror.flokinet.net/
@@ -525,6 +518,7 @@ rsync.archlinux.nautile.nc/
 rsync.cyberbits.asia/
 rsync.cyberbits.eu/
 rsync.franscorack.com/
+rsync.ibiblio.org/
 rsync.keiminem.com/
 rsync.meowsmp.net/
 rsync.mirrors.niyawe.de/
