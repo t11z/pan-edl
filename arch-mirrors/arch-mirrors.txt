@@ -3,6 +3,7 @@ ams.nl.mirrors.bjg.at/
 arch-lux.spirex.me/
 arch-mirror.brightlight.today/
 arch-mirror.wtako.net/
+arch.alhp.dev/
 arch.goober.cloud/
 arch.hu.fo/
 arch.hugeblank.dev/
@@ -100,7 +101,6 @@ distro.ibiblio.org/
 distrohub.kyiv.ua/
 dornogal.falcao.org/
 download.nus.edu.sg/
-edgeuno-bog2.mm.fcix.net/
 elda.asgardius.company/
 elmirror.cl/
 es.mirrors.cicku.me/
@@ -245,17 +245,13 @@ mirror.dc.uz/
 mirror.del2.albony.in/
 mirror.digitalnova.at/
 mirror.distly.kr/
-mirror.ditatompel.com/
 mirror.diyarciftci.xyz/
-mirror.dkm.cz/
 mirror.dogado.de/
-mirror.easyname.at/
 mirror.efect.ro/
 mirror.es.cdn-perfprod.com/
 mirror.falcao.org/
 mirror.famaserver.com/
 mirror.fcix.net/
-mirror.fossable.org/
 mirror.fr.cdn-perfprod.com/
 mirror.fra10.de.leaseweb.net/
 mirror.franscorack.com/
@@ -288,7 +284,6 @@ mirror.its-tps.fr/
 mirror.its-tps.fr:10000/
 mirror.iusearchbtw.nl/
 mirror.jingk.ai/
-mirror.jonas-prz.be/
 mirror.juniorjpdj.pl/
 mirror.kalem.dev/
 mirror.kamtv.ru/
@@ -327,7 +322,6 @@ mirror.mobinhost.com/
 mirror.moson.org/
 mirror.mra.sh/
 mirror.mrleong.net/
-mirror.murmellow.lol/
 mirror.netcologne.de/
 mirror.netweaver.uk/
 mirror.neuf.no/
@@ -496,7 +490,6 @@ mirrors.xtom.ee/
 mirrors.xtom.nl/
 mirrors.zju.edu.cn/
 mk.mirrors.mk/
-mnvoip.mm.fcix.net/
 muug.ca/
 nl.arch.niranjan.co/
 nl.mirror.cx/
@@ -548,7 +541,6 @@ sg.arch.niranjan.co/
 sg.mirrors.cicku.me/
 singapore.mirror.pkgbuild.com/
 southfront.mm.fcix.net/
-stygian.failzero.net/
 syd.mirror.rackspace.com/
 sync.mirror.sunred.org/
 taipei.mirror.pkgbuild.com/
