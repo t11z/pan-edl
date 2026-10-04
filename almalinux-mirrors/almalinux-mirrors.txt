@@ -8,7 +8,6 @@ alma.acidman.thelefty.org/
 alma.as3741.net/
 alma.hostingdunyam.com.tr/
 alma.idhosting.pl/
-alma.mirror.nyuad.nyu.edu/
 alma.mirror.serversaustralia.com.au/
 almalinux-mirror.freehost.com.ua/
 almalinux-mirror.tpa.hivelocity.net/
@@ -85,6 +84,7 @@ cloudforest.co.th/
 cloudpropeller.com/
 cofractal-ewr.mm.fcix.net/
 cofractal-sea.mm.fcix.net/
+colocenter.nl/
 computing.ifca.es/
 cosi.clarkson.edu/
 csclub.uwaterloo.ca/
@@ -158,7 +158,6 @@ hnd.cl/
 hnl.fastly.repo.almalinux.org/
 home.cern/
 host4.biz/
-hostarts.dz/
 hostbaran.com/
 hoster.kz/
 hosterion.ro/
@@ -247,6 +246,7 @@ mirror.citrahost.com/
 mirror.clarkson.edu/
 mirror.cloudpropeller.com/
 mirror.cogentco.com/
+mirror.colocenter.nl/
 mirror.cov.ukservers.com/
 mirror.cpsc.ucalgary.ca/
 mirror.csclub.uwaterloo.ca/
@@ -274,7 +274,6 @@ mirror.flo.c-f.ro/
 mirror.fmt-2.serverforge.org/
 mirror.freedif.org/
 mirror.fysik.dtu.dk/
-mirror.gi.co.id/
 mirror.grid.uchicago.edu/
 mirror.group.one/
 mirror.hashy0917.net/
@@ -283,7 +282,6 @@ mirror.hnd.cl/
 mirror.hoasted.com/
 mirror.host.ag/
 mirror.host4biz.eu/
-mirror.hostarts.dz/
 mirror.hostbaran.com/
 mirror.hoster.kz/
 mirror.hosthink.net/
@@ -393,7 +391,6 @@ mirror.xcobean.co.ke/
 mirror.xenyth.net/
 mirror.xeonbd.com/
 mirror.yandex.ru/
-mirror.yer.az/
 mirror.yuki.net.uk/
 mirror.zyner.org/
 mirror1.sox.rs/
@@ -444,6 +441,7 @@ mirrors.tino.org/
 mirrors.ucr.ac.cr/
 mirrors.ukfast.co.uk/
 mirrors.upr.edu/
+mirrors.webhs.pt/
 mirrors.xtom.au/
 mirrors.xtom.com/
 mirrors.xtom.de/
@@ -472,7 +470,6 @@ nocix.mm.fcix.net/
 nodesdirect.com/
 nyc.almalinux.osuosl.org/
 nyc.mirrors.clouvider.net/
-nyuad.nyu.edu/
 ocf.berkeley.edu/
 ohioix.mm.fcix.net/
 oit.gatech.edu/
@@ -510,7 +507,6 @@ rpmfind.net/
 rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
 rsync.gtlib.gatech.edu/
-rsync.mirror.gi.co.id/
 rsync.mirrorservice.org/
 rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
@@ -611,7 +607,6 @@ www.fysik.dtu.dk/
 www.garr.it/
 www.gbnetwork.com/
 www.gethosted.online/
-www.gi.co.id/
 www.group.one/
 www.gtlib.gatech.edu/
 www.guzel.net.tr/
@@ -727,7 +722,6 @@ xcobean.co.ke/
 xenyth.net/
 xtom.com/
 yandex.ru/
-yer.az/
 yuki.net.uk/
 yxeix.mm.fcix.net/
 ziply.mm.fcix.net/
