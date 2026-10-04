@@ -251,7 +251,6 @@ mirror.kumi.systems/
 mirror.lc/
 mirror.liberty-connect.com/
 mirror.limda.net/
-mirror.linkdata.com/
 mirror.logol.ru/
 mirror.lostpacket.org/
 mirror.lstn.net/
@@ -468,7 +467,6 @@ mirrors.upr.edu/
 mirrors.us.kernel.org/
 mirrors.usinternet.com/
 mirrors.ustc.edu.cn/
-mirrors.vcea.wsu.edu/
 mirrors.webhs.pt/
 mirrors.xjtu.edu.cn/
 mirrors.xmission.com/
