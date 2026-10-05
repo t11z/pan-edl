@@ -40,13 +40,11 @@ ftp.uni-bayreuth.de/
 ftp.uni-erlangen.de/
 ftp.uni-kl.de/
 ftp.uninett.no/
-ftp.ussg.iu.edu/
 get.opensuse.org/
 github.com/
 global.bfsu.edu.cn/
 gocode.it/
 ihost.md/
-ip-connect.info/
 ipacct.com/
 it.iut.ac.ir/
 mirror-br.opensuse.org/
@@ -59,10 +57,8 @@ mirror.alwyzon.net/
 mirror.cedia.org.ec/
 mirror.clarkson.edu/
 mirror.csclub.uwaterloo.ca/
-mirror.datto.com/
 mirror.dc.uz/
 mirror.dogado.de/
-mirror.easyname.at/
 mirror.fcix.net/
 mirror.firstyear.id.au/
 mirror.freedif.org/
@@ -114,7 +110,6 @@ opensuse-mirror-gce-us.susecloud.net/
 opensuse.0x0.st/
 opensuse.c3sl.ufpr.br/
 opensuse.id/
-opensuse.ip-connect.info/
 opensuse.ipacct.com/
 opensuse.koyanet.lv/
 opensuse.mirror-services.net/
@@ -136,7 +131,6 @@ repo.ugm.ac.id/
 rpmfind.net/
 rsync.fedora.md/
 rsync.mirrors.163.com/
-rtinfo.indiana.edu/
 sci.nju.edu.cn/
 slc-mirror.opensuse.org/
 tech.africa/
@@ -155,7 +149,6 @@ www.cedia.org.ec/
 www.csc.fi/
 www.deac.eu/
 www.dogado.de/
-www.easyname.com/
 www.fder.edu.uy/
 www.fedora.md/
 www.free.fr/
