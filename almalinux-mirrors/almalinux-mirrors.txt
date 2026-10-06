@@ -27,7 +27,6 @@ almalinux.mirror.digitalpacific.com.au/
 almalinux.mirror.garr.it/
 almalinux.mirror.globo.tech/
 almalinux.mirror.katapult.io/
-almalinux.mirror.letscloud.io/
 almalinux.mirror.liquidtelecom.com/
 almalinux.mirror.liteserver.nl/
 almalinux.mirror.net.za/
@@ -91,7 +90,6 @@ csclub.uwaterloo.ca/
 cvo.almalinux.osuosl.org/
 dal.mirrors.clouvider.net/
 datamossa.com/
-datautama.net.id/
 de.mirrors.clouvider.net/
 den.aws.repo.almalinux.org/
 distrohub.kyiv.ua/
@@ -147,6 +145,7 @@ github.com/
 globo.tech/
 gofiber.vn/
 gozunga.com/
+gsl-syd.mm.fcix.net/
 hcc-mirror.unl.edu/
 hcc.unl.edu/
 heru.id/
@@ -156,7 +155,6 @@ hnd.cl/
 hnl.fastly.repo.almalinux.org/
 home.cern/
 host4.biz/
-hostarts.dz/
 hostbaran.com/
 hoster.kz/
 hosterion.ro/
@@ -170,6 +168,7 @@ ihost.md/
 incognet.io/
 insect.mm.fcix.net/
 interhost.co.il/
+internet.asn.au/
 ioflood.com/
 ip-connect.vn.ua/
 ipacct.com/
@@ -184,7 +183,6 @@ jagoanhosting.com/
 jetserver.co.il/
 jingk.ai/
 jurassicinnovations.com/
-kartolo.sby.datautama.net.id/
 katapult.io/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
@@ -200,6 +198,7 @@ linux.ncsu.edu/
 linuxpatch.com/
 linuxsoft.cern.ch/
 lon.mirror.rackspace.com/
+lug.hit.edu.cn/
 lyrahosting.com/
 mangohost.net/
 maniaclab.uchicago.edu/
@@ -255,6 +254,7 @@ mirror.dk.team.blue/
 mirror.dk.team.blue::almalinux/
 mirror.docker.ru/
 mirror.dogado.de/
+mirror.domainhizmetleri.com/
 mirror.ekiphost.com/
 mirror.elice.io/
 mirror.esecuredata.com/
@@ -277,7 +277,6 @@ mirror.hnd.cl/
 mirror.hoasted.com/
 mirror.host.ag/
 mirror.host4biz.eu/
-mirror.hostarts.dz/
 mirror.hostbaran.com/
 mirror.hoster.kz/
 mirror.hosthink.net/
@@ -288,6 +287,7 @@ mirror.ihost.md/
 mirror.in2p3.fr/
 mirror.init7.net/
 mirror.init7.net::almalinux/
+mirror.internet.asn.au/
 mirror.interserver.net/
 mirror.iphost.md/
 mirror.isoc.org.il/
@@ -405,6 +405,7 @@ mirrors.gbnetwork.com/
 mirrors.gethosted.online/
 mirrors.gigenet.com/
 mirrors.gofiber.vn/
+mirrors.hit.edu.cn/
 mirrors.hosterion.ro/
 mirrors.hostever.com/
 mirrors.hostico.ro/
@@ -585,6 +586,7 @@ www.daha.net/
 www.deac.eu/
 www.digitalpacific.com.au/
 www.dogado.de/
+www.domainhizmetleri.com/
 www.edgoo.io/
 www.elhacker.net/
 www.esecuredata.com/
@@ -627,7 +629,6 @@ www.kent.ac.uk/
 www.kku.ac.th/
 www.knownhost.com/
 www.lchs.com.au/
-www.letscloud.io/
 www.limda.net/
 www.linkedin.com/
 www.liquid.tech/

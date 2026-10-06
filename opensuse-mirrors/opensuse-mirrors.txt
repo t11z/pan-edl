@@ -48,7 +48,6 @@ gocode.it/
 ihost.md/
 ipacct.com/
 it.iut.ac.ir/
-mirror-br.opensuse.org/
 mirror-services.net/
 mirror.aardsoft.fi/
 mirror.aarnet.edu.au/
@@ -120,7 +119,6 @@ opensuse.mirror.garr.it/
 opensuse.mirror.iphh.net/
 opensuse.mirror.liquidtelecom.com/
 opensuse.mirror.liteserver.nl/
-opensuse.mirrors.proxad.net/
 opensuse.org/
 opensuse.schlundtech.de/
 opensuse.schlundtechn.de/
@@ -130,6 +128,7 @@ pkg.adfinis.com/
 randhost.com/
 repo.fedora.md/
 repo.iut.ac.ir/
+repo.ugm.ac.id/
 rpmfind.net/
 rsync.fedora.md/
 rsync.mirrors.163.com/
@@ -141,7 +140,6 @@ tele-media.net/
 tspu.edu.ru/
 tuna.moe/
 tux.rainside.sk/
-tynahost.com/
 uepg.br/
 www.163.com/
 www.acc.umu.se/
@@ -155,7 +153,6 @@ www.dogado.de/
 www.easyname.com/
 www.fder.edu.uy/
 www.fedora.md/
-www.free.fr/
 www.garr.it/
 www.gatech.edu/
 www.gtlib.gatech.edu/
