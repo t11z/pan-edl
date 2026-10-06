@@ -26,7 +26,6 @@ ftp.fedora.md/
 ftp.funet.fi/
 ftp.gwdg.de/
 ftp.halifax.rwth-aachen.de/
-ftp.icm.edu.pl/
 ftp.jaist.ac.jp/
 ftp.linux.cz/
 ftp.linux.org.tr/
@@ -48,7 +47,7 @@ gocode.it/
 ihost.md/
 ipacct.com/
 it.iut.ac.ir/
-mirror-services.net/
+mirror-br.opensuse.org/
 mirror.aardsoft.fi/
 mirror.aarnet.edu.au/
 mirror.accum.se/
@@ -114,7 +113,6 @@ opensuse.c3sl.ufpr.br/
 opensuse.id/
 opensuse.ipacct.com/
 opensuse.koyanet.lv/
-opensuse.mirror-services.net/
 opensuse.mirror.garr.it/
 opensuse.mirror.iphh.net/
 opensuse.mirror.liquidtelecom.com/
@@ -128,7 +126,6 @@ pkg.adfinis.com/
 randhost.com/
 repo.fedora.md/
 repo.iut.ac.ir/
-repo.ugm.ac.id/
 rpmfind.net/
 rsync.fedora.md/
 rsync.mirrors.163.com/
@@ -140,6 +137,7 @@ tele-media.net/
 tspu.edu.ru/
 tuna.moe/
 tux.rainside.sk/
+tynahost.com/
 uepg.br/
 www.163.com/
 www.acc.umu.se/

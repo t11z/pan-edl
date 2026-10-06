@@ -151,7 +151,6 @@ mirror.ca-tr.kamatera.com/
 mirror.cc.vt.edu/
 mirror.cedia.org.ec/
 mirror.citrahost.com/
-mirror.clarkson.edu/
 mirror.clearsky.vn/
 mirror.clientvps.com/
 mirror.cloudhosting.lv/
@@ -248,6 +247,7 @@ mirror.kapteyan.com.tr/
 mirror.kkg.berlin/
 mirror.kku.ac.th/
 mirror.krfoss.org/
+mirror.kst.asia/
 mirror.kumi.systems/
 mirror.lc/
 mirror.liberty-connect.com/
@@ -278,7 +278,6 @@ mirror.nevacloud.com/
 mirror.nforce.com/
 mirror.niif.hu/
 mirror.nishi.network/
-mirror.nitc.ac.in/
 mirror.nju.edu.cn/
 mirror.nl.altushost.com/
 mirror.nl.as215296.net/
