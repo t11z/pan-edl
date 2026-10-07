@@ -26,7 +26,6 @@ ftp.fedora.md/
 ftp.funet.fi/
 ftp.gwdg.de/
 ftp.halifax.rwth-aachen.de/
-ftp.icm.edu.pl/
 ftp.jaist.ac.jp/
 ftp.linux.cz/
 ftp.linux.org.tr/
@@ -129,6 +128,7 @@ pkg.adfinis.com/
 randhost.com/
 repo.fedora.md/
 repo.iut.ac.ir/
+repo.ugm.ac.id/
 rpmfind.net/
 rsync.fedora.md/
 rsync.mirrors.163.com/
