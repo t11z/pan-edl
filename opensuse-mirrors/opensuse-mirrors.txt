@@ -3,7 +3,6 @@ aardsoft.fi/
 acm.wpi.edu/
 adfinis.com/
 africloud.com/
-buaya.klas.or.id/
 cdn.opensuse.org/
 cloud.mu/
 codingflyboy.mm.fcix.net/
@@ -39,6 +38,7 @@ ftp.uni-bayreuth.de/
 ftp.uni-erlangen.de/
 ftp.uni-kl.de/
 ftp.uninett.no/
+ftp.ussg.iu.edu/
 get.opensuse.org/
 github.com/
 global.bfsu.edu.cn/
@@ -60,6 +60,7 @@ mirror.csclub.uwaterloo.ca/
 mirror.datto.com/
 mirror.dc.uz/
 mirror.dogado.de/
+mirror.easyname.at/
 mirror.fcix.net/
 mirror.firstyear.id.au/
 mirror.freedif.org/
@@ -69,7 +70,6 @@ mirror.ihost.md/
 mirror.kakao.com/
 mirror.karneval.cz/
 mirror.liteserver.nl/
-mirror.mai.co.ua/
 mirror.math.princeton.edu/
 mirror.nl.leaseweb.net/
 mirror.nyist.edu.cn/
@@ -110,6 +110,7 @@ opensuse-mirror-gce-eu.opensu.se/
 opensuse-mirror-gce-us.susecloud.net/
 opensuse.0x0.st/
 opensuse.c3sl.ufpr.br/
+opensuse.ic.ufmt.br/
 opensuse.id/
 opensuse.ip-connect.info/
 opensuse.ipacct.com/
@@ -118,6 +119,7 @@ opensuse.mirror.garr.it/
 opensuse.mirror.iphh.net/
 opensuse.mirror.liquidtelecom.com/
 opensuse.mirror.liteserver.nl/
+opensuse.mirrors.proxad.net/
 opensuse.org/
 opensuse.schlundtech.de/
 opensuse.schlundtechn.de/
@@ -131,6 +133,7 @@ repo.ugm.ac.id/
 rpmfind.net/
 rsync.fedora.md/
 rsync.mirrors.163.com/
+rtinfo.indiana.edu/
 sci.nju.edu.cn/
 slc-mirror.opensuse.org/
 tech.africa/
@@ -149,8 +152,10 @@ www.cedia.org.ec/
 www.csc.fi/
 www.deac.eu/
 www.dogado.de/
+www.easyname.com/
 www.fder.edu.uy/
 www.fedora.md/
+www.free.fr/
 www.garr.it/
 www.gatech.edu/
 www.gtlib.gatech.edu/
