@@ -26,6 +26,7 @@ ftp.fedora.md/
 ftp.funet.fi/
 ftp.gwdg.de/
 ftp.halifax.rwth-aachen.de/
+ftp.icm.edu.pl/
 ftp.jaist.ac.jp/
 ftp.linux.cz/
 ftp.linux.org.tr/
@@ -48,6 +49,7 @@ ihost.md/
 ip-connect.info/
 ipacct.com/
 it.iut.ac.ir/
+linorg.usp.br/
 mirror-br.opensuse.org/
 mirror.aardsoft.fi/
 mirror.aarnet.edu.au/
@@ -70,6 +72,7 @@ mirror.ihost.md/
 mirror.kakao.com/
 mirror.karneval.cz/
 mirror.liteserver.nl/
+mirror.mai.co.ua/
 mirror.math.princeton.edu/
 mirror.nl.leaseweb.net/
 mirror.nyist.edu.cn/
