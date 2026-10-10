@@ -50,7 +50,6 @@ in.mirrors.cicku.me/
 insecure.nluug.nl/
 it.vcea.wsu.edu/
 it2.mirror.vhosting-it.com/
-krfoss.org/
 lug.ustc.edu.cn/
 maeen.sa/
 marwan.ma/
@@ -113,7 +112,6 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.zyner.org/
 mirror1.isoc.org.il/
-mirror5.krfoss.org/
 mirrors.esto.network/
 mirrors.gigenet.com/
 mirrors.hostiserver.com/
@@ -191,7 +189,6 @@ rockylinux.org/
 rockylinux.uni-sofia.bg/
 rsync.mirrors.ustc.edu.cn/
 rsync.mirrorservice.org/
-rsync5.krfoss.org/
 ru.dyi.ng/
 ru.mirrors.cicku.me/
 sa.dyi.ng/
