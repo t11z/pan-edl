@@ -158,6 +158,7 @@ hnd.cl/
 hnl.fastly.repo.almalinux.org/
 home.cern/
 host4.biz/
+hostarts.dz/
 hostbaran.com/
 hoster.kz/
 hosterion.ro/
@@ -182,7 +183,6 @@ ir.almalinux.sindad.cloud/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
-itc.zju.edu.cn/
 ixirhost.com/
 jagoanhosting.com/
 jetserver.co.il/
@@ -211,6 +211,7 @@ maniaclab.uchicago.edu/
 manutech.at/
 marwan.ma/
 mirhosting.com/
+mirror-it-01.monovm.com/
 mirror.01link.hk/
 mirror.0x626b.com/
 mirror.23m.com/
@@ -223,6 +224,7 @@ mirror.airnet.uz/
 mirror.alastyr.com/
 mirror.alma.iad1.serverforge.org/
 mirror.alma.lax1.serverforge.org/
+mirror.almalinux.peralex.com/
 mirror.almalinux.si/
 mirror.alwyzon.net/
 mirror.anquan.cl/
@@ -276,10 +278,12 @@ mirror.gozunga.com/
 mirror.grid.uchicago.edu/
 mirror.group.one/
 mirror.hashy0917.net/
+mirror.hep.gg/
 mirror.hnd.cl/
 mirror.hoasted.com/
 mirror.host.ag/
 mirror.host4biz.eu/
+mirror.hostarts.dz/
 mirror.hostbaran.com/
 mirror.hoster.kz/
 mirror.hosthink.net/
@@ -332,6 +336,7 @@ mirror.nodespace.com/
 mirror.nyist.edu.cn/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
+mirror.papua.go.id/
 mirror.parsdev.com/
 mirror.phoenix.ioflood.com/
 mirror.pit.teraswitch.com/
@@ -447,9 +452,9 @@ mirrors.xtom.de/
 mirrors.xtom.ee/
 mirrors.xtom.jp/
 mirrors.xtom.nl/
-mirrors.zju.edu.cn/
 mnl.aws.repo.almalinux.org/
 mobinhost.com/
+monovm.com/
 mr.heru.id/
 msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
@@ -508,6 +513,7 @@ rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
 rsync.gtlib.gatech.edu/
 rsync.mirror.gi.co.id/
+rsync.mirror.papua.go.id/
 rsync.mirrorservice.org/
 rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
@@ -532,6 +538,7 @@ syd.mirror.rackspace.com/
 tc.edu.tw/
 team-cymru.com/
 team.blue/
+teamhydra.dev/
 tech.africa/
 telepoint.bg/
 teraswitch.com/
@@ -660,6 +667,8 @@ www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
 www.ox.ac.uk/
+www.papua.go.id/
+www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
 www.previder.com/
