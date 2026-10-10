@@ -72,6 +72,7 @@ mirror.kakao.com/
 mirror.karneval.cz/
 mirror.leitecastro.com/
 mirror.liteserver.nl/
+mirror.mai.co.ua/
 mirror.math.princeton.edu/
 mirror.nl.leaseweb.net/
 mirror.nyist.edu.cn/
@@ -131,6 +132,7 @@ pkg.adfinis.com/
 randhost.com/
 repo.fedora.md/
 repo.iut.ac.ir/
+repo.ugm.ac.id/
 rpmfind.net/
 rsync.fedora.md/
 rsync.mirrors.163.com/

@@ -333,6 +333,5 @@ ro.mirror.flokinet.net/
 security.debian.org/
 softlibre.unizar.es/
 tw1.mirror.blendbyte.net/
-ukdebian.mirror.anlx.net/
 werog.interkoneksimedia.co.id/
 www.nic.funet.fi/
