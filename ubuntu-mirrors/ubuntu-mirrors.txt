@@ -581,6 +581,7 @@ ubuntu.mirrors.ovh.net/
 ubuntu.mirrors.pair.com/
 ubuntu.mobinhost.com/
 ubuntu.mti.mt.gov.br/
+ubuntu.netforce.hosting/
 ubuntu.osuosl.org/
 ubuntu.otenet.gr/
 ubuntu.pars.host/
