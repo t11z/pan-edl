@@ -128,7 +128,6 @@ opensuse.mirrors.proxad.net/
 opensuse.org/
 opensuse.schlundtech.de/
 opensuse.schlundtechn.de/
-opensuse.ucom.am/
 pkg.adfinis-on-exoscale.ch/
 pkg.adfinis.com/
 randhost.com/
@@ -188,7 +187,6 @@ www.siena.edu/
 www.siliconhill.cz/
 www.suse.com/
 www.tu-chemnitz.de/
-www.ucom.am/
 www.ucr.ac.cr/
 www.ufscar.br/
 www.umd.edu/

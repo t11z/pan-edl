@@ -126,6 +126,7 @@ ftp.maru.co.jp/
 ftp.nc.debian.org/
 ftp.nl.debian.org/
 ftp.no.debian.org/
+ftp.nz.debian.org/
 ftp.pl.debian.org/
 ftp.psn.ru/
 ftp.psnc.pl/
@@ -171,6 +172,7 @@ mirror.23m.com/
 mirror.5i.fi/
 mirror.aarnet.edu.au/
 mirror.abaclouda.net/
+mirror.alastyr.com/
 mirror.alwyzon.net/
 mirror.amaze.com.au/
 mirror.applebred.net/
@@ -197,6 +199,7 @@ mirror.dst.ca/
 mirror.estone.ca/
 mirror.eu.oneandone.net/
 mirror.flo.c-f.ro/
+mirror.fsmg.org.nz/
 mirror.gitoyen.net/
 mirror.gsl.icu/
 mirror.hnd.cl/
@@ -228,6 +231,7 @@ mirror.mirohost.net/
 mirror.mk.de/
 mirror.mythic-beasts.com/
 mirror.neftm.ru/
+mirror.netlen.com.tr/
 mirror.netzwerge.de/
 mirror.nforce.com/
 mirror.nju.edu.cn/
@@ -239,6 +243,7 @@ mirror.ourhost.az/
 mirror.overthewire.com.au/
 mirror.ox.ac.uk/
 mirror.pangkin.com/
+mirror.pixelhosting.nl/
 mirror.plusline.net/
 mirror.positive-internet.com/
 mirror.ps.kz/
@@ -259,6 +264,7 @@ mirror.truenetwork.ru/
 mirror.twds.com.tw/
 mirror.uepg.br/
 mirror.ufscar.br/
+mirror.uk.hyehost.net/
 mirror.unair.ac.id/
 mirror.undernet.uy/
 mirror.united-gameserver.de/
@@ -326,5 +332,4 @@ ro.mirror.flokinet.net/
 security.debian.org/
 softlibre.unizar.es/
 tw1.mirror.blendbyte.net/
-werog.interkoneksimedia.co.id/
 www.nic.funet.fi/

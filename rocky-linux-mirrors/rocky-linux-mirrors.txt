@@ -13,7 +13,6 @@ ca.mirrors.cicku.me/
 cc.in2p3.fr/
 cicku.me/
 ciq.co/
-cloudforest.co.th/
 co.ge/
 cs.vt.edu/
 dc.uz/
@@ -51,6 +50,7 @@ in.mirrors.cicku.me/
 insecure.nluug.nl/
 it.vcea.wsu.edu/
 it2.mirror.vhosting-it.com/
+krfoss.org/
 lug.ustc.edu.cn/
 maeen.sa/
 marwan.ma/
@@ -75,6 +75,7 @@ mirror.hostarts.dz/
 mirror.hosthink.net/
 mirror.in2p3.fr/
 mirror.karneval.cz/
+mirror.krfoss.org/
 mirror.linux.ncsu.edu/
 mirror.maeen.sa/
 mirror.marwan.ma/
@@ -112,7 +113,7 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.zyner.org/
 mirror1.isoc.org.il/
-mirrors.cloudforest.co.th/
+mirror5.krfoss.org/
 mirrors.esto.network/
 mirrors.gigenet.com/
 mirrors.hostiserver.com/
@@ -183,14 +184,15 @@ rocky.mirror.shastacoe.net/
 rocky.mirror.thegigabit.com/
 rocky.reloumirrors.net/
 rocky.task.gda.pl/
-rocky.zero.com.ar/
 rockylinux.anexia.at/
 rockylinux.hi.no/
 rockylinux.mirrorservice.org/
 rockylinux.org/
 rockylinux.uni-sofia.bg/
+rsync.krfoss.org/
 rsync.mirrors.ustc.edu.cn/
 rsync.mirrorservice.org/
+rsync5.krfoss.org/
 ru.dyi.ng/
 ru.mirrors.cicku.me/
 sa.dyi.ng/
@@ -265,6 +267,5 @@ www.vodafone.cz/
 www.wonchan.net/
 www.yamagata-u.ac.jp/
 www.yandex.com/
-www.zero.com.ar/
 yer.az/
 zyner.org/
