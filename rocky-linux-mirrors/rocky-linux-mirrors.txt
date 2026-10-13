@@ -13,6 +13,7 @@ ca.mirrors.cicku.me/
 cc.in2p3.fr/
 cicku.me/
 ciq.co/
+cloudforest.co.th/
 co.ge/
 cs.vt.edu/
 dc.uz/
@@ -111,6 +112,7 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.zyner.org/
 mirror1.isoc.org.il/
+mirrors.cloudforest.co.th/
 mirrors.esto.network/
 mirrors.gigenet.com/
 mirrors.hostiserver.com/

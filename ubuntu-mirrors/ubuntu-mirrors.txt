@@ -523,6 +523,7 @@ tux.rainside.sk/
 tw1.mirror.blendbyte.net/
 ubuntu-archive.interhost.co.il/
 ubuntu-archive.locaweb.com.br/
+ubuntu-archive.mirror.liquidtelecom.com/
 ubuntu-archive.mirror.serveriai.lt/
 ubuntu-mirror.ati.tn/
 ubuntu-mirror.bhtelecom.ba/
@@ -551,6 +552,7 @@ ubuntu.lagis.at/
 ubuntu.lagoon.nc/
 ubuntu.letscloud.io/
 ubuntu.linux-bg.org/
+ubuntu.linux.n0c.ca/
 ubuntu.man.lodz.pl/
 ubuntu.mirror.ac.ke/
 ubuntu.mirror.constant.com/
