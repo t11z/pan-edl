@@ -168,6 +168,7 @@ linuxsoft.cern.ch/
 merlin.fit.vutbr.cz/
 miroir.univ-lorraine.fr/
 mirror.0x626b.com/
+mirror.141networks.com/
 mirror.23m.com/
 mirror.5i.fi/
 mirror.aarnet.edu.au/
@@ -205,6 +206,7 @@ mirror.gsl.icu/
 mirror.hnd.cl/
 mirror.hoster.kz/
 mirror.ibcp.fr/
+mirror.ihost.md/
 mirror.informatik.tu-freiberg.de/
 mirror.init7.net/
 mirror.insacom.cl/
@@ -247,8 +249,10 @@ mirror.pixelhosting.nl/
 mirror.plusline.net/
 mirror.positive-internet.com/
 mirror.ps.kz/
+mirror.radishnetworks.net/
 mirror.raiolanetworks.com/
 mirror.realcompute.io/
+mirror.retropc.se/
 mirror.rustytel.net/
 mirror.sabay.com.kh/
 mirror.sg.gs/
