@@ -40,6 +40,7 @@ debian.mirror.garr.it/
 debian.mirror.globo.tech/
 debian.mirror.iphh.net/
 debian.mirror.lrz.de/
+debian.mirror.net.in/
 debian.mirror.rafal.ca/
 debian.mirror.serversaustralia.com.au/
 debian.mirror.su.se/
