@@ -248,6 +248,7 @@ mirror.ourhost.az/
 mirror.overthewire.com.au/
 mirror.ox.ac.uk/
 mirror.pangkin.com/
+mirror.phoenix.ioflood.com/
 mirror.pixelhosting.nl/
 mirror.plusline.net/
 mirror.positive-internet.com/
@@ -291,6 +292,7 @@ mirror1.infomaniak.com/
 mirror2.infomaniak.com/
 mirrors.163.com/
 mirrors.accretive-networks.net/
+mirrors.bangmod.cloud/
 mirrors.bfsu.edu.cn/
 mirrors.bloomu.edu/
 mirrors.cloudforest.co.th/
