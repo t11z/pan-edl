@@ -40,6 +40,7 @@ ftp.uni-bayreuth.de/
 ftp.uni-erlangen.de/
 ftp.uni-kl.de/
 ftp.uninett.no/
+ftp.ussg.iu.edu/
 get.opensuse.org/
 github.com/
 global.bfsu.edu.cn/
@@ -47,6 +48,7 @@ gocode.it/
 ihost.md/
 ip-connect.info/
 ipacct.com/
+it.iut.ac.ir/
 leitecastro.com/
 linorg.usp.br/
 mirror-br.opensuse.org/
@@ -62,7 +64,6 @@ mirror.datto.com/
 mirror.dc.uz/
 mirror.dogado.de/
 mirror.easyname.at/
-mirror.fcix.net/
 mirror.firstyear.id.au/
 mirror.freedif.org/
 mirror.hashy0917.net/
@@ -121,6 +122,7 @@ opensuse.mirror.garr.it/
 opensuse.mirror.iphh.net/
 opensuse.mirror.liquidtelecom.com/
 opensuse.mirror.liteserver.nl/
+opensuse.mirrors.proxad.net/
 opensuse.org/
 opensuse.schlundtech.de/
 opensuse.schlundtechn.de/
@@ -128,10 +130,12 @@ pkg.adfinis-on-exoscale.ch/
 pkg.adfinis.com/
 randhost.com/
 repo.fedora.md/
+repo.iut.ac.ir/
 repo.ugm.ac.id/
 rpmfind.net/
 rsync.fedora.md/
 rsync.mirrors.163.com/
+rtinfo.indiana.edu/
 sci.nju.edu.cn/
 slc-mirror.opensuse.org/
 tech.africa/
@@ -153,6 +157,7 @@ www.dogado.de/
 www.easyname.com/
 www.fder.edu.uy/
 www.fedora.md/
+www.free.fr/
 www.garr.it/
 www.gatech.edu/
 www.gtlib.gatech.edu/

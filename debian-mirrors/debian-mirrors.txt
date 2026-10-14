@@ -176,6 +176,7 @@ mirror.abaclouda.net/
 mirror.alastyr.com/
 mirror.alwyzon.net/
 mirror.amaze.com.au/
+mirror.apio-sys.fr/
 mirror.applebred.net/
 mirror.as35701.net/
 mirror.bgp.rodeo/
