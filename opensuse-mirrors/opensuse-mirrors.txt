@@ -10,6 +10,7 @@ codingflyboy.mm.fcix.net/
 dc.uz/
 dispenser.yandex.net/
 distro.ibiblio.org/
+distrohub.kyiv.ua/
 dotsrc.org/
 download.opensuse.id/
 download.opensuse.org/
@@ -91,6 +92,7 @@ mirror.uepg.br/
 mirror.ufscar.br/
 mirror.umd.edu/
 mirror.verinomi.com/
+mirror.vtti.vt.edu/
 mirror.xenyth.net/
 mirror.yandex.ru/
 mirror1.hs-esslingen.de/
@@ -195,4 +197,5 @@ www.uninett.no/
 www.ustc.edu.cn/
 www.verinomi.com/
 www.vodafone.cz/
+www.vtti.vt.edu/
 www.zju.edu.cn/
