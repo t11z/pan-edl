@@ -115,9 +115,12 @@ ftp.halifax.rwth-aachen.de/
 ftp.hk.debian.org/
 ftp.hosteurope.de/
 ftp.hr.debian.org/
+ftp.icm.edu.pl/
 ftp.is.debian.org/
 ftp.it.debian.org/
 ftp.jaist.ac.jp/
+ftp.kaist.ac.kr/
+ftp.kr.debian.org/
 ftp.lanet.kr/
 ftp.linux.edu.lv/
 ftp.linux.it/
@@ -163,7 +166,6 @@ ftpmirror1.infania.net/
 giano.com.dist.unige.it/
 is.mirror.flokinet.net/
 kartolo.sby.datautama.net.id/
-kebo.pens.ac.id/
 lethe.chinstrap.org/
 lidsol.fi-b.unam.mx/
 linuxsoft.cern.ch/
