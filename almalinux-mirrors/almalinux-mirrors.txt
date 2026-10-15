@@ -28,6 +28,7 @@ almalinux.mirror.digitalpacific.com.au/
 almalinux.mirror.garr.it/
 almalinux.mirror.globo.tech/
 almalinux.mirror.katapult.io/
+almalinux.mirror.letscloud.io/
 almalinux.mirror.liquidtelecom.com/
 almalinux.mirror.liteserver.nl/
 almalinux.mirror.net.za/
@@ -96,8 +97,10 @@ distrohub.kyiv.ua/
 diyarciftci.xyz/
 docker.ru/
 doit.missouri.edu/
+domainesia.com/
 dotsrc.org/
 dsu.edu/
+ekiphost.com/
 elice.io/
 elmirror.cl/
 eng.mephi.ru/
@@ -146,7 +149,6 @@ github.com/
 globo.tech/
 gofiber.vn/
 gozunga.com/
-gsl-syd.mm.fcix.net/
 hcc-mirror.unl.edu/
 hcc.unl.edu/
 heru.id/
@@ -196,6 +198,7 @@ leitecastro.com/
 lidsol.fi-b.unam.mx/
 lidsol.unam.mx/
 linux-mirrors.fnal.gov/
+linux.domainesia.com/
 linux.duke.edu/
 linux.ncsu.edu/
 linuxpatch.com/
@@ -209,6 +212,7 @@ manutech.at/
 marwan.ma/
 mirhosting.com/
 mirror-it-01.monovm.com/
+mirror.01link.hk/
 mirror.0x626b.com/
 mirror.23m.com/
 mirror.2degrees.nz/
@@ -243,6 +247,7 @@ mirror.cloudpropeller.com/
 mirror.cogentco.com/
 mirror.colocenter.nl/
 mirror.cov.ukservers.com/
+mirror.cpsc.ucalgary.ca/
 mirror.csclub.uwaterloo.ca/
 mirror.daha.net/
 mirror.dal.nexril.net/
@@ -256,6 +261,7 @@ mirror.dk.team.blue::almalinux/
 mirror.docker.ru/
 mirror.dogado.de/
 mirror.domainhizmetleri.com/
+mirror.ekiphost.com/
 mirror.elice.io/
 mirror.esecuredata.com/
 mirror.eu.4psacloud.com/
@@ -328,7 +334,6 @@ mirror.nodesdirect.com/
 mirror.nodespace.com/
 mirror.nyist.edu.cn/
 mirror.ourhost.az/
-mirror.ox.ac.uk/
 mirror.parsdev.com/
 mirror.phoenix.ioflood.com/
 mirror.pit.teraswitch.com/
@@ -348,7 +353,6 @@ mirror.sabay.com.kh/
 mirror.se.altushost.com/
 mirror.servaxnet.com/
 mirror.server.net/
-mirror.serverfreak.com/
 mirror.sfo12.us.leaseweb.net/
 mirror.sg.gs/
 mirror.siena.edu/
@@ -425,6 +429,7 @@ mirrors.ocf.berkeley.edu/
 mirrors.onenet.net/
 mirrors.pt/
 mirrors.ptisp.pt/
+mirrors.rda.poa.br/
 mirrors.rit.edu/
 mirrors.ruk-com.cloud/
 mirrors.sonic.net/
@@ -434,7 +439,6 @@ mirrors.tencent.com/
 mirrors.tino.org/
 mirrors.ucr.ac.cr/
 mirrors.ukfast.co.uk/
-mirrors.uni-ruse.bg/
 mirrors.upr.edu/
 mirrors.webhs.pt/
 mirrors.xtom.au/
@@ -487,6 +491,7 @@ qro.aws.repo.almalinux.org/
 rackspeed.de/
 raiolanetworks.com/
 randhost.com/
+rda.run/
 reenigne.net/
 renu.ac.ug/
 repo.almalinux.org/
@@ -534,8 +539,8 @@ terrahost.no/
 thegigabit.com/
 tino.org/
 truenetwork.ru/
-tx-mirror.tier.net/
 tzulo.com/
+ucalgary.ca/
 uepg.br/
 uk.mirrors.clouvider.net/
 unifique.com.br/
@@ -547,6 +552,7 @@ volico.mm.fcix.net/
 vpsttt.com/
 wiki.almalinux.org/
 wiki.lug.ro/
+www.01link.net/
 www.2degrees.nz/
 www.4psa.com/
 www.Linux.ec/
@@ -627,6 +633,7 @@ www.kent.ac.uk/
 www.kku.ac.th/
 www.knownhost.com/
 www.lchs.com.au/
+www.letscloud.io/
 www.limda.net/
 www.linkedin.com/
 www.liquid.tech/
@@ -651,7 +658,6 @@ www.nxthost.com/
 www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
-www.ox.ac.uk/
 www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
@@ -680,7 +686,6 @@ www.swinburne.edu.au/
 www.telecomarmenia.am/
 www.tencent.com/
 www.thelefty.org/
-www.tier.net/
 www.tku.edu.tw/
 www.transip.nl/
 www.trex.fi/
@@ -692,7 +697,6 @@ www.uib.no/
 www.ukraine.com.ua/
 www.ukservers.com/
 www.uni-bayreuth.de/
-www.uni-ruse.bg/
 www.upr.edu/
 www.vereinigte-stadtwerke.de/
 www.verinomi.com/
@@ -703,7 +707,6 @@ www.vodafone.cz/
 www.vtti.vt.edu/
 www.wd6.net/
 www.wearetriple.com/
-www.web-hosting.net.my/
 www.webworld.ie/
 www.wiseglobalsolutions.com/
 www.xeonbd.com/

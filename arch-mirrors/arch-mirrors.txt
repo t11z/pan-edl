@@ -24,6 +24,7 @@ arch.mirrors.lavatech.top/
 arch.mithril.re/
 arch.owochle.app/
 arch.phinau.de/
+arch.s-levi.com/
 arch.sakamoto.pl/
 arch.softver.org.mk/
 arch.syxpi.fr/
@@ -76,7 +77,6 @@ arlm.tyzoid.com/
 artfiles.org/
 at-vie.soulharsh007.dev/
 at.arch.mirror.kescher.at/
-at.arch.niranjan.co/
 at.mirrors.cicku.me/
 au.arch.niranjan.co/
 au.mirrors.cicku.me/
@@ -100,7 +100,6 @@ dist-mirror.fem.tu-ilmenau.de/
 distro.ibiblio.org/
 distrohub.kyiv.ua/
 dornogal.falcao.org/
-elda.asgardius.company/
 elmirror.cl/
 es.mirrors.cicku.me/
 f.matthieul.dev/
@@ -384,6 +383,7 @@ mirror.ufscar.br/
 mirror.umd.edu/
 mirror.ungleich.ch/
 mirror.us.cdn-perfprod.com/
+mirror.verinomi.com/
 mirror.vpsfree.cz/
 mirror.vtti.vt.edu/
 mirror.wane.kr/
@@ -470,7 +470,6 @@ mirrors.tuna.tsinghua.edu.cn/
 mirrors.udenar.edu.co/
 mirrors.ukfast.co.uk/
 mirrors.uni-plovdiv.net/
-mirrors.up.pt/
 mirrors.ustc.edu.cn/
 mirrors.vectair.net/
 mirrors.vpspulse.com/
@@ -545,7 +544,6 @@ uk.arch.niranjan.co/
 umea.mirror.pkgbuild.com/
 upstream-1.pablonara.com/
 us-mnz.soulharsh007.dev/
-us.arch.niranjan.co/
 us.mirrors.cicku.me/
 us.mirrors.mk/
 vlst.su/
