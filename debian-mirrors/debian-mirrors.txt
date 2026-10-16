@@ -238,7 +238,6 @@ mirror.mk.de/
 mirror.mythic-beasts.com/
 mirror.neftm.ru/
 mirror.netlen.com.tr/
-mirror.netzwerge.de/
 mirror.nforce.com/
 mirror.nju.edu.cn/
 mirror.nl.cdn-perfprod.com/
