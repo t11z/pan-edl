@@ -94,7 +94,6 @@ mirror.vtti.vt.edu/
 mirror.xenyth.net/
 mirror.yandex.ru/
 mirror1.hs-esslingen.de/
-mirrors.163.com/
 mirrors.acm.wpi.edu/
 mirrors.bfsu.edu.cn/
 mirrors.dotsrc.org/
@@ -122,6 +121,7 @@ opensuse.mirror.garr.it/
 opensuse.mirror.iphh.net/
 opensuse.mirror.liquidtelecom.com/
 opensuse.mirror.liteserver.nl/
+opensuse.mirrors.proxad.net/
 opensuse.org/
 opensuse.schlundtech.de/
 opensuse.schlundtechn.de/
@@ -133,7 +133,6 @@ repo.iut.ac.ir/
 repo.ugm.ac.id/
 rpmfind.net/
 rsync.fedora.md/
-rsync.mirrors.163.com/
 rtinfo.indiana.edu/
 sci.nju.edu.cn/
 slc-mirror.opensuse.org/
@@ -144,7 +143,6 @@ tuna.moe/
 tux.rainside.sk/
 tynahost.com/
 uepg.br/
-www.163.com/
 www.acc.umu.se/
 www.accum.se/
 www.alwyzon.com/
@@ -156,6 +154,7 @@ www.dogado.de/
 www.easyname.com/
 www.fder.edu.uy/
 www.fedora.md/
+www.free.fr/
 www.garr.it/
 www.gatech.edu/
 www.gtlib.gatech.edu/
