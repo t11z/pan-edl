@@ -95,6 +95,7 @@ de.mirrors.clouvider.net/
 den.aws.repo.almalinux.org/
 distrohub.kyiv.ua/
 diyarciftci.xyz/
+docker.ru/
 doit.missouri.edu/
 domainesia.com/
 dotsrc.org/
@@ -132,9 +133,9 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
+ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
-ftp.tc.edu.tw/
 ftp.tku.edu.tw/
 ftp.ucsb.edu/
 ftp.udx.icscoe.jp/
@@ -258,7 +259,9 @@ mirror.digitalpacific.com.au/
 mirror.diyarciftci.xyz/
 mirror.dk.team.blue/
 mirror.dk.team.blue::almalinux/
+mirror.docker.ru/
 mirror.dogado.de/
+mirror.domainhizmetleri.com/
 mirror.ekiphost.com/
 mirror.elice.io/
 mirror.esecuredata.com/
@@ -387,10 +390,10 @@ mirror.wdc2.us.leaseweb.net/
 mirror.webworld.ie/
 mirror.wiseglobalsolutions.com/
 mirror.wonchan.net/
+mirror.xcobean.co.ke/
 mirror.xenyth.net/
 mirror.xeonbd.com/
 mirror.yandex.ru/
-mirror.yer.az/
 mirror.yuki.net.uk/
 mirror.zyner.org/
 mirror1.sox.rs/
@@ -534,7 +537,6 @@ soonkeat.sg/
 southfront.mm.fcix.net/
 storpool.com/
 syd.mirror.rackspace.com/
-tc.edu.tw/
 team-cymru.com/
 team.blue/
 teamhydra.dev/
@@ -598,6 +600,7 @@ www.daha.net/
 www.deac.eu/
 www.digitalpacific.com.au/
 www.dogado.de/
+www.domainhizmetleri.com/
 www.edgoo.io/
 www.elhacker.net/
 www.esecuredata.com/
@@ -676,6 +679,7 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
+www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
@@ -722,10 +726,10 @@ www.xeonbd.com/
 www.yamagata-u.ac.jp/
 www.yuccatelecom.com/
 wwww.wonchan.net/
+xcobean.co.ke/
 xenyth.net/
 xtom.com/
 yandex.ru/
-yer.az/
 yuki.net.uk/
 yxeix.mm.fcix.net/
 zappiehost.com/
