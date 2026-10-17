@@ -136,6 +136,7 @@ ftp.riken.jp/
 ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
+ftp.tc.edu.tw/
 ftp.tku.edu.tw/
 ftp.ucsb.edu/
 ftp.udx.icscoe.jp/
@@ -248,7 +249,6 @@ mirror.cloudpropeller.com/
 mirror.cogentco.com/
 mirror.colocenter.nl/
 mirror.cov.ukservers.com/
-mirror.cpsc.ucalgary.ca/
 mirror.csclub.uwaterloo.ca/
 mirror.daha.net/
 mirror.dal.nexril.net/
@@ -279,7 +279,6 @@ mirror.gozunga.com/
 mirror.grid.uchicago.edu/
 mirror.group.one/
 mirror.hashy0917.net/
-mirror.hep.gg/
 mirror.hnd.cl/
 mirror.hoasted.com/
 mirror.host.ag/
@@ -290,7 +289,6 @@ mirror.hoster.kz/
 mirror.hosthink.net/
 mirror.hostiko.network/
 mirror.hs-esslingen.de/
-mirror.ibcp.fr/
 mirror.ihost.md/
 mirror.in2p3.fr/
 mirror.init7.net/
@@ -338,6 +336,7 @@ mirror.nodespace.com/
 mirror.nyist.edu.cn/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
+mirror.papua.go.id/
 mirror.parsdev.com/
 mirror.phoenix.ioflood.com/
 mirror.pit.teraswitch.com/
@@ -390,14 +389,13 @@ mirror.wdc2.us.leaseweb.net/
 mirror.webworld.ie/
 mirror.wiseglobalsolutions.com/
 mirror.wonchan.net/
-mirror.xcobean.co.ke/
 mirror.xenyth.net/
 mirror.xeonbd.com/
 mirror.yandex.ru/
+mirror.yer.az/
 mirror.yuki.net.uk/
 mirror.zyner.org/
 mirror1.sox.rs/
-mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.bkns.vn/
@@ -516,6 +514,7 @@ rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
 rsync.gtlib.gatech.edu/
 rsync.mirror.gi.co.id/
+rsync.mirror.papua.go.id/
 rsync.mirrorservice.org/
 rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
@@ -537,9 +536,9 @@ soonkeat.sg/
 southfront.mm.fcix.net/
 storpool.com/
 syd.mirror.rackspace.com/
+tc.edu.tw/
 team-cymru.com/
 team.blue/
-teamhydra.dev/
 tech.africa/
 telepoint.bg/
 teraswitch.com/
@@ -549,7 +548,6 @@ tino.org/
 truenetwork.ru/
 tx-mirror.tier.net/
 tzulo.com/
-ucalgary.ca/
 uepg.br/
 uk.mirrors.clouvider.net/
 unifique.com.br/
@@ -569,7 +567,6 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
-www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -627,7 +624,6 @@ www.host.ag/
 www.hosthink.net/
 www.hostiserver.com/
 www.hs-esslingen.de/
-www.ibcp.fr/
 www.idkom.de/
 www.iij.ad.jp/
 www.init7.net/
@@ -669,6 +665,7 @@ www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
 www.ox.ac.uk/
+www.papua.go.id/
 www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
@@ -726,10 +723,10 @@ www.xeonbd.com/
 www.yamagata-u.ac.jp/
 www.yuccatelecom.com/
 wwww.wonchan.net/
-xcobean.co.ke/
 xenyth.net/
 xtom.com/
 yandex.ru/
+yer.az/
 yuki.net.uk/
 yxeix.mm.fcix.net/
 zappiehost.com/

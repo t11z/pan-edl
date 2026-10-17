@@ -203,6 +203,7 @@ mirror.dogado.de/
 mirror.dst.ca/
 mirror.estone.ca/
 mirror.eu.oneandone.net/
+mirror.famaserver.com/
 mirror.flo.c-f.ro/
 mirror.fsmg.org.nz/
 mirror.gitoyen.net/
