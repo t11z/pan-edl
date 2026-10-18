@@ -261,6 +261,7 @@ mirror.retropc.se/
 mirror.rustytel.net/
 mirror.sabay.com.kh/
 mirror.sg.gs/
+mirror.shomepower.com/
 mirror.siena.edu/
 mirror.sinavps.ch/
 mirror.sitsa.com.ar/
