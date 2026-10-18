@@ -98,7 +98,6 @@ docker.ru/
 doit.missouri.edu/
 dotsrc.org/
 dsu.edu/
-ekiphost.com/
 elice.io/
 elmirror.cl/
 eng.mephi.ru/
@@ -157,7 +156,6 @@ hnd.cl/
 hnl.fastly.repo.almalinux.org/
 home.cern/
 host4.biz/
-hostarts.dz/
 hostbaran.com/
 hoster.kz/
 hosterion.ro/
@@ -258,8 +256,6 @@ mirror.dk.team.blue/
 mirror.dk.team.blue::almalinux/
 mirror.docker.ru/
 mirror.dogado.de/
-mirror.domainhizmetleri.com/
-mirror.ekiphost.com/
 mirror.elice.io/
 mirror.esecuredata.com/
 mirror.eu.4psacloud.com/
@@ -281,7 +277,6 @@ mirror.hnd.cl/
 mirror.hoasted.com/
 mirror.host.ag/
 mirror.host4biz.eu/
-mirror.hostarts.dz/
 mirror.hostbaran.com/
 mirror.hoster.kz/
 mirror.hosthink.net/
@@ -324,6 +319,7 @@ mirror.net.za/
 mirror.netlen.com.tr/
 mirror.netsite.dk/
 mirror.netzwerge.de/
+mirror.nevacloud.com/
 mirror.nforce.com/
 mirror.nishi.network/
 mirror.nl.altushost.com/
@@ -458,9 +454,11 @@ mr.heru.id/
 msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
 muug.ca/
+nc-mirror.iwebfusion.net/
 nchc.org.tw/
 net.sjtu.edu.cn/
 neterra.ne/
+nevacloud.com/
 nexril.net/
 nhanhoa.com/
 nl.mirror.flokinet.net/
@@ -595,7 +593,6 @@ www.daha.net/
 www.deac.eu/
 www.digitalpacific.com.au/
 www.dogado.de/
-www.domainhizmetleri.com/
 www.edgoo.io/
 www.elhacker.net/
 www.esecuredata.com/
