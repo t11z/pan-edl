@@ -17,7 +17,6 @@ almalinux.elhacker.net/
 almalinux.excellmedia.net/
 almalinux.interhost.co.il/
 almalinux.ip-connect.info/
-almalinux.ip-connect.vn.ua/
 almalinux.ipacct.com/
 almalinux.jetserver.co.il/
 almalinux.koyanet.lv/
@@ -174,7 +173,6 @@ interhost.co.il/
 internet.asn.au/
 ioflood.com/
 ip-connect.info/
-ip-connect.vn.ua/
 ipacct.com/
 iphost.md/
 ipinfo.io/
@@ -190,6 +188,7 @@ jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
 kozyatagi.mirror.guzel.net.tr/
+krnk.org/
 la.mirrors.clouvider.net/
 leaseweb.com/
 leitecastro.com/
@@ -376,6 +375,7 @@ mirror.us-midwest-1.nexcess.net/
 mirror.usi.edu/
 mirror.veesp.com/
 mirror.verinomi.com/
+mirror.veritescil.com.tr/
 mirror.vpsnet.com/
 mirror.vsm.sh/
 mirror.vtti.vt.edu/
@@ -387,7 +387,6 @@ mirror.wonchan.net/
 mirror.xenyth.net/
 mirror.xeonbd.com/
 mirror.yandex.ru/
-mirror.yer.az/
 mirror.yuki.net.uk/
 mirror.zyner.org/
 mirror1.sox.rs/
@@ -416,6 +415,7 @@ mirrors.hostico.ro/
 mirrors.hostiserver.com/
 mirrors.ipserverone.com/
 mirrors.iu13.net/
+mirrors.krnk.org/
 mirrors.melbourne.co.uk/
 mirrors.mvps.net/
 mirrors.nav.ro/
@@ -454,7 +454,6 @@ mr.heru.id/
 msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
 muug.ca/
-nc-mirror.iwebfusion.net/
 nchc.org.tw/
 net.sjtu.edu.cn/
 neterra.ne/
@@ -704,6 +703,7 @@ www.uni-bayreuth.de/
 www.upr.edu/
 www.vereinigte-stadtwerke.de/
 www.verinomi.com/
+www.veritescil.com.tr/
 www.vhosting-it.com/
 www.virtono.com/
 www.vtti.vt.edu/
@@ -719,7 +719,6 @@ wwww.wonchan.net/
 xenyth.net/
 xtom.com/
 yandex.ru/
-yer.az/
 yuki.net.uk/
 yxeix.mm.fcix.net/
 zappiehost.com/

@@ -443,7 +443,6 @@ mirrors.opensource.is/
 mirrors.piconets.webwerks.in/
 mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
-mirrors.ptisp.pt/
 mirrors.qlu.edu.cn/
 mirrors.rit.edu/
 mirrors.sarak.as/

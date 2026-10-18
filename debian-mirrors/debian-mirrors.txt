@@ -122,6 +122,7 @@ ftp.jaist.ac.jp/
 ftp.kaist.ac.kr/
 ftp.kr.debian.org/
 ftp.lanet.kr/
+ftp.linux.edu.lv/
 ftp.linux.it/
 ftp.linux.org.tr/
 ftp.lip6.fr/
@@ -289,6 +290,7 @@ mirror.vpsnet.com/
 mirror.wtnet.de/
 mirror.xeonbd.com/
 mirror.xtom.com.hk/
+mirror.yandex.ru/
 mirror.yuki.net.uk/
 mirror.zyner.org/
 mirror1.infomaniak.com/
