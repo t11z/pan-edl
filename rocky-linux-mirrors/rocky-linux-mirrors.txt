@@ -73,6 +73,7 @@ mirror.hnd.cl/
 mirror.hostarts.dz/
 mirror.hosthink.net/
 mirror.in2p3.fr/
+mirror.it4i.cz/
 mirror.karneval.cz/
 mirror.linux.ncsu.edu/
 mirror.maeen.sa/
@@ -185,6 +186,7 @@ rocky.task.gda.pl/
 rockylinux.anexia.at/
 rockylinux.hi.no/
 rockylinux.mirrorservice.org/
+rockylinux.netforce.hosting/
 rockylinux.org/
 rockylinux.uni-sofia.bg/
 rsync.mirrorservice.org/
@@ -224,6 +226,7 @@ www.hostiserver.com/
 www.ibiblio.org/
 www.iij.ad.jp/
 www.ipserverone.com/
+www.it4i.cz/
 www.iu13.org/
 www.jaist.ac.jp/
 www.jurassicinnovations.com/
@@ -231,6 +234,7 @@ www.kaist.ac.kr/
 www.melbourne.co.uk/
 www.mirrorservice.org/
 www.ncsu.edu/
+www.netforce.company/
 www.netsite.dk/
 www.netzwerge.de/
 www.nluug.nl/

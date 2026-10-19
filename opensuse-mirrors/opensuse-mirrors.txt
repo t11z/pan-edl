@@ -63,6 +63,7 @@ mirror.csclub.uwaterloo.ca/
 mirror.datto.com/
 mirror.dc.uz/
 mirror.dogado.de/
+mirror.easyname.at/
 mirror.fcix.net/
 mirror.firstyear.id.au/
 mirror.freedif.org/
@@ -81,6 +82,7 @@ mirror.rackspace.co.uk/
 mirror.rackspace.com/
 mirror.rackspace.hk/
 mirror.randhost.com/
+mirror.siena.edu/
 mirror.sjtu.edu.cn/
 mirror.tech.africa/
 mirror.tele-media.net/
@@ -112,6 +114,7 @@ opensuse-mirror-gce-eu.opensu.se/
 opensuse-mirror-gce-us.susecloud.net/
 opensuse.0x0.st/
 opensuse.c3sl.ufpr.br/
+opensuse.ic.ufmt.br/
 opensuse.id/
 opensuse.ip-connect.info/
 opensuse.ipacct.com/
@@ -121,7 +124,6 @@ opensuse.mirror.garr.it/
 opensuse.mirror.iphh.net/
 opensuse.mirror.liquidtelecom.com/
 opensuse.mirror.liteserver.nl/
-opensuse.mirrors.proxad.net/
 opensuse.org/
 opensuse.schlundtech.de/
 opensuse.schlundtechn.de/
@@ -153,9 +155,9 @@ www.cedia.org.ec/
 www.csc.fi/
 www.deac.eu/
 www.dogado.de/
+www.easyname.com/
 www.fder.edu.uy/
 www.fedora.md/
-www.free.fr/
 www.garr.it/
 www.gatech.edu/
 www.gtlib.gatech.edu/
@@ -179,6 +181,7 @@ www.rackspace.com/
 www.rainside.sk/
 www.rnl.tecnico.ulisboa.pt/
 www.schlundtech.com/
+www.siena.edu/
 www.siliconhill.cz/
 www.suse.com/
 www.tu-chemnitz.de/
