@@ -73,6 +73,7 @@ mirror.hnd.cl/
 mirror.hostarts.dz/
 mirror.hosthink.net/
 mirror.in2p3.fr/
+mirror.isoc.org.il/
 mirror.it4i.cz/
 mirror.karneval.cz/
 mirror.linux.ncsu.edu/
@@ -112,7 +113,6 @@ mirror.wonchan.net/
 mirror.yandex.ru/
 mirror.yer.az/
 mirror.zyner.org/
-mirror1.isoc.org.il/
 mirror5.krfoss.org/
 mirrors.esto.network/
 mirrors.gigenet.com/
