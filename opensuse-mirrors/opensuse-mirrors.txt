@@ -5,7 +5,6 @@ adfinis.com/
 africloud.com/
 buaya.klas.or.id/
 cdn.opensuse.org/
-cloud.mu/
 codingflyboy.mm.fcix.net/
 dc.uz/
 dispenser.yandex.net/
@@ -51,7 +50,6 @@ ipacct.com/
 it.iut.ac.ir/
 linorg.usp.br/
 mirror-br.opensuse.org/
-mirror-services.net/
 mirror.aardsoft.fi/
 mirror.aarnet.edu.au/
 mirror.accum.se/
@@ -77,7 +75,6 @@ mirror.mai.co.ua/
 mirror.math.princeton.edu/
 mirror.nl.leaseweb.net/
 mirror.nyist.edu.cn/
-mirror.opensuse.mu/
 mirror.rackspace.co.uk/
 mirror.rackspace.com/
 mirror.rackspace.hk/
@@ -95,7 +92,6 @@ mirror.vtti.vt.edu/
 mirror.xenyth.net/
 mirror.yandex.ru/
 mirror1.hs-esslingen.de/
-mirrors.163.com/
 mirrors.acm.wpi.edu/
 mirrors.bfsu.edu.cn/
 mirrors.dotsrc.org/
@@ -119,11 +115,11 @@ opensuse.id/
 opensuse.ip-connect.info/
 opensuse.ipacct.com/
 opensuse.koyanet.lv/
-opensuse.mirror-services.net/
 opensuse.mirror.garr.it/
 opensuse.mirror.iphh.net/
 opensuse.mirror.liquidtelecom.com/
 opensuse.mirror.liteserver.nl/
+opensuse.mirrors.proxad.net/
 opensuse.org/
 opensuse.schlundtech.de/
 opensuse.schlundtechn.de/
@@ -135,7 +131,6 @@ repo.iut.ac.ir/
 repo.ugm.ac.id/
 rpmfind.net/
 rsync.fedora.md/
-rsync.mirrors.163.com/
 rtinfo.indiana.edu/
 sci.nju.edu.cn/
 slc-mirror.opensuse.org/
@@ -146,7 +141,6 @@ tuna.moe/
 tux.rainside.sk/
 tynahost.com/
 uepg.br/
-www.163.com/
 www.acc.umu.se/
 www.accum.se/
 www.alwyzon.com/
@@ -158,6 +152,7 @@ www.dogado.de/
 www.easyname.com/
 www.fder.edu.uy/
 www.fedora.md/
+www.free.fr/
 www.garr.it/
 www.gatech.edu/
 www.gtlib.gatech.edu/

@@ -28,6 +28,7 @@ almalinux.mirror.digitalpacific.com.au/
 almalinux.mirror.garr.it/
 almalinux.mirror.globo.tech/
 almalinux.mirror.katapult.io/
+almalinux.mirror.letscloud.io/
 almalinux.mirror.liquidtelecom.com/
 almalinux.mirror.liteserver.nl/
 almalinux.mirror.net.za/
@@ -42,7 +43,6 @@ almalinux.mirrors.itworxx.de/
 almalinux.mirrors.ovh.net/
 almalinux.mirrorservice.org/
 almalinux.mobinhost.com/
-almalinux.netforce.hosting/
 almalinux.nic.cz/
 almalinux.org/
 almalinux.ourhome.kiwi/
@@ -262,7 +262,6 @@ mirror.dk.team.blue/
 mirror.dk.team.blue::almalinux/
 mirror.docker.ru/
 mirror.dogado.de/
-mirror.domainhizmetleri.com/
 mirror.ekiphost.com/
 mirror.elice.io/
 mirror.esecuredata.com/
@@ -293,6 +292,8 @@ mirror.hs-esslingen.de/
 mirror.ibcp.fr/
 mirror.ihost.md/
 mirror.in2p3.fr/
+mirror.init7.net/
+mirror.init7.net::almalinux/
 mirror.internet.asn.au/
 mirror.interserver.net/
 mirror.iphost.md/
@@ -313,6 +314,7 @@ mirror.lyrahosting.com/
 mirror.maeen.sa/
 mirror.mangohost.net/
 mirror.manutech.at/
+mirror.maple-hosting.com/
 mirror.marwan.ma/
 mirror.mci-1.serverforge.org/
 mirror.mephi.ru/
@@ -333,7 +335,6 @@ mirror.nodespace.com/
 mirror.nyist.edu.cn/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
-mirror.papua.go.id/
 mirror.parsdev.com/
 mirror.phoenix.ioflood.com/
 mirror.pit.teraswitch.com/
@@ -398,7 +399,6 @@ mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.bkns.vn/
 mirrors.bmcc.edu/
-mirrors.c0urier.net/
 mirrors.cat.pdx.edu/
 mirrors.chroot.ro/
 mirrors.cloudforest.co.th/
@@ -456,6 +456,7 @@ mr.heru.id/
 msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
 muug.ca/
+nc-mirror.iwebfusion.net/
 nchc.org.tw/
 net.sjtu.edu.cn/
 neterra.ne/
@@ -475,6 +476,7 @@ ohioix.mm.fcix.net/
 oit.gatech.edu/
 opencolo.mm.fcix.net/
 opensource.fb.com/
+or-mirror.iwebfusion.net/
 ord.mirror.rackspace.com/
 osuosl.org/
 ourhost.az/
@@ -508,7 +510,6 @@ rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
 rsync.gtlib.gatech.edu/
 rsync.mirror.gi.co.id/
-rsync.mirror.papua.go.id/
 rsync.mirrorservice.org/
 rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
@@ -576,7 +577,6 @@ www.behostings.com/
 www.belnet.be/
 www.bkns.vn/
 www.bme.hu/
-www.c0urier.net/
 www.cedia.edu.ec/
 www.chpc.utah.edu/
 www.chroot.ro/
@@ -593,7 +593,6 @@ www.daha.net/
 www.deac.eu/
 www.digitalpacific.com.au/
 www.dogado.de/
-www.domainhizmetleri.com/
 www.edgoo.io/
 www.elhacker.net/
 www.esecuredata.com/
@@ -623,16 +622,19 @@ www.hs-esslingen.de/
 www.ibcp.fr/
 www.idkom.de/
 www.iij.ad.jp/
+www.init7.net/
 www.interserver.net/
 www.ipserverone.com/
 www.itworxx.de/
 www.iu13.org/
+www.iwebfusion.net/
 www.jaist.ac.jp/
 www.junda.nl/
 www.kent.ac.uk/
 www.kku.ac.th/
 www.knownhost.com/
 www.lchs.com.au/
+www.letscloud.io/
 www.limda.net/
 www.linkedin.com/
 www.liquid.tech/
@@ -640,12 +642,12 @@ www.liquidweb.com/
 www.liteserver.nl/
 www.lysator.liu.se/
 www.maeen.sa/
+www.maple-hosting.com/
 www.melbourne.co.uk/
 www.moack.co.kr/
 www.mvps.net/
 www.nav.ro/
 www.netdirekt.com.tr/
-www.netforce.company/
 www.netlen.com.tr/
 www.netsite.dk/
 www.netzwerge.de/
@@ -658,7 +660,6 @@ www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
 www.ox.ac.uk/
-www.papua.go.id/
 www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
