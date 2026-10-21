@@ -76,7 +76,6 @@ mirror.in2p3.fr/
 mirror.isoc.org.il/
 mirror.it4i.cz/
 mirror.karneval.cz/
-mirror.krfoss.org/
 mirror.linux.ncsu.edu/
 mirror.maeen.sa/
 mirror.marwan.ma/
@@ -191,7 +190,6 @@ rockylinux.mirrorservice.org/
 rockylinux.netforce.hosting/
 rockylinux.org/
 rockylinux.uni-sofia.bg/
-rsync.krfoss.org/
 rsync.mirrorservice.org/
 rsync5.krfoss.org/
 ru.dyi.ng/

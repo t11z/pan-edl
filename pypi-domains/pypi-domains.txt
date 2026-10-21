@@ -1,5 +1,6 @@
 blog.pypi.org/
 bugs.python.org/
+dev.pypi.org/
 discuss.python.org/
 docs.pypi.org/
 docs.python.org/
@@ -13,7 +14,6 @@ pypi.org/
 pypi.python.org/
 python.org/
 status.python.org/
-warehouse.pypa.io/
 wiki.python.org/
 www.pypa.io/
 www.python.org/
