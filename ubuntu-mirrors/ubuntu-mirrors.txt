@@ -98,7 +98,6 @@ ftpserv.tudelft.nl/
 giano.com.dist.unige.it/
 glua.ua.pt/
 gpl.savoirfairelinux.net/
-http.krfoss.org/
 ir.archive.ubuntu.com/
 ir.ubuntu.sindad.cloud/
 is.mirror.flokinet.net/
@@ -129,7 +128,6 @@ mirror.aptus.co.tz/
 mirror.arizona.edu/
 mirror.arvancloud.ir/
 mirror.as.kamatera.com/
-mirror.as210890.net/
 mirror.as29550.net/
 mirror.as43289.net/
 mirror.ati.tn/
@@ -168,6 +166,7 @@ mirror.datacenter.by/
 mirror.datacenter.mn/
 mirror.datamossa.io/
 mirror.de.leaseweb.net/
+mirror.dewabiz.com/
 mirror.digitaloceans.dev/
 mirror.digitalpacific.com.au/
 mirror.dkm.cz/
@@ -243,6 +242,7 @@ mirror.krfoss.org/
 mirror.kst.asia/
 mirror.kumi.systems/
 mirror.lc/
+mirror.leitecastro.com/
 mirror.liberty-connect.com/
 mirror.limda.net/
 mirror.logol.ru/
