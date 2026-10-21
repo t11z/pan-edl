@@ -310,6 +310,7 @@ mirrors.ircam.fr/
 mirrors.jlu.edu.cn/
 mirrors.lug.mtu.edu/
 mirrors.nav.ro/
+mirrors.nepalicloud.com/
 mirrors.netix.net/
 mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/

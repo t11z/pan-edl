@@ -25,17 +25,14 @@ ftp.fedora.md/
 ftp.funet.fi/
 ftp.gwdg.de/
 ftp.halifax.rwth-aachen.de/
-ftp.icm.edu.pl/
 ftp.jaist.ac.jp/
 ftp.linux.cz/
 ftp.linux.org.tr/
 ftp.man.poznan.pl/
 ftp.psnc.pl/
 ftp.rnl.tecnico.ulisboa.pt/
-ftp.rz.uni-wuerzburg.de/
 ftp.sh.cvut.cz/
 ftp.tu-chemnitz.de/
-ftp.uni-bayreuth.de/
 ftp.uni-erlangen.de/
 ftp.uni-kl.de/
 ftp.uninett.no/
@@ -92,7 +89,6 @@ mirror.vtti.vt.edu/
 mirror.xenyth.net/
 mirror.yandex.ru/
 mirror1.hs-esslingen.de/
-mirrors.163.com/
 mirrors.acm.wpi.edu/
 mirrors.bfsu.edu.cn/
 mirrors.dotsrc.org/
@@ -186,7 +182,6 @@ www.tu-chemnitz.de/
 www.ucr.ac.cr/
 www.ufscar.br/
 www.umd.edu/
-www.uni-bayreuth.de/
 www.uni-erlangen.de/
 www.uni-kl.de/
 www.uninett.no/
