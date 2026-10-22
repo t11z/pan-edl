@@ -47,7 +47,6 @@ ihost.md/
 ip-connect.info/
 ipacct.com/
 it.iut.ac.ir/
-linorg.usp.br/
 mirror-br.opensuse.org/
 mirror.aardsoft.fi/
 mirror.aarnet.edu.au/
