@@ -419,7 +419,6 @@ mirrors.ircam.fr/
 mirrors.iu13.net/
 mirrors.jcut.edu.cn/
 mirrors.jlu.edu.cn/
-mirrors.krfoss.org/
 mirrors.krnk.org/
 mirrors.layeronline.com/
 mirrors.liquidweb.com/
