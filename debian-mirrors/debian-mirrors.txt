@@ -248,7 +248,6 @@ mirror.ourhost.az/
 mirror.overthewire.com.au/
 mirror.ox.ac.uk/
 mirror.pangkin.com/
-mirror.phoenix.ioflood.com/
 mirror.pixelhosting.nl/
 mirror.plusline.net/
 mirror.positive-internet.com/
