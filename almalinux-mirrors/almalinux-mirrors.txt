@@ -6,6 +6,7 @@ airnet.uz/
 al-mirror.a2hosting.com/
 alma.acidman.thelefty.org/
 alma.as3741.net/
+alma.hostingdunyam.com.tr/
 alma.idhosting.pl/
 alma.mirror.nyuad.nyu.edu/
 alma.mirror.serversaustralia.com.au/
@@ -122,6 +123,7 @@ freehost.com.ua/
 ftp.arnes.si/
 ftp.belnet.be/
 ftp.bme.hu/
+ftp.cc.uoc.gr/
 ftp.cixug.es/
 ftp.csuc.cat/
 ftp.fau.de/
@@ -131,6 +133,7 @@ ftp.iij.ad.jp/
 ftp.jaist.ac.jp/
 ftp.linux.cz/
 ftp.lug.ro/
+ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
 ftp.sh.cvut.cz/
@@ -162,6 +165,7 @@ hoster.kz/
 hosterion.ro/
 hostico.ro/
 hostiko.com.ua/
+hostingdunyam.com.tr/
 iad.mirror.rackspace.com/
 icscoe.jp/
 idhosting.pl/
@@ -192,6 +196,8 @@ krnk.org/
 la.mirrors.clouvider.net/
 leaseweb.com/
 leitecastro.com/
+lidsol.fi-b.unam.mx/
+lidsol.unam.mx/
 linux-mirrors.fnal.gov/
 linux.domainesia.com/
 linux.duke.edu/
@@ -241,6 +247,7 @@ mirror.cloudpropeller.com/
 mirror.cogentco.com/
 mirror.colocenter.nl/
 mirror.cov.ukservers.com/
+mirror.cpsc.ucalgary.ca/
 mirror.csclub.uwaterloo.ca/
 mirror.dal.nexril.net/
 mirror.datacenter.by/
@@ -311,6 +318,7 @@ mirror.marwan.ma/
 mirror.mci-1.serverforge.org/
 mirror.mephi.ru/
 mirror.mia11.us.leaseweb.net/
+mirror.moack.co.kr/
 mirror.mtl2.ca.leaseweb.net/
 mirror.net.za/
 mirror.netlen.com.tr/
@@ -432,6 +440,7 @@ mirrors.storpool.com/
 mirrors.teamcloud.am/
 mirrors.tencent.com/
 mirrors.tino.org/
+mirrors.ucr.ac.cr/
 mirrors.ukfast.co.uk/
 mirrors.uni-ruse.bg/
 mirrors.upr.edu/
@@ -537,6 +546,7 @@ tino.org/
 truenetwork.ru/
 tx-mirror.tier.net/
 tzulo.com/
+ucalgary.ca/
 uepg.br/
 uk.mirrors.clouvider.net/
 unifique.com.br/
@@ -634,9 +644,11 @@ www.linkedin.com/
 www.liquid.tech/
 www.liquidweb.com/
 www.liteserver.nl/
+www.lysator.liu.se/
 www.maeen.sa/
 www.maple-hosting.com/
 www.melbourne.co.uk/
+www.moack.co.kr/
 www.mvps.net/
 www.nav.ro/
 www.netdirekt.com.tr/
@@ -654,6 +666,7 @@ www.onenet.net/
 www.ovhcloud.com/
 www.ox.ac.uk/
 www.peralex.com/
+www.physics.uoc.gr/
 www.plusline.net/
 www.previder.com/
 www.ps.kz/
@@ -685,6 +698,7 @@ www.tku.edu.tw/
 www.transip.nl/
 www.twds.com.tw/
 www.uam.es/
+www.ucr.ac.cr/
 www.ucsb.edu/
 www.uib.no/
 www.ukraine.com.ua/
