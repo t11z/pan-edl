@@ -56,6 +56,7 @@ mirror.alwyzon.net/
 mirror.cedia.org.ec/
 mirror.clarkson.edu/
 mirror.csclub.uwaterloo.ca/
+mirror.datto.com/
 mirror.dc.uz/
 mirror.dogado.de/
 mirror.easyname.at/
@@ -71,6 +72,7 @@ mirror.liteserver.nl/
 mirror.mai.co.ua/
 mirror.math.princeton.edu/
 mirror.nl.leaseweb.net/
+mirror.nyist.edu.cn/
 mirror.rackspace.co.uk/
 mirror.rackspace.com/
 mirror.rackspace.hk/
@@ -169,6 +171,7 @@ www.liteserver.nl/
 www.math.princeton.edu/
 www.nchc.org.tw/
 www.nxthost.com/
+www.nyist.edu.cn/
 www.psnc.pl/
 www.rackspace.com/
 www.rainside.sk/

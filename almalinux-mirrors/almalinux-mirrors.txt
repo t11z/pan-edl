@@ -28,6 +28,7 @@ almalinux.mirror.digitalpacific.com.au/
 almalinux.mirror.garr.it/
 almalinux.mirror.globo.tech/
 almalinux.mirror.katapult.io/
+almalinux.mirror.letscloud.io/
 almalinux.mirror.liquidtelecom.com/
 almalinux.mirror.liteserver.nl/
 almalinux.mirror.net.za/
@@ -45,7 +46,6 @@ almalinux.mobinhost.com/
 almalinux.netforce.hosting/
 almalinux.nic.cz/
 almalinux.org/
-almalinux.ourhome.kiwi/
 almalinux.pars.host/
 almalinux.savoirfairelinux.net/
 almalinux.schlundtech.de/
@@ -53,7 +53,6 @@ almalinux.si/
 almalinux.uib.no/
 almalinux.virtono.com/
 almalinux.vpsttt.com/
-almalinux.web.trex.fi/
 almamirror.netdirekt.com.tr/
 almamirror.phoenixnap.com/
 aptus.co.tz/
@@ -97,6 +96,7 @@ den.aws.repo.almalinux.org/
 dewabiz.com/
 distrohub.kyiv.ua/
 diyarciftci.xyz/
+docker.ru/
 doit.missouri.edu/
 domainesia.com/
 dotsrc.org/
@@ -106,8 +106,8 @@ elice.io/
 elmirror.cl/
 en.isoc.org.il/
 eng.mephi.ru/
+extreme-ix.org/
 ezscale.cloud/
-fam.org.nz/
 famaserver.com/
 fcix.net/
 fibia.dk/
@@ -142,15 +142,12 @@ ftp.ucsb.edu/
 ftp.udx.icscoe.jp/
 ftp.yz.yamagata-u.ac.jp/
 ge.mirror.cloud9.ge/
-gigenet.com/
 gigsouth.mm.fcix.net/
 github.com/
 globo.tech/
 gofiber.vn/
 gozunga.com/
 gsl-syd.mm.fcix.net/
-hcc-mirror.unl.edu/
-hcc.unl.edu/
 heru.id/
 hivelocity.net/
 hkg.mirror.rackspace.com/
@@ -158,7 +155,6 @@ hnd.cl/
 hnl.fastly.repo.almalinux.org/
 home.cern/
 host4.biz/
-hostarts.dz/
 hostbaran.com/
 hoster.kz/
 hosterion.ro/
@@ -186,7 +182,6 @@ ixirhost.com/
 jagoanhosting.com/
 jetserver.co.il/
 jingk.ai/
-jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
 kozyatagi.mirror.guzel.net.tr/
@@ -245,6 +240,7 @@ mirror.cloudpropeller.com/
 mirror.cogentco.com/
 mirror.colocenter.nl/
 mirror.cov.ukservers.com/
+mirror.cpsc.ucalgary.ca/
 mirror.csclub.uwaterloo.ca/
 mirror.dal.nexril.net/
 mirror.datacenter.by/
@@ -255,6 +251,7 @@ mirror.digitalpacific.com.au/
 mirror.diyarciftci.xyz/
 mirror.dk.team.blue/
 mirror.dk.team.blue::almalinux/
+mirror.docker.ru/
 mirror.dogado.de/
 mirror.domainhizmetleri.com/
 mirror.ekiphost.com/
@@ -279,13 +276,11 @@ mirror.hnd.cl/
 mirror.hoasted.com/
 mirror.host.ag/
 mirror.host4biz.eu/
-mirror.hostarts.dz/
 mirror.hostbaran.com/
 mirror.hoster.kz/
 mirror.hosthink.net/
 mirror.hostiko.network/
 mirror.hs-esslingen.de/
-mirror.ibcp.fr/
 mirror.ihost.md/
 mirror.in2p3.fr/
 mirror.init7.net/
@@ -301,6 +296,7 @@ mirror.junda.nl/
 mirror.kku.ac.th/
 mirror.lchs.network/
 mirror.leitecastro.com/
+mirror.limda.net/
 mirror.linux.duke.edu/
 mirror.linux.ec/
 mirror.liteserver.nl/
@@ -326,8 +322,10 @@ mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
 mirror.nodesdirect.com/
 mirror.nodespace.com/
+mirror.nyist.edu.cn/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
+mirror.papua.go.id/
 mirror.parsdev.com/
 mirror.pit.teraswitch.com/
 mirror.plusline.net/
@@ -353,6 +351,7 @@ mirror.siena.edu/
 mirror.sitsa.com.ar/
 mirror.siwoo.org/
 mirror.sjtu.edu.cn/
+mirror.snu.edu.in/
 mirror.soonkeat.sg/
 mirror.speedkom.de/
 mirror.steadfastnet.com/
@@ -369,20 +368,22 @@ mirror.us-midwest-1.nexcess.net/
 mirror.usi.edu/
 mirror.veesp.com/
 mirror.verinomi.com/
+mirror.veritescil.com.tr/
 mirror.vpsnet.com/
 mirror.vsm.sh/
 mirror.vtti.vt.edu/
 mirror.wd6.net/
 mirror.wdc2.us.leaseweb.net/
 mirror.webworld.ie/
-mirror.wiseglobalsolutions.com/
 mirror.wonchan.net/
 mirror.xenyth.net/
 mirror.xeonbd.com/
 mirror.yandex.ru/
+mirror.yer.az/
 mirror.yuki.net.uk/
 mirror.zyner.org/
 mirror1.sox.rs/
+mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.bkns.vn/
@@ -420,7 +421,6 @@ mirrors.ocf.berkeley.edu/
 mirrors.onenet.net/
 mirrors.pt/
 mirrors.ptisp.pt/
-mirrors.qlu.edu.cn/
 mirrors.rda.poa.br/
 mirrors.rit.edu/
 mirrors.ruk-com.cloud/
@@ -476,7 +476,6 @@ parsdev.com/
 per.aws.repo.almalinux.org/
 phoenixnap.com/
 phx.mirrors.clouvider.net/
-pit.mirror.jurassicinnovations.com/
 pkg.adfinis-on-exoscale.ch/
 planethoster.com/
 plug-mirror.rcac.purdue.edu/
@@ -489,6 +488,7 @@ rda.run/
 reenigne.net/
 renu.ac.ug/
 repo.almalinux.org/
+repo.extreme-ix.org/
 repo.ialab.dsu.edu/
 repo.ifca.es/
 repo.shinjiru.com/
@@ -500,6 +500,7 @@ rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
 rsync.gtlib.gatech.edu/
 rsync.mirror.gi.co.id/
+rsync.mirror.papua.go.id/
 rsync.mirrorservice.org/
 rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
@@ -516,6 +517,7 @@ sg-mirrors.vhost.vn/
 sg.gs/
 siliconhill.cz/
 sindad.com/
+snu.edu.in/
 soonkeat.sg/
 southfront.mm.fcix.net/
 storpool.com/
@@ -533,6 +535,7 @@ tino.org/
 truenetwork.ru/
 tx-mirror.tier.net/
 tzulo.com/
+ucalgary.ca/
 uepg.br/
 uk.mirrors.clouvider.net/
 unifique.com.br/
@@ -552,6 +555,7 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
+www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -597,6 +601,7 @@ www.garr.it/
 www.gbnetwork.com/
 www.gethosted.online/
 www.gi.co.id/
+www.gigenet.com/
 www.group.one/
 www.gtlib.gatech.edu/
 www.guzel.net.tr/
@@ -608,7 +613,6 @@ www.host.ag/
 www.hosthink.net/
 www.hostiserver.com/
 www.hs-esslingen.de/
-www.ibcp.fr/
 www.idkom.de/
 www.iij.ad.jp/
 www.init7.net/
@@ -623,6 +627,8 @@ www.kent.ac.uk/
 www.kku.ac.th/
 www.knownhost.com/
 www.lchs.com.au/
+www.letscloud.io/
+www.limda.net/
 www.linkedin.com/
 www.liquid.tech/
 www.liquidweb.com/
@@ -644,16 +650,17 @@ www.nic.cz/
 www.nic.funet.fi/
 www.nodespace.com/
 www.nxthost.com/
+www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
 www.ox.ac.uk/
+www.papua.go.id/
 www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
 www.previder.com/
 www.ps.kz/
 www.psnc.pl/
-www.qlu.edu.cn/
 www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
@@ -679,7 +686,6 @@ www.thelefty.org/
 www.tier.net/
 www.tku.edu.tw/
 www.transip.nl/
-www.trex.fi/
 www.twds.com.tw/
 www.uam.es/
 www.ucr.ac.cr/
@@ -691,6 +697,7 @@ www.uni-ruse.bg/
 www.upr.edu/
 www.vereinigte-stadtwerke.de/
 www.verinomi.com/
+www.veritescil.com.tr/
 www.vhosting-it.com/
 www.virtono.com/
 www.vtti.vt.edu/
@@ -698,7 +705,6 @@ www.wd6.net/
 www.wearetriple.com/
 www.web-hosting.net.my/
 www.webworld.ie/
-www.wiseglobalsolutions.com/
 www.xeonbd.com/
 www.yamagata-u.ac.jp/
 www.yuccatelecom.com/
@@ -706,6 +712,7 @@ wwww.wonchan.net/
 xenyth.net/
 xtom.com/
 yandex.ru/
+yer.az/
 yuki.net.uk/
 yxeix.mm.fcix.net/
 ziply.mm.fcix.net/
