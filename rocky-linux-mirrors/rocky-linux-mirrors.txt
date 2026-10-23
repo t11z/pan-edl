@@ -76,7 +76,6 @@ mirror.in2p3.fr/
 mirror.isoc.org.il/
 mirror.it4i.cz/
 mirror.karneval.cz/
-mirror.linux.ncsu.edu/
 mirror.maeen.sa/
 mirror.marwan.ma/
 mirror.netsite.dk/
@@ -234,7 +233,6 @@ www.jurassicinnovations.com/
 www.kaist.ac.kr/
 www.melbourne.co.uk/
 www.mirrorservice.org/
-www.ncsu.edu/
 www.netforce.company/
 www.netsite.dk/
 www.netzwerge.de/

@@ -56,7 +56,6 @@ mirror.alwyzon.net/
 mirror.cedia.org.ec/
 mirror.clarkson.edu/
 mirror.csclub.uwaterloo.ca/
-mirror.datto.com/
 mirror.dc.uz/
 mirror.dogado.de/
 mirror.easyname.at/
@@ -72,7 +71,6 @@ mirror.liteserver.nl/
 mirror.mai.co.ua/
 mirror.math.princeton.edu/
 mirror.nl.leaseweb.net/
-mirror.nyist.edu.cn/
 mirror.rackspace.co.uk/
 mirror.rackspace.com/
 mirror.rackspace.hk/
@@ -118,6 +116,7 @@ opensuse.mirror.garr.it/
 opensuse.mirror.iphh.net/
 opensuse.mirror.liquidtelecom.com/
 opensuse.mirror.liteserver.nl/
+opensuse.mirrors.proxad.net/
 opensuse.org/
 opensuse.schlundtech.de/
 opensuse.schlundtechn.de/
@@ -152,6 +151,7 @@ www.dogado.de/
 www.easyname.com/
 www.fder.edu.uy/
 www.fedora.md/
+www.free.fr/
 www.garr.it/
 www.gatech.edu/
 www.gtlib.gatech.edu/
@@ -169,7 +169,6 @@ www.liteserver.nl/
 www.math.princeton.edu/
 www.nchc.org.tw/
 www.nxthost.com/
-www.nyist.edu.cn/
 www.psnc.pl/
 www.rackspace.com/
 www.rainside.sk/
