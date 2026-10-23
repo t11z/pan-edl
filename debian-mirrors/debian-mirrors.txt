@@ -291,7 +291,6 @@ mirror.zyner.org/
 mirror1.infomaniak.com/
 mirror2.infomaniak.com/
 mirrors.accretive-networks.net/
-mirrors.bangmod.cloud/
 mirrors.bfsu.edu.cn/
 mirrors.bloomu.edu/
 mirrors.cloudforest.co.th/
