@@ -157,7 +157,6 @@ mirror.creoline.net/
 mirror.cs.jmu.edu/
 mirror.cs.odu.edu/
 mirror.csclub.uwaterloo.ca/
-mirror.cse.iitk.ac.in/
 mirror.d.umn.edu/
 mirror.dal.nexril.net/
 mirror.daniel-jost.net/
@@ -426,7 +425,6 @@ mirrors.lug.mtu.edu/
 mirrors.maine.edu/
 mirrors.melbourne.co.uk/
 mirrors.mit.edu/
-mirrors.mivocloud.com/
 mirrors.nav.ro/
 mirrors.neterra.net/
 mirrors.netix.net/
@@ -574,7 +572,6 @@ ubuntu.mirrors.omnilance.com/
 ubuntu.mirrors.ovh.net/
 ubuntu.mirrors.pair.com/
 ubuntu.mobinhost.com/
-ubuntu.mti.mt.gov.br/
 ubuntu.netforce.hosting/
 ubuntu.osuosl.org/
 ubuntu.otenet.gr/
