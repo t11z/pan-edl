@@ -269,6 +269,7 @@ mirror.telepoint.bg/
 mirror.tngnet.com/
 mirror.truenetwork.ru/
 mirror.twds.com.tw/
+mirror.tzulo.com/
 mirror.uepg.br/
 mirror.ufscar.br/
 mirror.uk.hyehost.net/
