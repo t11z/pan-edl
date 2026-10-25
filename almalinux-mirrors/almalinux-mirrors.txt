@@ -32,7 +32,7 @@ almalinux.mirror.letscloud.io/
 almalinux.mirror.liquidtelecom.com/
 almalinux.mirror.liteserver.nl/
 almalinux.mirror.net.za/
-almalinux.mirror.shastacoe.net/
+almalinux.mirror.scopesky.com/
 almalinux.mirror.sofia.incognet.io/
 almalinux.mirror.thegigabit.com/
 almalinux.mirror.ukraine.com.ua/
@@ -46,10 +46,10 @@ almalinux.netforce.hosting/
 almalinux.nic.cz/
 almalinux.org/
 almalinux.ourhome.kiwi/
+almalinux.pars.host/
 almalinux.savoirfairelinux.net/
 almalinux.schlundtech.de/
 almalinux.si/
-almalinux.uib.no/
 almalinux.virtono.com/
 almalinux.vpsttt.com/
 almalinux.web.trex.fi/
@@ -87,6 +87,7 @@ cofractal-sea.mm.fcix.net/
 colocenter.nl/
 computing.ifca.es/
 cosi.clarkson.edu/
+csclub.uwaterloo.ca/
 cvo.almalinux.osuosl.org/
 dal.mirrors.clouvider.net/
 datamossa.com/
@@ -109,6 +110,7 @@ eng.mephi.ru/
 extreme-ix.org/
 ezscale.cloud/
 fam.org.nz/
+famaserver.com/
 fcix.net/
 fibia.dk/
 flokinet.is/
@@ -193,8 +195,6 @@ krnk.org/
 la.mirrors.clouvider.net/
 leaseweb.com/
 leitecastro.com/
-lidsol.fi-b.unam.mx/
-lidsol.unam.mx/
 linux-mirrors.fnal.gov/
 linux.domainesia.com/
 linux.duke.edu/
@@ -245,6 +245,7 @@ mirror.cogentco.com/
 mirror.colocenter.nl/
 mirror.cov.ukservers.com/
 mirror.cpsc.ucalgary.ca/
+mirror.csclub.uwaterloo.ca/
 mirror.dal.nexril.net/
 mirror.datacenter.by/
 mirror.datamossa.io/
@@ -262,6 +263,7 @@ mirror.elice.io/
 mirror.esecuredata.com/
 mirror.eu.4psacloud.com/
 mirror.facebook.net/
+mirror.famaserver.com/
 mirror.fcix.net/
 mirror.fiu.edu/
 mirror.flo.c-f.ro/
@@ -299,7 +301,6 @@ mirror.junda.nl/
 mirror.kku.ac.th/
 mirror.lchs.network/
 mirror.leitecastro.com/
-mirror.limda.net/
 mirror.linux.duke.edu/
 mirror.linux.ec/
 mirror.liteserver.nl/
@@ -328,6 +329,7 @@ mirror.nodespace.com/
 mirror.nyist.edu.cn/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
+mirror.papua.go.id/
 mirror.parsdev.com/
 mirror.pit.teraswitch.com/
 mirror.plusline.net/
@@ -439,7 +441,6 @@ mirrors.ukfast.co.uk/
 mirrors.uni-ruse.bg/
 mirrors.upr.edu/
 mirrors.webhs.pt/
-mirrors.xtom.au/
 mirrors.xtom.com/
 mirrors.xtom.de/
 mirrors.xtom.ee/
@@ -475,6 +476,7 @@ opensource.fb.com/
 ord.mirror.rackspace.com/
 osuosl.org/
 ourhost.az/
+pars.host/
 parsdev.com/
 per.aws.repo.almalinux.org/
 phoenixnap.com/
@@ -504,6 +506,7 @@ rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
 rsync.gtlib.gatech.edu/
 rsync.mirror.gi.co.id/
+rsync.mirror.papua.go.id/
 rsync.mirrorservice.org/
 rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
@@ -632,7 +635,6 @@ www.kku.ac.th/
 www.knownhost.com/
 www.lchs.com.au/
 www.letscloud.io/
-www.limda.net/
 www.linkedin.com/
 www.liquid.tech/
 www.liquidweb.com/
@@ -658,6 +660,7 @@ www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
 www.ox.ac.uk/
+www.papua.go.id/
 www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
@@ -671,10 +674,10 @@ www.rrze.fau.de/
 www.rwts.com.au/
 www.sakura.ad.jp/
 www.schlundtech.de/
+www.scopesky.iq/
 www.servaxnet.com/
 www.server.net/
 www.sfu.ca/
-www.shastacoe.org/
 www.shinjiru.com/
 www.siena.edu/
 www.sitsa.com.ar/
@@ -694,7 +697,6 @@ www.twds.com.tw/
 www.uam.es/
 www.ucr.ac.cr/
 www.ucsb.edu/
-www.uib.no/
 www.ukraine.com.ua/
 www.ukservers.com/
 www.uni-ruse.bg/
