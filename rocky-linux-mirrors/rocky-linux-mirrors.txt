@@ -13,6 +13,7 @@ ca.mirrors.cicku.me/
 cc.in2p3.fr/
 cicku.me/
 ciq.co/
+cloudbt.com/
 co.ge/
 cs.vt.edu/
 dc.uz/
@@ -60,6 +61,7 @@ mirror.africloud.com/
 mirror.alastyr.com/
 mirror.bahnhof.net/
 mirror.chpc.utah.edu/
+mirror.cloudbt.com/
 mirror.cogentco.com/
 mirror.cpsc.ucalgary.ca/
 mirror.cs.vt.edu/

@@ -6,7 +6,6 @@ airnet.uz/
 al-mirror.a2hosting.com/
 alma.acidman.thelefty.org/
 alma.as3741.net/
-alma.hostingdunyam.com.tr/
 alma.idhosting.pl/
 alma.mirror.nyuad.nyu.edu/
 alma.mirror.serversaustralia.com.au/
@@ -29,6 +28,7 @@ almalinux.mirror.digitalpacific.com.au/
 almalinux.mirror.garr.it/
 almalinux.mirror.globo.tech/
 almalinux.mirror.katapult.io/
+almalinux.mirror.letscloud.io/
 almalinux.mirror.liquidtelecom.com/
 almalinux.mirror.liteserver.nl/
 almalinux.mirror.net.za/
@@ -53,12 +53,12 @@ almalinux.schlundtech.de/
 almalinux.si/
 almalinux.uib.no/
 almalinux.virtono.com/
-almalinux.vpsttt.com/
 almalinux.web.trex.fi/
 almamirror.netdirekt.com.tr/
 almamirror.phoenixnap.com/
 aptus.co.tz/
 ash.mirrors.clouvider.net/
+asnet.am/
 atl.mirrors.clouvider.net/
 atl.mirrors.ezscale.cloud/
 atl.mirrors.knownhost.com/
@@ -76,11 +76,13 @@ boinc.teambelgium.net/
 bos.aws.repo.almalinux.org/
 brentk.io/
 bugs.almalinux.org/
+bytes.ua/
 capital.hoster.kz/
 cat.pdx.edu/
 cc.in2p3.fr/
 chi.almalinux.osuosl.org/
 citrahost.com/
+cloudbt.com/
 cloudforest.co.th/
 cloudpropeller.com/
 cofractal-ewr.mm.fcix.net/
@@ -103,7 +105,6 @@ doit.missouri.edu/
 domainesia.com/
 dotsrc.org/
 dsu.edu/
-ekiphost.com/
 elice.io/
 elmirror.cl/
 en.isoc.org.il/
@@ -164,7 +165,6 @@ hoster.kz/
 hosterion.ro/
 hostico.ro/
 hostiko.com.ua/
-hostingdunyam.com.tr/
 iad.mirror.rackspace.com/
 icscoe.jp/
 idhosting.pl/
@@ -189,11 +189,14 @@ jingk.ai/
 jurassicinnovations.com/
 kartolo.sby.datautama.net.id/
 katapult.io/
+kifu.gov.hu/
 kozyatagi.mirror.guzel.net.tr/
 krnk.org/
 la.mirrors.clouvider.net/
 leaseweb.com/
 leitecastro.com/
+lidsol.fi-b.unam.mx/
+lidsol.unam.mx/
 linux-mirrors.fnal.gov/
 linux.domainesia.com/
 linux.duke.edu/
@@ -230,6 +233,7 @@ mirror.ath1.fusioned.net/
 mirror.ati.tn/
 mirror.az31.cloudpropeller.com/
 mirror.azvps.vn/
+mirror.bahnhof.net/
 mirror.bf-net.ch/
 mirror.bharatdatacenter.com/
 mirror.bitency.nl/
@@ -238,11 +242,11 @@ mirror.ch.altushost.com/
 mirror.chpc.utah.edu/
 mirror.citrahost.com/
 mirror.clarkson.edu/
+mirror.cloudbt.com/
 mirror.cloudpropeller.com/
 mirror.cogentco.com/
 mirror.colocenter.nl/
 mirror.cov.ukservers.com/
-mirror.cpsc.ucalgary.ca/
 mirror.csclub.uwaterloo.ca/
 mirror.dal.nexril.net/
 mirror.datacenter.by/
@@ -256,7 +260,6 @@ mirror.dk.team.blue::almalinux/
 mirror.docker.ru/
 mirror.dogado.de/
 mirror.domainhizmetleri.com/
-mirror.ekiphost.com/
 mirror.elice.io/
 mirror.esecuredata.com/
 mirror.eu.4psacloud.com/
@@ -299,7 +302,6 @@ mirror.junda.nl/
 mirror.kku.ac.th/
 mirror.lchs.network/
 mirror.leitecastro.com/
-mirror.limda.net/
 mirror.linux.duke.edu/
 mirror.linux.ec/
 mirror.liteserver.nl/
@@ -320,6 +322,7 @@ mirror.netsite.dk/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nforce.com/
+mirror.niif.hu/
 mirror.nishi.network/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
@@ -384,10 +387,14 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror.zyner.org/
+mirror1.sox.rs/
+mirrors.aliyun.com/
 mirrors.almalinux.org/
+mirrors.asnet.am/
 mirrors.bangmod.cloud/
 mirrors.bkns.vn/
 mirrors.bmcc.edu/
+mirrors.bytes.ua/
 mirrors.c0urier.net/
 mirrors.cat.pdx.edu/
 mirrors.chroot.ro/
@@ -535,7 +542,6 @@ tino.org/
 truenetwork.ru/
 tx-mirror.tier.net/
 tzulo.com/
-ucalgary.ca/
 uepg.br/
 uk.mirrors.clouvider.net/
 unifique.com.br/
@@ -544,7 +550,6 @@ veesp.com/
 vhost.vn/
 vn-mirrors.vhost.vn/
 volico.mm.fcix.net/
-vpsttt.com/
 wiki.almalinux.org/
 wiki.lug.ro/
 www.01link.net/
@@ -555,6 +560,7 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
+www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -563,6 +569,7 @@ www.ans.co.uk/
 www.anywair.com/
 www.arnes.si/
 www.ati.tn/
+www.bahnhof.net/
 www.behostings.com/
 www.belnet.be/
 www.bkns.vn/
@@ -626,7 +633,7 @@ www.kent.ac.uk/
 www.kku.ac.th/
 www.knownhost.com/
 www.lchs.com.au/
-www.limda.net/
+www.letscloud.io/
 www.linkedin.com/
 www.liquid.tech/
 www.liquidweb.com/
@@ -674,6 +681,7 @@ www.siena.edu/
 www.sitsa.com.ar/
 www.siwoo.org/
 www.sonic.com/
+www.sox.rs/
 www.steadfast.net/
 www.swinburne.edu.au/
 www.telecomarmenia.am/

@@ -334,6 +334,7 @@ plug-mirror.rcac.purdue.edu/
 pubmirror.plutex.de/
 repo.ialab.dsu.edu/
 repo.ifca.es/
+repo.jztkft.hu/
 repos.interior.edu.uy/
 repository.su/
 ro.mirror.flokinet.net/
