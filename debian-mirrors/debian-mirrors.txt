@@ -104,9 +104,8 @@ ftp.de.debian.org/
 ftp.debian.cz/
 ftp.debian.sk/
 ftp.debianclub.org/
+ftp.dk.debian.org/
 ftp.ec-m.fr/
-ftp.ee.debian.org/
-ftp.eenet.ee/
 ftp.eq.uc.pt/
 ftp.fau.de/
 ftp.fi.debian.org/
@@ -258,7 +257,6 @@ mirror.retropc.se/
 mirror.rustytel.net/
 mirror.sabay.com.kh/
 mirror.sg.gs/
-mirror.shomepower.com/
 mirror.siena.edu/
 mirror.sinavps.ch/
 mirror.sitsa.com.ar/
@@ -298,9 +296,11 @@ mirrors.bloomu.edu/
 mirrors.cloudforest.co.th/
 mirrors.coreix.net/
 mirrors.datapark.ro/
+mirrors.dotsrc.org/
 mirrors.egr.msu.edu/
 mirrors.glesys.net/
 mirrors.hit.edu.cn/
+mirrors.hosterion.ro/
 mirrors.hostico.ro/
 mirrors.hostiserver.com/
 mirrors.ic.unicamp.br/
