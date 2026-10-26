@@ -182,6 +182,7 @@ rocky.mirror.shastacoe.net/
 rocky.mirror.thegigabit.com/
 rocky.reloumirrors.net/
 rocky.task.gda.pl/
+rocky.zero.com.ar/
 rockylinux.anexia.at/
 rockylinux.hi.no/
 rockylinux.mirrorservice.org/
@@ -268,4 +269,5 @@ www.wonchan.net/
 www.yamagata-u.ac.jp/
 www.yandex.com/
 yer.az/
+zero.com.ar/
 zyner.org/
