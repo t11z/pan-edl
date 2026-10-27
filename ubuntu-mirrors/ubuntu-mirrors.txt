@@ -47,7 +47,6 @@ ftp.iinet.net.au/
 ftp.iitm.ac.in/
 ftp.jaist.ac.jp/
 ftp.kaist.ac.kr/
-ftp.klid.dk/
 ftp.lanet.kr/
 ftp.linux.cz/
 ftp.linux.edu.lv/
@@ -434,6 +433,7 @@ mirrors.nxtgen.com/
 mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
 mirrors.opensource.is/
+mirrors.pardisco.co/
 mirrors.piconets.webwerks.in/
 mirrors.pidginhost.com/
 mirrors.powernet.com.ru/

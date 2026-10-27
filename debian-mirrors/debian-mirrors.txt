@@ -129,6 +129,7 @@ ftp.linux.org.tr/
 ftp.lip6.fr/
 ftp.lt.debian.org/
 ftp.maru.co.jp/
+ftp.md.debian.org/
 ftp.nc.debian.org/
 ftp.nl.debian.org/
 ftp.no.debian.org/
@@ -184,6 +185,7 @@ mirror.amaze.com.au/
 mirror.apio-sys.fr/
 mirror.applebred.net/
 mirror.as35701.net/
+mirror.as43289.net/
 mirror.bgp.rodeo/
 mirror.bizflycloud.vn/
 mirror.blue3.com.br/
