@@ -7,6 +7,7 @@ debian-archive.trafficmanager.net/
 debian-mirror.behostings.net/
 debian-mirror.puq.apoapsis.cl/
 debian.a1.bg/
+debian.anexia.at/
 debian.apt-mirror.de/
 debian.as3741.net/
 debian.balt.net/
@@ -85,6 +86,7 @@ ftp-stud.hs-esslingen.de/
 ftp.acc.umu.se/
 ftp.agh.edu.pl/
 ftp.antik.sk/
+ftp.at.debian.org/
 ftp.au.debian.org/
 ftp.be.debian.org/
 ftp.bg.debian.org/
