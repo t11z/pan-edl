@@ -100,6 +100,7 @@ mirror.servaxnet.com/
 mirror.siena.edu/
 mirror.slu.cz/
 mirror.spicernetworks.net/
+mirror.stadtwerke-soest.de/
 mirror.tech.africa/
 mirror.telepoint.bg/
 mirror.twds.com.tw/
@@ -258,6 +259,7 @@ www.siena.edu/
 www.siliconhill.cz/
 www.slu.cz/
 www.spicernetworks.com/
+www.stadtwerke-soest.de/
 www.swinburne.edu.au/
 www.twds.com.tw/
 www.tzulo.com/
