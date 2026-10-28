@@ -203,6 +203,7 @@ mirror.djvg.sg/
 mirror.dkm.cz/
 mirror.dogado.de/
 mirror.dst.ca/
+mirror.duocast.net/
 mirror.estone.ca/
 mirror.eu.oneandone.net/
 mirror.famaserver.com/
