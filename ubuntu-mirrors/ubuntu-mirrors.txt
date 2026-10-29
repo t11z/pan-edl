@@ -77,7 +77,6 @@ ftp.tku.edu.tw/
 ftp.tsukuba.wide.ad.jp/
 ftp.tu-chemnitz.de/
 ftp.tu-ilmenau.de/
-ftp.tudelft.nl/
 ftp.tw.debian.org/
 ftp.u-picardie.fr/
 ftp.ubuntu-tw.net/
@@ -218,7 +217,6 @@ mirror.il-rh.kamatera.com/
 mirror.il-ta.kamatera.com/
 mirror.il.kamatera.com/
 mirror.improve.nordlo.cloud/
-mirror.infomaniak.ch/
 mirror.informatik.tu-freiberg.de/
 mirror.init7.net/
 mirror.internet.asn.au/
@@ -335,7 +333,6 @@ mirror.ubuntu.serverforge.org/
 mirror.uchile.cl/
 mirror.uepg.br/
 mirror.ufam.edu.br/
-mirror.ufro.cl/
 mirror.ufscar.br/
 mirror.umd.edu/
 mirror.unair.ac.id/
