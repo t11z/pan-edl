@@ -83,7 +83,6 @@ ftp.ubuntu-tw.net/
 ftp.ubuntu-tw.org/
 ftp.udc.es/
 ftp.udx.icscoe.jp/
-ftp.uni-bayreuth.de/
 ftp.uni-kl.de/
 ftp.uni-mainz.de/
 ftp.uni-stuttgart.de/
@@ -94,7 +93,6 @@ ftp.uvigo.es/
 ftp5.gwdg.de/
 ftpmirror1.infania.net/
 ftpserv.tudelft.nl/
-giano.com.dist.unige.it/
 glua.ua.pt/
 gpl.savoirfairelinux.net/
 ir.archive.ubuntu.com/
@@ -196,7 +194,6 @@ mirror.fsmg.org.nz/
 mirror.fst.kz/
 mirror.funkfreundelandshut.de/
 mirror.geekonweb.fr/
-mirror.gi.co.id/
 mirror.gofoss.xyz/
 mirror.greennet.gl/
 mirror.group.one/
@@ -435,6 +432,7 @@ mirrors.pardisco.co/
 mirrors.piconets.webwerks.in/
 mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
+mirrors.ptisp.pt/
 mirrors.qlu.edu.cn/
 mirrors.rit.edu/
 mirrors.sarak.as/
@@ -497,7 +495,6 @@ rsync.mirrorservice.org/
 rsync.techlabs.co.kr/
 rsync.ubuntu.nautile.nc/
 rsync.udc.es/
-rsync.uni-bayreuth.de/
 rsync.yuki.net.uk/
 security.ubuntu.com/
 sft.if.usp.br/
@@ -525,6 +522,7 @@ ubuntu.cica.es/
 ubuntu.cs.nctu.edu.tw/
 ubuntu.cs.utah.edu/
 ubuntu.dcc.fc.up.pt/
+ubuntu.dts.mg/
 ubuntu.ethz.ch/
 ubuntu.grad.hr/
 ubuntu.grena.ge/

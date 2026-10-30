@@ -67,6 +67,7 @@ mirror.sajattack.xyz/
 mirror.techlabs.co.kr/
 mirror.techrich.hk/
 mirror.telepoint.bg/
+mirror.torchbyte.com/
 mirror.tux.si/
 mirror.tux.si:8873/
 mirror.twds.com.tw/

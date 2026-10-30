@@ -83,7 +83,6 @@ mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nju.edu.cn/
 mirror.nsc.liu.se/
-mirror.nyist.edu.cn/
 mirror.ourhost.az/
 mirror.pangkin.com/
 mirror.plusline.net/
@@ -240,7 +239,6 @@ www.netzwerge.de/
 www.nluug.nl/
 www.nsc.liu.se/
 www.nxthost.com/
-www.nyist.edu.cn/
 www.plusline.net/
 www.ps.kz/
 www.puzzle.ch/
