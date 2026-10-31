@@ -332,7 +332,6 @@ mirrors.xtom.jp/
 mirrors.xtom.nl/
 mirrors.zju.edu.cn/
 mirrorservice.org/
-mr.heru.id/
 nl.mirror.flokinet.net/
 opensource.nchc.org.tw/
 pkg.adfinis-on-exoscale.ch/
