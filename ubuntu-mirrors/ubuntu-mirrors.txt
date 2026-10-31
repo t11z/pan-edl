@@ -95,12 +95,15 @@ ftpmirror1.infania.net/
 ftpserv.tudelft.nl/
 glua.ua.pt/
 gpl.savoirfairelinux.net/
+http.krfoss.org/
 ir.archive.ubuntu.com/
 ir.ubuntu.sindad.cloud/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
 kartolo.sby.datautama.net.id/
+kebo.pens.ac.id/
+kebo.vlsm.org/
 kozyatagi.mirror.guzel.net.tr/
 kr.mirror.tefexia.net/
 la.mirrors.clouvider.net/
@@ -335,7 +338,6 @@ mirror.umd.edu/
 mirror.unair.ac.id/
 mirror.unesp.br/
 mirror.unet.by/
-mirror.unimagdalena.edu.co/
 mirror.united-gameserver.de/
 mirror.unix-solutions.be/
 mirror.uoregon.edu/
@@ -410,7 +412,6 @@ mirrors.huaweicloud.com/
 mirrors.ipserverone.com/
 mirrors.ircam.fr/
 mirrors.iu13.net/
-mirrors.jcut.edu.cn/
 mirrors.jlu.edu.cn/
 mirrors.krnk.org/
 mirrors.layeronline.com/
