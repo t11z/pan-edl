@@ -6,7 +6,6 @@ archive.ubuntu.com/
 archive.ubuntu.mirror.ba/
 archive.ubuntu.mirror.rafal.ca/
 archive.ubuntu.nautile.nc/
-archive.ubuntumirror.dei.uc.pt/
 artfiles.org/
 atl.mirrors.clouvider.net/
 aze.archive.ubuntu.com/
@@ -35,7 +34,6 @@ ftp.cc.uoc.gr/
 ftp.corbina.net/
 ftp.csuc.cat/
 ftp.cvut.cz/
-ftp.dei.uc.pt/
 ftp.energotel.sk/
 ftp.fau.de/
 ftp.fu-berlin.de/
@@ -340,7 +338,6 @@ mirror.unesp.br/
 mirror.unet.by/
 mirror.united-gameserver.de/
 mirror.unix-solutions.be/
-mirror.uoregon.edu/
 mirror.us-midwest-1.nexcess.net/
 mirror.us-ny2.kamatera.com/
 mirror.us-sc.kamatera.com/

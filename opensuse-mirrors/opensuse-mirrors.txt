@@ -37,6 +37,7 @@ ftp.tu-chemnitz.de/
 ftp.uni-erlangen.de/
 ftp.uni-kl.de/
 ftp.uninett.no/
+ftp.ussg.iu.edu/
 get.opensuse.org/
 github.com/
 global.bfsu.edu.cn/
@@ -54,7 +55,6 @@ mirror.alwyzon.net/
 mirror.cedia.org.ec/
 mirror.clarkson.edu/
 mirror.csclub.uwaterloo.ca/
-mirror.datto.com/
 mirror.dc.uz/
 mirror.dogado.de/
 mirror.fcix.net/
@@ -126,6 +126,7 @@ repo.ugm.ac.id/
 rpmfind.net/
 rsync.fedora.md/
 rsync.mirrors.163.com/
+rtinfo.indiana.edu/
 sci.nju.edu.cn/
 slc-mirror.opensuse.org/
 tech.africa/
