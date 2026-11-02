@@ -246,6 +246,7 @@ mirror.lstn.net/
 mirror.lug.umbc.edu/
 mirror.lyrahosting.com/
 mirror.maeen.sa/
+mirror.marcusn.net/
 mirror.marwan.ma/
 mirror.math.princeton.edu/
 mirror.math.ucdavis.edu/
@@ -265,7 +266,6 @@ mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nforce.com/
 mirror.niif.hu/
-mirror.nishi.network/
 mirror.nju.edu.cn/
 mirror.nl.altushost.com/
 mirror.nl.as215296.net/
