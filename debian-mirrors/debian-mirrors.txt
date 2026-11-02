@@ -173,6 +173,7 @@ linux.purple-cat.net/
 linuxsoft.cern.ch/
 merlin.fit.vutbr.cz/
 miroir.univ-lorraine.fr/
+mirror-mk.interspace.com/
 mirror.0x626b.com/
 mirror.141networks.com/
 mirror.23m.com/
@@ -242,7 +243,6 @@ mirror.mirohost.net/
 mirror.mk.de/
 mirror.mythic-beasts.com/
 mirror.neftm.ru/
-mirror.netlen.com.tr/
 mirror.nforce.com/
 mirror.nju.edu.cn/
 mirror.nl.cdn-perfprod.com/
