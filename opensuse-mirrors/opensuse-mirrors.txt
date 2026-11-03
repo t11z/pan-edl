@@ -1,5 +1,6 @@
 129.143.116.10/
 aardsoft.fi/
+acm.wpi.edu/
 adfinis.com/
 africloud.com/
 buaya.klas.or.id/
@@ -8,7 +9,6 @@ codingflyboy.mm.fcix.net/
 dc.uz/
 dispenser.yandex.net/
 distro.ibiblio.org/
-distrohub.kyiv.ua/
 dotsrc.org/
 download.opensuse.id/
 download.opensuse.org/
@@ -23,6 +23,7 @@ ftp.fedora.md/
 ftp.funet.fi/
 ftp.gwdg.de/
 ftp.halifax.rwth-aachen.de/
+ftp.icm.edu.pl/
 ftp.jaist.ac.jp/
 ftp.linux.cz/
 ftp.linux.org.tr/
@@ -33,6 +34,7 @@ ftp.rz.uni-wuerzburg.de/
 ftp.sh.cvut.cz/
 ftp.tu-chemnitz.de/
 ftp.uni-erlangen.de/
+ftp.uni-kl.de/
 ftp.uninett.no/
 ftp.ussg.iu.edu/
 get.opensuse.org/
@@ -84,6 +86,7 @@ mirror.xenyth.net/
 mirror.yandex.ru/
 mirror1.hs-esslingen.de/
 mirrors.163.com/
+mirrors.acm.wpi.edu/
 mirrors.bfsu.edu.cn/
 mirrors.dotsrc.org/
 mirrors.nju.edu.cn/
@@ -110,6 +113,7 @@ opensuse.mirror.garr.it/
 opensuse.mirror.iphh.net/
 opensuse.mirror.liquidtelecom.com/
 opensuse.mirror.liteserver.nl/
+opensuse.mirrors.proxad.net/
 opensuse.org/
 opensuse.schlundtech.de/
 opensuse.schlundtechn.de/
@@ -142,6 +146,7 @@ www.deac.eu/
 www.dogado.de/
 www.fder.edu.uy/
 www.fedora.md/
+www.free.fr/
 www.garr.it/
 www.gatech.edu/
 www.gtlib.gatech.edu/
@@ -174,6 +179,7 @@ www.ucr.ac.cr/
 www.ufscar.br/
 www.umd.edu/
 www.uni-erlangen.de/
+www.uni-kl.de/
 www.uninett.no/
 www.ustc.edu.cn/
 www.verinomi.com/
