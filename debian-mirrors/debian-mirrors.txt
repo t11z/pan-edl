@@ -174,7 +174,6 @@ linux.purple-cat.net/
 linuxsoft.cern.ch/
 merlin.fit.vutbr.cz/
 miroir.univ-lorraine.fr/
-mirror-mk.interspace.com/
 mirror.0x626b.com/
 mirror.141networks.com/
 mirror.23m.com/
@@ -204,6 +203,7 @@ mirror.datacenter.by/
 mirror.debian.ikoula.com/
 mirror.djvg.sg/
 mirror.dkm.cz/
+mirror.docker.ru/
 mirror.dogado.de/
 mirror.dst.ca/
 mirror.duocast.net/
