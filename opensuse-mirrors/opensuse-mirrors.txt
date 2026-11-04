@@ -54,6 +54,7 @@ mirror.alwyzon.net/
 mirror.cedia.org.ec/
 mirror.clarkson.edu/
 mirror.csclub.uwaterloo.ca/
+mirror.datto.com/
 mirror.dc.uz/
 mirror.dogado.de/
 mirror.fcix.net/
@@ -65,7 +66,6 @@ mirror.ihost.md/
 mirror.kakao.com/
 mirror.karneval.cz/
 mirror.liteserver.nl/
-mirror.mai.co.ua/
 mirror.math.princeton.edu/
 mirror.nl.leaseweb.net/
 mirror.nyist.edu.cn/
