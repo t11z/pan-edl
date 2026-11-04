@@ -1,6 +1,5 @@
 129.143.116.10/
 aardsoft.fi/
-acm.wpi.edu/
 adfinis.com/
 africloud.com/
 buaya.klas.or.id/
@@ -86,7 +85,6 @@ mirror.xenyth.net/
 mirror.yandex.ru/
 mirror1.hs-esslingen.de/
 mirrors.163.com/
-mirrors.acm.wpi.edu/
 mirrors.bfsu.edu.cn/
 mirrors.dotsrc.org/
 mirrors.nju.edu.cn/
