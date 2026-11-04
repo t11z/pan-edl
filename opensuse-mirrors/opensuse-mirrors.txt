@@ -1,5 +1,6 @@
 129.143.116.10/
 aardsoft.fi/
+acm.wpi.edu/
 adfinis.com/
 africloud.com/
 buaya.klas.or.id/
@@ -79,6 +80,7 @@ mirror.shomepower.com/
 mirror.siena.edu/
 mirror.sjtu.edu.cn/
 mirror.tech.africa/
+mirror.tele-media.net/
 mirror.tspu.ru/
 mirror.uepg.br/
 mirror.ufscar.br/
@@ -89,6 +91,7 @@ mirror.xenyth.net/
 mirror.yandex.ru/
 mirror1.hs-esslingen.de/
 mirrors.163.com/
+mirrors.acm.wpi.edu/
 mirrors.bfsu.edu.cn/
 mirrors.dotsrc.org/
 mirrors.nju.edu.cn/
@@ -115,6 +118,7 @@ opensuse.mirror.garr.it/
 opensuse.mirror.iphh.net/
 opensuse.mirror.liquidtelecom.com/
 opensuse.mirror.liteserver.nl/
+opensuse.mirrors.proxad.net/
 opensuse.org/
 opensuse.schlundtech.de/
 opensuse.schlundtechn.de/
@@ -132,6 +136,7 @@ rtinfo.indiana.edu/
 sci.nju.edu.cn/
 slc-mirror.opensuse.org/
 tech.africa/
+tele-media.net/
 tspu.edu.ru/
 tuna.moe/
 tux.rainside.sk/
@@ -147,6 +152,7 @@ www.deac.eu/
 www.dogado.de/
 www.fder.edu.uy/
 www.fedora.md/
+www.free.fr/
 www.garr.it/
 www.gatech.edu/
 www.gtlib.gatech.edu/
