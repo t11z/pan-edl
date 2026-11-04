@@ -8,6 +8,7 @@ codingflyboy.mm.fcix.net/
 dc.uz/
 dispenser.yandex.net/
 distro.ibiblio.org/
+distrohub.kyiv.ua/
 dotsrc.org/
 download.opensuse.id/
 download.opensuse.org/
@@ -65,6 +66,8 @@ mirror.ihost.md/
 mirror.kakao.com/
 mirror.karneval.cz/
 mirror.liteserver.nl/
+mirror.mai.co.ua/
+mirror.makelink.ee/
 mirror.math.princeton.edu/
 mirror.nl.leaseweb.net/
 mirror.nyist.edu.cn/
@@ -72,6 +75,7 @@ mirror.rackspace.co.uk/
 mirror.rackspace.com/
 mirror.rackspace.hk/
 mirror.randhost.com/
+mirror.shomepower.com/
 mirror.siena.edu/
 mirror.sjtu.edu.cn/
 mirror.tech.africa/
@@ -111,7 +115,6 @@ opensuse.mirror.garr.it/
 opensuse.mirror.iphh.net/
 opensuse.mirror.liquidtelecom.com/
 opensuse.mirror.liteserver.nl/
-opensuse.mirrors.proxad.net/
 opensuse.org/
 opensuse.schlundtech.de/
 opensuse.schlundtechn.de/
@@ -144,7 +147,6 @@ www.deac.eu/
 www.dogado.de/
 www.fder.edu.uy/
 www.fedora.md/
-www.free.fr/
 www.garr.it/
 www.gatech.edu/
 www.gtlib.gatech.edu/
