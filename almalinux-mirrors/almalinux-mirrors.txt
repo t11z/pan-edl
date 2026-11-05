@@ -28,7 +28,6 @@ almalinux.mirror.digitalpacific.com.au/
 almalinux.mirror.garr.it/
 almalinux.mirror.globo.tech/
 almalinux.mirror.katapult.io/
-almalinux.mirror.letscloud.io/
 almalinux.mirror.liquidtelecom.com/
 almalinux.mirror.liteserver.nl/
 almalinux.mirror.net.za/
@@ -41,6 +40,7 @@ almalinux.mirror.wearetriple.com/
 almalinux.mirrors.behostings.net/
 almalinux.mirrors.itworxx.de/
 almalinux.mirrors.ovh.net/
+almalinux.mirrorservice.org/
 almalinux.mobinhost.com/
 almalinux.nic.cz/
 almalinux.org/
@@ -84,6 +84,7 @@ cloudforest.co.th/
 cloudpropeller.com/
 cofractal-ewr.mm.fcix.net/
 cofractal-sea.mm.fcix.net/
+colocenter.nl/
 computing.ifca.es/
 cosi.clarkson.edu/
 csclub.uwaterloo.ca/
@@ -134,7 +135,6 @@ ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
-ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -158,6 +158,7 @@ hnd.cl/
 hnl.fastly.repo.almalinux.org/
 home.cern/
 host4.biz/
+hostarts.dz/
 hostbaran.com/
 hoster.kz/
 hosterion.ro/
@@ -241,6 +242,7 @@ mirror.clarkson.edu/
 mirror.cloudbt.com/
 mirror.cloudpropeller.com/
 mirror.cogentco.com/
+mirror.colocenter.nl/
 mirror.cov.ukservers.com/
 mirror.cpsc.ucalgary.ca/
 mirror.csclub.uwaterloo.ca/
@@ -273,11 +275,11 @@ mirror.gozunga.com/
 mirror.grid.uchicago.edu/
 mirror.group.one/
 mirror.hashy0917.net/
-mirror.hep.gg/
 mirror.hnd.cl/
 mirror.hoasted.com/
 mirror.host.ag/
 mirror.host4biz.eu/
+mirror.hostarts.dz/
 mirror.hostbaran.com/
 mirror.hoster.kz/
 mirror.hosthink.net/
@@ -289,6 +291,7 @@ mirror.in2p3.fr/
 mirror.init7.net/
 mirror.init7.net::almalinux/
 mirror.internet.asn.au/
+mirror.interserver.net/
 mirror.iphost.md/
 mirror.isoc.org.il/
 mirror.ixirhost.com/
@@ -298,7 +301,6 @@ mirror.junda.nl/
 mirror.kku.ac.th/
 mirror.lchs.network/
 mirror.leitecastro.com/
-mirror.limda.net/
 mirror.linux.duke.edu/
 mirror.linux.ec/
 mirror.liteserver.nl/
@@ -314,6 +316,7 @@ mirror.mia11.us.leaseweb.net/
 mirror.moack.co.kr/
 mirror.mtl2.ca.leaseweb.net/
 mirror.net.za/
+mirror.netlen.com.tr/
 mirror.netsite.dk/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
@@ -374,7 +377,6 @@ mirror.vtti.vt.edu/
 mirror.wd6.net/
 mirror.wdc2.us.leaseweb.net/
 mirror.webworld.ie/
-mirror.wiseglobalsolutions.com/
 mirror.wonchan.net/
 mirror.xenyth.net/
 mirror.xeonbd.com/
@@ -428,7 +430,6 @@ mirrors.ruk-com.cloud/
 mirrors.sonic.net/
 mirrors.storpool.com/
 mirrors.teamcloud.am/
-mirrors.tencent.com/
 mirrors.tino.org/
 mirrors.ucr.ac.cr/
 mirrors.ukfast.co.uk/
@@ -468,6 +469,7 @@ ohioix.mm.fcix.net/
 oit.gatech.edu/
 opencolo.mm.fcix.net/
 opensource.fb.com/
+or-mirror.iwebfusion.net/
 ord.mirror.rackspace.com/
 osuosl.org/
 ourhost.az/
@@ -500,6 +502,7 @@ rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
 rsync.gtlib.gatech.edu/
 rsync.mirror.gi.co.id/
+rsync.mirrorservice.org/
 rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
 rsync.yuki.net.uk/
@@ -524,7 +527,6 @@ syd.mirror.rackspace.com/
 tc.edu.tw/
 team-cymru.com/
 team.blue/
-teamhydra.dev/
 tech.africa/
 telepoint.bg/
 teraswitch.com/
@@ -615,17 +617,17 @@ www.ibcp.fr/
 www.idkom.de/
 www.iij.ad.jp/
 www.init7.net/
+www.interserver.net/
 www.ipserverone.com/
 www.itworxx.de/
 www.iu13.org/
 www.iwebfusion.net/
 www.jaist.ac.jp/
 www.junda.nl/
+www.kent.ac.uk/
 www.kku.ac.th/
 www.knownhost.com/
 www.lchs.com.au/
-www.letscloud.io/
-www.limda.net/
 www.linkedin.com/
 www.liquid.tech/
 www.liquidweb.com/
@@ -638,6 +640,7 @@ www.moack.co.kr/
 www.mvps.net/
 www.nav.ro/
 www.netdirekt.com.tr/
+www.netlen.com.tr/
 www.netsite.dk/
 www.netzwerge.de/
 www.nforce.com/
@@ -659,7 +662,6 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
-www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
@@ -676,7 +678,6 @@ www.stadtwerke-soest.de/
 www.steadfast.net/
 www.swinburne.edu.au/
 www.telecomarmenia.am/
-www.tencent.com/
 www.thelefty.org/
 www.tier.net/
 www.tku.edu.tw/
@@ -700,7 +701,6 @@ www.wd6.net/
 www.wearetriple.com/
 www.web-hosting.net.my/
 www.webworld.ie/
-www.wiseglobalsolutions.com/
 www.xeonbd.com/
 www.yamagata-u.ac.jp/
 www.yuccatelecom.com/
