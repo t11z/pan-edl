@@ -15,7 +15,6 @@ cicku.me/
 ciq.co/
 cloudbt.com/
 co.ge/
-cs.vt.edu/
 dc.uz/
 deadbatteries.work/
 delska.com/
@@ -64,7 +63,6 @@ mirror.chpc.utah.edu/
 mirror.cloudbt.com/
 mirror.cogentco.com/
 mirror.cpsc.ucalgary.ca/
-mirror.cs.vt.edu/
 mirror.dc.uz/
 mirror.dst.ca/
 mirror.eu.ossplanet.net/
