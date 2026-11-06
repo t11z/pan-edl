@@ -21,6 +21,7 @@ debian.charite.de/
 distrib-coffee.ipsl.jussieu.fr/
 distrohub.kyiv.ua/
 drmirror.physi.uni-heidelberg.de/
+dsync.krfoss.org/
 elmirror.cl/
 free.nchc.org.tw/
 ftp-stud.hs-esslingen.de/
@@ -111,6 +112,7 @@ linux.yz.yamagata-u.ac.jp/
 mir.linux.kg/
 miroir.univ-lorraine.fr/
 mirror-gw.elastis.id/
+mirror-hk.koddos.net/
 mirror-mk.interspace.com/
 mirror.01link.hk/
 mirror.23m.com/
@@ -155,6 +157,7 @@ mirror.creoline.net/
 mirror.cs.jmu.edu/
 mirror.cs.odu.edu/
 mirror.csclub.uwaterloo.ca/
+mirror.cse.iitk.ac.in/
 mirror.d.umn.edu/
 mirror.dal.nexril.net/
 mirror.daniel-jost.net/
@@ -234,6 +237,7 @@ mirror.kamp.de/
 mirror.kapteyan.com.tr/
 mirror.kkg.berlin/
 mirror.kku.ac.th/
+mirror.krfoss.org/
 mirror.kst.asia/
 mirror.kumi.systems/
 mirror.lc/
@@ -317,6 +321,7 @@ mirror.team-cymru.com/
 mirror.team-cymru.org/
 mirror.team-host.ru/
 mirror.techlabs.co.kr/
+mirror.telcotech.com.kh/
 mirror.telepoint.bg/
 mirror.thaidns.co.th/
 mirror.timeweb.ru/
@@ -499,7 +504,6 @@ sft.if.usp.br/
 sft.if.usp.br:/
 sg-mirrors.vhost.vn/
 softlibre.unizar.es/
-storage.dim.uchile.cl/
 suro.ubaya.ac.id/
 suse.uni-leipzig.de/
 tux.rainside.sk/
@@ -564,6 +568,7 @@ ubuntu.mirrors.omnilance.com/
 ubuntu.mirrors.ovh.net/
 ubuntu.mirrors.pair.com/
 ubuntu.mobinhost.com/
+ubuntu.mti.mt.gov.br/
 ubuntu.netforce.hosting/
 ubuntu.osuosl.org/
 ubuntu.otenet.gr/

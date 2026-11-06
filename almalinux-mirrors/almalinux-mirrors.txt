@@ -24,9 +24,11 @@ almalinux.koyanet.lv/
 almalinux.linux.n0c.ca/
 almalinux.linuxpatch.com/
 almalinux.mirror-services.net/
+almalinux.mirror.digitalpacific.com.au/
 almalinux.mirror.garr.it/
 almalinux.mirror.globo.tech/
 almalinux.mirror.katapult.io/
+almalinux.mirror.letscloud.io/
 almalinux.mirror.liquidtelecom.com/
 almalinux.mirror.liteserver.nl/
 almalinux.mirror.net.za/
@@ -47,6 +49,7 @@ almalinux.ourhome.kiwi/
 almalinux.savoirfairelinux.net/
 almalinux.schlundtech.de/
 almalinux.si/
+almalinux.uib.no/
 almalinux.virtono.com/
 almalinux.vpsttt.com/
 almalinux.web.trex.fi/
@@ -59,7 +62,6 @@ atl.mirrors.clouvider.net/
 atl.mirrors.ezscale.cloud/
 atl.mirrors.knownhost.com/
 aws.amazon.com/
-azvps.vn/
 beltelecom.by/
 bharatdatacenter.com/
 bitency.nl/
@@ -100,7 +102,6 @@ doit.missouri.edu/
 domainesia.com/
 dotsrc.org/
 dsu.edu/
-ekiphost.com/
 elice.io/
 elmirror.cl/
 en.isoc.org.il/
@@ -228,7 +229,6 @@ mirror.aptus.co.tz/
 mirror.as3741.net/
 mirror.ati.tn/
 mirror.az31.cloudpropeller.com/
-mirror.azvps.vn/
 mirror.bahnhof.net/
 mirror.bf-net.ch/
 mirror.bharatdatacenter.com/
@@ -242,7 +242,6 @@ mirror.cloudbt.com/
 mirror.cloudpropeller.com/
 mirror.cogentco.com/
 mirror.colocenter.nl/
-mirror.cov.ukservers.com/
 mirror.cpsc.ucalgary.ca/
 mirror.csclub.uwaterloo.ca/
 mirror.dal.nexril.net/
@@ -250,13 +249,13 @@ mirror.datacenter.by/
 mirror.datamossa.io/
 mirror.de.leaseweb.net/
 mirror.dewabiz.com/
+mirror.digitalpacific.com.au/
 mirror.diyarciftci.xyz/
 mirror.dk.team.blue/
 mirror.dk.team.blue::almalinux/
 mirror.docker.ru/
 mirror.dogado.de/
 mirror.domainhizmetleri.com/
-mirror.ekiphost.com/
 mirror.elice.io/
 mirror.esecuredata.com/
 mirror.eu.4psacloud.com/
@@ -319,6 +318,7 @@ mirror.net.za/
 mirror.netlen.com.tr/
 mirror.netsite.dk/
 mirror.netzwerge.de/
+mirror.nevacloud.com/
 mirror.nforce.com/
 mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
@@ -376,9 +376,11 @@ mirror.vtti.vt.edu/
 mirror.wd6.net/
 mirror.wdc2.us.leaseweb.net/
 mirror.webworld.ie/
+mirror.wiseglobalsolutions.com/
 mirror.wonchan.net/
 mirror.xenyth.net/
 mirror.xeonbd.com/
+mirror.yandex.ru/
 mirror.yer.az/
 mirror.yuki.net.uk/
 mirror.zyner.org/
@@ -414,7 +416,6 @@ mirrors.melbourne.co.uk/
 mirrors.mvps.net/
 mirrors.nav.ro/
 mirrors.neterra.net/
-mirrors.nhanhoa.com/
 mirrors.nju.edu.cn/
 mirrors.nxthost.com/
 mirrors.oblivion.online/
@@ -422,6 +423,7 @@ mirrors.ocf.berkeley.edu/
 mirrors.onenet.net/
 mirrors.pt/
 mirrors.ptisp.pt/
+mirrors.qlu.edu.cn/
 mirrors.rda.poa.br/
 mirrors.rit.edu/
 mirrors.ruk-com.cloud/
@@ -452,8 +454,8 @@ nc-mirror.iwebfusion.net/
 nchc.org.tw/
 net.sjtu.edu.cn/
 neterra.ne/
+nevacloud.com/
 nexril.net/
-nhanhoa.com/
 nl.mirror.flokinet.net/
 nl.mirrors.clouvider.net/
 nnenix.mm.fcix.net/
@@ -583,6 +585,7 @@ www.csc.fi/
 www.csuc.cat/
 www.cyberfolks.ro/
 www.deac.eu/
+www.digitalpacific.com.au/
 www.dogado.de/
 www.domainhizmetleri.com/
 www.edgoo.io/
@@ -626,6 +629,7 @@ www.kent.ac.uk/
 www.kku.ac.th/
 www.knownhost.com/
 www.lchs.com.au/
+www.letscloud.io/
 www.limda.net/
 www.linkedin.com/
 www.liquid.tech/
@@ -657,6 +661,7 @@ www.plusline.net/
 www.previder.com/
 www.ps.kz/
 www.psnc.pl/
+www.qlu.edu.cn/
 www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
@@ -688,8 +693,8 @@ www.twds.com.tw/
 www.uam.es/
 www.ucr.ac.cr/
 www.ucsb.edu/
+www.uib.no/
 www.ukraine.com.ua/
-www.ukservers.com/
 www.uni-ruse.bg/
 www.upr.edu/
 www.vereinigte-stadtwerke.de/
@@ -701,12 +706,14 @@ www.wd6.net/
 www.wearetriple.com/
 www.web-hosting.net.my/
 www.webworld.ie/
+www.wiseglobalsolutions.com/
 www.xeonbd.com/
 www.yamagata-u.ac.jp/
 www.yuccatelecom.com/
 wwww.wonchan.net/
 xenyth.net/
 xtom.com/
+yandex.ru/
 yer.az/
 yuki.net.uk/
 yxeix.mm.fcix.net/
