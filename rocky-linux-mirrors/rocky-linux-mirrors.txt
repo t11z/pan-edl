@@ -135,6 +135,8 @@ ossplanet.net/
 ourhost.az/
 pangkin.me/
 pit.mirror.jurassicinnovations.com/
+plug-mirror.rcac.purdue.edu/
+purduelug.org/
 radwebhosting.com/
 raiolanetworks.com/
 randhost.com/
