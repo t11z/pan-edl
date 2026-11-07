@@ -305,7 +305,6 @@ mirrors.bfsu.edu.cn/
 mirrors.bloomu.edu/
 mirrors.cloudforest.co.th/
 mirrors.coreix.net/
-mirrors.datapark.ro/
 mirrors.dotsrc.org/
 mirrors.egr.msu.edu/
 mirrors.glesys.net/
@@ -337,6 +336,7 @@ mirrors.xtom.nl/
 mirrors.zju.edu.cn/
 mirrorservice.org/
 nl.mirror.flokinet.net/
+nyc.mirrors.clouvider.net/
 opensource.nchc.org.tw/
 pkg.adfinis-on-exoscale.ch/
 pubmirror.plutex.de/
