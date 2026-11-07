@@ -213,6 +213,7 @@ mirror.dst.ca/
 mirror.duocast.net/
 mirror.estone.ca/
 mirror.eu.oneandone.net/
+mirror.eviltech.co/
 mirror.famaserver.com/
 mirror.flo.c-f.ro/
 mirror.fsmg.org.nz/
@@ -336,6 +337,7 @@ mirrors.xtom.nl/
 mirrors.zju.edu.cn/
 mirrorservice.org/
 nl.mirror.flokinet.net/
+nl.mirrors.clouvider.net/
 nyc.mirrors.clouvider.net/
 opensource.nchc.org.tw/
 pkg.adfinis-on-exoscale.ch/

@@ -48,7 +48,6 @@ in.dyi.ng/
 in.mirrors.cicku.me/
 insecure.nluug.nl/
 it.vcea.wsu.edu/
-it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
 krfoss.org/
 maeen.sa/
