@@ -1,6 +1,5 @@
 *.archive.ubuntu.com/
 ae.archive.ubuntu.com/
-archive.g4t1.pro/
 archive.linux.duke.edu/
 archive.ubuntu.com/
 archive.ubuntu.mirror.ba/
@@ -46,6 +45,7 @@ ftp.iinet.net.au/
 ftp.iitm.ac.in/
 ftp.jaist.ac.jp/
 ftp.kaist.ac.kr/
+ftp.klid.dk/
 ftp.lanet.kr/
 ftp.linux.cz/
 ftp.linux.edu.lv/
@@ -245,7 +245,6 @@ mirror.liberty-connect.com/
 mirror.limda.net/
 mirror.logol.ru/
 mirror.lostpacket.org/
-mirror.lstn.net/
 mirror.lug.umbc.edu/
 mirror.lyrahosting.com/
 mirror.maeen.sa/
@@ -392,7 +391,6 @@ mirrors.chroot.ro/
 mirrors.cloud.tencent.com/
 mirrors.cloudforest.co.th/
 mirrors.cmich.edu/
-mirrors.cn99.com/
 mirrors.coreix.net/
 mirrors.datapark.ro/
 mirrors.dc.clear.net.ar/
