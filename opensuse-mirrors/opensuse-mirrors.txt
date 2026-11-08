@@ -24,7 +24,6 @@ ftp.fedora.md/
 ftp.funet.fi/
 ftp.gwdg.de/
 ftp.halifax.rwth-aachen.de/
-ftp.icm.edu.pl/
 ftp.jaist.ac.jp/
 ftp.linux.cz/
 ftp.linux.org.tr/
@@ -54,6 +53,7 @@ mirror.africloud.com/
 mirror.alwyzon.net/
 mirror.cedia.org.ec/
 mirror.clarkson.edu/
+mirror.csclub.uwaterloo.ca/
 mirror.datto.com/
 mirror.dc.uz/
 mirror.dogado.de/
@@ -117,7 +117,6 @@ opensuse.mirror.garr.it/
 opensuse.mirror.iphh.net/
 opensuse.mirror.liquidtelecom.com/
 opensuse.mirror.liteserver.nl/
-opensuse.mirrors.proxad.net/
 opensuse.org/
 opensuse.schlundtech.de/
 opensuse.schlundtechn.de/
@@ -151,7 +150,6 @@ www.deac.eu/
 www.dogado.de/
 www.fder.edu.uy/
 www.fedora.md/
-www.free.fr/
 www.garr.it/
 www.gatech.edu/
 www.gtlib.gatech.edu/
