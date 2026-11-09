@@ -76,7 +76,6 @@ debian.tuxuri.com/
 debian.uchicago.edu/
 debian.uevora.pt/
 debian.uni-due.de/
-debian.unnoba.edu.ar/
 debian.volia.net/
 debian.web.trex.fi/
 debian.xtdv.net/
@@ -178,6 +177,7 @@ lidsol.fi-b.unam.mx/
 linuxsoft.cern.ch/
 merlin.fit.vutbr.cz/
 miroir.univ-lorraine.fr/
+mirror-mk.interspace.com/
 mirror.0x626b.com/
 mirror.141networks.com/
 mirror.23m.com/
