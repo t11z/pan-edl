@@ -11,6 +11,7 @@ alma.idhosting.pl/
 alma.mirror.nyuad.nyu.edu/
 alma.mirror.serversaustralia.com.au/
 almalinux-mirror.freehost.com.ua/
+almalinux-mirror.keepsec.ca/
 almalinux-mirror.tpa.hivelocity.net/
 almalinux-mirror.unifique.cloud/
 almalinux-mirror.yucca.net/
@@ -24,6 +25,7 @@ almalinux.koyanet.lv/
 almalinux.linux.n0c.ca/
 almalinux.linuxpatch.com/
 almalinux.mirror-services.net/
+almalinux.mirror.digitalpacific.com.au/
 almalinux.mirror.garr.it/
 almalinux.mirror.globo.tech/
 almalinux.mirror.katapult.io/
@@ -96,7 +98,6 @@ datautama.net.id/
 de.mirrors.clouvider.net/
 den.aws.repo.almalinux.org/
 dewabiz.com/
-distrohub.kyiv.ua/
 diyarciftci.xyz/
 docker.ru/
 doit.missouri.edu/
@@ -121,7 +122,6 @@ fr2.rpmfind.net/
 free.nchc.org.tw/
 freehost.com.ua/
 ftp.arnes.si/
-ftp.belnet.be/
 ftp.bme.hu/
 ftp.cc.uoc.gr/
 ftp.cixug.es/
@@ -165,7 +165,6 @@ hostbaran.com/
 hoster.kz/
 hosterion.ro/
 hostico.ro/
-hostiko.com.ua/
 hostingdunyam.com.tr/
 iad.mirror.rackspace.com/
 icscoe.jp/
@@ -258,6 +257,7 @@ mirror.datacenter.by/
 mirror.datamossa.io/
 mirror.de.leaseweb.net/
 mirror.dewabiz.com/
+mirror.digitalpacific.com.au/
 mirror.diyarciftci.xyz/
 mirror.dk.team.blue/
 mirror.dk.team.blue::almalinux/
@@ -290,7 +290,6 @@ mirror.hostarts.dz/
 mirror.hostbaran.com/
 mirror.hoster.kz/
 mirror.hosthink.net/
-mirror.hostiko.network/
 mirror.hs-esslingen.de/
 mirror.ibcp.fr/
 mirror.ihost.md/
@@ -386,6 +385,7 @@ mirror.vtti.vt.edu/
 mirror.wd6.net/
 mirror.wdc2.us.leaseweb.net/
 mirror.webworld.ie/
+mirror.wiseglobalsolutions.com/
 mirror.wonchan.net/
 mirror.xenyth.net/
 mirror.xeonbd.com/
@@ -445,6 +445,7 @@ mirrors.tencent.com/
 mirrors.tino.org/
 mirrors.ucr.ac.cr/
 mirrors.ukfast.co.uk/
+mirrors.uni-ruse.bg/
 mirrors.upr.edu/
 mirrors.webhs.pt/
 mirrors.xtom.au/
@@ -580,7 +581,6 @@ www.arnes.si/
 www.ati.tn/
 www.bahnhof.net/
 www.behostings.com/
-www.belnet.be/
 www.bkns.vn/
 www.bme.hu/
 www.c0urier.net/
@@ -597,6 +597,7 @@ www.csc.fi/
 www.csuc.cat/
 www.cyberfolks.ro/
 www.deac.eu/
+www.digitalpacific.com.au/
 www.dogado.de/
 www.domainhizmetleri.com/
 www.edgoo.io/
@@ -636,6 +637,7 @@ www.iu13.org/
 www.iwebfusion.net/
 www.jaist.ac.jp/
 www.junda.nl/
+www.keepsec.ca/
 www.kent.ac.uk/
 www.kku.ac.th/
 www.knownhost.com/
@@ -707,6 +709,7 @@ www.ucsb.edu/
 www.uib.no/
 www.ukraine.com.ua/
 www.ukservers.com/
+www.uni-ruse.bg/
 www.upr.edu/
 www.vereinigte-stadtwerke.de/
 www.verinomi.com/
@@ -717,6 +720,7 @@ www.wd6.net/
 www.wearetriple.com/
 www.web-hosting.net.my/
 www.webworld.ie/
+www.wiseglobalsolutions.com/
 www.xeonbd.com/
 www.yamagata-u.ac.jp/
 www.yuccatelecom.com/

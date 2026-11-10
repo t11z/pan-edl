@@ -263,7 +263,6 @@ mirror.positive-internet.com/
 mirror.ps.kz/
 mirror.radishnetworks.net/
 mirror.raiolanetworks.com/
-mirror.realcompute.io/
 mirror.retropc.se/
 mirror.rustytel.net/
 mirror.sabay.com.kh/

@@ -129,7 +129,6 @@ mirror.arvancloud.ir/
 mirror.as.kamatera.com/
 mirror.as29550.net/
 mirror.as43289.net/
-mirror.ati.tn/
 mirror.azvps.vn/
 mirror.bacloud.com/
 mirror.bahnhof.net/
@@ -197,6 +196,7 @@ mirror.fsmg.org.nz/
 mirror.fst.kz/
 mirror.funkfreundelandshut.de/
 mirror.geekonweb.fr/
+mirror.gi.co.id/
 mirror.gofoss.xyz/
 mirror.greennet.gl/
 mirror.group.one/
@@ -286,7 +286,6 @@ mirror.pit.teraswitch.com/
 mirror.plusserver.com/
 mirror.plustech.de/
 mirror.poliwangi.ac.id/
-mirror.premierdc.com.tr/
 mirror.previder.nl/
 mirror.ps.kz/
 mirror.rabisu.com/
@@ -518,7 +517,6 @@ ubuntu.cica.es/
 ubuntu.cs.nctu.edu.tw/
 ubuntu.cs.utah.edu/
 ubuntu.dcc.fc.up.pt/
-ubuntu.dts.mg/
 ubuntu.ethz.ch/
 ubuntu.grad.hr/
 ubuntu.grena.ge/
