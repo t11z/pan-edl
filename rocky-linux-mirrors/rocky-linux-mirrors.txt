@@ -3,6 +3,7 @@ EcuaLinux.com/
 a1.mk/
 africloud.com/
 agdsn.de/
+amscloud.co.id/
 ash.mirrors.clouvider.net/
 at.dyi.ng/
 at.mirrors.cicku.me/
@@ -58,6 +59,7 @@ mirror.accum.se/
 mirror.admax.se/
 mirror.africloud.com/
 mirror.alastyr.com/
+mirror.amscloud.co.id/
 mirror.bahnhof.net/
 mirror.chpc.utah.edu/
 mirror.cloudbt.com/
