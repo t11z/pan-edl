@@ -72,6 +72,7 @@ mirror.liteserver.nl/
 mirror.mai.co.ua/
 mirror.makelink.ee/
 mirror.math.princeton.edu/
+mirror.net.za/
 mirror.nl.leaseweb.net/
 mirror.nyist.edu.cn/
 mirror.rackspace.co.uk/
@@ -120,6 +121,7 @@ opensuse.mirror.garr.it/
 opensuse.mirror.iphh.net/
 opensuse.mirror.liquidtelecom.com/
 opensuse.mirror.liteserver.nl/
+opensuse.mirror.net.za/
 opensuse.mirrors.proxad.net/
 opensuse.org/
 opensuse.schlundtech.de/

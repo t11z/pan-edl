@@ -16,6 +16,7 @@ almalinux-mirror.tpa.hivelocity.net/
 almalinux-mirror.unifique.cloud/
 almalinux-mirror.yucca.net/
 almalinux.elhacker.net/
+almalinux.excellmedia.net/
 almalinux.interhost.co.il/
 almalinux.ip-connect.info/
 almalinux.ip-connect.vn.ua/
@@ -49,7 +50,6 @@ almalinux.ourhome.kiwi/
 almalinux.savoirfairelinux.net/
 almalinux.schlundtech.de/
 almalinux.si/
-almalinux.uib.no/
 almalinux.virtono.com/
 almalinux.vpsttt.com/
 almalinux.web.trex.fi/
@@ -62,12 +62,17 @@ asnet.am/
 atl.mirrors.clouvider.net/
 atl.mirrors.ezscale.cloud/
 atl.mirrors.knownhost.com/
+aws.amazon.com/
 azvps.vn/
 beltelecom.by/
 bharatdatacenter.com/
 bitency.nl/
 blog.almalinux.org/
+blr.aws.repo.almalinux.org/
+bna.aws.repo.almalinux.org/
+bne.aws.repo.almalinux.org/
 boinc.teambelgium.net/
+bos.aws.repo.almalinux.org/
 brentk.io/
 bugs.almalinux.org/
 bytes.ua/
@@ -90,6 +95,7 @@ dal.mirrors.clouvider.net/
 datamossa.com/
 datautama.net.id/
 de.mirrors.clouvider.net/
+den.aws.repo.almalinux.org/
 dewabiz.com/
 distrohub.kyiv.ua/
 diyarciftci.xyz/
@@ -110,6 +116,7 @@ famaserver.com/
 fcix.net/
 fibia.dk/
 flokinet.is/
+for.aws.repo.almalinux.org/
 forksystems.mm.fcix.net/
 fr2.rpmfind.net/
 free.nchc.org.tw/
@@ -178,7 +185,6 @@ ir.almalinux.sindad.cloud/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
-itc.zju.edu.cn/
 ixirhost.com/
 jagoanhosting.com/
 jetserver.co.il/
@@ -192,8 +198,6 @@ la.mirrors.clouvider.net/
 latigo.net/
 leaseweb.com/
 leitecastro.com/
-lidsol.fi-b.unam.mx/
-lidsol.unam.mx/
 linux-mirrors.fnal.gov/
 linux.domainesia.com/
 linux.duke.edu/
@@ -265,6 +269,7 @@ mirror.esecuredata.com/
 mirror.eu.4psacloud.com/
 mirror.facebook.net/
 mirror.famaserver.com/
+mirror.fcix.net/
 mirror.fiu.edu/
 mirror.flo.c-f.ro/
 mirror.fmt-2.serverforge.org/
@@ -286,7 +291,6 @@ mirror.hoster.kz/
 mirror.hosthink.net/
 mirror.hostiko.network/
 mirror.hs-esslingen.de/
-mirror.ibcp.fr/
 mirror.ihost.md/
 mirror.in2p3.fr/
 mirror.init7.net/
@@ -335,7 +339,6 @@ mirror.parsdev.com/
 mirror.pit.teraswitch.com/
 mirror.plusline.net/
 mirror.previder.nl/
-mirror.ps.kz/
 mirror.rackspeed.de/
 mirror.raiolanetworks.com/
 mirror.randhost.com/
@@ -380,7 +383,6 @@ mirror.vtti.vt.edu/
 mirror.wd6.net/
 mirror.wdc2.us.leaseweb.net/
 mirror.webworld.ie/
-mirror.wiseglobalsolutions.com/
 mirror.wonchan.net/
 mirror.xenyth.net/
 mirror.xeonbd.com/
@@ -449,10 +451,12 @@ mirrors.xtom.de/
 mirrors.xtom.ee/
 mirrors.xtom.jp/
 mirrors.xtom.nl/
-mirrors.zju.edu.cn/
+mnl.aws.repo.almalinux.org/
 mobinhost.com/
 monovm.com/
 mr.heru.id/
+msp.aws.repo.almalinux.org/
+mum.aws.repo.almalinux.org/
 muug.ca/
 nc-mirror.iwebfusion.net/
 nchc.org.tw/
@@ -479,6 +483,7 @@ ord.mirror.rackspace.com/
 osuosl.org/
 ourhost.az/
 parsdev.com/
+per.aws.repo.almalinux.org/
 phoenixnap.com/
 phx.mirrors.clouvider.net/
 pit.mirror.jurassicinnovations.com/
@@ -486,6 +491,7 @@ pkg.adfinis-on-exoscale.ch/
 planethoster.com/
 plug-mirror.rcac.purdue.edu/
 purduelug.org/
+qro.aws.repo.almalinux.org/
 rackspeed.de/
 raiolanetworks.com/
 randhost.com/
@@ -561,6 +567,7 @@ www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
 www.aliyun.com/
+www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
 www.anquan.cl/
@@ -593,6 +600,7 @@ www.domainhizmetleri.com/
 www.edgoo.io/
 www.elhacker.net/
 www.esecuredata.com/
+www.excellmedia.net/
 www.exoscale.com/
 www.fastly.com/
 www.fi.muni.cz/
@@ -615,7 +623,6 @@ www.host.ag/
 www.hosthink.net/
 www.hostiserver.com/
 www.hs-esslingen.de/
-www.ibcp.fr/
 www.idkom.de/
 www.iij.ad.jp/
 www.init7.net/
@@ -661,7 +668,6 @@ www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
 www.previder.com/
-www.ps.kz/
 www.psnc.pl/
 www.qlu.edu.cn/
 www.rackspace.com/
@@ -695,7 +701,6 @@ www.twds.com.tw/
 www.uam.es/
 www.ucr.ac.cr/
 www.ucsb.edu/
-www.uib.no/
 www.ukraine.com.ua/
 www.ukservers.com/
 www.uni-ruse.bg/
@@ -709,7 +714,6 @@ www.wd6.net/
 www.wearetriple.com/
 www.web-hosting.net.my/
 www.webworld.ie/
-www.wiseglobalsolutions.com/
 www.xeonbd.com/
 www.yamagata-u.ac.jp/
 www.yuccatelecom.com/
