@@ -45,6 +45,7 @@ almalinux.mirrorservice.org/
 almalinux.mobinhost.com/
 almalinux.nic.cz/
 almalinux.org/
+almalinux.ourhome.kiwi/
 almalinux.savoirfairelinux.net/
 almalinux.schlundtech.de/
 almalinux.si/
@@ -95,10 +96,10 @@ datautama.net.id/
 de.mirrors.clouvider.net/
 den.aws.repo.almalinux.org/
 dewabiz.com/
-distrohub.kyiv.ua/
 diyarciftci.xyz/
 docker.ru/
 doit.missouri.edu/
+domainesia.com/
 dotsrc.org/
 dsu.edu/
 ekiphost.com/
@@ -108,6 +109,7 @@ en.isoc.org.il/
 eng.mephi.ru/
 extreme-ix.org/
 ezscale.cloud/
+fam.org.nz/
 famaserver.com/
 fcix.net/
 fibia.dk/
@@ -127,12 +129,12 @@ ftp.fau.de/
 ftp.gwdg.de/
 ftp.halifax.rwth-aachen.de/
 ftp.iij.ad.jp/
-ftp.jaist.ac.jp/
 ftp.linux.cz/
 ftp.lug.ro/
 ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
+ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -153,13 +155,13 @@ hivelocity.net/
 hkg.mirror.rackspace.com/
 hnd.cl/
 hnl.fastly.repo.almalinux.org/
+home.cern/
 host4.biz/
 hostarts.dz/
 hostbaran.com/
 hoster.kz/
 hosterion.ro/
 hostico.ro/
-hostiko.com.ua/
 hostingdunyam.com.tr/
 iad.mirror.rackspace.com/
 icscoe.jp/
@@ -192,9 +194,13 @@ la.mirrors.clouvider.net/
 latigo.net/
 leaseweb.com/
 leitecastro.com/
+lidsol.fi-b.unam.mx/
+lidsol.unam.mx/
 linux-mirrors.fnal.gov/
+linux.domainesia.com/
 linux.duke.edu/
 linuxpatch.com/
+linuxsoft.cern.ch/
 lon.mirror.rackspace.com/
 lug.hit.edu.cn/
 lyrahosting.com/
@@ -281,7 +287,6 @@ mirror.hostarts.dz/
 mirror.hostbaran.com/
 mirror.hoster.kz/
 mirror.hosthink.net/
-mirror.hostiko.network/
 mirror.hs-esslingen.de/
 mirror.ibcp.fr/
 mirror.ihost.md/
@@ -351,7 +356,6 @@ mirror.sfo12.us.leaseweb.net/
 mirror.sg.gs/
 mirror.siena.edu/
 mirror.sitsa.com.ar/
-mirror.siwoo.org/
 mirror.sjtu.edu.cn/
 mirror.snu.edu.in/
 mirror.soonkeat.sg/
@@ -426,7 +430,6 @@ mirrors.ocf.berkeley.edu/
 mirrors.onenet.net/
 mirrors.pt/
 mirrors.ptisp.pt/
-mirrors.qlu.edu.cn/
 mirrors.rda.poa.br/
 mirrors.rit.edu/
 mirrors.ruk-com.cloud/
@@ -502,6 +505,7 @@ rit.edu/
 ro.mirror.flokinet.net/
 rootlicense.com/
 rpmfind.net/
+rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
 rsync.gtlib.gatech.edu/
 rsync.mirror.gi.co.id/
@@ -626,7 +630,6 @@ www.ipserverone.com/
 www.itworxx.de/
 www.iu13.org/
 www.iwebfusion.net/
-www.jaist.ac.jp/
 www.junda.nl/
 www.keepsec.ca/
 www.kent.ac.uk/
@@ -665,11 +668,11 @@ www.plusline.net/
 www.previder.com/
 www.ps.kz/
 www.psnc.pl/
-www.qlu.edu.cn/
 www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
+www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
@@ -679,7 +682,6 @@ www.shastacoe.org/
 www.shinjiru.com/
 www.siena.edu/
 www.sitsa.com.ar/
-www.siwoo.org/
 www.sox.rs/
 www.stadtwerke-soest.de/
 www.steadfast.net/
