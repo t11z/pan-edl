@@ -10,7 +10,6 @@ atl.mirrors.clouvider.net/
 aze.archive.ubuntu.com/
 cdn.repo.cloudeka.id/
 cdn.ubuntu.repo.cloudeka.id/
-cesium.di.uminho.pt/
 cz.archive.ubuntu.com/
 dal.mirrors.clouvider.net/
 de.mirrors.clouvider.net/
@@ -160,7 +159,6 @@ mirror.datacenter.mn/
 mirror.datamossa.io/
 mirror.de.leaseweb.net/
 mirror.dewabiz.com/
-mirror.digitaloceans.dev/
 mirror.digitalpacific.com.au/
 mirror.dkm.cz/
 mirror.docker.ru/
