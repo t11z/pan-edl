@@ -29,6 +29,7 @@ almalinux.mirror.digitalpacific.com.au/
 almalinux.mirror.garr.it/
 almalinux.mirror.globo.tech/
 almalinux.mirror.katapult.io/
+almalinux.mirror.letscloud.io/
 almalinux.mirror.liquidtelecom.com/
 almalinux.mirror.liteserver.nl/
 almalinux.mirror.net.za/
@@ -36,7 +37,6 @@ almalinux.mirror.scopesky.com/
 almalinux.mirror.shastacoe.net/
 almalinux.mirror.sofia.incognet.io/
 almalinux.mirror.thegigabit.com/
-almalinux.mirror.ukraine.com.ua/
 almalinux.mirror.wearetriple.com/
 almalinux.mirrors.behostings.net/
 almalinux.mirrors.itworxx.de/
@@ -45,7 +45,6 @@ almalinux.mirrorservice.org/
 almalinux.mobinhost.com/
 almalinux.nic.cz/
 almalinux.org/
-almalinux.ourhome.kiwi/
 almalinux.savoirfairelinux.net/
 almalinux.schlundtech.de/
 almalinux.si/
@@ -96,10 +95,10 @@ datautama.net.id/
 de.mirrors.clouvider.net/
 den.aws.repo.almalinux.org/
 dewabiz.com/
+distrohub.kyiv.ua/
 diyarciftci.xyz/
 docker.ru/
 doit.missouri.edu/
-domainesia.com/
 dotsrc.org/
 dsu.edu/
 ekiphost.com/
@@ -109,7 +108,6 @@ en.isoc.org.il/
 eng.mephi.ru/
 extreme-ix.org/
 ezscale.cloud/
-fam.org.nz/
 famaserver.com/
 fcix.net/
 fibia.dk/
@@ -155,13 +153,13 @@ hivelocity.net/
 hkg.mirror.rackspace.com/
 hnd.cl/
 hnl.fastly.repo.almalinux.org/
-home.cern/
 host4.biz/
 hostarts.dz/
 hostbaran.com/
 hoster.kz/
 hosterion.ro/
 hostico.ro/
+hostiko.com.ua/
 hostingdunyam.com.tr/
 iad.mirror.rackspace.com/
 icscoe.jp/
@@ -194,13 +192,9 @@ la.mirrors.clouvider.net/
 latigo.net/
 leaseweb.com/
 leitecastro.com/
-lidsol.fi-b.unam.mx/
-lidsol.unam.mx/
 linux-mirrors.fnal.gov/
-linux.domainesia.com/
 linux.duke.edu/
 linuxpatch.com/
-linuxsoft.cern.ch/
 lon.mirror.rackspace.com/
 lug.hit.edu.cn/
 lyrahosting.com/
@@ -287,6 +281,7 @@ mirror.hostarts.dz/
 mirror.hostbaran.com/
 mirror.hoster.kz/
 mirror.hosthink.net/
+mirror.hostiko.network/
 mirror.hs-esslingen.de/
 mirror.ibcp.fr/
 mirror.ihost.md/
@@ -333,7 +328,6 @@ mirror.nodespace.com/
 mirror.nyist.edu.cn/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
-mirror.papua.go.id/
 mirror.parsdev.com/
 mirror.pit.teraswitch.com/
 mirror.plusline.net/
@@ -436,7 +430,6 @@ mirrors.qlu.edu.cn/
 mirrors.rda.poa.br/
 mirrors.rit.edu/
 mirrors.ruk-com.cloud/
-mirrors.sonic.net/
 mirrors.storpool.com/
 mirrors.teamcloud.am/
 mirrors.tencent.com/
@@ -509,11 +502,9 @@ rit.edu/
 ro.mirror.flokinet.net/
 rootlicense.com/
 rpmfind.net/
-rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
 rsync.gtlib.gatech.edu/
 rsync.mirror.gi.co.id/
-rsync.mirror.papua.go.id/
 rsync.mirrorservice.org/
 rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
@@ -642,6 +633,7 @@ www.kent.ac.uk/
 www.kku.ac.th/
 www.knownhost.com/
 www.lchs.com.au/
+www.letscloud.io/
 www.limda.net/
 www.linkedin.com/
 www.liquid.tech/
@@ -667,7 +659,6 @@ www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
 www.ox.ac.uk/
-www.papua.go.id/
 www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
@@ -689,7 +680,6 @@ www.shinjiru.com/
 www.siena.edu/
 www.sitsa.com.ar/
 www.siwoo.org/
-www.sonic.com/
 www.sox.rs/
 www.stadtwerke-soest.de/
 www.steadfast.net/
@@ -706,7 +696,6 @@ www.uam.es/
 www.ucr.ac.cr/
 www.ucsb.edu/
 www.uib.no/
-www.ukraine.com.ua/
 www.ukservers.com/
 www.uni-ruse.bg/
 www.upr.edu/
