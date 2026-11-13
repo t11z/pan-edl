@@ -320,6 +320,7 @@ mirrors.nxthost.com/
 mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
 mirrors.ptisp.pt/
+mirrors.qlu.edu.cn/
 mirrors.tuna.tsinghua.edu.cn/
 mirrors.up.pt/
 mirrors.ustc.edu.cn/
