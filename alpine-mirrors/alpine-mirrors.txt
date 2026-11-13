@@ -31,6 +31,7 @@ mirror.2degrees.nz/
 mirror.5i.fi/
 mirror.aarnet.edu.au/
 mirror.accum.se/
+mirror.acm.umn.edu/
 mirror.alwyzon.net/
 mirror.bahnhof.net/
 mirror.clarkson.edu/
@@ -83,7 +84,6 @@ mirrors.aliyun.com/
 mirrors.dotsrc.org/
 mirrors.edge.kernel.org/
 mirrors.gigenet.com/
-mirrors.hosterion.ro/
 mirrors.hostico.ro/
 mirrors.hust.edu.cn/
 mirrors.ircam.fr/

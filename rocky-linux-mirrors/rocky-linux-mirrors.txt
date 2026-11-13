@@ -86,7 +86,6 @@ mirror.nevacloud.com/
 mirror.nju.edu.cn/
 mirror.nsc.liu.se/
 mirror.ourhost.az/
-mirror.pangkin.com/
 mirror.plusline.net/
 mirror.ps.kz/
 mirror.puzzle.ch/
@@ -109,6 +108,7 @@ mirror.tzulo.com/
 mirror.uepg.br/
 mirror.uv.es/
 mirror.verinomi.com/
+mirror.veritescil.com.tr/
 mirror.vsm.sh/
 mirror.web-ster.com/
 mirror.wonchan.net/
@@ -136,7 +136,6 @@ nevacloud.com/
 nyc.mirrors.clouvider.net/
 ossplanet.net/
 ourhost.az/
-pangkin.me/
 pit.mirror.jurassicinnovations.com/
 radwebhosting.com/
 raiolanetworks.com/
@@ -267,6 +266,7 @@ www.upr.edu/
 www.uv.es/
 www.vereinigte-stadtwerke.de/
 www.verinomi.com/
+www.veritescil.com.tr/
 www.vodafone.cz/
 www.wonchan.net/
 www.yamagata-u.ac.jp/
