@@ -96,6 +96,7 @@ datautama.net.id/
 de.mirrors.clouvider.net/
 den.aws.repo.almalinux.org/
 dewabiz.com/
+distrohub.kyiv.ua/
 diyarciftci.xyz/
 docker.ru/
 doit.missouri.edu/
@@ -129,7 +130,6 @@ ftp.fau.de/
 ftp.gwdg.de/
 ftp.halifax.rwth-aachen.de/
 ftp.iij.ad.jp/
-ftp.jaist.ac.jp/
 ftp.linux.cz/
 ftp.lug.ro/
 ftp.lysator.liu.se/
@@ -163,6 +163,7 @@ hostbaran.com/
 hoster.kz/
 hosterion.ro/
 hostico.ro/
+hostiko.com.ua/
 hostingdunyam.com.tr/
 iad.mirror.rackspace.com/
 icscoe.jp/
@@ -271,7 +272,6 @@ mirror.fiu.edu/
 mirror.flo.c-f.ro/
 mirror.fmt-2.serverforge.org/
 mirror.freedif.org/
-mirror.fysik.dtu.dk/
 mirror.gi.co.id/
 mirror.gozunga.com/
 mirror.grid.uchicago.edu/
@@ -286,6 +286,7 @@ mirror.hostarts.dz/
 mirror.hostbaran.com/
 mirror.hoster.kz/
 mirror.hosthink.net/
+mirror.hostiko.network/
 mirror.hs-esslingen.de/
 mirror.ibcp.fr/
 mirror.ihost.md/
@@ -336,12 +337,12 @@ mirror.parsdev.com/
 mirror.pit.teraswitch.com/
 mirror.plusline.net/
 mirror.previder.nl/
-mirror.ps.kz/
 mirror.rackspeed.de/
 mirror.raiolanetworks.com/
 mirror.randhost.com/
 mirror.rcg.sfu.ca/
 mirror.realcompute.io/
+mirror.reenigne.net/
 mirror.renu.ac.ug/
 mirror.rnet.missouri.edu/
 mirror.rootlicense.com/
@@ -433,6 +434,7 @@ mirrors.qlu.edu.cn/
 mirrors.rda.poa.br/
 mirrors.rit.edu/
 mirrors.ruk-com.cloud/
+mirrors.sonic.net/
 mirrors.storpool.com/
 mirrors.teamcloud.am/
 mirrors.tencent.com/
@@ -493,6 +495,7 @@ rackspeed.de/
 raiolanetworks.com/
 randhost.com/
 rda.run/
+reenigne.net/
 renu.ac.ug/
 repo.almalinux.org/
 repo.extreme-ix.org/
@@ -602,7 +605,6 @@ www.fastly.com/
 www.fi.muni.cz/
 www.fiu.edu/
 www.fnal.gov/
-www.fysik.dtu.dk/
 www.garr.it/
 www.gbnetwork.com/
 www.gethosted.online/
@@ -628,7 +630,6 @@ www.ipserverone.com/
 www.itworxx.de/
 www.iu13.org/
 www.iwebfusion.net/
-www.jaist.ac.jp/
 www.junda.nl/
 www.keepsec.ca/
 www.kent.ac.uk/
@@ -665,7 +666,6 @@ www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
 www.previder.com/
-www.ps.kz/
 www.psnc.pl/
 www.qlu.edu.cn/
 www.rackspace.com/
@@ -682,6 +682,7 @@ www.shastacoe.org/
 www.shinjiru.com/
 www.siena.edu/
 www.sitsa.com.ar/
+www.sonic.com/
 www.sox.rs/
 www.stadtwerke-soest.de/
 www.steadfast.net/
