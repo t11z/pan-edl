@@ -92,7 +92,6 @@ glua.ua.pt/
 gpl.savoirfairelinux.net/
 http.krfoss.org/
 ir.archive.ubuntu.com/
-ir.ubuntu.sindad.cloud/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
@@ -120,6 +119,7 @@ mirror.aarnet.edu.au/
 mirror.aktkn.sg/
 mirror.alastyr.com/
 mirror.alwyzon.net/
+mirror.amscloud.co.id/
 mirror.anigil.com/
 mirror.aptus.co.tz/
 mirror.arizona.edu/
@@ -499,6 +499,7 @@ sft.if.usp.br/
 sft.if.usp.br:/
 sg-mirrors.vhost.vn/
 softlibre.unizar.es/
+storage.dim.uchile.cl/
 suro.ubaya.ac.id/
 suse.uni-leipzig.de/
 tw1.mirror.blendbyte.net/
@@ -506,7 +507,6 @@ ubuntu-archive.interhost.co.il/
 ubuntu-archive.locaweb.com.br/
 ubuntu-archive.mirror.liquidtelecom.com/
 ubuntu-archive.mirror.serveriai.lt/
-ubuntu-mirror.ati.tn/
 ubuntu-mirror.puq.apoapsis.cl/
 ubuntu-mirror.snu.edu.in/
 ubuntu-mirror.ufes.br/
