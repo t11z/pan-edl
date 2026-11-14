@@ -82,6 +82,7 @@ debian.xtdv.net/
 debianmirror.una.ac.cr/
 debpkg.libranext.com/
 depot-debian.univ-reunion.fr/
+distrohub.kyiv.ua/
 elmirror.cl/
 free.hands.com/
 ftp-stud.hs-esslingen.de/
@@ -239,7 +240,6 @@ mirror.linux.org.au/
 mirror.linux.ro/
 mirror.litnet.lt/
 mirror.lug.umbc.edu/
-mirror.lzu.edu.cn/
 mirror.maeen.sa/
 mirror.marwan.ma/
 mirror.mephi.ru/
