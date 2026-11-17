@@ -246,7 +246,6 @@ mirror.liberty-connect.com/
 mirror.limda.net/
 mirror.lostpacket.org/
 mirror.lstn.net/
-mirror.lug.umbc.edu/
 mirror.lyrahosting.com/
 mirror.maeen.sa/
 mirror.marcusn.net/
