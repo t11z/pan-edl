@@ -1,5 +1,4 @@
 2degrees.nz/
-EcuaLinux.com/
 a1.mk/
 africloud.com/
 agdsn.de/
@@ -76,7 +75,6 @@ mirror.isoc.org.il/
 mirror.it4i.cz/
 mirror.karneval.cz/
 mirror.krfoss.org/
-mirror.linux.ec/
 mirror.maeen.sa/
 mirror.marwan.ma/
 mirror.netsite.dk/
