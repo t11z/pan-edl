@@ -49,6 +49,7 @@ in.dyi.ng/
 in.mirrors.cicku.me/
 insecure.nluug.nl/
 it.vcea.wsu.edu/
+it2.mirror.vhosting-it.com/
 krfoss.org/
 maeen.sa/
 marwan.ma/
@@ -263,6 +264,7 @@ www.uv.es/
 www.vereinigte-stadtwerke.de/
 www.verinomi.com/
 www.veritescil.com.tr/
+www.vhosting.com/
 www.vodafone.cz/
 www.wonchan.net/
 www.yamagata-u.ac.jp/

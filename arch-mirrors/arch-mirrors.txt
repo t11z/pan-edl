@@ -556,6 +556,7 @@ us.mirrors.mk/
 vlst.su/
 volico.mm.fcix.net/
 wan.metrosg.ru/
+warsaw.mirror.pkgbuild.com/
 wcbmedia.io/
 wcbmedia.io:8000/
 web.sketserv.ru/

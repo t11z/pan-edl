@@ -82,7 +82,6 @@ debian.xtdv.net/
 debianmirror.una.ac.cr/
 debpkg.libranext.com/
 depot-debian.univ-reunion.fr/
-distrohub.kyiv.ua/
 elmirror.cl/
 free.hands.com/
 ftp-stud.hs-esslingen.de/
@@ -196,7 +195,6 @@ mirror.braindrainlan.nu/
 mirror.clarkson.edu/
 mirror.cloudhosting.lv/
 mirror.cogentco.com/
-mirror.corbina.net/
 mirror.cov.ukservers.com/
 mirror.cpsc.ucalgary.ca/
 mirror.creoline.net/
@@ -299,7 +297,6 @@ mirror.zyner.org/
 mirror1.infomaniak.com/
 mirror2.infomaniak.com/
 mirrors.accretive-networks.net/
-mirrors.bfsu.edu.cn/
 mirrors.bloomu.edu/
 mirrors.cloudforest.co.th/
 mirrors.coreix.net/

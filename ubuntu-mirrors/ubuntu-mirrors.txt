@@ -89,6 +89,7 @@ ftp.uvigo.es/
 ftp5.gwdg.de/
 ftpmirror1.infania.net/
 ftpserv.tudelft.nl/
+giano.com.dist.unige.it/
 glua.ua.pt/
 gpl.savoirfairelinux.net/
 http.krfoss.org/
@@ -271,6 +272,7 @@ mirror.nevacloud.com/
 mirror.nevaedge.net/
 mirror.nforce.com/
 mirror.niif.hu/
+mirror.nitc.ac.in/
 mirror.nju.edu.cn/
 mirror.nl.altushost.com/
 mirror.nl.as215296.net/
@@ -412,6 +414,7 @@ mirrors.hosterion.ro/
 mirrors.hostico.ro/
 mirrors.hostiserver.com/
 mirrors.huaweicloud.com/
+mirrors.idcloudhost.com/
 mirrors.ipserverone.com/
 mirrors.ircam.fr/
 mirrors.iu13.net/
