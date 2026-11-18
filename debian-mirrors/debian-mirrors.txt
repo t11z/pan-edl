@@ -277,6 +277,7 @@ mirror.tzulo.com/
 mirror.uepg.br/
 mirror.ufscar.br/
 mirror.uk.hyehost.net/
+mirror.ukrnames.com/
 mirror.unair.ac.id/
 mirror.undernet.uy/
 mirror.united-gameserver.de/

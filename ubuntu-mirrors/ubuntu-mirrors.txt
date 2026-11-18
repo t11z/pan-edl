@@ -247,6 +247,7 @@ mirror.limda.net/
 mirror.lostpacket.org/
 mirror.lstn.net/
 mirror.lyrahosting.com/
+mirror.lzu.edu.cn/
 mirror.maeen.sa/
 mirror.marcusn.net/
 mirror.marwan.ma/
@@ -288,6 +289,7 @@ mirror.pit.teraswitch.com/
 mirror.plusserver.com/
 mirror.plustech.de/
 mirror.poliwangi.ac.id/
+mirror.premierdc.com.tr/
 mirror.previder.nl/
 mirror.ps.kz/
 mirror.rabisu.com/
@@ -403,7 +405,6 @@ mirrors.dotsrc.org/
 mirrors.egr.msu.edu/
 mirrors.evoluso.com/
 mirrors.fibianet.dk/
-mirrors.gbnetwork.com/
 mirrors.gethosted.online/
 mirrors.gigenet.com/
 mirrors.gofiber.vn/
@@ -520,6 +521,7 @@ ubuntu.cs.nctu.edu.tw/
 ubuntu.cs.utah.edu/
 ubuntu.dcc.fc.up.pt/
 ubuntu.depo.gal/
+ubuntu.dts.mg/
 ubuntu.ethz.ch/
 ubuntu.grad.hr/
 ubuntu.grena.ge/
