@@ -241,7 +241,6 @@ mirror.lug.umbc.edu/
 mirror.maeen.sa/
 mirror.marwan.ma/
 mirror.mephi.ru/
-mirror.metanet.ch/
 mirror.mirohost.net/
 mirror.mk.de/
 mirror.mythic-beasts.com/

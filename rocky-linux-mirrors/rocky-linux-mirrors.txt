@@ -93,7 +93,6 @@ mirror.raiolanetworks.com/
 mirror.randhost.com/
 mirror.reenigne.net/
 mirror.rnet.missouri.edu/
-mirror.servaxnet.com/
 mirror.shomepower.com/
 mirror.siena.edu/
 mirror.slu.cz/
@@ -186,6 +185,7 @@ rocky.task.gda.pl/
 rocky.zero.com.ar/
 rockylinux.anexia.at/
 rockylinux.hi.no/
+rockylinux.mirrors.ovh.net/
 rockylinux.mirrorservice.org/
 rockylinux.org/
 rockylinux.uni-sofia.bg/
@@ -239,6 +239,7 @@ www.netzwerge.de/
 www.nluug.nl/
 www.nsc.liu.se/
 www.nxthost.com/
+www.ovhcloud.com/
 www.plusline.net/
 www.ps.kz/
 www.puzzle.ch/
@@ -249,7 +250,6 @@ www.reloumirrors.net/
 www.rit.edu/
 www.rrze.fau.de/
 www.rwth-aachen.de/
-www.servaxnet.com/
 www.shastacoe.org/
 www.siena.edu/
 www.siliconhill.cz/
