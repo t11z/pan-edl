@@ -112,6 +112,7 @@ mirror.yandex.ru/
 mirror.yer.az/
 mirror.zyner.org/
 mirror5.krfoss.org/
+mirror6.krfoss.org/
 mirrors.esto.network/
 mirrors.gigenet.com/
 mirrors.hostiserver.com/
@@ -191,6 +192,7 @@ rockylinux.uni-sofia.bg/
 rsync.krfoss.org/
 rsync.mirrorservice.org/
 rsync5.krfoss.org/
+rsync6.krfoss.org/
 ru.dyi.ng/
 ru.mirrors.cicku.me/
 sa.dyi.ng/
