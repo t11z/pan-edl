@@ -189,7 +189,6 @@ rockylinux.mirrors.ovh.net/
 rockylinux.mirrorservice.org/
 rockylinux.org/
 rockylinux.uni-sofia.bg/
-rsync.krfoss.org/
 rsync.mirrorservice.org/
 rsync5.krfoss.org/
 rsync6.krfoss.org/

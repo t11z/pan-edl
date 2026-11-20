@@ -23,6 +23,7 @@ debian.cif.rochester.edu/
 debian.connesi.it/
 debian.cs.nycu.edu.tw/
 debian.csail.mit.edu/
+debian.csie.ntu.edu.tw/
 debian.dynamica.it/
 debian.envisagecloud.net.za/
 debian.ethz.ch/
@@ -39,7 +40,6 @@ debian.lth.se/
 debian.ludost.net/
 debian.mirror.ac.ke/
 debian.mirror.constant.com/
-debian.mirror.digitalpacific.com.au/
 debian.mirror.garr.it/
 debian.mirror.globo.tech/
 debian.mirror.iphh.net/
@@ -82,7 +82,6 @@ debian.xtdv.net/
 debianmirror.una.ac.cr/
 debpkg.libranext.com/
 depot-debian.univ-reunion.fr/
-distrohub.kyiv.ua/
 elmirror.cl/
 free.hands.com/
 ftp-stud.hs-esslingen.de/
@@ -193,7 +192,6 @@ mirror.bgp.rodeo/
 mirror.bizflycloud.vn/
 mirror.blue3.com.br/
 mirror.braindrainlan.nu/
-mirror.clarkson.edu/
 mirror.cloudhosting.lv/
 mirror.cogentco.com/
 mirror.cov.ukservers.com/
@@ -276,7 +274,6 @@ mirror.tzulo.com/
 mirror.uepg.br/
 mirror.ufscar.br/
 mirror.uk.hyehost.net/
-mirror.ukrnames.com/
 mirror.unair.ac.id/
 mirror.undernet.uy/
 mirror.united-gameserver.de/
@@ -316,7 +313,6 @@ mirrors.netix.net/
 mirrors.nxthost.com/
 mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
-mirrors.ptisp.pt/
 mirrors.qlu.edu.cn/
 mirrors.tuna.tsinghua.edu.cn/
 mirrors.up.pt/
@@ -330,7 +326,6 @@ mirrors.xtom.jp/
 mirrors.xtom.nl/
 mirrors.zju.edu.cn/
 mirrorservice.org/
-mr.heru.id/
 nl.mirror.flokinet.net/
 nl.mirrors.clouvider.net/
 nyc.mirrors.clouvider.net/
