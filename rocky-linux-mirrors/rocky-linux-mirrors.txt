@@ -73,7 +73,6 @@ mirror.hostarts.dz/
 mirror.hosthink.net/
 mirror.in2p3.fr/
 mirror.isoc.org.il/
-mirror.it4i.cz/
 mirror.karneval.cz/
 mirror.krfoss.org/
 mirror.maeen.sa/
@@ -226,7 +225,6 @@ www.hostiserver.com/
 www.ibiblio.org/
 www.iij.ad.jp/
 www.ipserverone.com/
-www.it4i.cz/
 www.iu13.org/
 www.jaist.ac.jp/
 www.jurassicinnovations.com/

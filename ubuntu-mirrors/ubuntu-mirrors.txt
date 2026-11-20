@@ -7,6 +7,7 @@ archive.ubuntu.com/
 archive.ubuntu.mirror.ba/
 archive.ubuntu.mirror.rafal.ca/
 archive.ubuntu.nautile.nc/
+archive.ubuntumirror.dei.uc.pt/
 artfiles.org/
 atl.mirrors.clouvider.net/
 aze.archive.ubuntu.com/
@@ -25,6 +26,7 @@ dsync.krfoss.org/
 elmirror.cl/
 free.nchc.org.tw/
 ftp-stud.hs-esslingen.de/
+ftp.acc.umu.se/
 ftp.agh.edu.pl/
 ftp.arnes.si/
 ftp.belnet.be/
@@ -34,9 +36,11 @@ ftp.cc.uoc.gr/
 ftp.corbina.net/
 ftp.csuc.cat/
 ftp.cvut.cz/
+ftp.dei.uc.pt/
 ftp.energotel.sk/
 ftp.fau.de/
 ftp.fu-berlin.de/
+ftp.gtlib.gatech.edu/
 ftp.halifax.rwth-aachen.de/
 ftp.hosteurope.de/
 ftp.hostrino.com/
@@ -84,6 +88,8 @@ ftp.udx.icscoe.jp/
 ftp.uni-kl.de/
 ftp.uni-mainz.de/
 ftp.uni-stuttgart.de/
+ftp.uninett.no/
+ftp.usf.edu/
 ftp.ussg.iu.edu/
 ftp.uvigo.es/
 ftp5.gwdg.de/
@@ -123,6 +129,7 @@ mirror.anigil.com/
 mirror.aptus.co.tz/
 mirror.arizona.edu/
 mirror.arvancloud.ir/
+mirror.as.kamatera.com/
 mirror.as29550.net/
 mirror.as43289.net/
 mirror.azvps.vn/
@@ -181,6 +188,7 @@ mirror.eu.4psacloud.com/
 mirror.eu.kamatera.com/
 mirror.exid.us/
 mirror.famaserver.com/
+mirror.faraso.org/
 mirror.fcix.net/
 mirror.fi.ossplanet.net/
 mirror.flo.c-f.ro/
@@ -232,6 +240,8 @@ mirror.jagoanhosting.id/
 mirror.johnnybegood.fr/
 mirror.kairun.jp/
 mirror.kakao.com/
+mirror.kamp.de/
+mirror.kapteyan.com.tr/
 mirror.kkg.berlin/
 mirror.kku.ac.th/
 mirror.krfoss.org/
@@ -249,6 +259,7 @@ mirror.lzu.edu.cn/
 mirror.maeen.sa/
 mirror.marcusn.net/
 mirror.marwan.ma/
+mirror.math.princeton.edu/
 mirror.math.ucdavis.edu/
 mirror.metrocast.net/
 mirror.mia.velocihost.net/
@@ -317,6 +328,7 @@ mirror.siena.edu/
 mirror.sitsa.com.ar/
 mirror.siwoo.org/
 mirror.solnet.ch/
+mirror.solnode.io/
 mirror.soonkeat.sg/
 mirror.sprinthost.ru/
 mirror.steadfastnet.com/
@@ -347,11 +359,15 @@ mirror.unesp.br/
 mirror.unet.by/
 mirror.united-gameserver.de/
 mirror.unix-solutions.be/
+mirror.uoregon.edu/
+mirror.us-midwest-1.nexcess.net/
 mirror.us-ny2.kamatera.com/
+mirror.us-sc.kamatera.com/
 mirror.us-tx.kamatera.com/
 mirror.us.leaseweb.net/
 mirror.usetelecom.com.br/
 mirror.vcu.edu/
+mirror.veesp.com/
 mirror.velden.media/
 mirror.verinomi.com/
 mirror.veritescil.com.tr/
@@ -360,6 +376,7 @@ mirror.viettelcloud.vn/
 mirror.vinehost.net/
 mirror.visiontech.com.bd/
 mirror.vnet.sk/
+mirror.vorboss.net/
 mirror.vpgrp.io/
 mirror.vpsnet.com/
 mirror.vsm.sh/
@@ -421,6 +438,7 @@ mirrors.krnk.org/
 mirrors.layeronline.com/
 mirrors.leafwolf.net/
 mirrors.liquidweb.com/
+mirrors.lug.mtu.edu/
 mirrors.maine.edu/
 mirrors.melbourne.co.uk/
 mirrors.mit.edu/
@@ -452,6 +470,7 @@ mirrors.tscak.com/
 mirrors.tuna.tsinghua.edu.cn/
 mirrors.ubuntu.dimit.cloud/
 mirrors.ukfast.co.uk/
+mirrors.up.pt/
 mirrors.upr.edu/
 mirrors.us.kernel.org/
 mirrors.usinternet.com/
@@ -479,6 +498,7 @@ ossmirror.mycloud.services/
 pkg.adfinis-on-exoscale.ch/
 pkg.adfinis.com/
 plug-mirror.rcac.purdue.edu/
+pubmirrors.dal.corespace.com/
 rep-ubuntu-il.upress.io/
 repo.huaweicloud.com/
 repo.ialab.dsu.edu/
@@ -490,6 +510,7 @@ repo.ugm.ac.id/
 repo.usk.ac.id/
 repos.del.extreme-ix.org/
 repos.interior.edu.uy/
+rsync.gtlib.gatech.edu/
 rsync.icm.edu.pl/
 rsync.mirror.zzunipark.com/
 rsync.mirrors.ustc.edu.cn/
@@ -506,11 +527,13 @@ softlibre.unizar.es/
 storage.dim.uchile.cl/
 suro.ubaya.ac.id/
 suse.uni-leipzig.de/
+tux.rainside.sk/
 tw1.mirror.blendbyte.net/
 ubuntu-archive.interhost.co.il/
 ubuntu-archive.locaweb.com.br/
 ubuntu-archive.mirror.liquidtelecom.com/
 ubuntu-archive.mirror.serveriai.lt/
+ubuntu-mirror.bhtelecom.ba/
 ubuntu-mirror.puq.apoapsis.cl/
 ubuntu-mirror.snu.edu.in/
 ubuntu-mirror.ufes.br/
@@ -518,6 +541,7 @@ ubuntu.anexia.at/
 ubuntu.btit.nz/
 ubuntu.c3sl.ufpr.br/
 ubuntu.ccns.ncku.edu.tw/
+ubuntu.cica.es/
 ubuntu.cs.nctu.edu.tw/
 ubuntu.cs.utah.edu/
 ubuntu.dcc.fc.up.pt/
@@ -597,4 +621,5 @@ uk.mirrors.clouvider.net/
 vn-mirrors.vhost.vn/
 www-ftp.lip6.fr/
 www.club.cc.cmu.edu/
+www.gtlib.gatech.edu/
 www.mirrorservice.org/
