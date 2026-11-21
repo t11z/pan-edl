@@ -192,7 +192,6 @@ mirror.bgp.rodeo/
 mirror.bizflycloud.vn/
 mirror.blue3.com.br/
 mirror.braindrainlan.nu/
-mirror.clarkson.edu/
 mirror.cloudhosting.lv/
 mirror.cogentco.com/
 mirror.cov.ukservers.com/
@@ -285,7 +284,6 @@ mirror.us.oneandone.net/
 mirror.veesp.com/
 mirror.vinehost.net/
 mirror.vpgrp.io/
-mirror.vpsnet.com/
 mirror.wtnet.de/
 mirror.xeonbd.com/
 mirror.xtom.com.hk/
@@ -343,5 +341,4 @@ security.debian.org/
 softlibre.unizar.es/
 tw1.mirror.blendbyte.net/
 uk.mirrors.clouvider.net/
-ukdebian.mirror.anlx.net/
 www.nic.funet.fi/

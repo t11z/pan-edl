@@ -243,7 +243,6 @@ mirror.kairun.jp/
 mirror.kakao.com/
 mirror.kamp.de/
 mirror.kapteyan.com.tr/
-mirror.kkg.berlin/
 mirror.kku.ac.th/
 mirror.krfoss.org/
 mirror.kst.asia/
@@ -521,8 +520,6 @@ rsync.ubuntu.nautile.nc/
 rsync.udc.es/
 rsync.yuki.net.uk/
 security.ubuntu.com/
-sft.if.usp.br/
-sft.if.usp.br:/
 sg-mirrors.vhost.vn/
 softlibre.unizar.es/
 storage.dim.uchile.cl/
