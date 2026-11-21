@@ -74,6 +74,7 @@ mirror.hosthink.net/
 mirror.in2p3.fr/
 mirror.isoc.org.il/
 mirror.karneval.cz/
+mirror.krfoss.org/
 mirror.maeen.sa/
 mirror.marwan.ma/
 mirror.netsite.dk/
