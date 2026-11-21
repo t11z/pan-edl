@@ -169,6 +169,7 @@ mirror.datacenter.mn/
 mirror.datamossa.io/
 mirror.de.leaseweb.net/
 mirror.dewabiz.com/
+mirror.digitaloceans.dev/
 mirror.digitalpacific.com.au/
 mirror.digitalrepository.eu/
 mirror.dkm.cz/
