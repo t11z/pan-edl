@@ -3,7 +3,6 @@ a1.mk/
 africloud.com/
 agdsn.de/
 amscloud.co.id/
-ash.mirrors.clouvider.net/
 at.dyi.ng/
 at.mirrors.cicku.me/
 auth.gr/
@@ -129,7 +128,6 @@ mirrors.vcea.wsu.edu/
 missouri.edu/
 neterra.net/
 nevacloud.com/
-nyc.mirrors.clouvider.net/
 ossplanet.net/
 ourhost.az/
 pit.mirror.jurassicinnovations.com/
@@ -214,7 +212,6 @@ www.alastyr.com/
 www.anexia.at/
 www.bahnhof.se/
 www.chpc.utah.edu/
-www.clouvider.com/
 www.cogentco.com/
 www.directlink.coop/
 www.dst.ca/

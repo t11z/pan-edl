@@ -175,7 +175,6 @@ lidsol.fi-b.unam.mx/
 linuxsoft.cern.ch/
 merlin.fit.vutbr.cz/
 miroir.univ-lorraine.fr/
-mirror-mk.interspace.com/
 mirror.0x626b.com/
 mirror.141networks.com/
 mirror.23m.com/
@@ -341,4 +340,5 @@ security.debian.org/
 softlibre.unizar.es/
 tw1.mirror.blendbyte.net/
 uk.mirrors.clouvider.net/
+ukdebian.mirror.anlx.net/
 www.nic.funet.fi/

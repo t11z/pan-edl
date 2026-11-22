@@ -29,6 +29,7 @@ almalinux.mirror.digitalpacific.com.au/
 almalinux.mirror.garr.it/
 almalinux.mirror.globo.tech/
 almalinux.mirror.katapult.io/
+almalinux.mirror.letscloud.io/
 almalinux.mirror.liquidtelecom.com/
 almalinux.mirror.liteserver.nl/
 almalinux.mirror.lunovpn.com/
@@ -61,6 +62,7 @@ amscloud.co.id/
 aptus.co.tz/
 arc.kcl.ac.uk/
 ash.mirrors.clouvider.net/
+asnet.am/
 atl.mirrors.clouvider.net/
 atl.mirrors.ezscale.cloud/
 atl.mirrors.knownhost.com/
@@ -189,7 +191,6 @@ ir.almalinux.sindad.cloud/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
-itc.zju.edu.cn/
 ixirhost.com/
 jagoanhosting.com/
 jetserver.co.il/
@@ -199,7 +200,6 @@ kartolo.sby.datautama.net.id/
 katapult.io/
 kozyatagi.mirror.guzel.net.tr/
 krfoss.org/
-krnk.org/
 la.mirrors.clouvider.net/
 latigo.net/
 leaseweb.com/
@@ -321,6 +321,7 @@ mirror.krfoss.org/
 mirror.latigo.net/
 mirror.lchs.network/
 mirror.leitecastro.com/
+mirror.limda.net/
 mirror.linux.duke.edu/
 mirror.linux.ec/
 mirror.liteserver.nl/
@@ -338,6 +339,7 @@ mirror.mtl2.ca.leaseweb.net/
 mirror.net.za/
 mirror.netlen.com.tr/
 mirror.netsite.dk/
+mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nforce.com/
 mirror.nl.altushost.com/
@@ -410,6 +412,7 @@ mirror1.sox.rs/
 mirror3.krfoss.org/
 mirrors.aliyun.com/
 mirrors.almalinux.org/
+mirrors.asnet.am/
 mirrors.bangmod.cloud/
 mirrors.bkns.vn/
 mirrors.bmcc.edu/
@@ -424,7 +427,6 @@ mirrors.egr.msu.edu/
 mirrors.fibianet.dk/
 mirrors.ft.uam.es/
 mirrors.gbnetwork.com/
-mirrors.gethosted.online/
 mirrors.gigenet.com/
 mirrors.gofiber.vn/
 mirrors.hit.edu.cn/
@@ -435,7 +437,6 @@ mirrors.hostiserver.com/
 mirrors.idcloudhost.com/
 mirrors.ipserverone.com/
 mirrors.iu13.net/
-mirrors.krnk.org/
 mirrors.melbourne.co.uk/
 mirrors.mvps.net/
 mirrors.nav.ro/
@@ -468,7 +469,6 @@ mirrors.xtom.de/
 mirrors.xtom.ee/
 mirrors.xtom.jp/
 mirrors.xtom.nl/
-mirrors.zju.edu.cn/
 mnl.aws.repo.almalinux.org/
 mobinhost.com/
 monovm.com/
@@ -626,7 +626,6 @@ www.fiu.edu/
 www.fnal.gov/
 www.garr.it/
 www.gbnetwork.com/
-www.gethosted.online/
 www.gi.co.id/
 www.gigenet.com/
 www.group.one/
@@ -656,6 +655,8 @@ www.kent.ac.uk/
 www.kku.ac.th/
 www.knownhost.com/
 www.lchs.com.au/
+www.letscloud.io/
+www.limda.net/
 www.linkedin.com/
 www.lip6.fr/
 www.liquid.tech/
@@ -672,6 +673,7 @@ www.nav.ro/
 www.netdirekt.com.tr/
 www.netlen.com.tr/
 www.netsite.dk/
+www.netzwerge.de/
 www.nforce.com/
 www.nic.cz/
 www.nic.funet.fi/
