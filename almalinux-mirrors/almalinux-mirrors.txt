@@ -37,7 +37,6 @@ almalinux.mirror.net.za/
 almalinux.mirror.scopesky.com/
 almalinux.mirror.shastacoe.net/
 almalinux.mirror.sofia.incognet.io/
-almalinux.mirror.thegigabit.com/
 almalinux.mirror.ukraine.com.ua/
 almalinux.mirror.wearetriple.com/
 almalinux.mirrors.behostings.net/
@@ -121,7 +120,6 @@ fcix.net/
 fibia.dk/
 flokinet.is/
 for.aws.repo.almalinux.org/
-forksystems.mm.fcix.net/
 fr2.rpmfind.net/
 free.nchc.org.tw/
 freehost.com.ua/
@@ -338,7 +336,6 @@ mirror.moack.co.kr/
 mirror.mtl2.ca.leaseweb.net/
 mirror.net.za/
 mirror.netlen.com.tr/
-mirror.netsite.dk/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
 mirror.nforce.com/
@@ -410,7 +407,6 @@ mirror.yuki.net.uk/
 mirror.zyner.org/
 mirror1.sox.rs/
 mirror3.krfoss.org/
-mirrors.aliyun.com/
 mirrors.almalinux.org/
 mirrors.asnet.am/
 mirrors.bangmod.cloud/
@@ -427,6 +423,7 @@ mirrors.egr.msu.edu/
 mirrors.fibianet.dk/
 mirrors.ft.uam.es/
 mirrors.gbnetwork.com/
+mirrors.gethosted.online/
 mirrors.gigenet.com/
 mirrors.gofiber.vn/
 mirrors.hit.edu.cn/
@@ -558,7 +555,6 @@ tech.africa/
 telepoint.bg/
 teraswitch.com/
 terrahost.no/
-thegigabit.com/
 tino.org/
 truenetwork.ru/
 tx-mirror.tier.net/
@@ -584,7 +580,6 @@ www.VPSnet.com/
 www.aarnet.edu.au/
 www.accum.se/
 www.alastyr.com/
-www.aliyun.com/
 www.almalinux.org/
 www.altushost.com/
 www.alwyzon.com/
@@ -626,6 +621,7 @@ www.fiu.edu/
 www.fnal.gov/
 www.garr.it/
 www.gbnetwork.com/
+www.gethosted.online/
 www.gi.co.id/
 www.gigenet.com/
 www.group.one/
@@ -672,7 +668,6 @@ www.mvps.net/
 www.nav.ro/
 www.netdirekt.com.tr/
 www.netlen.com.tr/
-www.netsite.dk/
 www.netzwerge.de/
 www.nforce.com/
 www.nic.cz/

@@ -232,7 +232,6 @@ mirror.internode.on.net/
 mirror.ipb.de/
 mirror.iranserver.com/
 mirror.it.ubc.ca/
-mirror.it4i.cz/
 mirror.its-tps.fr/
 mirror.its-tps.fr:10000/
 mirror.its.umich.edu/
@@ -317,7 +316,6 @@ mirror.root.lu/
 mirror.rtin.bz/
 mirror.rustytel.net/
 mirror.sabay.com.kh/
-mirror.scaleuptech.com/
 mirror.servaxnet.com/
 mirror.server.net/
 mirror.serverloft.eu/
@@ -442,7 +440,6 @@ mirrors.lug.mtu.edu/
 mirrors.maine.edu/
 mirrors.melbourne.co.uk/
 mirrors.mit.edu/
-mirrors.mivocloud.com/
 mirrors.nav.ro/
 mirrors.neterra.net/
 mirrors.netix.net/
