@@ -27,7 +27,6 @@ debian.csie.ntu.edu.tw/
 debian.dynamica.it/
 debian.envisagecloud.net.za/
 debian.ethz.ch/
-debian.grena.ge/
 debian.grn.cat/
 debian.inf.tu-dresden.de/
 debian.interhost.co.il/
@@ -80,7 +79,6 @@ debian.volia.net/
 debian.web.trex.fi/
 debian.xtdv.net/
 debianmirror.una.ac.cr/
-debpkg.libranext.com/
 depot-debian.univ-reunion.fr/
 elmirror.cl/
 free.hands.com/
@@ -194,7 +192,6 @@ mirror.blue3.com.br/
 mirror.braindrainlan.nu/
 mirror.clarkson.edu/
 mirror.cloudhosting.lv/
-mirror.cogentco.com/
 mirror.cov.ukservers.com/
 mirror.cpsc.ucalgary.ca/
 mirror.creoline.net/
@@ -257,7 +254,6 @@ mirror.ps.kz/
 mirror.radishnetworks.net/
 mirror.raiolanetworks.com/
 mirror.retropc.se/
-mirror.rustytel.net/
 mirror.sabay.com.kh/
 mirror.sg.gs/
 mirror.siena.edu/
@@ -326,7 +322,6 @@ mirrors.xtom.nl/
 mirrors.zju.edu.cn/
 mirrorservice.org/
 nl.mirror.flokinet.net/
-nl.mirrors.clouvider.net/
 nyc.mirrors.clouvider.net/
 opensource.nchc.org.tw/
 pkg.adfinis-on-exoscale.ch/

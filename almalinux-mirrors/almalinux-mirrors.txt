@@ -29,7 +29,6 @@ almalinux.mirror.digitalpacific.com.au/
 almalinux.mirror.garr.it/
 almalinux.mirror.globo.tech/
 almalinux.mirror.katapult.io/
-almalinux.mirror.letscloud.io/
 almalinux.mirror.liquidtelecom.com/
 almalinux.mirror.liteserver.nl/
 almalinux.mirror.lunovpn.com/
@@ -51,7 +50,6 @@ almalinux.ourhome.kiwi/
 almalinux.savoirfairelinux.net/
 almalinux.schlundtech.de/
 almalinux.si/
-almalinux.uib.no/
 almalinux.virtono.com/
 almalinux.vpsttt.com/
 almalinux.web.trex.fi/
@@ -98,9 +96,9 @@ dal.mirrors.clouvider.net/
 datamossa.com/
 datautama.net.id/
 de.mirrors.clouvider.net/
-dedic-center.ru/
 den.aws.repo.almalinux.org/
 dewabiz.com/
+distrohub.kyiv.ua/
 diyarciftci.xyz/
 docker.ru/
 doit.missouri.edu/
@@ -139,9 +137,9 @@ ftp.jaist.ac.jp/
 ftp.linux.cz/
 ftp.lip6.fr/
 ftp.lug.ro/
+ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
-ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -153,6 +151,7 @@ ge.mirror.cloud9.ge/
 github.com/
 globo.tech/
 gofiber.vn/
+gozunga.com/
 gsl-syd.mm.fcix.net/
 hcc-mirror.unl.edu/
 hcc.unl.edu/
@@ -169,8 +168,8 @@ hostbaran.com/
 hoster.kz/
 hosterion.ro/
 hostico.ro/
+hostiko.com.ua/
 hostingdunyam.com.tr/
-iad.mirror.rackspace.com/
 icscoe.jp/
 idcloudhost.com/
 idhosting.pl/
@@ -187,6 +186,7 @@ ipinfo.io/
 ir.almalinux.sindad.cloud/
 is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
+it2.mirror.vhosting-it.com/
 ixirhost.com/
 jagoanhosting.com/
 jetserver.co.il/
@@ -214,6 +214,7 @@ mangohost.net/
 maniaclab.uchicago.edu/
 manutech.at/
 marwan.ma/
+mirror-it-01.monovm.com/
 mirror.01link.hk/
 mirror.0x626b.com/
 mirror.23m.com/
@@ -260,7 +261,6 @@ mirror.dal.nexril.net/
 mirror.datacenter.by/
 mirror.datamossa.io/
 mirror.de.leaseweb.net/
-mirror.dedic-center.ru/
 mirror.dewabiz.com/
 mirror.digitalpacific.com.au/
 mirror.diyarciftci.xyz/
@@ -280,9 +280,12 @@ mirror.fiu.edu/
 mirror.flo.c-f.ro/
 mirror.fmt-2.serverforge.org/
 mirror.freedif.org/
+mirror.gi.co.id/
+mirror.gozunga.com/
 mirror.grid.uchicago.edu/
 mirror.group.one/
 mirror.hashy0917.net/
+mirror.hep.gg/
 mirror.herza.id/
 mirror.hnd.cl/
 mirror.hoasted.com/
@@ -292,6 +295,7 @@ mirror.hostarts.dz/
 mirror.hostbaran.com/
 mirror.hoster.kz/
 mirror.hosthink.net/
+mirror.hostiko.network/
 mirror.hs-esslingen.de/
 mirror.ibcp.fr/
 mirror.ihost.md/
@@ -344,12 +348,10 @@ mirror.parsdev.com/
 mirror.phoenix.ioflood.com/
 mirror.pit.teraswitch.com/
 mirror.plusline.net/
-mirror.previder.nl/
 mirror.ps.kz/
 mirror.rackspeed.de/
 mirror.raiolanetworks.com/
 mirror.randhost.com/
-mirror.rcg.sfu.ca/
 mirror.realcompute.io/
 mirror.renu.ac.ug/
 mirror.rnet.missouri.edu/
@@ -462,6 +464,7 @@ mirrors.xtom.jp/
 mirrors.xtom.nl/
 mnl.aws.repo.almalinux.org/
 mobinhost.com/
+monovm.com/
 mr.heru.id/
 msp.aws.repo.almalinux.org/
 mum.aws.repo.almalinux.org/
@@ -482,7 +485,6 @@ nyc.almalinux.osuosl.org/
 nyc.mirrors.clouvider.net/
 nyuad.nyu.edu/
 ocf.berkeley.edu/
-ohioix.mm.fcix.net/
 oit.gatech.edu/
 opensource.fb.com/
 or-mirror.iwebfusion.net/
@@ -516,6 +518,7 @@ rpmfind.net/
 rsync-linuxsoft.cern.ch/
 rsync.elhacker.net/
 rsync.gtlib.gatech.edu/
+rsync.mirror.gi.co.id/
 rsync.mirrorservice.org/
 rsync.nic.funet.fi/
 rsync.repo.almalinux.org/
@@ -541,6 +544,7 @@ syd.mirror.rackspace.com/
 tc.edu.tw/
 team-cymru.com/
 team.blue/
+teamhydra.dev/
 tech.africa/
 telepoint.bg/
 teraswitch.com/
@@ -558,6 +562,7 @@ usi.edu/
 veesp.com/
 vhost.vn/
 vn-mirrors.vhost.vn/
+volico.mm.fcix.net/
 vpsttt.com/
 wayne.edu/
 wiki.almalinux.org/
@@ -613,6 +618,7 @@ www.fnal.gov/
 www.garr.it/
 www.gbnetwork.com/
 www.gethosted.online/
+www.gi.co.id/
 www.gigenet.com/
 www.group.one/
 www.gtlib.gatech.edu/
@@ -641,7 +647,6 @@ www.kent.ac.uk/
 www.kku.ac.th/
 www.knownhost.com/
 www.lchs.com.au/
-www.letscloud.io/
 www.limda.net/
 www.linkedin.com/
 www.lip6.fr/
@@ -649,6 +654,7 @@ www.liquid.tech/
 www.liquidweb.com/
 www.liteserver.nl/
 www.lunovpn.com/
+www.lysator.liu.se/
 www.maeen.sa/
 www.maple-hosting.com/
 www.melbourne.co.uk/
@@ -671,7 +677,6 @@ www.ox.ac.uk/
 www.peralex.com/
 www.physics.uoc.gr/
 www.plusline.net/
-www.previder.com/
 www.ps.kz/
 www.psnc.pl/
 www.qlu.edu.cn/
@@ -679,12 +684,10 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
-www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
 www.server.net/
-www.sfu.ca/
 www.shastacoe.org/
 www.shinjiru.com/
 www.siena.edu/
@@ -705,7 +708,6 @@ www.twds.com.tw/
 www.uam.es/
 www.ucr.ac.cr/
 www.ucsb.edu/
-www.uib.no/
 www.ukraine.com.ua/
 www.ukservers.com/
 www.uni-bayreuth.de/
