@@ -239,7 +239,6 @@ mirror.lug.umbc.edu/
 mirror.maeen.sa/
 mirror.marwan.ma/
 mirror.mephi.ru/
-mirror.mirohost.net/
 mirror.mk.de/
 mirror.mythic-beasts.com/
 mirror.neftm.ru/
@@ -315,6 +314,7 @@ mirrors.powernet.com.ru/
 mirrors.qlu.edu.cn/
 mirrors.tuna.tsinghua.edu.cn/
 mirrors.up.pt/
+mirrors.upr.edu/
 mirrors.ustc.edu.cn/
 mirrors.vcea.wsu.edu/
 mirrors.xtom.au/
