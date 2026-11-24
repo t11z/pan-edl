@@ -309,7 +309,6 @@ mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
 mirrors.qlu.edu.cn/
 mirrors.tuna.tsinghua.edu.cn/
-mirrors.up.pt/
 mirrors.upr.edu/
 mirrors.ustc.edu.cn/
 mirrors.vcea.wsu.edu/
