@@ -1,9 +1,9 @@
 23m.com/
-a1.mk/
 a2hosting.com/
 africloud.com/
 airnet.uz/
 al-mirror.a2hosting.com/
+alma.acidman.thelefty.org/
 alma.as3741.net/
 alma.grid.wayne.edu/
 alma.hostingdunyam.com.tr/
@@ -28,6 +28,7 @@ almalinux.mirror.digitalpacific.com.au/
 almalinux.mirror.garr.it/
 almalinux.mirror.globo.tech/
 almalinux.mirror.katapult.io/
+almalinux.mirror.letscloud.io/
 almalinux.mirror.liquidtelecom.com/
 almalinux.mirror.liteserver.nl/
 almalinux.mirror.lunovpn.com/
@@ -61,7 +62,6 @@ amscloud.co.id/
 aptus.co.tz/
 arc.kcl.ac.uk/
 ash.mirrors.clouvider.net/
-asnet.am/
 atl.mirrors.clouvider.net/
 atl.mirrors.ezscale.cloud/
 atl.mirrors.knownhost.com/
@@ -135,12 +135,11 @@ ftp.gwdg.de/
 ftp.halifax.rwth-aachen.de/
 ftp.iij.ad.jp/
 ftp.jaist.ac.jp/
-ftp.linux.cz/
 ftp.lip6.fr/
 ftp.lug.ro/
-ftp.lysator.liu.se/
 ftp.psnc.pl/
 ftp.riken.jp/
+ftp.sakura.ad.jp/
 ftp.sh.cvut.cz/
 ftp.swin.edu.au/
 ftp.tc.edu.tw/
@@ -164,7 +163,6 @@ hnd.cl/
 hnl.fastly.repo.almalinux.org/
 home.cern/
 host4.biz/
-hostarts.dz/
 hostbaran.com/
 hoster.kz/
 hosterion.ro/
@@ -209,6 +207,7 @@ linux.duke.edu/
 linuxpatch.com/
 linuxsoft.cern.ch/
 lon.mirror.rackspace.com/
+lug.hit.edu.cn/
 lyrahosting.com/
 mangohost.net/
 maniaclab.uchicago.edu/
@@ -219,8 +218,8 @@ mirror.01link.hk/
 mirror.0x626b.com/
 mirror.23m.com/
 mirror.2degrees.nz/
-mirror.a1.mk/
 mirror.aarnet.edu.au/
+mirror.accum.se/
 mirror.africloud.com/
 mirror.airnet.uz/
 mirror.alastyr.com/
@@ -240,6 +239,7 @@ mirror.as3741.net/
 mirror.ati.tn/
 mirror.az31.cloudpropeller.com/
 mirror.azvps.vn/
+mirror.bahnhof.net/
 mirror.bf-net.ch/
 mirror.bharatdatacenter.com/
 mirror.bitency.nl/
@@ -283,13 +283,11 @@ mirror.gozunga.com/
 mirror.grid.uchicago.edu/
 mirror.group.one/
 mirror.hashy0917.net/
-mirror.hep.gg/
 mirror.herza.id/
 mirror.hnd.cl/
 mirror.hoasted.com/
 mirror.host.ag/
 mirror.host4biz.eu/
-mirror.hostarts.dz/
 mirror.hostbaran.com/
 mirror.hoster.kz/
 mirror.hosthink.net/
@@ -308,11 +306,13 @@ mirror.ixirhost.com/
 mirror.jagoanhosting.id/
 mirror.jingk.ai/
 mirror.junda.nl/
+mirror.karneval.cz/
 mirror.kku.ac.th/
 mirror.krfoss.org/
 mirror.latigo.net/
 mirror.lchs.network/
 mirror.leitecastro.com/
+mirror.limda.net/
 mirror.linux.duke.edu/
 mirror.linux.ec/
 mirror.liteserver.nl/
@@ -328,6 +328,7 @@ mirror.mia11.us.leaseweb.net/
 mirror.moack.co.kr/
 mirror.mtl2.ca.leaseweb.net/
 mirror.net.za/
+mirror.netlen.com.tr/
 mirror.netsite.dk/
 mirror.netzwerge.de/
 mirror.nevacloud.com/
@@ -336,6 +337,7 @@ mirror.nl.altushost.com/
 mirror.nl.leaseweb.net/
 mirror.nodesdirect.com/
 mirror.nodespace.com/
+mirror.nyist.edu.cn/
 mirror.ourhost.az/
 mirror.ox.ac.uk/
 mirror.parsdev.com/
@@ -352,7 +354,6 @@ mirror.realcompute.io/
 mirror.renu.ac.ug/
 mirror.rnet.missouri.edu/
 mirror.rootlicense.com/
-mirror.sabay.com.kh/
 mirror.se.altushost.com/
 mirror.servaxnet.com/
 mirror.server.net/
@@ -401,11 +402,11 @@ mirror1.sox.rs/
 mirror3.krfoss.org/
 mirrors.aliyun.com/
 mirrors.almalinux.org/
-mirrors.asnet.am/
 mirrors.bangmod.cloud/
 mirrors.bkns.vn/
 mirrors.bmcc.edu/
 mirrors.bytes.ua/
+mirrors.c0urier.net/
 mirrors.cat.pdx.edu/
 mirrors.chroot.ro/
 mirrors.cloudforest.co.th/
@@ -417,6 +418,7 @@ mirrors.ft.uam.es/
 mirrors.gbnetwork.com/
 mirrors.gigenet.com/
 mirrors.gofiber.vn/
+mirrors.hit.edu.cn/
 mirrors.hosterion.ro/
 mirrors.hostever.com/
 mirrors.hostico.ro/
@@ -429,6 +431,7 @@ mirrors.mvps.net/
 mirrors.nav.ro/
 mirrors.neterra.net/
 mirrors.nhanhoa.com/
+mirrors.nju.edu.cn/
 mirrors.nxthost.com/
 mirrors.nz.zappie.host/
 mirrors.oblivion.online/
@@ -521,8 +524,8 @@ rsync.repo.almalinux.org/
 rsync.yuki.net.uk/
 ruk-com.cloud/
 rwth-aachen.de/
-sabay.com.kh/
 savoirfairelinux.com/
+sci.nju.edu.cn/
 seattle.crazyfast.us/
 serverforge.org/
 serversaustralia.com.au/
@@ -539,7 +542,6 @@ syd.mirror.rackspace.com/
 tc.edu.tw/
 team-cymru.com/
 team.blue/
-teamhydra.dev/
 tech.africa/
 telepoint.bg/
 teraswitch.com/
@@ -568,6 +570,7 @@ www.4psa.com/
 www.Linux.ec/
 www.VPSnet.com/
 www.aarnet.edu.au/
+www.accum.se/
 www.alastyr.com/
 www.aliyun.com/
 www.almalinux.org/
@@ -578,10 +581,12 @@ www.ans.co.uk/
 www.anywair.com/
 www.arnes.si/
 www.ati.tn/
+www.bahnhof.net/
 www.behostings.com/
 www.belnet.be/
 www.bkns.vn/
 www.bme.hu/
+www.c0urier.net/
 www.cedia.edu.ec/
 www.chpc.utah.edu/
 www.chroot.ro/
@@ -604,7 +609,6 @@ www.esecuredata.com/
 www.excellmedia.net/
 www.exoscale.com/
 www.fastly.com/
-www.fi.muni.cz/
 www.fiu.edu/
 www.fnal.gov/
 www.garr.it/
@@ -637,13 +641,14 @@ www.kent.ac.uk/
 www.kku.ac.th/
 www.knownhost.com/
 www.lchs.com.au/
+www.letscloud.io/
+www.limda.net/
 www.linkedin.com/
 www.lip6.fr/
 www.liquid.tech/
 www.liquidweb.com/
 www.liteserver.nl/
 www.lunovpn.com/
-www.lysator.liu.se/
 www.maeen.sa/
 www.maple-hosting.com/
 www.melbourne.co.uk/
@@ -651,6 +656,7 @@ www.moack.co.kr/
 www.mvps.net/
 www.nav.ro/
 www.netdirekt.com.tr/
+www.netlen.com.tr/
 www.netsite.dk/
 www.netzwerge.de/
 www.nforce.com/
@@ -658,6 +664,7 @@ www.nic.cz/
 www.nic.funet.fi/
 www.nodespace.com/
 www.nxthost.com/
+www.nyist.edu.cn/
 www.onenet.net/
 www.ovhcloud.com/
 www.ox.ac.uk/
@@ -672,6 +679,7 @@ www.rackspace.com/
 www.riken.jp/
 www.rrze.fau.de/
 www.rwts.com.au/
+www.sakura.ad.jp/
 www.schlundtech.de/
 www.scopesky.iq/
 www.servaxnet.com/
@@ -689,6 +697,7 @@ www.steadfast.net/
 www.swinburne.edu.au/
 www.telecomarmenia.am/
 www.tencent.com/
+www.thelefty.org/
 www.tier.net/
 www.transip.nl/
 www.trex.fi/
@@ -707,6 +716,7 @@ www.verinomi.com/
 www.veritescil.com.tr/
 www.vhosting-it.com/
 www.virtono.com/
+www.vodafone.cz/
 www.vtti.vt.edu/
 www.wd6.net/
 www.wearetriple.com/
