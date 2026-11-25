@@ -8,9 +8,9 @@ archive.ubuntu.mirror.ba/
 archive.ubuntu.mirror.rafal.ca/
 archive.ubuntu.nautile.nc/
 archive.ubuntumirror.dei.uc.pt/
-artfiles.org/
 atl.mirrors.clouvider.net/
 aze.archive.ubuntu.com/
+b.mirror.uk.isp.sky/
 cdn.repo.cloudeka.id/
 cdn.ubuntu.repo.cloudeka.id/
 cz.archive.ubuntu.com/
@@ -23,6 +23,7 @@ distrohub.kyiv.ua/
 downloads.exascale.co.uk/
 drmirror.physi.uni-heidelberg.de/
 dsync.krfoss.org/
+dtw-mirror.rackgenius.com/
 elmirror.cl/
 free.nchc.org.tw/
 ftp-stud.hs-esslingen.de/
@@ -63,7 +64,6 @@ ftp.mirror.tw/
 ftp.mirrorservice.org/
 ftp.muug.ca/
 ftp.nluug.nl/
-ftp.ntua.gr/
 ftp.otenet.gr/
 ftp.psnc.pl/
 ftp.riken.jp/
@@ -473,6 +473,7 @@ mirrors.upr.edu/
 mirrors.us.kernel.org/
 mirrors.usinternet.com/
 mirrors.ustc.edu.cn/
+mirrors.vanoppen.com/
 mirrors.vcea.wsu.edu/
 mirrors.webhs.pt/
 mirrors.xjtu.edu.cn/
