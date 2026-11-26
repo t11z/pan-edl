@@ -67,6 +67,7 @@ mirror.cpsc.ucalgary.ca/
 mirror.dc.uz/
 mirror.dst.ca/
 mirror.eu.ossplanet.net/
+mirror.freethought.uk/
 mirror.hnd.cl/
 mirror.hostarts.dz/
 mirror.hosthink.net/
@@ -184,6 +185,7 @@ rockylinux.anexia.at/
 rockylinux.hi.no/
 rockylinux.mirrors.ovh.net/
 rockylinux.mirrorservice.org/
+rockylinux.netforce.hosting/
 rockylinux.org/
 rockylinux.uni-sofia.bg/
 rsync.mirrorservice.org/
@@ -215,6 +217,7 @@ www.chpc.utah.edu/
 www.cogentco.com/
 www.directlink.coop/
 www.dst.ca/
+www.freethought.uk/
 www.gigenet.com/
 www.hi.no/
 www.hosthink.net/
@@ -229,6 +232,7 @@ www.kaist.ac.kr/
 www.lunovpn.com/
 www.melbourne.co.uk/
 www.mirrorservice.org/
+www.netforce.company/
 www.netsite.dk/
 www.netzwerge.de/
 www.nluug.nl/
