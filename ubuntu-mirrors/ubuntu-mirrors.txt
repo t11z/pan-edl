@@ -164,7 +164,6 @@ mirror.dal.nexril.net/
 mirror.daniel-jost.net/
 mirror.datacenter.az/
 mirror.datacenter.by/
-mirror.datacenter.mn/
 mirror.datamossa.io/
 mirror.de.leaseweb.net/
 mirror.dewabiz.com/
