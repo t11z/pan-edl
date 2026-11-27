@@ -23,7 +23,6 @@ downloads.exascale.co.uk/
 drmirror.physi.uni-heidelberg.de/
 dsync.krfoss.org/
 dtw-mirror.rackgenius.com/
-elmirror.cl/
 free.nchc.org.tw/
 ftp-stud.hs-esslingen.de/
 ftp.acc.umu.se/
@@ -84,6 +83,7 @@ ftp.ubuntu-tw.net/
 ftp.ubuntu-tw.org/
 ftp.udc.es/
 ftp.udx.icscoe.jp/
+ftp.uni-bayreuth.de/
 ftp.uni-kl.de/
 ftp.uni-mainz.de/
 ftp.uni-stuttgart.de/
@@ -98,7 +98,6 @@ giano.com.dist.unige.it/
 glua.ua.pt/
 gpl.savoirfairelinux.net/
 ir.archive.ubuntu.com/
-is.mirror.flokinet.net/
 it1.mirror.vhosting-it.com/
 it2.mirror.vhosting-it.com/
 kartolo.sby.datautama.net.id/
@@ -419,6 +418,7 @@ mirrors.dotsrc.org/
 mirrors.egr.msu.edu/
 mirrors.evoluso.com/
 mirrors.fibianet.dk/
+mirrors.gbnetwork.com/
 mirrors.gethosted.online/
 mirrors.gigenet.com/
 mirrors.gofiber.vn/
@@ -448,10 +448,8 @@ mirrors.nxtgen.com/
 mirrors.nxthost.com/
 mirrors.ocf.berkeley.edu/
 mirrors.opensource.is/
-mirrors.piconets.webwerks.in/
 mirrors.pidginhost.com/
 mirrors.powernet.com.ru/
-mirrors.ptisp.pt/
 mirrors.qlu.edu.cn/
 mirrors.rit.edu/
 mirrors.sarak.as/
@@ -515,6 +513,7 @@ rsync.mirrorservice.org/
 rsync.techlabs.co.kr/
 rsync.ubuntu.nautile.nc/
 rsync.udc.es/
+rsync.uni-bayreuth.de/
 rsync.yuki.net.uk/
 security.ubuntu.com/
 sg-mirrors.vhost.vn/
@@ -554,7 +553,6 @@ ubuntu.ipacct.com/
 ubuntu.joy.services/
 ubuntu.koyanet.lv/
 ubuntu.lafibre.info/
-ubuntu.lagis.at/
 ubuntu.lagoon.nc/
 ubuntu.letscloud.io/
 ubuntu.linux-bg.org/
