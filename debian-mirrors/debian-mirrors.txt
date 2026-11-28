@@ -159,7 +159,6 @@ ftp.uni-kl.de/
 ftp.uni-mainz.de/
 ftp.uni-sofia.bg/
 ftp.uni-stuttgart.de/
-ftp.univ-pau.fr/
 ftp.us.debian.org/
 ftp.yz.yamagata-u.ac.jp/
 ftp.zcu.cz/
